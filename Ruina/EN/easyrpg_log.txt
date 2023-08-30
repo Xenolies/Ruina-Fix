@@ -1,0 +1,32 @@
+[2023-08-30 16:39:48] Debug: EasyRPG Player 0.6.2.3 (2020-10-03) started
+[2023-08-30 16:39:48] Debug: ===========================================
+[2023-08-30 16:39:48] Debug: Clock: StdSteady steady=1 period=ns (1 / 1000000000)
+[2023-08-30 16:39:48] Debug: Seeded the RNG with 1693384788.
+[2023-08-30 16:39:48] Debug: CLI: 
+[2023-08-30 16:39:48] Debug: SDL2: RendererInfo hw=1 sw=0 vsync=1
+[2023-08-30 16:39:48] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-08-30 16:39:48] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-08-30 16:39:48] Debug: Opened audio at 44100 Hz (stereo), format: S16LSB
+[2023-08-30 16:39:48] Debug: Detected encoding: ibm-943_P15A-2003
+[2023-08-30 16:39:48] Debug: Using . as Game and Save directory
+[2023-08-30 16:39:48] Debug: Loading game Ruina　廃都の物語　ver1.21
+[2023-08-30 16:39:48] Debug: Using RPG2k Interpreter
+[2023-08-30 16:39:48] Debug: RM2k >= v.1.61 (English release) detected
+[2023-08-30 16:39:48] Debug: Engine configured as: 2k=1 2k3=0 MajorUpdated=1 Eng=1
+[2023-08-30 16:39:48] Debug: Adding D:\RPG20002003RTP\rtp2000\RTP to RTP path
+[2023-08-30 16:39:48] Debug: RTP is "Official Japanese" (465/465)
+[2023-08-30 16:39:48] Debug: Patch configuration: dynrpg=0 maniac=0
+[2023-08-30 16:39:48] Debug: Cannot find: ./ExFont
+[2023-08-30 16:39:48] Debug: Loading ExFont from .\RPG_RT.exe
+[2023-08-30 16:39:48] Debug: EXEReader: EXFONT resource found (DE acfd0; b03c4; len 2168)
+[2023-08-30 16:39:48] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 16:39:48] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 16:39:50] Debug: Starting new game
+[2023-08-30 16:39:50] Debug: Game uses RTP "Official Japanese"
+[2023-08-30 16:39:50] Debug: Loading Map Map0002.lmu
+[2023-08-30 16:39:50] Debug: Tree: 02Start Screen
+[2023-08-30 16:39:52] Debug: WildMidi Failed: WildMidi: Could not find configuration file.
+[2023-08-30 16:39:55] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 16:39:55] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 16:39:58] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 16:39:58] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
