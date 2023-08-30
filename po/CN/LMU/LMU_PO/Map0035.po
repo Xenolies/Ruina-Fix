@@ -1,0 +1,1862 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「这、这种味道是……？」"
+msgstr ""
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid "\\N[27]怪僧嗅起激辣料理的气味来。"
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「这是何等美味的香气啊……\n"
+"\\N[27]　但是，我已是舍弃欲望之身，\n"
+"\\N[27]　绝不可能败给区区食欲……」"
+msgstr ""
+
+#. ID 1, Page 1, Line 36, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「……但是，不行了。\n"
+"\\N[27]　我忍不住了！」"
+msgstr ""
+
+#. ID 1, Page 1, Line 43, Pos (0,0)
+msgid ""
+"\\N[27]他一把抢过盛着料理的器皿，\n"
+"\\N[27]就用手抓着拼命地吃了起来。"
+msgstr ""
+
+#. ID 1, Page 1, Line 46, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「噢噢……这是多香辣的味道啊。\n"
+"\\N[27]　连舌头都被这辣味刺激得颤抖不已，\n"
+"\\N[27]　食欲也不住地高涨起来」"
+msgstr ""
+
+#. ID 1, Page 1, Line 50, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「这个是，我故乡的味道……\n"
+"\\N[27]　让我想起了当年和兄弟一起\n"
+"\\N[27]　分享的浓汤，还有白腾腾的米饭……」"
+msgstr ""
+
+#. ID 1, Page 1, Line 57, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「啊啊……\n"
+"\\N[27]　故乡的味道，万岁！」"
+msgstr ""
+
+#. ID 1, Page 1, Line 61, Pos (0,0)
+msgid ""
+"\\N[27]他一边散发出幸福的光辉气场，\n"
+"\\N[27]一边在空中翻着筋斗继续吃着激辣料理……"
+msgstr ""
+
+#. ID 1, Page 1, Line 64, Pos (0,0)
+msgid ""
+"\\N[27]……怪僧因过于喜悦而失去了平常心，\n"
+"\\N[27]趁他病要他命吧。"
+msgstr ""
+
+#. ID 1, Page 1, Line 86, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「这，这啥鬼玩意啊？\n"
+"\\N[27]　怎么看都是毒吧……」"
+msgstr ""
+
+#. ID 1, Page 1, Line 91, Pos (0,0)
+msgid "\\N[27]你按住怪僧，把料理一股脑地灌进他的喉咙！"
+msgstr ""
+
+#. ID 1, Page 1, Line 93, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「唔嘎ー！？」"
+msgstr ""
+
+#. ID 1, Page 1, Line 96, Pos (0,0)
+msgid ""
+"\\N[27]……怪僧衰弱了。\n"
+"\\N[27]趁他病要他命吧。"
+msgstr ""
+
+#. ID 1, Page 1, Line 114, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「咦嘻嘻嘻，给我看那种玩意也没用。\n"
+"\\N[27]　因为我只靠吃云霞和泥浆过活啊」"
+msgstr ""
+
+#. ID 1, Page 1, Line 117, Pos (0,0)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「退一步来讲，就算给我看味道那么淡\n"
+"\\N[27]　的东西，也不可能勾得起我的食欲啊。\n"
+"\\N[27]  我故乡的料理就另当别论了」"
+msgstr ""
+
+#. ID 4, Page 1, Line 5, Pos (13,18)
+msgid ""
+"\\N[27]这是座挖穿岩壁而造的半圆顶空间。\n"
+"\\N[27]空间内部中放置着一尊巨大的坐像。\n"
+"\\N[27]坐像表面没有半条接缝，看起来既像是\n"
+"\\N[27]用整块岩石雕刻而成，又像是石化的巨人。"
+msgstr ""
+
+#. ID 4, Page 1, Line 9, Pos (13,18)
+msgid ""
+"\\N[27]此外，巨人像的头部被一条灰布遮盖着，\n"
+"\\N[27]它的样貌也被完全掩盖。"
+msgstr ""
+
+#. ID 4, Page 1, Line 13, Pos (13,18)
+#. Choice (3 options)
+msgid ""
+"与巨人像交谈\n"
+"窥视巨人像的样貌\n"
+"到别的地方去"
+msgstr ""
+
+#. ID 4, Page 1, Line 15, Pos (13,18)
+msgid ""
+"\\N[27]你触摸着巨像向它搭话。\n"
+"\n"
+"\\N[27]……但是，巨像毫无反应。"
+msgstr ""
+
+#. ID 4, Page 1, Line 24, Pos (13,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]你似乎感觉到，在覆盖巨像头部的灰布下面，\n"
+"\\N[27]弥漫着诡异的气氛。"
+msgstr ""
+
+#. ID 4, Page 1, Line 26, Pos (13,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"即便如此也要窥视\n"
+"果然还是算了"
+msgstr ""
+
+#. ID 4, Page 1, Line 35, Pos (13,18)
+msgid "\\N[27]要让谁来窥视？"
+msgstr ""
+
+#. ID 4, Page 1, Line 39, Pos (13,18)
+msgid ""
+"\\N[27]你放弃了。\n"
+""
+msgstr ""
+
+#. ID 4, Page 1, Line 44, Pos (13,18)
+msgid ""
+"\\N[27]踩上巨人像的膝盖，抓着它的\n"
+"\\N[27]手腕和衣褶，爬到了巨人的肩膀上。"
+msgstr ""
+
+#. ID 4, Page 1, Line 47, Pos (13,18)
+msgid ""
+"\\N[27]仔细一看，遮在巨人头上的布并不是灰色，\n"
+"\\N[27]而是遍布着精细到难以从远处辨认的条纹。\n"
+"\\N[27]接下来只要用手掀起一角，就能把布揭开……"
+msgstr ""
+
+#. ID 4, Page 1, Line 56, Pos (13,18)
+msgid "\\N[27]――巨人脸孔的中心，似乎是片深不见底的黑暗。"
+msgstr ""
+
+#. ID 4, Page 1, Line 57, Pos (13,18)
+msgid ""
+"\\N[27]那是各式各样的事物都为之绝迹的黑暗，\n"
+"\\N[27]亦是四面八方的空间都无限扩张的虚空，\n"
+"\\N[27]群星诞生于朱红的血色，\n"
+"\\N[27]又在旋涡的席卷中灭绝。"
+msgstr ""
+
+#. ID 4, Page 1, Line 61, Pos (13,18)
+msgid ""
+"\\N[27]一瞬间世界出生入死。\n"
+"\\N[27]刹那间宇宙成为过往。\n"
+"\\N[27]只有眼前的朱红火花，\n"
+"\\N[27]还确确实实存在着――"
+msgstr ""
+
+#. ID 4, Page 1, Line 71, Pos (13,18)
+msgid ""
+"\\N[27]――回过神时，\\N[\\V[81]]已经躺倒\n"
+"\\N[27]在巨人像的膝盖上了。"
+msgstr ""
+
+#. ID 4, Page 1, Line 75, Pos (13,18)
+msgid ""
+"\\N[27]――回过神的时候，\\N[\\V[81]]已经横卧在地板上了。\n"
+"\\N[27]同伴们纷纷陪伴在旁，显得十分担心。"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (13,18)
+msgid ""
+"\\N[27]\\N[\\V[81]]被疲劳和悲伤逼迫得身心憔悴。\n"
+"\\N[27]简直就像在一瞬之间变成了迟暮的老人。\n"
+"\\N[27]那刚才看到的，究竟是什么景象……？"
+msgstr ""
+
+#. ID 4, Page 1, Line 90, Pos (13,18)
+msgid ""
+"\\N[27]半圆空间的北侧有个通道的入口，\n"
+"\\N[27]看来石窟的内部还别有洞天。"
+msgstr ""
+
+#. ID 4, Page 2, Line 10, Pos (13,18)
+msgid ""
+"\\N[27]这是座挖穿岩壁而造的半圆顶空间。\n"
+"\\N[27]空间内部中放置着一台巨大的座像。\n"
+"\\N[27]座像表面没有半条接缝，看起来既像是\n"
+"\\N[27]用整块岩石雕刻而成，又像是石化的巨人。"
+msgstr ""
+
+#. ID 4, Page 2, Line 14, Pos (13,18)
+msgid ""
+"\\N[27]此外，巨人像的头部被一条灰布遮盖着，\n"
+"\\N[27]它的样貌也因此被完全掩盖。\n"
+"\n"
+"\\N[27]……还是不要窥视布条下面比较好。"
+msgstr ""
+
+#. ID 4, Page 2, Line 18, Pos (13,18)
+msgid ""
+"\\N[27]半圆空间的北侧有个通道入口，\n"
+"\\N[27]看来石窟的内部还别有洞天。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (8,15)
+#. Choice (2 options)
+msgid ""
+"与僧人们交谈\n"
+"离开"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「那些巨神，是在往昔从其他世界\n"
+"\\N[27]　漂流而来的，他们曾为人类带来\n"
+"\\N[27]　了数不清的智慧」"
+msgstr ""
+
+#. ID 5, Page 1, Line 14, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「它们是异乡之神。\n"
+"\\N[27]　它们的经历的岁月比脚下的大地更久远」"
+msgstr ""
+
+#. ID 5, Page 1, Line 20, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「以达塔为首的一派\n"
+"\\N[27]　不愿接受这场终焉，\n"
+"\\N[27]　拒绝一切外来之人」"
+msgstr ""
+
+#. ID 5, Page 1, Line 24, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「你若是要继续前行，\n"
+"\\N[27]　必定会与他们相遇」"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「若想与不见身形的敌人交战，\n"
+"\\N[27]　只需打开心眼即可」"
+msgstr ""
+
+#. ID 5, Page 1, Line 33, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「……若是办不到，就只能\n"
+"\\N[27]　用手边的东西想想办法了。\n"
+"\\N[27]　把\\C[6]粉状的物体\\C[0]洒在敌人身上即可」"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (8,15)
+#. ID 5, Page 2, Line 20, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「我等是崇拜旧日巨神之人。\n"
+"\\N[27]　自从领会了神所传达的永恒真意，\n"
+"\\N[27]　便盘坐于这片仙境之中，静待时光流转」"
+msgstr ""
+
+#. ID 5, Page 1, Line 44, Pos (8,15)
+#. ID 5, Page 2, Line 24, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「不过，即使是比世界本身更为久远的巨神，\n"
+"\\N[27]　终究也只能迎来终结，归于虚无之海……」"
+msgstr ""
+
+#. ID 5, Page 1, Line 50, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「过去巨神一族曾与雷光之神交战，\n"
+"\\N[27]　巨神因为脚后跟被切伤，\n"
+"\\N[27]　导致\\C[6]出血\\C[0]不已，最终惜败」"
+msgstr ""
+
+#. ID 5, Page 2, Line 10, Pos (8,15)
+#. ID 5, Page 3, Line 10, Pos (8,15)
+msgid ""
+"\\N[27]石窟内的构造让人不禁联想起神殿。\n"
+"\\N[27]四面的墙壁上凿刻着壁龕，\n"
+"\\N[27]当中各有一物，静坐于凹陷之处。"
+msgstr ""
+
+#. ID 5, Page 2, Line 13, Pos (8,15)
+#. ID 5, Page 3, Line 13, Pos (8,15)
+msgid ""
+"\\N[27]――仔细一看，原来坐在当中的竟是人类。\n"
+"\\N[27]消瘦、衰退，只以破布缠身的秃头老僧们\n"
+"\\N[27]正在壁龕中静坐着。"
+msgstr ""
+
+#. ID 5, Page 2, Line 16, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧众\n"
+"\\N[27]「引导终焉之人啊，你总算来了」"
+msgstr ""
+
+#. ID 5, Page 2, Line 18, Pos (8,15)
+msgid ""
+"\\N[27]老人们保持着双眼紧闭的样子，\n"
+"\\N[27]用朗读经文似的语调宣告道。"
+msgstr ""
+
+#. ID 5, Page 2, Line 27, Pos (8,15)
+msgid "\\N[27]他们如此说完，就重归于冥想之中。"
+msgstr ""
+
+#. ID 6, Page 1, Line 7, Pos (4,13)
+msgid ""
+"\\N[27]石窟深处有座祭坛模样的房间。\n"
+"\\N[27]但坛上却空无一物，\n"
+"\\N[27]只有微光在上面晃动。"
+msgstr ""
+
+#. ID 6, Page 2, Line 3, Pos (4,13)
+#. Contains choice at line 2 (2 options)
+msgid "\\>祭坛上有光芒晃动着。"
+msgstr ""
+
+#. ID 6, Page 2, Line 4, Pos (4,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>走进光中\n"
+"\\>返回"
+msgstr ""
+
+#. ID 7, Page 1, Line 7, Pos (5,17)
+msgid ""
+"\\N[27]砂岩打造的走廊在眼前延伸着，\n"
+"\\N[27]墙壁的凹孔中挂着未经点燃的油灯。\n"
+"\n"
+"\\N[27]在走廊北侧能看到向上的台阶。"
+msgstr ""
+
+#. ID 9, Page 1, Line 7, Pos (12,13)
+msgid ""
+"\\N[27]这个房间四角的墙壁上也刻着壁龕，\n"
+"\\N[27]各个壁龕当中，也有盘腿打坐的僧人。\n"
+""
+msgstr ""
+
+#. ID 9, Page 1, Line 10, Pos (12,13)
+msgid ""
+"\\N[27]但是，他们早在遥远的过去就已死去。\n"
+"\\N[27]只剩皮包骨的遗体，却仍以与生前\n"
+"\\N[27]毫无二致的姿势继续静坐着。"
+msgstr ""
+
+#. ID 9, Page 1, Line 13, Pos (12,13)
+msgid ""
+"\\N[27]――你仔细观察后，发现仅有一个，\n"
+"\\N[27]没有僧人的遗体在其中盘坐的壁龕。\n"
+"\\N[27]那壁龕却分外整洁，当中只有一点点灰尘，\n"
+"\\N[27]简直就像是在等待新的主人坐上去一样。"
+msgstr ""
+
+#. ID 9, Page 1, Line 19, Pos (12,13)
+#. Choice (2 options)
+msgid ""
+"坐上无人的壁龕\n"
+"离开"
+msgstr ""
+
+#. ID 9, Page 1, Line 21, Pos (12,13)
+msgid ""
+"\\N[27]要让谁去坐？\n"
+""
+msgstr ""
+
+#. ID 9, Page 1, Line 26, Pos (12,13)
+msgid "\\N[27]你决定不坐了。"
+msgstr ""
+
+#. ID 9, Page 1, Line 30, Pos (12,13)
+msgid ""
+"\\N[27]\\N[\\V[81]]钻进壁龕，\n"
+"\\N[27]试着坐成僧人们的姿势。"
+msgstr ""
+
+#. ID 9, Page 1, Line 34, Pos (12,13)
+msgid ""
+"\\N[27]――感觉身体有稍稍下沉。\n"
+"\\N[27]接着，\\N[\\V[81]]背后的墙壁应声而开，\n"
+"\\N[27]露出了通向地下的纵穴。"
+msgstr ""
+
+#. ID 9, Page 1, Line 37, Pos (12,13)
+#. ID 9, Page 2, Line 6, Pos (12,13)
+msgid ""
+"\\N[27]纵穴内部并没有楼梯，\n"
+"\\N[27]直接下去是很困难的。\n"
+"\\N[27]但如果使用某种\\C[6]道具\\C[0]\n"
+"\\N[27]应该就能安全降下了。"
+msgstr ""
+
+#. ID 9, Page 2, Line 2, Pos (12,13)
+msgid ""
+"\\N[27]在墙壁四周的壁龕当中，\n"
+"\\N[27]僧人们的遗体在盘坐着。\n"
+"\\N[27]唯一无人入座的壁龕内有条\n"
+"\\N[27]隐藏通道，连接着地下的纵穴。"
+msgstr ""
+
+#. ID 9, Page 3, Line 3, Pos (12,13)
+msgid ""
+"\\N[27]你将绳索的一端固定，把另一端垂了下去。\n"
+"\\N[27]现在用这条绳索就可以降到地下去了。"
+msgstr ""
+
+#. ID 11, Page 1, Line 2, Pos (9,26)
+#. ID 11, Page 2, Line 7, Pos (9,26)
+msgid ""
+"\\N[27]在石窟寺院的地下，有一座拱顶的大厅。\n"
+"\\N[27]描绘在大厅四周的壁画耐不住岁月的摧残，\n"
+"\\N[27]已经悄然脱落，却依旧残留着鲜明的色彩。"
+msgstr ""
+
+#. ID 11, Page 1, Line 5, Pos (9,26)
+msgid ""
+"\\N[27]你为了仔细观察壁画，\n"
+"\\N[27]准备踏入大厅的时候――"
+msgstr ""
+
+#. ID 11, Page 1, Line 9, Pos (9,26)
+msgid ""
+"\\N[27]――明明连敌人的影子都没有，地板上却出现\n"
+"\\N[27]了几片湿润的足迹，渐渐在向你这边接近了。\n"
+"\\N[27]有个看不见的敌人！"
+msgstr ""
+
+#. ID 11, Page 1, Line 13, Pos (9,26)
+#. Choice (2 options)
+msgid ""
+"战斗\n"
+"逃跑"
+msgstr ""
+
+#. ID 11, Page 1, Line 25, Pos (9,26)
+msgid ""
+"\\N[27]你突然遭到了什么人的攻击！\n"
+"\n"
+"\\N[27]但你转过身去，却没看到袭击者的身影。\n"
+"\\N[27]有个看不见的敌人！"
+msgstr ""
+
+#. ID 11, Page 1, Line 44, Pos (9,26)
+msgid "\\N[27]获得了古代壁画！"
+msgstr ""
+
+#. ID 11, Page 1, Line 46, Pos (9,26)
+msgid ""
+"\\N[27]受到致命一击后，敌人终于显出了真身。\n"
+"\\N[27]那是以魔术创造的丑陋肉体，它逐渐化\n"
+"\\N[27]成粘稠的溶液，溶解在岩盘之上……"
+msgstr ""
+
+#. ID 11, Page 1, Line 49, Pos (9,26)
+msgid ""
+"\\N[27]大厅北侧的墙壁上，画着一幅格外巨大的壁画。\n"
+"\n"
+"\\N[27]再往深的地方还有一座祭坛。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (6,25)
+msgid ""
+"\\N[27]在大厅北部的墙壁上，有一幅巨大的壁画。\n"
+"\\N[27]当中以独特的风格刻画了多数人物的生活。\n"
+"\\N[27]看样子，似乎是以古代人民的历史为题材。"
+msgstr ""
+
+#. ID 12, Page 1, Line 10, Pos (6,25)
+msgid ""
+"\\N[27]墙壁上方的部分描绘着众多的人群，\n"
+"\\N[27]正从黑色的门中走到草原上的情景。\n"
+"\\N[27]他们雕磨着岩石建起城寨，\n"
+"\\N[27]靠捕捉怪鱼和狩猎龙族维系生活。"
+msgstr ""
+
+#. ID 12, Page 1, Line 14, Pos (6,25)
+msgid ""
+"\\N[27]在墙壁中段，人们正与背生\n"
+"\\N[27]闪光双翼的小人交战着。\n"
+"\\N[27]战斗陷入了白热化，数不清\n"
+"\\N[27]的牺牲者陈尸在战场之上。"
+msgstr ""
+
+#. ID 12, Page 1, Line 18, Pos (6,25)
+msgid ""
+"\\N[27]墙壁的最下端画着人们入眠就寝的样子。\n"
+"\\N[27]他们在灰色的屋檐下面互相偎倚着坐下身子，\n"
+"\\N[27]或是横躺着闭起眼睑，然后就此一动不动了…"
+msgstr ""
+
+#. ID 12, Page 1, Line 21, Pos (6,25)
+msgid ""
+"\\N[27]……就像在俯视着这些人生百态一样，在壁画的最\n"
+"\\N[27]上端以碧空和太阳为背景，描绘着一张巨大的脸孔。\n"
+"\n"
+"\\N[27]从那张脸上伸展而出，被极端变形过的――"
+msgstr ""
+
+#. ID 12, Page 1, Line 26, Pos (6,25)
+msgid "\\N[27]――右手和――"
+msgstr ""
+
+#. ID 12, Page 1, Line 28, Pos (6,25)
+msgid ""
+"\\N[27]――左手把――\n"
+""
+msgstr ""
+
+#. ID 12, Page 1, Line 31, Pos (6,25)
+msgid "\\N[27]整个古代民族的历史绘图环抱在怀中。"
+msgstr ""
+
+#. ID 13, Page 1, Line 7, Pos (5,28)
+msgid ""
+"\\N[27]在大厅深处有片墙壁向内凹陷着，周围的\n"
+"\\N[27]地板也高出地面一截，原来这里有座祭坛。\n"
+"\\N[27]但祭坛上却没有神像，只放着一只金属制\n"
+"\\N[27]的大箱子。"
+msgstr ""
+
+#. ID 13, Page 1, Line 21, Pos (5,28)
+msgid ""
+"\\N[27]获得了北国披风！\n"
+"\\N[27]获得了『柯·罗·摩』！\n"
+""
+msgstr ""
+
+#. ID 13, Page 2, Line 7, Pos (5,28)
+msgid ""
+"\\N[27]在大厅深处有片墙壁向内凹陷着，周围的\n"
+"\\N[27]地板也高出地面一截，原来这里有座祭坛。\n"
+"\\N[27]但祭坛上却没有神像，只放着一只空荡荡\n"
+"\\N[27]的大箱子。"
+msgstr ""
+
+#. ID 15, Page 1, Line 5, Pos (6,7)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]房间里有人在伺机而动。"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"走进房间\n"
+"返回"
+msgstr ""
+
+#. ID 15, Page 1, Line 16, Pos (6,7)
+msgid ""
+"\\N[27]苦行僧\n"
+"\\N[27]「清扰圣山的无耻之徒，滚出去！」"
+msgstr ""
+
+#. ID 15, Page 1, Line 18, Pos (6,7)
+msgid ""
+"\\N[27]你刚刚踏入砂岩构造的石室，\n"
+"\\N[27]数名苦行僧就一齐袭了过来！\n"
+""
+msgstr ""
+
+#. ID 15, Page 1, Line 29, Pos (6,7)
+msgid ""
+"\\N[27]僧人们被击退了，\n"
+"\\N[27]幸存者向南门逃去。"
+msgstr ""
+
+#. ID 15, Page 1, Line 31, Pos (6,7)
+#. ID 15, Page 2, Line 7, Pos (6,7)
+msgid ""
+"\\N[27]这房间四面的墙壁上各有一个出入口。\n"
+"\\N[27]南侧的出入口中还有微微的光线射入。"
+msgstr ""
+
+#. ID 16, Page 2, Line 4, Pos (8,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]你已经获得了这个房间的财宝。"
+msgstr ""
+
+#. ID 16, Page 2, Line 5, Pos (8,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"再调查一次\n"
+"离开"
+msgstr ""
+
+#. ID 17, Page 1, Line 9, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"想成为世界最强\n"
+"想学会超级魔法\n"
+"想要超威的武器\n"
+"想选别的"
+msgstr ""
+
+#. ID 17, Page 1, Line 11, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]就决定是「想成为世界最强」了吗？"
+msgstr ""
+
+#. ID 17, Page 1, Line 12, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 90, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 118, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 156, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 191, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 269, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 298, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 123, Pos (4,6)
+#. Choice (2 options)
+#. ID 17, Page 2, Line 137, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"是\n"
+"否"
+msgstr ""
+
+#. ID 17, Page 1, Line 20, Pos (4,6)
+#. ID 17, Page 1, Line 164, Pos (4,6)
+#. ID 17, Page 1, Line 199, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「如您所愿。那么……」"
+msgstr ""
+
+#. ID 17, Page 1, Line 24, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「嘛哩嘛哩哄！\n"
+"\\N[27]　主人啊，成为最ー强吧！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 33, Pos (4,6)
+msgid ""
+"\\N[27]……回过神来时，\\N[\\V[2]]正孤身一人\n"
+"\\N[27]在漆黑一片的空间中漂浮着。"
+msgstr ""
+
+#. ID 17, Page 1, Line 36, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「您意下如何。\n"
+"\\N[27]　只要这世上没有别人，\n"
+"\\N[27]　吾主就是最强的人了」"
+msgstr ""
+
+#. ID 17, Page 1, Line 48, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「您这是怎么了。已经腻了吗？」"
+msgstr ""
+
+#. ID 17, Page 1, Line 51, Pos (4,6)
+#. Choice (3 options)
+msgid ""
+"回原来的世界\n"
+"痛扁魔神\n"
+"还没腻呢"
+msgstr ""
+
+#. ID 17, Page 1, Line 54, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「您果然心怀不满啊。\n"
+"\\N[27]　那这次的愿望就先不算吧」"
+msgstr ""
+
+#. ID 17, Page 1, Line 68, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「疼……这很疼耶吾主！\n"
+"\\N[27]　请不要使用暴力！\n"
+"\\N[27]　我马上把世界变回去，马上。」"
+msgstr ""
+
+#. ID 17, Page 1, Line 89, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]就决定是「想学会超级魔法」了吗？"
+msgstr ""
+
+#. ID 17, Page 1, Line 98, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「我有个秘藏的攻击魔法哦」"
+msgstr ""
+
+#. ID 17, Page 1, Line 100, Pos (4,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「但是，这魔法是从屁眼放出来的」"
+msgstr ""
+
+#. ID 17, Page 1, Line 103, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"那也无妨\n"
+"算了"
+msgstr ""
+
+#. ID 17, Page 1, Line 107, Pos (4,6)
+msgid "\\N[27]获得了「FIRE之书」！"
+msgstr ""
+
+#. ID 17, Page 1, Line 117, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]就决定是「想要超威的武器」了吗？"
+msgstr ""
+
+#. ID 17, Page 1, Line 126, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「如您所愿。那么……」\n"
+""
+msgstr ""
+
+#. ID 17, Page 1, Line 131, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「唔喔ー噢！\n"
+"\\N[27]　出来吧超威兵器！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 136, Pos (4,6)
+msgid "\\N[27]获得了金枪鱼！"
+msgstr ""
+
+#. ID 17, Page 1, Line 139, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「要是不装备上，很快就会腐烂掉的。\n"
+"\\N[27]　请注意小心轻放」"
+msgstr ""
+
+#. ID 17, Page 1, Line 153, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"想要财宝\n"
+"想强化绳索\n"
+"想让大家变幸福\n"
+"想选别的"
+msgstr ""
+
+#. ID 17, Page 1, Line 155, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]就决定是「想要财宝」了吗？"
+msgstr ""
+
+#. ID 17, Page 1, Line 168, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「拉斯·泰尔·马·斯吉尔·马吉斯泰尔！\n"
+"\\N[27]　出来吧财宝！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 172, Pos (4,6)
+msgid "\\N[27]黄金魔神像从天而降了！"
+msgstr ""
+
+#. ID 17, Page 1, Line 174, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「噢噢噢……好美。\n"
+"\\N[27]　这眩目的肉·体·美，正是艺术。\n"
+"\\N[27]　正是名副其实的财宝」"
+msgstr ""
+
+#. ID 17, Page 1, Line 180, Pos (4,6)
+msgid ""
+"\\N[27]获得了黄金魔神像！\n"
+""
+msgstr ""
+
+#. ID 17, Page 1, Line 190, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]就决定是「想强化绳索」了吗？"
+msgstr ""
+
+#. ID 17, Page 1, Line 203, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「大家，请把魔力分给吾辈！\n"
+"\\N[27]　变强吧，绳索！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 208, Pos (4,6)
+msgid "\\N[27]获得了绳神的护符！"
+msgstr ""
+
+#. ID 17, Page 1, Line 212, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「只要带着这个护符。\n"
+"\\N[27]　绳索就不会再断掉了」"
+msgstr ""
+
+#. ID 17, Page 1, Line 215, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「绳神又是谁？\n"
+"\\N[27]　之类的问题请不要问我」"
+msgstr ""
+
+#. ID 17, Page 1, Line 223, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「幸福…………」"
+msgstr ""
+
+#. ID 17, Page 1, Line 225, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「……幸福是什么呢？\n"
+"\\N[27]　世上真的有这种东西吗？」"
+msgstr ""
+
+#. ID 17, Page 1, Line 229, Pos (4,6)
+msgid "\\N[27]魔神消沉了起来……"
+msgstr ""
+
+#. ID 17, Page 1, Line 240, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"想得到全回复\n"
+"想再许100个愿望\n"
+"想选别的\n"
+"离开"
+msgstr ""
+
+#. ID 17, Page 1, Line 242, Pos (4,6)
+msgid ""
+"\\N[27]就决定是「想得到全回复」了吗？\n"
+""
+msgstr ""
+
+#. ID 17, Page 1, Line 244, Pos (4,6)
+#. Choice (3 options)
+msgid ""
+"是\n"
+"否\n"
+"确认剩余HP和MP"
+msgstr ""
+
+#. ID 17, Page 1, Line 256, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「如您所愿！\n"
+"\\N[27]　爱的力量啊，传达过去吧ー！！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 262, Pos (4,6)
+msgid ""
+"\\N[27]全员的HP和MP完全回复了！\n"
+""
+msgstr ""
+
+#. ID 17, Page 1, Line 268, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]就决定是「想再许100个愿望」了吗？"
+msgstr ""
+
+#. ID 17, Page 1, Line 277, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「了解了，我很乐意！！\n"
+"\\N[27]　就为您实现100个愿望吧」"
+msgstr ""
+
+#. ID 17, Page 1, Line 297, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]要离开这里吗？"
+msgstr ""
+
+#. ID 17, Page 1, Line 301, Pos (4,6)
+#. ID 17, Page 2, Line 140, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「您还有没许的愿望，\n"
+"\\N[27]　欢迎您再度大驾光临」"
+msgstr ""
+
+#. ID 17, Page 1, Line 326, Pos (4,6)
+#. ID 17, Page 2, Line 165, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「这样一来您的三个愿望就全部实现了。\n"
+"\n"
+"\\N[27]　再会吧，吾主！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 331, Pos (4,6)
+msgid "\\N[27]魔神化为青烟，回到了油灯中。"
+msgstr ""
+
+#. ID 17, Page 1, Line 333, Pos (4,6)
+#. ID 17, Page 2, Line 173, Pos (4,6)
+msgid ""
+"\\N[27]然后油灯就闪着光芒漂浮起来，\n"
+"\\N[27]一溜烟地从窗口飞了出去……"
+msgstr ""
+
+#. ID 17, Page 1, Line 344, Pos (4,6)
+#. ID 17, Page 2, Line 185, Pos (4,6)
+#. ID 17, Page 4, Line 17, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「您还剩\\V[279]个愿望可以许哦」"
+msgstr ""
+
+#. ID 17, Page 2, Line 3, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"想听魔神的话\n"
+"想看魔神的姿♂势\n"
+"想听魔神的情话\n"
+"算了吧"
+msgstr ""
+
+#. ID 17, Page 2, Line 11, Pos (4,6)
+msgid ""
+"\\N[27]「『喂你，这里禁止钓鱼。』\n"
+"\\N[27]　『巡警先生你误会了，这不是钓鱼，\n"
+"\\N[27]　　是我的蚯蚓差点被鱼偷走了』\n"
+"\\N[27]　『是么，那我就把鱼逮捕了吧』」"
+msgstr ""
+
+#. ID 17, Page 2, Line 18, Pos (4,6)
+msgid ""
+"\\N[27]「有一天波比提早回到家中，\n"
+"\\N[27]　却发现在琳达的床边，\n"
+"\\N[27]　放着一双陌生的男鞋」"
+msgstr ""
+
+#. ID 17, Page 2, Line 21, Pos (4,6)
+msgid ""
+"\\N[27]「波比惊叫到。\n"
+"\\N[27]　『怎么会这样！\n"
+"\\N[27]　　我老婆居然是男人！』」"
+msgstr ""
+
+#. ID 17, Page 2, Line 27, Pos (4,6)
+msgid ""
+"\\N[27]「『爸爸，婴儿是从哪来的呢？』\n"
+"\\N[27]　『是被白鹳送来的哦』\n"
+"\\N[27]　『那，白鹳又是怎么把婴儿\n"
+"\\N[27]　　塞进妈妈身体里去的呢？』」"
+msgstr ""
+
+#. ID 17, Page 2, Line 34, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「这次就干一杯，茶实在太可怕了」"
+msgstr ""
+
+#. ID 17, Page 2, Line 36, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「咿噫噫噫噫噫噫噫噫噫！！\n"
+"\\N[27]　超可怕！！\n"
+"\\N[27]　不要拿茶靠近我！！」"
+msgstr ""
+
+#. ID 17, Page 2, Line 61, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「用正面双肱二头肌这动作\n"
+"\\N[27]　把前臂的肌肉充分炫耀之后，\n"
+"\\N[27]　再自然过渡到侧面胸肌的展示！」"
+msgstr ""
+
+#. ID 17, Page 2, Line 68, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「再看看这汹涌的优美斜方肌……\n"
+"\\N[27]　背侧展示双肱二头肌！\n"
+"\\N[27]　很健壮吧！　棱角分明吧！」"
+msgstr ""
+
+#. ID 17, Page 2, Line 89, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「你最大愿望已经被实现了哦。\n"
+"\\N[27]　我的心♂意已经是你的东西了……」"
+msgstr ""
+
+#. ID 17, Page 2, Line 95, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「我便是那拼图的残片。\n"
+"\\N[27]　那以你为名的拼图所缺失的一角……」"
+msgstr ""
+
+#. ID 17, Page 2, Line 101, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「我是漆黑的堕天使，翩翩飞舞着从天而降。\n"
+"\\N[27]　我的罪名是堕落了你的心」"
+msgstr ""
+
+#. ID 17, Page 2, Line 118, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「要把剩余未许的愿望\n"
+"\\N[27]　全部放弃吗？」"
+msgstr ""
+
+#. ID 17, Page 2, Line 136, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]要从这里离开吗？"
+msgstr ""
+
+#. ID 17, Page 2, Line 170, Pos (4,6)
+msgid ""
+"\\N[27]魔神化为青烟，回到了油灯中。\n"
+""
+msgstr ""
+
+#. ID 17, Page 3, Line 2, Pos (4,6)
+#. ID 17, Page 4, Line 2, Pos (4,6)
+msgid ""
+"\\N[27]小房间的中央有座高台，\n"
+"\\N[27]台上放着一个奇怪的容器。"
+msgstr ""
+
+#. ID 17, Page 3, Line 4, Pos (4,6)
+msgid ""
+"\\N[27]那是个装有盖子与把手的黄铜器皿，\n"
+"\\N[27]灯芯从它壶嘴一样的部位伸了出来。\n"
+"\\N[27]姑且就把它叫做油灯吧。\n"
+"\\N[27]油灯表面还书写着古代的表音文字。"
+msgstr ""
+
+#. ID 17, Page 3, Line 10, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"带走油灯\n"
+"阅读油灯表面的文字\n"
+"摩擦油灯\n"
+"咏唱咒语"
+msgstr ""
+
+#. ID 17, Page 3, Line 12, Pos (4,6)
+msgid ""
+"\\N[27]你提起油灯，想要把它装进袋中。\n"
+""
+msgstr ""
+
+#. ID 17, Page 3, Line 14, Pos (4,6)
+msgid ""
+"\\N[27]但是，油灯却无法脱离台座！\n"
+"\\N[27]仔细一看，原来油灯被胶漆\n"
+"\\N[27]一类的东西牢牢粘在台座上，\n"
+"\\N[27]想取下来带走是不可能的了。"
+msgstr ""
+
+#. ID 17, Page 3, Line 23, Pos (4,6)
+msgid ""
+"\\N[27]书写在油灯表面的文字似乎是读作\n"
+"\\N[27]「　\\C[6]斯  杰  巴  苏  夫\\C[0]　」"
+msgstr ""
+
+#. ID 17, Page 3, Line 27, Pos (4,6)
+msgid "\\N[27]没能读懂文字。"
+msgstr ""
+
+#. ID 17, Page 3, Line 33, Pos (4,6)
+msgid "\\N[27]你摩擦了油灯的表面。"
+msgstr ""
+
+#. ID 17, Page 3, Line 34, Pos (4,6)
+msgid "\\N[27]……但是，什么都没有发生。"
+msgstr ""
+
+#. ID 17, Page 3, Line 38, Pos (4,6)
+msgid "\\N[27]※请输入要咏唱的咒语。"
+msgstr ""
+
+#. ID 17, Page 3, Line 41, Pos (4,6)
+#. Condition (Actor Name = 斯杰巴苏夫)
+msgctxt "actors.name"
+msgid "斯杰巴苏夫"
+msgstr ""
+
+#. ID 17, Page 3, Line 42, Pos (4,6)
+msgid ""
+"\\N[27]什么都没有发生……\n"
+"\\N[27]真可惜。\n"
+"\\N[27]看来还得再动动脑筋。"
+msgstr ""
+
+#. ID 17, Page 3, Line 48, Pos (4,6)
+#. Condition (Actor Name = 夫苏巴杰斯)
+#. ID 17, Page 3, Line 51, Pos (4,6)
+#. Condition (Actor Name = 夫苏巴杰斯)
+#. ID 17, Page 3, Line 54, Pos (4,6)
+#. Condition (Actor Name = 夫苏巴杰斯)
+msgctxt "actors.name"
+msgid "夫苏巴杰斯"
+msgstr ""
+
+#. ID 17, Page 3, Line 57, Pos (4,6)
+msgid "\\N[27]什么都没有发生……"
+msgstr ""
+
+#. ID 17, Page 3, Line 72, Pos (4,6)
+msgid ""
+"\\N[27]――油灯嘴部突然冒出了滚滚青烟。\n"
+"\n"
+"\\N[27]弥漫的烟雾逐聚集起来，化为人型――"
+msgstr ""
+
+#. ID 17, Page 3, Line 77, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「paparapaー！！」"
+msgstr ""
+
+#. ID 17, Page 3, Line 80, Pos (4,6)
+msgid "\\N[27]一个打扮得华丽异常的人现身了。"
+msgstr ""
+
+#. ID 17, Page 3, Line 82, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「能把我叫醒，您真有一套……\n"
+"\\N[27]　我就帮您实现三个愿望吧」"
+msgstr ""
+
+#. ID 17, Page 4, Line 4, Pos (4,6)
+msgid ""
+"\\N[27]你唱起刻写在油灯表面的咒语――\n"
+""
+msgstr ""
+
+#. ID 17, Page 4, Line 11, Pos (4,6)
+msgid "\\N[27]――滚滚而出的青烟就化成了人的身影。"
+msgstr ""
+
+#. ID 17, Page 4, Line 14, Pos (4,6)
+msgid ""
+"\\N[27]夜种魔神\n"
+"\\N[27]「愿为主人效劳喵！」\n"
+""
+msgstr ""
+
+#. ID 17, Page 5, Line 7, Pos (4,6)
+msgid "\\N[27]小房间的中央，如今只剩下放置油灯的高台。"
+msgstr ""
+
+#. ID 18, Page 1, Line 7, Pos (9,9)
+msgid ""
+"\\N[27]户外的白光从南侧敞开的窗口中投射了进来。\n"
+"\\N[27]你遥望窗外，看到一派云霞缭绕的荒野景象。"
+msgstr ""
+
+#. ID 18, Page 1, Line 11, Pos (9,9)
+msgid ""
+"\\N[27]在向东延伸的通道右侧，墙壁上布满了窗口。\n"
+"\\N[27]微弱的光线照射进来，成为窟内仅有的光源。\n"
+"\\N[27]通道的正对面与楼梯相连，通向了上层。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (11,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]这房间的入口被一块巨大的石板塞住了。\n"
+"\\N[27]不挪开石板是进不去的。"
+msgstr ""
+
+#. ID 19, Page 1, Line 5, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"挪动石板\n"
+"离开"
+msgstr ""
+
+#. ID 19, Page 1, Line 10, Pos (11,7)
+msgid "\\N[27]石板被推开了，这样就能进入房间了。"
+msgstr ""
+
+#. ID 19, Page 1, Line 16, Pos (11,7)
+msgid "\\N[27]现在没一个同伴有足够的力气挪动石板。"
+msgstr ""
+
+#. ID 19, Page 2, Line 8, Pos (11,7)
+msgid "\\N[27]用鹤嘴锄凿穿了石板！"
+msgstr ""
+
+#. ID 19, Page 3, Line 8, Pos (11,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]房间中陈列着被沙尘掩埋的架子。\n"
+"\\N[27]教典和祭器被杂乱无章地摆在架上。"
+msgstr ""
+
+#. ID 19, Page 3, Line 10, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]调查架子\n"
+"\\N[27]返回"
+msgstr ""
+
+#. ID 19, Page 3, Line 12, Pos (11,7)
+msgid ""
+"\\N[27]若想寻找有价值的物品，\n"
+"\\N[27]需具备古代语言的知识。"
+msgstr ""
+
+#. ID 19, Page 3, Line 18, Pos (11,7)
+msgid "\\N[27]没人具备古代语言的知识。"
+msgstr ""
+
+#. ID 19, Page 3, Line 23, Pos (11,7)
+msgid "\\N[27]开始调查架子了……"
+msgstr ""
+
+#. ID 19, Page 3, Line 31, Pos (11,7)
+#. ID 19, Page 3, Line 40, Pos (11,7)
+#. ID 19, Page 3, Line 52, Pos (11,7)
+msgid "\\N[27]找到了还保有原形的文章。"
+msgstr ""
+
+#. ID 19, Page 3, Line 32, Pos (11,7)
+msgid "\\N[27]获得了「龙退治」！"
+msgstr ""
+
+#. ID 19, Page 3, Line 48, Pos (11,7)
+#. ID 19, Page 3, Line 76, Pos (11,7)
+msgid "\\N[27]没找到什么特别的东西。"
+msgstr ""
+
+#. ID 19, Page 3, Line 53, Pos (11,7)
+msgid ""
+"\\N[27]获得了古代文献！\n"
+""
+msgstr ""
+
+#. ID 19, Page 3, Line 65, Pos (11,7)
+#. ID 19, Page 3, Line 89, Pos (11,7)
+#. ID 19, Page 3, Line 105, Pos (11,7)
+#. ID 19, Page 3, Line 121, Pos (11,7)
+msgid "\\N[27]但是，没找到什么特别的东西。"
+msgstr ""
+
+#. ID 19, Page 3, Line 79, Pos (11,7)
+msgid ""
+"\\N[27]找到了看起来比较有价值的东西。\n"
+""
+msgstr ""
+
+#. ID 19, Page 3, Line 82, Pos (11,7)
+msgid "\\N[27]获得了古代祭器！"
+msgstr ""
+
+#. ID 19, Page 3, Line 98, Pos (11,7)
+msgid "\\N[27]找到了看起来比较有价值的东西。"
+msgstr ""
+
+#. ID 19, Page 3, Line 100, Pos (11,7)
+msgid "\\N[27]获得了古代陶器！"
+msgstr ""
+
+#. ID 19, Page 3, Line 113, Pos (11,7)
+msgid "\\N[27]找到了件奇妙的东西。"
+msgstr ""
+
+#. ID 19, Page 3, Line 115, Pos (11,7)
+msgid ""
+"\\N[27]获得了寺院的笔记！\n"
+""
+msgstr ""
+
+#. ID 19, Page 3, Line 129, Pos (11,7)
+#. Choice (2 options)
+msgid ""
+"\\N[27]继续调查\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 20, Page 1, Line 7, Pos (16,4)
+msgid ""
+"\\N[27]光线倾泻而下，洒满了你脚下的台阶。\n"
+"\\N[27]你在左手边发现了一个新房间的入口。\n"
+"\\N[27]房间中弥漫着异样的气息。"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (13,2)
+#. Choice (4 options)
+msgid ""
+"挑战\n"
+"以美色诱惑\n"
+"给他看食物\n"
+"拿出钱贿赂"
+msgstr ""
+
+#. ID 21, Page 1, Line 6, Pos (13,2)
+msgid ""
+"\\N[27]怪僧在动摇了。\n"
+"\\N[27]要攻击就趁现在！"
+msgstr ""
+
+#. ID 21, Page 1, Line 11, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「咦嘻嘻嘻嘻，真是愚不可及。\n"
+"\\N[27]　你就为自己的傲慢付出代价吧！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 15, Pos (13,2)
+msgid ""
+"\\N[27]你向怪僧挑起了战斗！\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 33, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「我这个人不作无谓的杀生。\n"
+"\\N[27]　快滚回家睡你的大觉去吧！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 42, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「不、不可楞……\n"
+"\\N[27]　我居然会……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 47, Pos (13,2)
+msgid ""
+"\\N[27]怪僧失去力量，瘫倒在地板上。\n"
+"\\N[27]要给他致命一击吗？\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 50, Pos (13,2)
+#. Choice (2 options)
+msgid ""
+"饶他一命\n"
+"致命一击"
+msgstr ""
+
+#. ID 21, Page 1, Line 53, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「咦嘻嘻嘻嘻……\n"
+"\\N[27]　你这是打算同情我吗」"
+msgstr ""
+
+#. ID 21, Page 1, Line 56, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「那我就警告你一句吧。\n"
+"\\N[27]　看到御居山顶的巨神王的瞬间，\n"
+"\\N[27]　就是尔等一行的死期！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 61, Pos (13,2)
+msgid ""
+"\\N[27]怪僧说罢，\n"
+"\\N[27]就走下楼梯离去了……"
+msgstr ""
+
+#. ID 21, Page 1, Line 66, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「巨神啊……我来追随您了」"
+msgstr ""
+
+#. ID 21, Page 1, Line 71, Pos (13,2)
+msgid "\\N[27]怪僧一命呜呼。"
+msgstr ""
+
+#. ID 21, Page 1, Line 78, Pos (13,2)
+msgid "\\N[27]要让谁来诱惑？"
+msgstr ""
+
+#. ID 21, Page 1, Line 86, Pos (13,2)
+msgid "\\N[27]无法选择临时角色。"
+msgstr ""
+
+#. ID 21, Page 1, Line 92, Pos (13,2)
+msgid "\\N[27]\\N[\\V[2]]使用了诱惑力！"
+msgstr ""
+
+#. ID 21, Page 1, Line 95, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「你白痴啊」"
+msgstr ""
+
+#. ID 21, Page 1, Line 99, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「没用没用！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 104, Pos (13,2)
+msgid ""
+"\\N[27]似乎没有效果。\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 109, Pos (13,2)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「好ー咧，就用我这身\n"
+"\\N[27]　风韵去诱他一诱！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 112, Pos (13,2)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「才怪，为毛是我啊。\n"
+"\\N[27]　你白痴啊」"
+msgstr ""
+
+#. ID 21, Page 1, Line 118, Pos (13,2)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「嗯哼。老爷爷，让我过去好嘛？\n"
+"\n"
+"\\N[27]　拜·托·你·啦☆」"
+msgstr ""
+
+#. ID 21, Page 1, Line 123, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「不·行·啦☆」"
+msgstr ""
+
+#. ID 21, Page 1, Line 126, Pos (13,2)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「切ー」"
+msgstr ""
+
+#. ID 21, Page 1, Line 131, Pos (13,2)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「喂。要是你从那里退开，\n"
+"\\N[27]　我就把这本H书给你哦。\n"
+"\\N[27]　塔尼亚酱的胖次也送你」"
+msgstr ""
+
+#. ID 21, Page 1, Line 136, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「鬼才会要。\n"
+"\\N[27]　塔尼亚酱又是谁啊」"
+msgstr ""
+
+#. ID 21, Page 1, Line 143, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「诶……！？\n"
+"\\N[27]　就算你说叫我去诱惑……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 146, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「唔ー嗯……\n"
+"\n"
+"\\N[27]　这、这样的如何？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 151, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「哼，就算摆出那种姿势也毫无意义……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 153, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「…………\n"
+"\n"
+"\\N[27]　……苏夏！？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 158, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「哈？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 161, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「怎么会这样，你和苏夏长得一模一样！\n"
+"\\N[27]　我那在很久以前，为修行而抛弃的妻子……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 165, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……你突然说什么啦……\n"
+"\\N[27]　啊，等一下、干什么，\n"
+"\\N[27]　别冷不防就抱住人家啊ー！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 170, Pos (13,2)
+msgid ""
+"\\N[27]虽然不是很明白，\n"
+"\\N[27]但怪僧好像失去了平常心。\n"
+"\\N[27]趁他病要他命吧。"
+msgstr ""
+
+#. ID 21, Page 1, Line 177, Pos (13,2)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「喂老头。\n"
+"\\N[27]　你脑门上贴着的\n"
+"\\N[27]　那玩意是按钮吗？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 181, Pos (13,2)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「要是按下去会怎样？\n"
+"\\N[27]　会发射吗？\n"
+"\\N[27]　还是会爆炸？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 186, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「嘻嘻嘻嘻。\n"
+"\\N[27]　你似乎是打算惹恼我啊，\n"
+"\\N[27]　但是没用的」"
+msgstr ""
+
+#. ID 21, Page 1, Line 191, Pos (13,2)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「切」"
+msgstr ""
+
+#. ID 21, Page 1, Line 196, Pos (13,2)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「这位老人家。您一直独自待在\n"
+"\\N[27]　这种地方，肯定觉得很寂寞吧。\n"
+"\\N[27]　要不要一起喝杯酒叙叙啊？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 201, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「咦嘻嘻嘻，没用没用。\n"
+"\\N[27]　我不吃你这一套」"
+msgstr ""
+
+#. ID 21, Page 1, Line 205, Pos (13,2)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「哼，相当棘手嘛」"
+msgstr ""
+
+#. ID 21, Page 1, Line 210, Pos (13,2)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「老爷爷，请您听我说！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 212, Pos (13,2)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「我们还远不能就此放弃希望！\n"
+"\\N[27]　为了我们最重要的同伴们！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 215, Pos (13,2)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「我们把一切赌在那片转瞬即逝的花瓣上，\n"
+"\\N[27]　为微风吹拂的山丘上的回忆而立下誓言，\n"
+"\\N[27]　所以我们还不能在这里放弃啊！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 220, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「意味不明」"
+msgstr ""
+
+#. ID 21, Page 1, Line 223, Pos (13,2)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「为什么！？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 226, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「你问我我问谁……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 231, Pos (13,2)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「咿ー呀ー嗯ー哼(无感情朗读)」"
+msgstr ""
+
+#. ID 21, Page 1, Line 234, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「…………」\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 238, Pos (13,2)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「呜ー恩ー啊ー哼(无感情朗读)」"
+msgstr ""
+
+#. ID 21, Page 1, Line 241, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 21, Page 1, Line 246, Pos (13,2)
+msgid ""
+"\\N[27]\\N[13]\n"
+"\\N[27]「老爷爷，肚子饿不饿？\n"
+"\\N[27]　我来给您做点什么吧」"
+msgstr ""
+
+#. ID 21, Page 1, Line 250, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「想用食物来诱惑我也没用！\n"
+"\\N[27]　食欲也早就被我舍弃掉了」"
+msgstr ""
+
+#. ID 21, Page 1, Line 253, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「就算退一步讲，\n"
+"\\N[27]　你也没可能做得出\n"
+"\\N[27]　能让我满意的食物」"
+msgstr ""
+
+#. ID 21, Page 1, Line 257, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「和我的故乡一比，\n"
+"\\N[27]　不管是哪的料理，\n"
+"\\N[27]　\\C[6]辣味都远远不够啊\\C[0]」"
+msgstr ""
+
+#. ID 21, Page 1, Line 264, Pos (13,2)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「诱惑？　太温和了。\n"
+"\\N[27]　还是把他的手下当作人质，\n"
+"\\N[27]　抓到他面前用酷刑来威胁吧」"
+msgstr ""
+
+#. ID 21, Page 1, Line 270, Pos (13,2)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「好黑心！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 276, Pos (13,2)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「原来还有这种办法啊」"
+msgstr ""
+
+#. ID 21, Page 1, Line 282, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「…………这个人真是……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 293, Pos (13,2)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「……不过，这群狂信者，\n"
+"\\N[27]　对身家性命似乎毫无执著。\n"
+"\\N[27]　搞不好会很难办」"
+msgstr ""
+
+#. ID 21, Page 1, Line 303, Pos (13,2)
+msgid "\\N[27]※请选择要展示的食物。"
+msgstr ""
+
+#. ID 21, Page 1, Line 311, Pos (13,2)
+msgid ""
+"\\N[27]\\$※要拿出多少钱？\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 316, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「嗯嗯ー？\n"
+"\\N[27]　这啥玩意啊？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 319, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「金钱之类，对我\n"
+"\\N[27]　来说与粪土无异！\n"
+"\\N[27]　咦嘻嘻嘻嘻！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 338, Pos (13,2)
+msgid "\\N[27]房间深处的楼梯上，吹来了一阵冷风。"
+msgstr ""
+
+#. ID 21, Page 1, Line 340, Pos (13,2)
+msgid "\\N[27]获得了『废都物语 4』"
+msgstr ""
+
+#. ID 21, Page 1, Line 347, Pos (13,2)
+msgid ""
+"\\N[27]3日以内通过了关键地点！\n"
+"\\N[27]获得6点奖励SP！"
+msgstr ""
+
+#. ID 21, Page 1, Line 352, Pos (13,2)
+msgid ""
+"\\N[27]通过了关键地点！\n"
+"\\N[27]获得4点SP！"
+msgstr ""
+
+#. ID 21, Page 2, Line 2, Pos (13,2)
+#. ID 21, Page 3, Line 7, Pos (13,2)
+msgid ""
+"\\N[27]这座石室中没有任何装饰物。\n"
+"\\N[27]四周的墙面甚至还保持着刚刚开凿时的样子。\n"
+"\\N[27]只有一架通向上层的楼梯被设在石室的深处。"
+msgstr ""
+
+#. ID 21, Page 2, Line 5, Pos (13,2)
+msgid ""
+"\\N[27]但是在那座楼梯前方，\n"
+"\\N[27]有一位消瘦的老怪僧。\n"
+"\\N[27]他以打坐的姿势浮在空中，\n"
+"\\N[27]不断地散发着妖异的气息。"
+msgstr ""
+
+#. ID 21, Page 2, Line 10, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「噫嘻嘻嘻嘻，嘻嘻嘻！\n"
+"\\N[27]　尔等黄毛小儿，可算是来了啊。\n"
+"\\N[27]　但我是不会让你们通过这里的」"
+msgstr ""
+
+#. ID 21, Page 2, Line 14, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「我已舍弃了一切欲望，\n"
+"\\N[27]　臻至天人合一的境界。\n"
+"\\N[27]　任何攻击都无法伤我分毫」"
+msgstr ""
+
+#. ID 21, Page 2, Line 18, Pos (13,2)
+msgid ""
+"\\N[27]怪仙达多\n"
+"\\N[27]「我的神通无人可破！\n"
+"\\N[27]　小毛孩还是老实放弃，\n"
+"\\N[27]　回家喝奶去吧，呜嘻嘻嘻嘻。」"
+msgstr ""
+
+#. ID 23, Page 1, Line 8, Pos (8,24)
+msgid ""
+"\\N[27]你用鹤嘴锄挖开巨人左手指示的部分，\n"
+"\\N[27]找到了一个装满金币财宝的袋子！"
+msgstr ""
+
+#. ID 23, Page 1, Line 11, Pos (8,24)
+msgid ""
+"\\N[27]获得了50000Ｇ！\n"
+"\\N[27]获得了赫耳墨斯翼靴！\n"
+"\\N[27]获得了天礼衣！\n"
+"\\N[27]获得了生锈的武器！"
+msgstr ""
+
+#. ID 24, Page 1, Line 5, Pos (5,26)
+msgid ""
+"\\N[27]在你向巨人右手所指的位置挥下鹤嘴锄\n"
+"\\N[27]的瞬間，全员被一阵剧烈的头疼所侵袭！\n"
+""
+msgstr ""
+
+#. ID 24, Page 1, Line 11, Pos (5,26)
+msgid "队中全员受到\\V[100]的伤害！"
+msgstr ""
+
+#. ID 26, Page 1, Line 1, Pos (1,28)
+#. Choice (2 options)
+msgid ""
+"伤害\n"
+"否"
+msgstr ""
+

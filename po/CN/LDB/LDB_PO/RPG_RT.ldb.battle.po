@@ -1,0 +1,749 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 19, Page 1, Line 1
+msgid ""
+"对手的能力恐怕与我方同级，或是在此之上。\n"
+"应该用强力的咒术果断一决胜负吗？\n"
+"还是耗到对手的精神力用尽比较好呢……"
+msgstr ""
+
+#. ID 29, Page 1, Line 3
+msgid "龙蛋好奇地注视着你。"
+msgstr ""
+
+#. ID 29, Page 2, Line 2
+msgid ""
+"你向龙蛋中的存在投以话语，\n"
+"赋予它人之姓名……。"
+msgstr ""
+
+#. ID 58, Page 2, Line 2
+#. ID 60, Page 2, Line 2
+#. ID 60, Page 3, Line 2
+msgid "混沌之兽分裂了！"
+msgstr ""
+
+#. ID 66, Page 2, Line 6
+#. ID 66, Page 2, Line 19
+#. ID 126, Page 2, Line 6
+msgid "凶兽狂乱了！　　　　　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 120, Page 1, Line 2
+msgid "火焰从熔岩边席卷而来！"
+msgstr ""
+
+#. ID 120, Page 1, Line 6
+#. ID 120, Page 1, Line 15
+#. ID 120, Page 1, Line 24
+#. ID 120, Page 1, Line 33
+msgid "\\N[\\V[2]]被火焰包围了！　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 126, Page 2, Line 19
+msgid "凶兽狂乱了！"
+msgstr ""
+
+#. ID 136, Page 1, Line 12
+msgid ""
+"被小麦粉撒了一身，不可视的守护者\n"
+"显出了真实的姿态！"
+msgstr ""
+
+#. ID 140, Page 1, Line 11
+msgid ""
+"\\>\\N[5]\n"
+"\\>「这种东西究竟要怎么对付啊！？」"
+msgstr ""
+
+#. ID 140, Page 1, Line 17
+msgid ""
+"\\>\\N[6]\n"
+"\\>「好大！？」"
+msgstr ""
+
+#. ID 140, Page 1, Line 23
+msgid ""
+"\\>\\N[7]\n"
+"\\>「喂喂喂！\n"
+"\\>　个头再大也得有个限度啊！」"
+msgstr ""
+
+#. ID 140, Page 1, Line 30
+msgid ""
+"\\>\\N[8]\n"
+"\\>「这，这是何等犯规的巨大啊……」"
+msgstr ""
+
+#. ID 140, Page 1, Line 36
+msgid ""
+"\\>\\N[9]\n"
+"\\>「再怎么也大过头了吧！」"
+msgstr ""
+
+#. ID 140, Page 1, Line 42
+msgid ""
+"\\>\\N[10]\n"
+"\\>「……竟如此巨大……！\n"
+"\\>　这就是神话时代的存在吗」"
+msgstr ""
+
+#. ID 140, Page 1, Line 49
+msgid ""
+"\\>\\N[11]\n"
+"\\>「呜哇！？\n"
+"\\>　这也太大了吧」"
+msgstr ""
+
+#. ID 140, Page 1, Line 56
+msgid ""
+"\\>\\N[12]\n"
+"\\>「哇ー好大哦ー」\n"
+"\\>"
+msgstr ""
+
+#. ID 140, Page 1, Line 63
+msgid ""
+"\\>\\N[13]\n"
+"\\>「…………！\n"
+"\\>　好大……！」"
+msgstr ""
+
+#. ID 140, Page 1, Line 70
+msgid ""
+"\\>\\N[14]\n"
+"\\>「……这是何等巨大……\n"
+"\\>　这怪物……！」"
+msgstr ""
+
+#. ID 140, Page 2, Line 2
+msgid "\\>空之巨人的HP减少到一半了！"
+msgstr ""
+
+#. ID 149, Page 1, Line 37
+msgid "触手长了出来！　　　　　　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 151, Page 1, Line 2
+msgid ""
+"形由暗生，\n"
+"身缠恐怖魔力和一头白发，\n"
+"手持宝剑的帝王在你面前翩翩降临……"
+msgstr ""
+
+#. ID 151, Page 2, Line 5
+#. ID 172, Page 2, Line 5
+#. ID 173, Page 3, Line 5
+#. ID 174, Page 2, Line 5
+#. ID 175, Page 3, Line 5
+#. ID 176, Page 2, Line 5
+#. ID 177, Page 4, Line 5
+#. ID 180, Page 10, Line 5
+msgid "柘榴石尼鲁萨发出了不祥的响声……"
+msgstr ""
+
+#. ID 151, Page 2, Line 7
+#. ID 172, Page 2, Line 7
+#. ID 173, Page 3, Line 7
+#. ID 174, Page 2, Line 7
+#. ID 175, Page 3, Line 7
+#. ID 176, Page 2, Line 7
+#. ID 177, Page 4, Line 7
+#. ID 180, Page 10, Line 7
+msgid "\\N[\\V[2]]的手腕麻痹了！"
+msgstr ""
+
+#. ID 151, Page 2, Line 8
+msgid ""
+"迪多斯 \n"
+"『汝之手上，持有余所造之秘石。\n"
+"　汝可知其中意味』"
+msgstr ""
+
+#. ID 151, Page 3, Line 5
+#. ID 172, Page 3, Line 5
+#. ID 173, Page 4, Line 5
+#. ID 174, Page 3, Line 5
+#. ID 175, Page 4, Line 5
+#. ID 176, Page 3, Line 5
+#. ID 177, Page 5, Line 5
+#. ID 180, Page 11, Line 5
+msgid "翡翠石席尔巴发出了不祥的响声……"
+msgstr ""
+
+#. ID 151, Page 3, Line 7
+#. ID 172, Page 3, Line 7
+#. ID 173, Page 4, Line 7
+#. ID 174, Page 3, Line 7
+#. ID 175, Page 4, Line 7
+#. ID 176, Page 3, Line 7
+#. ID 177, Page 5, Line 7
+msgid "\\N[\\V[2]]的身体被大气束缚了！"
+msgstr ""
+
+#. ID 151, Page 3, Line 8
+msgid ""
+"迪多斯 \n"
+"『此等秘石，乃余为捕获四王所创。\n"
+"　以汝之身莫能相抗』"
+msgstr ""
+
+#. ID 151, Page 4, Line 5
+#. ID 172, Page 4, Line 5
+#. ID 173, Page 5, Line 5
+#. ID 174, Page 4, Line 5
+#. ID 175, Page 5, Line 5
+#. ID 176, Page 4, Line 5
+#. ID 177, Page 6, Line 5
+#. ID 180, Page 12, Line 5
+msgid "琥珀石艾尔雅发出了不祥的响声……"
+msgstr ""
+
+#. ID 151, Page 4, Line 7
+#. ID 172, Page 4, Line 7
+#. ID 173, Page 5, Line 7
+#. ID 174, Page 4, Line 7
+#. ID 175, Page 5, Line 7
+#. ID 176, Page 4, Line 7
+#. ID 177, Page 6, Line 7
+#. ID 180, Page 12, Line 7
+msgid "\\N[\\V[2]]的时间被停止了！"
+msgstr ""
+
+#. ID 151, Page 4, Line 8
+msgid ""
+"迪多斯 \n"
+"『汝，因些微好奇而为秘石所虏，\n"
+"　因些微欲望而为秘石所醉。\n"
+"　此等命运，终乃人世因果之报』"
+msgstr ""
+
+#. ID 151, Page 5, Line 6
+#. ID 172, Page 5, Line 6
+#. ID 173, Page 6, Line 6
+#. ID 174, Page 5, Line 6
+#. ID 175, Page 6, Line 6
+#. ID 176, Page 5, Line 6
+#. ID 177, Page 7, Line 6
+#. ID 180, Page 13, Line 5
+msgid "青金石费阿发出了不祥的响声……"
+msgstr ""
+
+#. ID 151, Page 5, Line 8
+#. ID 172, Page 5, Line 8
+#. ID 173, Page 6, Line 8
+#. ID 174, Page 5, Line 8
+#. ID 175, Page 6, Line 8
+#. ID 176, Page 5, Line 8
+#. ID 177, Page 7, Line 8
+#. ID 180, Page 13, Line 7
+msgid "\\N[\\V[2]]的灵魂被束缚了！\\|　　"
+msgstr ""
+
+#. ID 151, Page 5, Line 10
+msgid ""
+"迪多斯 \n"
+"『此命运亦为余亲赐之物。\n"
+"　自遥远昔日，就已由余一手注定』"
+msgstr ""
+
+#. ID 167, Page 1, Line 2
+msgid "迪多斯十六世的伤口正在愈合！　　　　　　　\\^"
+msgstr ""
+
+#. ID 173, Page 2, Line 1
+#. ID 175, Page 2, Line 1
+msgid ""
+"敌人的位置很远！\n"
+"打不到就先逃吧！"
+msgstr ""
+
+#. ID 177, Page 2, Line 1
+msgid ""
+"敌人的位置很远！\n"
+"打不到就先逃开吧！"
+msgstr ""
+
+#. ID 180, Page 1, Line 5
+msgid ""
+"第\\V[155]回合\n"
+"敌人HP \\V[154]"
+msgstr ""
+
+#. ID 180, Page 3, Line 8
+msgid ""
+"天球的加速没有止境，星、月和太阳\n"
+"的轨迹在天空中描绘着无数的平行线。"
+msgstr ""
+
+#. ID 180, Page 4, Line 11
+msgid "天空的回转速度在不停地增加……"
+msgstr ""
+
+#. ID 180, Page 5, Line 11
+msgid ""
+"迎来黎明的天空呈现出一片鱼肚白。\n"
+"但太阳却以发狂般的速度在天球上狂飙，\n"
+"最终渐渐消失在西方的天空中……\n"
+"在这个结界中，连太阳都无法成为希望。"
+msgstr ""
+
+#. ID 180, Page 6, Line 5
+msgid ""
+"天球的回转继续加速，月亮刚一升起便骤然落下，\n"
+"甚至清晰地描绘出椭圆型的运动轨迹。"
+msgstr ""
+
+#. ID 180, Page 7, Line 4
+msgid ""
+"超位者\n"
+"『天空哟……回转吧』"
+msgstr ""
+
+#. ID 180, Page 7, Line 13
+msgid ""
+"在那个瞬间，闪烁于天幕中的群星不约而同地运动起来。\n"
+"天球开始回转，群星的光芒以运动轨迹画出了无数线条。"
+msgstr ""
+
+#. ID 180, Page 7, Line 15
+msgid ""
+"在扭曲的时空间中，空气如同水一般沉重。\n"
+"不仅如此，暴露在疯狂的时间流动当中，\n"
+"人的身魂在一瞬间就积累起数日的疲劳。"
+msgstr ""
+
+#. ID 180, Page 7, Line 18
+msgid ""
+"超位者\n"
+"『盛开之花亦难逃枯萎命运。\n"
+"　超脱时间者，天上地下唯余独尊』"
+msgstr ""
+
+#. ID 180, Page 8, Line 49
+msgid ""
+"透过伊泰利尔的碎片，\n"
+"力量从结界的外侧输送而来……"
+msgstr ""
+
+#. ID 180, Page 8, Line 52
+msgid "你感觉被一双很熟悉的手掌抚摩着……"
+msgstr ""
+
+#. ID 180, Page 8, Line 56
+msgid ""
+"透过超魂体，\n"
+"力量从结界的外侧输送而来……"
+msgstr ""
+
+#. ID 180, Page 8, Line 61
+#. ID 180, Page 8, Line 66
+msgid ""
+"透过穿越时空之刃，\n"
+"力量从结界的外部输送而来……"
+msgstr ""
+
+#. ID 180, Page 8, Line 71
+msgid ""
+"透过艾克薇尔之杖，\n"
+"力量从结界的外部输送而来……"
+msgstr ""
+
+#. ID 180, Page 8, Line 86
+msgid ""
+"――力量的波动漫溢而出，充盈着你的体内\n"
+"与外部的时空扭曲相抗衡！"
+msgstr ""
+
+#. ID 180, Page 8, Line 92
+msgid ""
+"超位者\n"
+"『这是……\n"
+"　上位世界的介入吗！』"
+msgstr ""
+
+#. ID 180, Page 8, Line 97
+#. ID 180, Page 8, Line 102
+msgid "全员的状态恢复了！　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 180, Page 9, Line 1
+msgid "全员的MP开始渐渐回复！　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 180, Page 11, Line 7
+msgid ""
+"\\N[\\V[2]]的身体\n"
+"被大气束缚了！"
+msgstr ""
+
+#. ID 183, Page 1, Line 2
+msgid "青龙正在打盹。"
+msgstr ""
+
+#. ID 185, Page 1, Line 2
+msgid "赤龙正在打盹。"
+msgstr ""
+
+#. ID 224, Page 1, Line 3
+msgid ""
+"攻击几乎都不起作用！\n"
+"这样下去没有取胜的希望！"
+msgstr ""
+
+#. ID 227, Page 1, Line 3
+msgid "魔将柯罗摩的斗气充满了全身！　　　　　　　\\^"
+msgstr ""
+
+#. ID 232, Page 1, Line 1
+msgid ""
+"对手的能力恐怕和我方同级数，或是在我方之上。\n"
+"该采取用强力咒术一口气决定胜负的方法吗？\n"
+"还是耗到对手的精神力用尽比较好呢……"
+msgstr ""
+
+#. ID 233, Page 1, Line 2
+#. ID 234, Page 1, Line 2
+#. ID 235, Page 1, Line 2
+#. ID 236, Page 1, Line 2
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「到我的回合啦啊啊！！\n"
+"\\N[27]　我以攻击表示召唤人工精灵」"
+msgstr ""
+
+#. ID 244, Page 2, Line 1
+msgid "不逃走就只有死路一条！"
+msgstr ""
+
+#. ID 249, Page 2, Line 2
+msgid "＜混沌＞分裂了！"
+msgstr ""
+
+#. ID 258, Page 3, Line 2
+msgid ""
+"蛇群如旋涡般席卷而来，不管被打倒多少匹，\n"
+"也丝毫没有减少的迹象。\n"
+"你扶起不支倒地的梅罗达克，\n"
+"一起退到小舟旁边，准备架船逃离。"
+msgstr ""
+
+#. ID 258, Page 3, Line 7
+msgid ""
+"但就连水面上也涌出黑色的蛇群，堵死了你的退路。\n"
+"\n"
+"无数毒蛇向你们逼来，张开了血盆大口……"
+msgstr ""
+
+#. ID 258, Page 3, Line 14
+msgid ""
+"……这时候，你手上有什么东西突然开始徐徐发光。\n"
+"小舟的船浆散发出夺目的光辉，逼退了紧逼的蛇群。"
+msgstr ""
+
+#. ID 258, Page 3, Line 17
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「这是……？」"
+msgstr ""
+
+#. ID 258, Page 3, Line 23
+msgid ""
+"被船桨射出的光圈一照，\n"
+"黑色蛇群就立刻蒸发，像影子一样消失了……"
+msgstr ""
+
+#. ID 258, Page 3, Line 27
+msgid ""
+"这支船桨宿有光之蛇的魔力，\n"
+"可以用来当作法杖使用。\n"
+"\n"
+"获得了艾克薇尔之杖！"
+msgstr ""
+
+#. ID 258, Page 4, Line 4
+msgid ""
+"\\N[27]旋涡般席卷而来的蛇群包围了你们，不管打倒多少匹，\n"
+"\\N[27]蛇群也没有减少的迹象。\n"
+"\\N[27]你扶起不支倒地的梅罗达克，\n"
+"\\N[27]一同退到小舟附近，准备要划船逃离。"
+msgstr ""
+
+#. ID 258, Page 4, Line 9
+msgid ""
+"\\N[27]但是就连水面上也会涌出黑色的蛇群，\n"
+"\\N[27]退路被堵住了。\n"
+"\\N[27]无数的蛇向你们逼来，张开了血盆大口……。"
+msgstr ""
+
+#. ID 258, Page 4, Line 15
+msgid ""
+"\\N[27]……你手上有东西突然发出了光芒。\n"
+"\\N[27]小舟的船散发着夺目的光辉，逼退了蛇群。"
+msgstr ""
+
+#. ID 258, Page 4, Line 18
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「这个是……？」"
+msgstr ""
+
+#. ID 258, Page 4, Line 24
+msgid ""
+"\\N[27]被船桨射出的光圈一照，黑色蛇群就\n"
+"\\N[27]如同消失的影子一样蒸发掉了……。"
+msgstr ""
+
+#. ID 258, Page 4, Line 29
+msgid ""
+"\\N[27]不用多久，\n"
+"\\N[27]来袭的蛇群就全部消失殆尽。"
+msgstr ""
+
+#. ID 258, Page 4, Line 32
+msgid ""
+"\\N[27]这船桨宿有光之蛇的魔力，\n"
+"\\N[27]可以当作法杖来使用。\n"
+"\n"
+"\\N[27]获得了艾克薇尔之杖！"
+msgstr ""
+
+#. ID 261, Page 3, Line 26
+#. ID 266, Page 3, Line 17
+#. ID 267, Page 3, Line 17
+#. ID 268, Page 3, Line 35
+#. ID 270, Page 3, Line 17
+#. ID 271, Page 3, Line 17
+#. ID 272, Page 3, Line 35
+#. ID 274, Page 3, Line 17
+#. ID 275, Page 3, Line 17
+msgid "敌人的援军出现了！　　　　　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 265, Page 3, Line 42
+msgid ""
+"\\N[13]\n"
+"「只要打倒本体，分身也会一起消失！\n"
+"　请看穿他本体的所在吧！」"
+msgstr ""
+
+#. ID 265, Page 3, Line 49
+msgid ""
+"\\N[7]\n"
+"「本体就只有一个！\n"
+"　把本体解决掉！」"
+msgstr ""
+
+#. ID 307, Page 1, Line 37
+msgid "触手长出来了！　　　　　　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 309, Page 1, Line 7
+msgid "解决掉了吗……？"
+msgstr ""
+
+#. ID 309, Page 1, Line 11
+msgid "烟雾渐渐散去……"
+msgstr ""
+
+#. ID 309, Page 1, Line 14
+#. ID 309, Page 2, Line 7
+msgid ""
+"夜种王\n"
+"「脱得越光，我就越强！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 29
+msgid ""
+"\\N[5]\n"
+"「混蛋，我哪能认输啊！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 35
+msgid ""
+"\\N[6]\n"
+"「总觉得，有不好的预感……」"
+msgstr ""
+
+#. ID 309, Page 1, Line 41
+#. ID 356, Page 1, Line 19
+msgid ""
+"\\N[7]\n"
+"「啧，缠人的家伙！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 47
+msgid ""
+"\\N[8]\n"
+"「……该不会，\n"
+"　继续战下去的话……」"
+msgstr ""
+
+#. ID 309, Page 1, Line 54
+msgid ""
+"\\N[9]\n"
+"「开什么玩笑啊混蛋！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 60
+#. ID 356, Page 1, Line 37
+msgid ""
+"\\N[10]\n"
+"「难道那家伙还没拿出一半的本事……！？」"
+msgstr ""
+
+#. ID 309, Page 1, Line 66
+#. ID 356, Page 1, Line 43
+msgid ""
+"\\N[11]\n"
+"「这样都打不倒吗……！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 72
+#. ID 356, Page 1, Line 49
+msgid ""
+"\\N[12]\n"
+"「再剥它一层皮！　来啊！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 78
+msgid ""
+"\\N[13]\n"
+"「呜呜……\n"
+"　又、又是变态……」"
+msgstr ""
+
+#. ID 309, Page 1, Line 85
+#. ID 356, Page 1, Line 61
+msgid ""
+"\\N[14]\n"
+"「别退缩。接着揍它！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 12
+#. ID 309, Page 3, Line 81
+msgid ""
+"\\N[5]\n"
+"「太差劲了！\n"
+"　在各种意义上都太差劲了！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 19
+#. ID 309, Page 3, Line 88
+msgid ""
+"\\N[6]\n"
+"「啊啊太恶心了ー！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 25
+#. ID 309, Page 3, Line 94
+msgid ""
+"\\N[7]\n"
+"「滚回去！\n"
+"　回你的黑暗森林当妖精去！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 32
+#. ID 309, Page 3, Line 101
+msgid ""
+"\\N[8]\n"
+"「我受不了了！\n"
+"　让我逃跑吧，求你了！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 39
+#. ID 309, Page 3, Line 108
+msgid ""
+"\\N[9]\n"
+"「……我，到底为什么\n"
+"　要和这种东西拼命战斗啊……？」"
+msgstr ""
+
+#. ID 309, Page 3, Line 46
+#. ID 309, Page 3, Line 115
+msgid ""
+"\\N[10]\n"
+"「呜……无法直视了！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 52
+#. ID 309, Page 3, Line 121
+msgid ""
+"\\N[11]\n"
+"「已经莫名其妙了……！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 58
+#. ID 309, Page 3, Line 127
+msgid ""
+"\\N[12]\n"
+"「\\N[12]也脱光光吧！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 64
+#. ID 309, Page 3, Line 133
+msgid ""
+"\\N[13]\n"
+"「腿、腿脚有些……（眩晕中）」"
+msgstr ""
+
+#. ID 309, Page 3, Line 70
+#. ID 309, Page 3, Line 139
+msgid ""
+"\\N[14]\n"
+"「真觉得脱了衣服就能变强吗……！\n"
+"　世上哪有那么便宜的事！」"
+msgstr ""
+
+#. ID 309, Page 4, Line 1
+msgid ""
+"在怪人背上伸展的翅膀开始闪烁出奇怪的光芒。\n"
+"那是副只看一眼就让人提心吊胆的怪异光景――"
+msgstr ""
+
+#. ID 356, Page 1, Line 2
+msgid "有不祥的预感……"
+msgstr ""
+
+#. ID 356, Page 1, Line 7
+msgid ""
+"\\N[5]\n"
+"「……不会吧」"
+msgstr ""
+
+#. ID 356, Page 1, Line 13
+msgid ""
+"\\N[6]\n"
+"「总觉得有不好的预感……」"
+msgstr ""
+
+#. ID 356, Page 1, Line 25
+msgid ""
+"\\N[8]\n"
+"「不、不能认输！」"
+msgstr ""
+
+#. ID 356, Page 1, Line 31
+msgid ""
+"\\N[9]\n"
+"「别开玩笑了混蛋！」"
+msgstr ""
+
+#. ID 356, Page 1, Line 55
+msgid ""
+"\\N[13]\n"
+"「呜呜……」"
+msgstr ""

@@ -1,0 +1,940 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 52, Pos (0,1)
+#. ID 2, Page 1, Line 73, Pos (0,1)
+msgid "\\^"
+msgstr ""
+
+#. ID 3, Page 1, Line 2, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]要退出道具制作吗？"
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"是\n"
+"否"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (2,1)
+msgid ""
+"\\N[27]※消费素材来制作道具。\n"
+"\\N[27]※按下EXIT图标或者稍稍\n"
+"\\N[27]　长按取消键就能退出制作。"
+msgstr ""
+
+#. ID 6, Page 1, Line 11, Pos (1,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>革铠／消费：兽皮1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 13, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 13, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 13, Pos (1,5)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 14, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 13, Pos (1,7)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 14, Pos (1,8)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 13, Pos (1,9)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 13, Pos (1,10)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 13, Pos (7,2)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 13, Pos (7,4)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 13, Pos (7,5)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 1, Line 13, Pos (7,7)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 13, Pos (7,6)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 13, Pos (7,8)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 13, Pos (7,9)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 13, Pos (7,10)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 14, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 14, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 1, Line 13, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 1, Line 13, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 14, Pos (13,7)
+#. Choice (2 options, embedded in a message)
+#. ID 32, Page 1, Line 13, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 1, Line 14, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 13, Pos (13,10)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 13, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 14, Pos (13,12)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 13, Pos (13,13)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 1, Line 13, Pos (13,14)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 1, Line 14, Pos (13,15)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 13, Pos (13,16)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 1, Line 14, Pos (13,17)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 1, Line 14, Pos (13,18)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 1, Line 14, Pos (13,19)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 14, Pos (13,20)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 14, Pos (13,21)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 1, Line 13, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 1, Line 13, Pos (7,12)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 13, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 51, Page 1, Line 13, Pos (7,14)
+#. Choice (2 options, embedded in a message)
+#. ID 52, Page 1, Line 14, Pos (7,15)
+#. Choice (2 options, embedded in a message)
+#. ID 53, Page 1, Line 14, Pos (7,16)
+#. Choice (2 options, embedded in a message)
+#. ID 54, Page 1, Line 14, Pos (7,17)
+#. Choice (2 options, embedded in a message)
+#. ID 55, Page 1, Line 14, Pos (7,18)
+#. Choice (2 options, embedded in a message)
+#. ID 56, Page 1, Line 14, Pos (7,19)
+#. Choice (2 options, embedded in a message)
+#. ID 57, Page 1, Line 14, Pos (7,20)
+#. Choice (2 options, embedded in a message)
+#. ID 58, Page 1, Line 13, Pos (1,11)
+#. Choice (2 options, embedded in a message)
+#. ID 59, Page 1, Line 13, Pos (1,12)
+#. Choice (2 options, embedded in a message)
+#. ID 60, Page 1, Line 14, Pos (1,13)
+#. Choice (2 options, embedded in a message)
+#. ID 61, Page 1, Line 14, Pos (1,14)
+#. Choice (2 options, embedded in a message)
+#. ID 62, Page 1, Line 13, Pos (1,15)
+#. Choice (2 options, embedded in a message)
+#. ID 63, Page 1, Line 14, Pos (1,16)
+#. Choice (2 options, embedded in a message)
+#. ID 64, Page 1, Line 13, Pos (1,17)
+#. Choice (2 options, embedded in a message)
+#. ID 65, Page 1, Line 13, Pos (1,18)
+#. Choice (2 options, embedded in a message)
+#. ID 66, Page 1, Line 14, Pos (1,19)
+#. Choice (2 options, embedded in a message)
+#. ID 67, Page 1, Line 14, Pos (1,20)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 1, Line 14, Pos (1,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"制作\n"
+"算了"
+msgstr ""
+
+#. ID 6, Page 1, Line 18, Pos (1,2)
+#. ID 7, Page 1, Line 18, Pos (1,3)
+#. ID 8, Page 1, Line 18, Pos (1,4)
+#. ID 9, Page 1, Line 18, Pos (1,5)
+#. ID 11, Page 1, Line 19, Pos (1,6)
+#. ID 12, Page 1, Line 18, Pos (1,7)
+#. ID 13, Page 1, Line 19, Pos (1,8)
+#. ID 14, Page 1, Line 18, Pos (1,9)
+#. ID 15, Page 1, Line 18, Pos (1,10)
+#. ID 16, Page 1, Line 18, Pos (7,2)
+#. ID 17, Page 1, Line 18, Pos (7,3)
+#. ID 18, Page 1, Line 18, Pos (7,4)
+#. ID 19, Page 1, Line 18, Pos (7,5)
+#. ID 20, Page 1, Line 18, Pos (7,7)
+#. ID 21, Page 1, Line 18, Pos (7,6)
+#. ID 22, Page 1, Line 18, Pos (7,8)
+#. ID 23, Page 1, Line 18, Pos (7,9)
+#. ID 24, Page 1, Line 18, Pos (7,10)
+#. ID 25, Page 1, Line 18, Pos (13,2)
+#. ID 27, Page 1, Line 19, Pos (13,3)
+#. ID 28, Page 1, Line 19, Pos (13,4)
+#. ID 29, Page 1, Line 18, Pos (13,5)
+#. ID 30, Page 1, Line 18, Pos (13,6)
+#. ID 31, Page 1, Line 19, Pos (13,7)
+#. ID 32, Page 1, Line 18, Pos (13,8)
+#. ID 33, Page 1, Line 19, Pos (13,9)
+#. ID 34, Page 1, Line 18, Pos (13,10)
+#. ID 35, Page 1, Line 18, Pos (13,11)
+#. ID 36, Page 1, Line 19, Pos (13,12)
+#. ID 39, Page 1, Line 18, Pos (13,13)
+#. ID 40, Page 1, Line 18, Pos (13,14)
+#. ID 41, Page 1, Line 19, Pos (13,15)
+#. ID 42, Page 1, Line 18, Pos (13,16)
+#. ID 43, Page 1, Line 19, Pos (13,17)
+#. ID 44, Page 1, Line 19, Pos (13,18)
+#. ID 45, Page 1, Line 19, Pos (13,19)
+#. ID 46, Page 1, Line 19, Pos (13,20)
+#. ID 47, Page 1, Line 19, Pos (13,21)
+#. ID 48, Page 1, Line 18, Pos (7,11)
+#. ID 49, Page 1, Line 18, Pos (7,12)
+#. ID 50, Page 1, Line 18, Pos (7,13)
+#. ID 51, Page 1, Line 18, Pos (7,14)
+#. ID 52, Page 1, Line 19, Pos (7,15)
+#. ID 53, Page 1, Line 19, Pos (7,16)
+#. ID 54, Page 1, Line 19, Pos (7,17)
+#. ID 55, Page 1, Line 19, Pos (7,18)
+#. ID 56, Page 1, Line 19, Pos (7,19)
+#. ID 57, Page 1, Line 19, Pos (7,20)
+#. ID 58, Page 1, Line 18, Pos (1,11)
+#. ID 59, Page 1, Line 18, Pos (1,12)
+#. ID 60, Page 1, Line 19, Pos (1,13)
+#. ID 61, Page 1, Line 19, Pos (1,14)
+#. ID 62, Page 1, Line 18, Pos (1,15)
+#. ID 63, Page 1, Line 19, Pos (1,16)
+#. ID 64, Page 1, Line 18, Pos (1,17)
+#. ID 65, Page 1, Line 18, Pos (1,18)
+#. ID 66, Page 1, Line 19, Pos (1,19)
+#. ID 67, Page 1, Line 19, Pos (1,20)
+#. ID 68, Page 1, Line 19, Pos (1,21)
+msgid "\\>金钱不足。"
+msgstr ""
+
+#. ID 6, Page 1, Line 25, Pos (1,2)
+msgid "革铠做好了！"
+msgstr ""
+
+#. ID 6, Page 1, Line 32, Pos (1,2)
+#. ID 7, Page 1, Line 32, Pos (1,3)
+#. ID 8, Page 1, Line 32, Pos (1,4)
+#. ID 9, Page 1, Line 32, Pos (1,5)
+#. ID 11, Page 1, Line 40, Pos (1,6)
+#. ID 12, Page 1, Line 32, Pos (1,7)
+#. ID 13, Page 1, Line 40, Pos (1,8)
+#. ID 14, Page 1, Line 32, Pos (1,9)
+#. ID 15, Page 1, Line 32, Pos (1,10)
+#. ID 16, Page 1, Line 30, Pos (7,2)
+#. ID 17, Page 1, Line 30, Pos (7,3)
+#. ID 18, Page 1, Line 30, Pos (7,4)
+#. ID 19, Page 1, Line 30, Pos (7,5)
+#. ID 20, Page 1, Line 30, Pos (7,7)
+#. ID 21, Page 1, Line 30, Pos (7,6)
+#. ID 22, Page 1, Line 30, Pos (7,8)
+#. ID 23, Page 1, Line 30, Pos (7,9)
+#. ID 24, Page 1, Line 30, Pos (7,10)
+#. ID 25, Page 1, Line 32, Pos (13,2)
+#. ID 27, Page 1, Line 39, Pos (13,3)
+#. ID 28, Page 1, Line 39, Pos (13,4)
+#. ID 29, Page 1, Line 32, Pos (13,5)
+#. ID 30, Page 1, Line 32, Pos (13,6)
+#. ID 31, Page 1, Line 39, Pos (13,7)
+#. ID 32, Page 1, Line 32, Pos (13,8)
+#. ID 33, Page 1, Line 39, Pos (13,9)
+#. ID 34, Page 1, Line 32, Pos (13,10)
+#. ID 35, Page 1, Line 32, Pos (13,11)
+#. ID 36, Page 1, Line 39, Pos (13,12)
+#. ID 39, Page 1, Line 32, Pos (13,13)
+#. ID 40, Page 1, Line 32, Pos (13,14)
+#. ID 41, Page 1, Line 39, Pos (13,15)
+#. ID 42, Page 1, Line 32, Pos (13,16)
+#. ID 43, Page 1, Line 39, Pos (13,17)
+#. ID 44, Page 1, Line 39, Pos (13,18)
+#. ID 45, Page 1, Line 39, Pos (13,19)
+#. ID 46, Page 1, Line 39, Pos (13,20)
+#. ID 47, Page 1, Line 39, Pos (13,21)
+#. ID 48, Page 1, Line 30, Pos (7,11)
+#. ID 49, Page 1, Line 30, Pos (7,12)
+#. ID 50, Page 1, Line 32, Pos (7,13)
+#. ID 51, Page 1, Line 32, Pos (7,14)
+#. ID 52, Page 1, Line 39, Pos (7,15)
+#. ID 53, Page 1, Line 39, Pos (7,16)
+#. ID 54, Page 1, Line 39, Pos (7,17)
+#. ID 55, Page 1, Line 35, Pos (7,18)
+#. ID 56, Page 1, Line 35, Pos (7,19)
+#. ID 57, Page 1, Line 35, Pos (7,20)
+#. ID 58, Page 1, Line 32, Pos (1,11)
+#. ID 59, Page 1, Line 32, Pos (1,12)
+#. ID 60, Page 1, Line 39, Pos (1,13)
+#. ID 61, Page 1, Line 39, Pos (1,14)
+#. ID 62, Page 1, Line 32, Pos (1,15)
+#. ID 63, Page 1, Line 39, Pos (1,16)
+#. ID 64, Page 1, Line 32, Pos (1,17)
+#. ID 65, Page 1, Line 32, Pos (1,18)
+#. ID 66, Page 1, Line 39, Pos (1,19)
+#. ID 67, Page 1, Line 39, Pos (1,20)
+#. ID 68, Page 1, Line 39, Pos (1,21)
+msgid "材料不足。"
+msgstr ""
+
+#. ID 7, Page 1, Line 11, Pos (1,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>护胸／消费：铁1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 7, Page 1, Line 25, Pos (1,3)
+msgid "护胸做好了！"
+msgstr ""
+
+#. ID 8, Page 1, Line 11, Pos (1,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>锁子甲／消费：铁2/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 8, Page 1, Line 25, Pos (1,4)
+msgid "锁子甲做好了！"
+msgstr ""
+
+#. ID 9, Page 1, Line 11, Pos (1,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>板甲／消费：上等好铁1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 9, Page 1, Line 25, Pos (1,5)
+msgid "板甲做好了！"
+msgstr ""
+
+#. ID 11, Page 1, Line 12, Pos (1,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>南瓜铠／消费：野菜12/\\V[161] 木材1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 11, Page 1, Line 28, Pos (1,6)
+msgid "南瓜铠做好了！"
+msgstr ""
+
+#. ID 12, Page 1, Line 11, Pos (1,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>纯银锁子甲／消费：秘银1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 12, Page 1, Line 25, Pos (1,7)
+msgid "纯银锁子甲做好了！"
+msgstr ""
+
+#. ID 13, Page 1, Line 12, Pos (1,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>自动铠甲／消費：秘银1/\\V[161] 上等好铁1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 13, Page 1, Line 28, Pos (1,8)
+msgid "自动铠甲做好了！"
+msgstr ""
+
+#. ID 14, Page 1, Line 11, Pos (1,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>龙鳞甲／消费：龙钢1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 14, Page 1, Line 25, Pos (1,9)
+msgid "龙鳞甲做好了！"
+msgstr ""
+
+#. ID 15, Page 1, Line 11, Pos (1,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>名匠板甲／消费：生锈的防具1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 15, Page 1, Line 25, Pos (1,10)
+msgid "名匠板甲做好了！"
+msgstr ""
+
+#. ID 16, Page 1, Line 11, Pos (7,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>铁盔／消费：铁1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 16, Page 1, Line 25, Pos (7,2)
+msgid "铁盔做好了！"
+msgstr ""
+
+#. ID 17, Page 1, Line 11, Pos (7,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>桶型盔／消费：铁1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 17, Page 1, Line 13, Pos (7,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"制造\n"
+"算了"
+msgstr ""
+
+#. ID 17, Page 1, Line 25, Pos (7,3)
+msgid "桶型盔做好了！"
+msgstr ""
+
+#. ID 18, Page 1, Line 11, Pos (7,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>圆形盔／消费：铁2/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 18, Page 1, Line 25, Pos (7,4)
+msgid "圆形盔做好了！"
+msgstr ""
+
+#. ID 19, Page 1, Line 11, Pos (7,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>犬鼻盔／消费：铁2/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 19, Page 1, Line 25, Pos (7,5)
+msgid "犬鼻盔做好了！"
+msgstr ""
+
+#. ID 20, Page 1, Line 11, Pos (7,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>翼形盔／消费：秘银1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 20, Page 1, Line 25, Pos (7,7)
+msgid "翼形盔做好了！"
+msgstr ""
+
+#. ID 21, Page 1, Line 11, Pos (7,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>指挥官头盔／消费：上等好铁1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 21, Page 1, Line 25, Pos (7,6)
+msgid "指挥官头盔做好了！"
+msgstr ""
+
+#. ID 22, Page 1, Line 11, Pos (7,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>角盔／消費：秘银1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 22, Page 1, Line 25, Pos (7,8)
+msgid "角盔做好了！"
+msgstr ""
+
+#. ID 23, Page 1, Line 11, Pos (7,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>龙头之盔／消費：龙钢1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 23, Page 1, Line 25, Pos (7,9)
+msgid "龙头之盔做好了！"
+msgstr ""
+
+#. ID 24, Page 1, Line 11, Pos (7,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>特等头盔／消费：生锈的防具1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 24, Page 1, Line 25, Pos (7,10)
+msgid "特等头盔做好了！"
+msgstr ""
+
+#. ID 25, Page 1, Line 11, Pos (13,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>小圆盾 ／消费：木材1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 25, Page 1, Line 13, Pos (13,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"嶌惉偡傞\n"
+"傗傔傞"
+msgstr ""
+
+#. ID 25, Page 1, Line 25, Pos (13,2)
+msgid "小园盾做好了！"
+msgstr ""
+
+#. ID 27, Page 1, Line 12, Pos (13,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>圆盾／消费：铁1/\\V[161] 木材1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 27, Page 1, Line 28, Pos (13,3)
+msgid "圆盾做好了！"
+msgstr ""
+
+#. ID 28, Page 1, Line 12, Pos (13,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>长盾／消费：木材1/\\V[161] 兽皮1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 28, Page 1, Line 28, Pos (13,4)
+msgid "长盾做好了！"
+msgstr ""
+
+#. ID 29, Page 1, Line 11, Pos (13,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>钉盾／消费：铁3/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 29, Page 1, Line 25, Pos (13,5)
+msgid "钉盾做好了！"
+msgstr ""
+
+#. ID 30, Page 1, Line 11, Pos (13,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>骑士盾／消费：上等好铁1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 30, Page 1, Line 25, Pos (13,6)
+msgid "骑士盾做好了！"
+msgstr ""
+
+#. ID 31, Page 1, Line 12, Pos (13,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>镜盾／消费：上等好铁1/\\V[161] 银1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 31, Page 1, Line 28, Pos (13,7)
+msgid "镜盾做好了！"
+msgstr ""
+
+#. ID 32, Page 1, Line 11, Pos (13,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>秘银盾／消费：秘银1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 32, Page 1, Line 25, Pos (13,8)
+msgid "秘银盾做好了！"
+msgstr ""
+
+#. ID 33, Page 1, Line 12, Pos (13,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>兽之盾／消費：兽皮2/\\V[161] 上等好铁2/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 33, Page 1, Line 28, Pos (13,9)
+msgid "兽盾做好了！"
+msgstr ""
+
+#. ID 34, Page 1, Line 11, Pos (13,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>龙鳞盾／消费：龙钢1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 34, Page 1, Line 25, Pos (13,10)
+msgid "龙鳞盾做好了！"
+msgstr ""
+
+#. ID 35, Page 1, Line 11, Pos (13,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>名匠守护盾／消费：生锈的防具1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 35, Page 1, Line 25, Pos (13,11)
+msgid "名匠守护盾做好了！"
+msgstr ""
+
+#. ID 36, Page 1, Line 12, Pos (13,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>伊波之盾／消费：白色毛皮1/\\V[161] 秘银1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 36, Page 1, Line 28, Pos (13,12)
+msgid "伊波之盾做好了！"
+msgstr ""
+
+#. ID 39, Page 1, Line 11, Pos (13,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>大衣／消费：布料1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 39, Page 1, Line 25, Pos (13,13)
+msgid "大衣做好了！"
+msgstr ""
+
+#. ID 40, Page 1, Line 11, Pos (13,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>袈裟／消费：布料3/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 40, Page 1, Line 25, Pos (13,14)
+msgid "袈裟做好了！"
+msgstr ""
+
+#. ID 41, Page 1, Line 12, Pos (13,15)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>妖精族衣／消费：受祝福的布1/\\V[161] 银1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 41, Page 1, Line 28, Pos (13,15)
+msgid "妖精族衣做好了！"
+msgstr ""
+
+#. ID 42, Page 1, Line 11, Pos (13,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>防风斗篷／消费：受祝福的布1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 42, Page 1, Line 25, Pos (13,16)
+msgid "防风斗篷做好了！"
+msgstr ""
+
+#. ID 43, Page 1, Line 12, Pos (13,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>罗马贤哲长袍／消费：受祝福的布1/\\V[161] 金1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 43, Page 1, Line 28, Pos (13,17)
+msgid "罗马贤哲长袍做好了！"
+msgstr ""
+
+#. ID 44, Page 1, Line 12, Pos (13,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>永夜外套／消费：受祝福的布1/\\V[161] 秘银1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 44, Page 1, Line 28, Pos (13,18)
+msgid "永夜外套做好了！"
+msgstr ""
+
+#. ID 45, Page 1, Line 12, Pos (13,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>漆黑外套／消费：受祝福的布1/\\V[161] 龙钢1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 45, Page 1, Line 28, Pos (13,19)
+msgid "漆黑外套做好了！"
+msgstr ""
+
+#. ID 46, Page 1, Line 12, Pos (13,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>绯红大衣／消费：龙钢1/\\V[161] 燃烧的羽毛2/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 46, Page 1, Line 28, Pos (13,20)
+msgid "绯红大衣做好了！"
+msgstr ""
+
+#. ID 47, Page 1, Line 12, Pos (13,21)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>天礼衣／消费：生锈的防具1/\\V[161] 布料1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 47, Page 1, Line 28, Pos (13,21)
+msgid "天礼衣做好了！"
+msgstr ""
+
+#. ID 48, Page 1, Line 11, Pos (7,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>紧身连衣裙／消費：布料1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 48, Page 1, Line 25, Pos (7,11)
+msgid "紧身连衣裙做好了！"
+msgstr ""
+
+#. ID 49, Page 1, Line 11, Pos (7,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>舞女服／消费：布料1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 49, Page 1, Line 25, Pos (7,12)
+msgid "舞女服做好了！"
+msgstr ""
+
+#. ID 50, Page 1, Line 11, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>贵妇连衣裙／消费：布料3/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 50, Page 1, Line 25, Pos (7,13)
+msgid "贵妇连衣裙做好了！"
+msgstr ""
+
+#. ID 51, Page 1, Line 11, Pos (7,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>提督服／消费：布料3/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 51, Page 1, Line 25, Pos (7,14)
+msgid "提督服做好了！"
+msgstr ""
+
+#. ID 52, Page 1, Line 12, Pos (7,15)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>战斗束腰装／消费：受祝福的布1/\\V[161] 兽皮1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 52, Page 1, Line 28, Pos (7,15)
+msgid "战斗束腰装做好了！"
+msgstr ""
+
+#. ID 53, Page 1, Line 12, Pos (7,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>风流紧身衣／消费：布料1/\\V[161] 宝石1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 53, Page 1, Line 28, Pos (7,16)
+msgid "风流紧身衣做好了！"
+msgstr ""
+
+#. ID 54, Page 1, Line 12, Pos (7,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>舞姬的薄纱／消费：受祝福的布1/\\V[161] 秘银1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 54, Page 1, Line 28, Pos (7,17)
+msgid "舞姬的薄纱做好了！"
+msgstr ""
+
+#. ID 55, Page 1, Line 12, Pos (7,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>忍者女仆装／消费：受祝福的布1/\\V[161] 龙钢1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 55, Page 1, Line 28, Pos (7,18)
+msgid "忍者女仆装做好了！"
+msgstr ""
+
+#. ID 56, Page 1, Line 12, Pos (7,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>民族风皮装／消費：兽皮2/\\V[161] 龙钢1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 56, Page 1, Line 28, Pos (7,19)
+msgid "民族风皮装做好了！"
+msgstr ""
+
+#. ID 57, Page 1, Line 12, Pos (7,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>比翼裙／消费：受祝福的布1/\\V[161] 生锈的防具1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 57, Page 1, Line 28, Pos (7,20)
+msgid "比翼裙做好了！"
+msgstr ""
+
+#. ID 58, Page 1, Line 11, Pos (1,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>阔边帽／消费：布料1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 58, Page 1, Line 25, Pos (1,11)
+msgid "阔边帽做好了！"
+msgstr ""
+
+#. ID 59, Page 1, Line 11, Pos (1,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>发饰／消费：银1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 59, Page 1, Line 25, Pos (1,12)
+msgid "发饰做好了！"
+msgstr ""
+
+#. ID 60, Page 1, Line 12, Pos (1,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>僧帽／消费：布料1/\\V[161] 银1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 60, Page 1, Line 28, Pos (1,13)
+msgid "僧帽做好了！"
+msgstr ""
+
+#. ID 61, Page 1, Line 12, Pos (1,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>尖帽／消费：布料1/\\V[161] 朵罗基坦之花1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 61, Page 1, Line 28, Pos (1,14)
+msgid "尖帽做好了！"
+msgstr ""
+
+#. ID 62, Page 1, Line 11, Pos (1,15)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>毛皮帽子／消费：兽皮1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 62, Page 1, Line 25, Pos (1,15)
+msgid "毛皮帽子做好了！"
+msgstr ""
+
+#. ID 63, Page 1, Line 12, Pos (1,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>小丑帽／消费：布料1/\\V[161] 宝石1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 63, Page 1, Line 28, Pos (1,16)
+msgid "小丑帽做好了！"
+msgstr ""
+
+#. ID 64, Page 1, Line 11, Pos (1,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>遮阳帽／消费：受祝福的布1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 64, Page 1, Line 25, Pos (1,17)
+msgid "遮阳帽做好了！"
+msgstr ""
+
+#. ID 65, Page 1, Line 11, Pos (1,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>三重冕／消费：金1/\\V[161]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 65, Page 1, Line 25, Pos (1,18)
+msgid "三重冕做好了！"
+msgstr ""
+
+#. ID 66, Page 1, Line 12, Pos (1,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>旅人的羽毛帽／消费：受祝福的布1/\\V[161] 龙钢1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 66, Page 1, Line 28, Pos (1,19)
+msgid "旅人的羽毛帽做好了！"
+msgstr ""
+
+#. ID 67, Page 1, Line 12, Pos (1,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>环冠／消费：生锈的防具1/\\V[161] 金1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 67, Page 1, Line 28, Pos (1,20)
+msgid "环冠做好了！"
+msgstr ""
+
+#. ID 68, Page 1, Line 12, Pos (1,21)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>影纱／消费：受祝福的布1/\\V[161] 生锈的防具1/\\V[162]\n"
+"\\>制作费：\\V[169]Ｇ\\$"
+msgstr ""
+
+#. ID 68, Page 1, Line 28, Pos (1,21)
+msgid "影纱做好了！"
+msgstr ""
+

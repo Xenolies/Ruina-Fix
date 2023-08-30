@@ -1,0 +1,1831 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「こ、この匂いは……？」"
+msgstr ""
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid "\\N[27]怪僧は激辛料理の匂いを嗅いだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「なんという旨そうな香り……。\n"
+"\\N[27]　だが、あたしは欲望を捨てた身、\n"
+"\\N[27]　食欲ごときに負けるわけには……」"
+msgstr ""
+
+#. ID 1, Page 1, Line 36, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「……でも、もうダメ。\n"
+"\\N[27]　辛抱できん！」"
+msgstr ""
+
+#. ID 1, Page 1, Line 43, Pos (0,0)
+msgid ""
+"\\N[27]彼は料理の皿を奪い取り、\n"
+"\\N[27]素手でもりもりと食べ始めた。"
+msgstr ""
+
+#. ID 1, Page 1, Line 46, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「おお……なんてスパイシーな味。\n"
+"\\N[27]　舌をピリリと刺す辛味が食欲を\n"
+"\\N[27]　どんどん刺激してくれる」"
+msgstr ""
+
+#. ID 1, Page 1, Line 50, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「これは、あたしの故郷の味……。\n"
+"\\N[27]　思い出すよ、兄弟仲良く食べた\n"
+"\\N[27]　スープと米の飯を……」"
+msgstr ""
+
+#. ID 1, Page 1, Line 57, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「ああ……。\n"
+"\\N[27]　故郷の味、バンザイ！」"
+msgstr ""
+
+#. ID 1, Page 1, Line 61, Pos (0,0)
+msgid ""
+"\\N[27]彼は幸せそうな輝きのオーラを振りまきつつ、\n"
+"\\N[27]空中で回転しながら激辛料理を食べ続けている……。"
+msgstr ""
+
+#. ID 1, Page 1, Line 64, Pos (0,0)
+msgid ""
+"\\N[27]……怪僧は喜びのあまり、平常心を失っている。\n"
+"\\N[27]攻撃するなら今だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 86, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「な、何だいこれは？\n"
+"\\N[27]　どう見ても毒……」"
+msgstr ""
+
+#. ID 1, Page 1, Line 91, Pos (0,0)
+msgid "\\N[27]怪僧をふんづかまえて、喉の奥に料理を押し込んだ！"
+msgstr ""
+
+#. ID 1, Page 1, Line 93, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「むがー！？」"
+msgstr ""
+
+#. ID 1, Page 1, Line 96, Pos (0,0)
+msgid ""
+"\\N[27]……怪僧は弱っている。\n"
+"\\N[27]攻撃するなら今だ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 114, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「イシシシッ、そんなものを見せても\n"
+"\\N[27]　無駄だよ。あたしは霞と泥だけを食って\n"
+"\\N[27]　生きられるのさ」"
+msgstr ""
+
+#. ID 1, Page 1, Line 118, Pos (0,0)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「だいたい、そんな味の薄そうなものを\n"
+"\\N[27]　見せられても食欲なんて湧かないよ。\n"
+"\\N[27]　あたしの故郷の料理ならともかくね」"
+msgstr ""
+
+#. ID 4, Page 1, Line 5, Pos (13,18)
+#. ID 4, Page 2, Line 10, Pos (13,18)
+msgid ""
+"\\N[27]岩壁を掘り抜いて、半ドーム状の空間が作られている。\n"
+"\\N[27]その内部には巨大な座像が置かれていた。\n"
+"\\N[27]像の表\面にはどこにも継ぎ目が無く、一個の岩を\n"
+"\\N[27]刻んで作ったようにも、石化した巨人のように見える。"
+msgstr ""
+
+#. ID 4, Page 1, Line 9, Pos (13,18)
+msgid ""
+"\\N[27]また、巨人像の頭部は灰色の布で覆われていて、\n"
+"\\N[27]その顔を見ることはできない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 13, Pos (13,18)
+#. Choice (3 options)
+msgid ""
+"巨人像に話しかける\n"
+"巨人像の顔を覗く\n"
+"別の場所に行く"
+msgstr ""
+
+#. ID 4, Page 1, Line 15, Pos (13,18)
+msgid ""
+"\\N[27]巨像に手を触れながら声をかけた。\n"
+"\n"
+"\\N[27]……だが、巨人像は何も応えない。"
+msgstr ""
+
+#. ID 4, Page 1, Line 24, Pos (13,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]巨人像の頭部を覆う灰色の布の下から、異様な霊気が\n"
+"\\N[27]漂い出しているような気がした。"
+msgstr ""
+
+#. ID 4, Page 1, Line 26, Pos (13,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"それでも巨人像の顔を覗く\n"
+"やっぱりやめる"
+msgstr ""
+
+#. ID 4, Page 1, Line 35, Pos (13,18)
+msgid "\\N[27]誰が覗きますか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 39, Pos (13,18)
+msgid "\\N[27]やめておいた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 43, Pos (13,18)
+msgid ""
+"\\N[27]巨人像の膝の上に乗り、その腕や衣服の襞を\n"
+"\\N[27]手がかりにして肩の所までよじ登った。"
+msgstr ""
+
+#. ID 4, Page 1, Line 46, Pos (13,18)
+msgid ""
+"\\N[27]頭部を覆う布は、よく見ると細かな模様で\n"
+"\\N[27]埋め尽くされている。\n"
+"\\N[27]その端に手をかけ、ゆっくりとまくり上げる……。"
+msgstr ""
+
+#. ID 4, Page 1, Line 55, Pos (13,18)
+msgid "\\N[27]―\―\巨人の顔の中心に、暗闇を見た気がした。"
+msgstr ""
+
+#. ID 4, Page 1, Line 56, Pos (13,18)
+msgid ""
+"\\N[27]あらゆるものが絶え果てた暗黒の中、\n"
+"\\N[27]あらゆる方向に限りなく続く虚空の中心で、\n"
+"\\N[27]深紅の血の色をした星々が生まれ、\n"
+"\\N[27]渦を巻いてはまた消え果てていく。"
+msgstr ""
+
+#. ID 4, Page 1, Line 60, Pos (13,18)
+msgid ""
+"\\N[27]世界は一瞬で生まれては滅びる。\n"
+"\\N[27]ひとまたたきの間に過ぎ去ってゆく。\n"
+"\\N[27]ただ目の前にある、真っ赤な火花だけが\n"
+"\\N[27]確かなもの―\―\。"
+msgstr ""
+
+#. ID 4, Page 1, Line 70, Pos (13,18)
+msgid ""
+"\\N[27]―\―\気が付くと、\\N[\\V[81]]は巨人像の\n"
+"\\N[27]膝の上に倒れていた。"
+msgstr ""
+
+#. ID 4, Page 1, Line 74, Pos (13,18)
+msgid ""
+"\\N[27]―\―\気が付くと、\\N[\\V[81]]は\n"
+"\\N[27]床に横たわっていた。\n"
+"\\N[27]仲間たちが心配そうに顔を覗き込んでいる。"
+msgstr ""
+
+#. ID 4, Page 1, Line 79, Pos (13,18)
+msgid ""
+"\\N[27]\\N[\\V[81]]の心身を悲しみと疲労が覆う。\n"
+"\\N[27]ほんの一瞬で年老いてしまったかのようだ。\n"
+"\\N[27]さっき見たあれは、一体何だったのだろうか……？"
+msgstr ""
+
+#. ID 4, Page 1, Line 90, Pos (13,18)
+#. ID 4, Page 2, Line 18, Pos (13,18)
+msgid ""
+"\\N[27]ドームの北側には通路の入り口があった。\n"
+"\\N[27]岩窟はさらに奥に続いているらしい。"
+msgstr ""
+
+#. ID 4, Page 2, Line 14, Pos (13,18)
+msgid ""
+"\\N[27]また、巨人像の頭部は灰色の布で覆われていて、\n"
+"\\N[27]その顔は隠されている。\n"
+"\n"
+"\\N[27]……あの布の下は、覗こうとしない方がいい。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (8,15)
+#. Choice (2 options)
+msgid ""
+"僧たちに話しかける⇔\n"
+"立ち去る"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「かの巨神たちは、かつて別の世界から\n"
+"\\N[27]　この世界に流れ着き、多くの知恵を\n"
+"\\N[27]　人々にもたらした」"
+msgstr ""
+
+#. ID 5, Page 1, Line 14, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「彼らは異邦の神なのだ。\n"
+"\\N[27]　巨神たちは、大地よりも年経ている」"
+msgstr ""
+
+#. ID 5, Page 1, Line 20, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「ダッタという者の一派は、\n"
+"\\N[27]　終わりを受け入れようとせず、\n"
+"\\N[27]　外部から来る者をすべて拒んでいる」"
+msgstr ""
+
+#. ID 5, Page 1, Line 24, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「この先に進もうとするならば、\n"
+"\\N[27]　彼らと出会うことになるだろう」"
+msgstr ""
+
+#. ID 5, Page 1, Line 30, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「姿の見えぬ敵と戦わんとするならば\n"
+"\\N[27]　心の眼を開くことだ」"
+msgstr ""
+
+#. ID 5, Page 1, Line 33, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「……それが不可能\ならば、手元に\n"
+"\\N[27]　あるもので工夫するしかない。\n"
+"\\N[27]　\\C[6]粉っぽいもの\\C[0]を浴びせれば良かろう」"
+msgstr ""
+
+#. ID 5, Page 1, Line 40, Pos (8,15)
+#. ID 5, Page 2, Line 20, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「我らは旧き巨神たちを崇める者。\n"
+"\\N[27]　彼らのごとくに永劫を知ろうと、\n"
+"\\N[27]　この仙境に座して幾年月を越えた」"
+msgstr ""
+
+#. ID 5, Page 1, Line 44, Pos (8,15)
+#. ID 5, Page 2, Line 24, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「されど、世界よりも年経た巨神でさえ\n"
+"\\N[27]　いずれ終わりを迎え、虚無に還るのみ\n"
+"\\N[27]　……」"
+msgstr ""
+
+#. ID 5, Page 1, Line 51, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「かつて巨神の一族が雷光の神々と\n"
+"\\N[27]　戦った時、巨神はかかとを切られたため\n"
+"\\N[27]　\\C[6]出血\\C[0]が止まらずに敗れた」"
+msgstr ""
+
+#. ID 5, Page 2, Line 10, Pos (8,15)
+#. ID 5, Page 3, Line 10, Pos (8,15)
+msgid ""
+"\\N[27]岩窟の奥は神殿を思わせる構\造になっていた。\n"
+"\\N[27]四方の壁には壁龕が刻まれ、それぞれの窪みの中には\n"
+"\\N[27]何者かが座っている。"
+msgstr ""
+
+#. ID 5, Page 2, Line 13, Pos (8,15)
+#. ID 5, Page 3, Line 13, Pos (8,15)
+msgid ""
+"\\N[27]―\―\よく見ると、座っているのは人間たちだ。\n"
+"\\N[27]痩せ衰え、ぼろ布のみをまとう、禿頭の老僧たちが\n"
+"\\N[27]壁の窪みの中に座している。"
+msgstr ""
+
+#. ID 5, Page 2, Line 16, Pos (8,15)
+msgid ""
+"\\N[27]苦行僧たち\n"
+"\\N[27]「よく参られた、終わりの運び手よ」"
+msgstr ""
+
+#. ID 5, Page 2, Line 18, Pos (8,15)
+msgid ""
+"\\N[27]老人たちは目を閉じたまま、経典を読み上げるかの\n"
+"\\N[27]ような声でそう告げた。"
+msgstr ""
+
+#. ID 5, Page 2, Line 28, Pos (8,15)
+msgid ""
+"\\N[27]彼らはそう語り終えると、再び瞑想の中に戻って\n"
+"\\N[27]いった。"
+msgstr ""
+
+#. ID 6, Page 1, Line 7, Pos (4,13)
+msgid ""
+"\\N[27]岩窟の奥には祭壇のような部屋があった。\n"
+"\\N[27]だがその壇上には何も置かれていない。\n"
+"\\N[27]その代わりに、かすかな光がゆらめいていた。"
+msgstr ""
+
+#. ID 6, Page 2, Line 3, Pos (4,13)
+#. Contains choice at line 2 (2 options)
+msgid "\\>祭壇上で光がゆらめいている。"
+msgstr ""
+
+#. ID 6, Page 2, Line 4, Pos (4,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>光の中に入る\n"
+"\\>引き返す"
+msgstr ""
+
+#. ID 7, Page 1, Line 7, Pos (5,17)
+msgid ""
+"\\N[27]砂岩でできた廊下が延びている。\n"
+"\\N[27]壁の窪みには火の灯っていないランプが置かれていた。\n"
+"\n"
+"\\N[27]廊下の北端に登り階段があるのが見える。"
+msgstr ""
+
+#. ID 9, Page 1, Line 7, Pos (12,13)
+msgid ""
+"\\N[27]この部屋の四方の壁にも壁龕が刻まれていて、\n"
+"\\N[27]それぞれの中に座禅を組んだ僧たちの姿があった。"
+msgstr ""
+
+#. ID 9, Page 1, Line 9, Pos (12,13)
+msgid ""
+"\\N[27]だが、彼らはみな遠い昔に死んでいた。\n"
+"\\N[27]骨と皮だけになった亡骸が、生前と変わらぬ姿勢で\n"
+"\\N[27]座り続けている。"
+msgstr ""
+
+#. ID 9, Page 1, Line 12, Pos (12,13)
+msgid ""
+"\\N[27]―\―\よく見ると、一個だけ、僧の亡骸が\n"
+"\\N[27]座っていない壁龕がある。\n"
+"\\N[27]その壁の窪みには、わずかな埃が積もっているだけで、\n"
+"\\N[27]まるで新しい主人が座るのを待っているかのようだ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 18, Pos (12,13)
+#. Choice (2 options)
+msgid ""
+"空っぽの壁龕に座る\n"
+"立ち去る"
+msgstr ""
+
+#. ID 9, Page 1, Line 20, Pos (12,13)
+msgid "\\N[27]誰が座りますか？"
+msgstr ""
+
+#. ID 9, Page 1, Line 24, Pos (12,13)
+msgid "\\N[27]座るのをやめた。"
+msgstr ""
+
+#. ID 9, Page 1, Line 28, Pos (12,13)
+msgid ""
+"\\N[27]\\N[\\V[81]]は壁龕の中に潜り込み、\n"
+"\\N[27]僧たちと同じような姿勢で座ってみた。"
+msgstr ""
+
+#. ID 9, Page 1, Line 32, Pos (12,13)
+msgid ""
+"\\N[27]―\―\体が少し沈み込むような感覚があった。\n"
+"\\N[27]すると\\N[\\V[81]]の背後の壁が音と共に開き、\n"
+"\\N[27]地下への縦穴をさらけ出した。"
+msgstr ""
+
+#. ID 9, Page 1, Line 35, Pos (12,13)
+#. ID 9, Page 2, Line 6, Pos (12,13)
+msgid ""
+"\\N[27]縦穴の内側に階段などは無く、このまま\n"
+"\\N[27]降りるのは無理だ。\n"
+"\\N[27]だが何か\\C[6]道具\\C[0]を使えば、安全に下の層へ\n"
+"\\N[27]降りる事ができるだろう。"
+msgstr ""
+
+#. ID 9, Page 2, Line 2, Pos (12,13)
+msgid ""
+"\\N[27]四方の壁に穿たれた壁龕の中には、僧たちの亡骸が\n"
+"\\N[27]座っている。\n"
+"\\N[27]唯一誰も座っていない壁龕の奥には隠し通路があり、\n"
+"\\N[27]地下への縦穴に繋がっている。"
+msgstr ""
+
+#. ID 9, Page 3, Line 3, Pos (12,13)
+msgid ""
+"\\N[27]ロープを縦穴の端に固定し、下に垂らした。\n"
+"\\N[27]これで地下に降りることができるようになった。"
+msgstr ""
+
+#. ID 11, Page 1, Line 2, Pos (9,26)
+#. ID 11, Page 2, Line 7, Pos (9,26)
+msgid ""
+"\\N[27]岩窟寺院の地下には、アーチ型の天井を持つ大広間が\n"
+"\\N[27]広がっていた。\n"
+"\\N[27]周囲に描かれた壁画は、長い年月に耐えかねて\n"
+"\\N[27]剥げ落ちつつあるが、まだ鮮やかな色彩を残している。"
+msgstr ""
+
+#. ID 11, Page 1, Line 6, Pos (9,26)
+msgid ""
+"\\N[27]それらの壁画を見ようとして、\n"
+"\\N[27]広間の中へ足を踏み入れると―\―\。"
+msgstr ""
+
+#. ID 11, Page 1, Line 10, Pos (9,26)
+msgid ""
+"\\N[27]―\―\何の姿も見えないのに、床の上に濡れた足跡が\n"
+"\\N[27]いくつも現れ、こちらに近づいてくる。\n"
+"\\N[27]見えない敵だ！"
+msgstr ""
+
+#. ID 11, Page 1, Line 14, Pos (9,26)
+#. Choice (2 options)
+msgid ""
+"戦う\n"
+"逃げ出す"
+msgstr ""
+
+#. ID 11, Page 1, Line 26, Pos (9,26)
+msgid ""
+"\\N[27]何者かに攻撃を受けた！\n"
+"\n"
+"\\N[27]だが振り返っても、襲撃者の姿は見あたらない。\n"
+"\\N[27]見えない敵だ！"
+msgstr ""
+
+#. ID 11, Page 1, Line 45, Pos (9,26)
+msgid "\\N[27]古代の壁画を手に入れた！"
+msgstr ""
+
+#. ID 11, Page 1, Line 47, Pos (9,26)
+msgid ""
+"\\N[27]敵にとどめを刺すと、その正体が現れてきた。\n"
+"\\N[27]魔術で作られた醜い肉体が、どろどろと溶けて\n"
+"\\N[27]岩盤に染み込んでいく……。"
+msgstr ""
+
+#. ID 11, Page 1, Line 50, Pos (9,26)
+msgid ""
+"\\N[27]大広間の北側の壁にはひときわ大きな壁画があった。\n"
+"\n"
+"\\N[27]部屋の奥には祭壇のようなものがある。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (6,25)
+msgid ""
+"\\N[27]大広間の北側の壁には、大きな壁画が描かれている。\n"
+"\\N[27]多数の人物の生活を様式的な画法で描いたものだ。\n"
+"\\N[27]どうやら、古代の民の歴史を主題にしたものらしい。"
+msgstr ""
+
+#. ID 12, Page 1, Line 10, Pos (6,25)
+msgid ""
+"\\N[27]壁の上方では、人々が黒い門から草原に\n"
+"\\N[27]歩み出る姿が描かれている。\n"
+"\\N[27]彼らは岩を刻んで砦を作り、怪魚を捕り、\n"
+"\\N[27]竜を狩って生活していた。"
+msgstr ""
+
+#. ID 12, Page 1, Line 14, Pos (6,25)
+msgid ""
+"\\N[27]壁の中ほどの段では、人々は光り輝く翼を持つ\n"
+"\\N[27]小人たちと戦っていた。\n"
+"\\N[27]戦いは熾烈なもののようで、多くの人々が\n"
+"\\N[27]犠牲になり、倒れていった。"
+msgstr ""
+
+#. ID 12, Page 1, Line 18, Pos (6,25)
+msgid ""
+"\\N[27]壁の下の方では、人々が眠りに就く姿が描かれていた。\n"
+"\\N[27]彼らは灰色の屋根の下で重なり合いながら座り、\n"
+"\\N[27]または横たわって目を閉じ、そのまま動かなくなる…。"
+msgstr ""
+
+#. ID 12, Page 1, Line 21, Pos (6,25)
+msgid ""
+"\\N[27]……それらの絵巻を見下ろすように、壁画の最上段には\n"
+"\\N[27]青空と太陽を背景にした巨大な顔が描かれている。\n"
+"\n"
+"\\N[27]その顔から伸びる、極端にデフォルメされた―\―\"
+msgstr ""
+
+#. ID 12, Page 1, Line 26, Pos (6,25)
+msgid "\\N[27]―\―\右手と―\―\"
+msgstr ""
+
+#. ID 12, Page 1, Line 28, Pos (6,25)
+msgid "\\N[27]―\―\左手が―\―\"
+msgstr ""
+
+#. ID 12, Page 1, Line 30, Pos (6,25)
+msgid "\\N[27]古代の民の絵物語を包み込んでいた。"
+msgstr ""
+
+#. ID 13, Page 1, Line 7, Pos (5,28)
+msgid ""
+"\\N[27]大広間の奥にある壁の窪みの中は、床が一段\n"
+"\\N[27]高くなっていて、祭壇のようになっている。\n"
+"\\N[27]だが神像などは無く、代わりに金属製の長櫃が\n"
+"\\N[27]置かれていた。"
+msgstr ""
+
+#. ID 13, Page 1, Line 21, Pos (5,28)
+msgid ""
+"\\N[27]北国のマントを手に入れた！\n"
+"\\N[27]『クーム・ルーム・ディーム』を手に入れた！"
+msgstr ""
+
+#. ID 13, Page 2, Line 7, Pos (5,28)
+msgid ""
+"\\N[27]大広間の奥にある壁の窪みの中は、床が一段\n"
+"\\N[27]高くなっていて、祭壇のようになっている。\n"
+"\\N[27]だが神像などは無く、代わりに空っぽの長櫃が\n"
+"\\N[27]置かれている。"
+msgstr ""
+
+#. ID 15, Page 1, Line 5, Pos (6,7)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]部屋の中で誰かが待ちかまえているようだ。"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"部屋に入る\n"
+"引き返す"
+msgstr ""
+
+#. ID 15, Page 1, Line 16, Pos (6,7)
+msgid ""
+"\\N[27]苦行僧\n"
+"\\N[27]「聖山を荒らす者どもめ、去ねい！」"
+msgstr ""
+
+#. ID 15, Page 1, Line 18, Pos (6,7)
+msgid ""
+"\\N[27]砂岩でできた石室に足を踏み入れると、\n"
+"\\N[27]数人の苦行僧が一斉に襲いかかってきた！"
+msgstr ""
+
+#. ID 15, Page 1, Line 28, Pos (6,7)
+msgid ""
+"\\N[27]僧たちを撃退した。\n"
+"\\N[27]彼らの生き残りは南の戸口から逃げてゆく。"
+msgstr ""
+
+#. ID 15, Page 1, Line 30, Pos (6,7)
+#. ID 15, Page 2, Line 7, Pos (6,7)
+msgid ""
+"\\N[27]この部屋の四方の壁にはそれぞれ出入口が開いている。\n"
+"\\N[27]南側の戸口からは光が射し込んできていた。"
+msgstr ""
+
+#. ID 16, Page 2, Line 4, Pos (8,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]この部屋の宝はもう手に入れている。"
+msgstr ""
+
+#. ID 16, Page 2, Line 5, Pos (8,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"部屋をもう一度調べる\n"
+"立ち去る"
+msgstr ""
+
+#. ID 17, Page 1, Line 9, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"世界で一番強くなりたい\n"
+"すごい魔法を覚えたい\n"
+"すごい武器が欲しい\n"
+"別の選択肢へ"
+msgstr ""
+
+#. ID 17, Page 1, Line 11, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]「世界で一番強くなりたい」でいいですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 12, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 90, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 118, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 155, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 189, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 265, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 294, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 125, Pos (4,6)
+#. Choice (2 options)
+#. ID 17, Page 2, Line 139, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+
+#. ID 17, Page 1, Line 20, Pos (4,6)
+#. ID 17, Page 1, Line 126, Pos (4,6)
+#. ID 17, Page 1, Line 163, Pos (4,6)
+#. ID 17, Page 1, Line 197, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「かしこまりました。それでは……」"
+msgstr ""
+
+#. ID 17, Page 1, Line 24, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「プイプイ！\n"
+"\\N[27]　ご主人様よ最強になーれ！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 33, Pos (4,6)
+msgid ""
+"\\N[27]……気が付くと、\\N[\\V[2]]は一人きりで\n"
+"\\N[27]真っ暗闇な空間に浮かんでいた。"
+msgstr ""
+
+#. ID 17, Page 1, Line 36, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「どうです。\n"
+"\\N[27]　他に誰もいなければ、\n"
+"\\N[27]　ご主人様が最強です」"
+msgstr ""
+
+#. ID 17, Page 1, Line 48, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「どうしました。飽きました？」"
+msgstr ""
+
+#. ID 17, Page 1, Line 51, Pos (4,6)
+#. Choice (3 options)
+msgid ""
+"元の世界に帰る\n"
+"魔神をしばく\n"
+"いや別に"
+msgstr ""
+
+#. ID 17, Page 1, Line 54, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「やっぱりご不満ですか。\n"
+"\\N[27]　では今回の願いはナシということで」"
+msgstr ""
+
+#. ID 17, Page 1, Line 68, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「痛っ……痛いですご主人様！\n"
+"\\N[27]　折檻はおやめ下さい！\n"
+"\\N[27]　元に戻します、すぐ戻しますからっ」"
+msgstr ""
+
+#. ID 17, Page 1, Line 89, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]「すごい魔法を覚えたい」でいいですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 98, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「とっておきの攻撃魔法がありますぞ」"
+msgstr ""
+
+#. ID 17, Page 1, Line 100, Pos (4,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「ただし、この魔法は尻から出ます」"
+msgstr ""
+
+#. ID 17, Page 1, Line 103, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"それでいい\n"
+"やめる"
+msgstr ""
+
+#. ID 17, Page 1, Line 107, Pos (4,6)
+msgid "\\N[27]「ファイヤーの書」を手に入れた！"
+msgstr ""
+
+#. ID 17, Page 1, Line 117, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]「すごい武器が欲しい」でいいですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 130, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「ウワーオ！\n"
+"\\N[27]　出てこいスゴイ武器！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 135, Pos (4,6)
+msgid "\\N[27]カジキマグロを手に入れた！"
+msgstr ""
+
+#. ID 17, Page 1, Line 138, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「装備していないと、腐って消えるので\n"
+"\\N[27]　注意して下さい」"
+msgstr ""
+
+#. ID 17, Page 1, Line 152, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"財宝が欲しい\n"
+"ロープを強化してほしい\n"
+"みんなを幸せにしてほしい\n"
+"別の選択肢へ"
+msgstr ""
+
+#. ID 17, Page 1, Line 154, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]「財宝が欲しい」でいいですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 167, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「ラス・テル・マ・スキル・マギステル！\n"
+"\\N[27]　出てこい財宝！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 171, Pos (4,6)
+msgid "\\N[27]空中から黄金の魔神像が出現した！"
+msgstr ""
+
+#. ID 17, Page 1, Line 173, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「おおお……美しい。\n"
+"\\N[27]　この輝き、肉体美、まさに芸術。\n"
+"\\N[27]　財宝と呼ぶにふさわしい」"
+msgstr ""
+
+#. ID 17, Page 1, Line 179, Pos (4,6)
+msgid "\\N[27]黄金魔神像を手に入れた！"
+msgstr ""
+
+#. ID 17, Page 1, Line 188, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]「ロープを強化してほしい」でいいですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 201, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「みんなの魔力を吾輩に分けてくれ！\n"
+"\\N[27]　強くなれロープ！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 206, Pos (4,6)
+msgid "\\N[27]ロープ神の護符を手に入れた！"
+msgstr ""
+
+#. ID 17, Page 1, Line 210, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「この護符を持っていれば、\n"
+"\\N[27]　ロープが途切れる事がなくなります」"
+msgstr ""
+
+#. ID 17, Page 1, Line 213, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「ロープ神って誰？\n"
+"\\N[27]　とか訊かないで下さいね」"
+msgstr ""
+
+#. ID 17, Page 1, Line 221, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「幸せ…………」"
+msgstr ""
+
+#. ID 17, Page 1, Line 223, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「……幸せって何だろう？\n"
+"\\N[27]　本当にあるのかな？」"
+msgstr ""
+
+#. ID 17, Page 1, Line 227, Pos (4,6)
+msgid "\\N[27]魔神は落ち込んでいる……。"
+msgstr ""
+
+#. ID 17, Page 1, Line 238, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"全回復してくれ\n"
+"あと100個の願いを叶えろ\n"
+"別の選択肢へ\n"
+"立ち去る"
+msgstr ""
+
+#. ID 17, Page 1, Line 240, Pos (4,6)
+#. Contains choice at line 2 (3 options)
+msgid "\\N[27]「全回復してくれ」でいいですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 241, Pos (4,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ\n"
+"残りHPとMPを確認する"
+msgstr ""
+
+#. ID 17, Page 1, Line 253, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「かしこまりました！\n"
+"\\N[27]　届いて愛のパワー！！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 259, Pos (4,6)
+msgid "\\N[27]全員のHPとMPが全快した！"
+msgstr ""
+
+#. ID 17, Page 1, Line 264, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]「あと100個の願いを叶えろ」でいいですか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 273, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「了解しました、喜んで！！\n"
+"\\N[27]　100個の願いを叶えて差し上げます」"
+msgstr ""
+
+#. ID 17, Page 1, Line 293, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+#. ID 17, Page 2, Line 138, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]この場を立ち去りますか？"
+msgstr ""
+
+#. ID 17, Page 1, Line 297, Pos (4,6)
+#. ID 17, Page 2, Line 142, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「願いの回数はまだ残ってますから\n"
+"\\N[27]　また来て下さいませ」"
+msgstr ""
+
+#. ID 17, Page 1, Line 322, Pos (4,6)
+#. ID 17, Page 2, Line 167, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「これで三つの願いを聞き終わりました。\n"
+"\n"
+"\\N[27]　さようなら、ご主人様！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 327, Pos (4,6)
+#. ID 17, Page 2, Line 172, Pos (4,6)
+msgid "\\N[27]魔神は煙になってランプの中に戻った。"
+msgstr ""
+
+#. ID 17, Page 1, Line 329, Pos (4,6)
+#. ID 17, Page 2, Line 174, Pos (4,6)
+msgid ""
+"\\N[27]するとランプは光り輝きながら宙に浮かび上がり、\n"
+"\\N[27]戸口からすうっと飛び出ていった……。"
+msgstr ""
+
+#. ID 17, Page 1, Line 340, Pos (4,6)
+#. ID 17, Page 2, Line 186, Pos (4,6)
+#. ID 17, Page 4, Line 15, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「あと\\V[279]個の願いを叶えることが\n"
+"\\N[27]　できますぞ」"
+msgstr ""
+
+#. ID 17, Page 2, Line 3, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"魔神の話を聞きたい\n"
+"魔神のナイスポーズを見たい\n"
+"魔神のささやきを聞きたい\n"
+"もういい"
+msgstr ""
+
+#. ID 17, Page 2, Line 11, Pos (4,6)
+msgid ""
+"\\N[27]「『きみきみ、ここは釣り禁止だぞ』\n"
+"\\N[27]　『違いますよおまわりさん、魚にミミズ\n"
+"\\N[27]　　を盗まれそうになってるだけです』\n"
+"\\N[27]　『では、魚は私が逮捕しておこう』」"
+msgstr ""
+
+#. ID 17, Page 2, Line 18, Pos (4,6)
+msgid ""
+"\\N[27]「ボブがいつもより早く家に帰ると、\n"
+"\\N[27]　リンダのベッドの脇に、知らない\n"
+"\\N[27]　男物の靴が置いてあった」"
+msgstr ""
+
+#. ID 17, Page 2, Line 21, Pos (4,6)
+msgid ""
+"\\N[27]「ボブは叫んだ。\n"
+"\\N[27]　『なんてこった！\n"
+"\\N[27]　　男と結婚しちゃったよ！』」"
+msgstr ""
+
+#. ID 17, Page 2, Line 27, Pos (4,6)
+msgid ""
+"\\N[27]「『パパ、赤ちゃんはどこから来るの？』\n"
+"\\N[27]　『コウノトリが運んでくるんだよ』\n"
+"\\N[27]　『じゃあコウノトリは、どうやってママ\n"
+"\\N[27]　　のお腹に赤ちゃんを入れるの？』」"
+msgstr ""
+
+#. ID 17, Page 2, Line 34, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「今度は一杯、お茶が怖い」"
+msgstr ""
+
+#. ID 17, Page 2, Line 36, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「ひいいいいいいいいいいいっ！！\n"
+"\\N[27]　怖い！！\n"
+"\\N[27]　お茶を私に近づけるなああ！！」"
+msgstr ""
+
+#. ID 17, Page 2, Line 61, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「フロント・ダブルバイセップスで\n"
+"\\N[27]　上腕二頭筋を魅せてから、\n"
+"\\N[27]　流れるようにサイド・チェスト！」"
+msgstr ""
+
+#. ID 17, Page 2, Line 68, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「美しくパンプアップされた僧帽筋……。\n"
+"\\N[27]　バック・ダブルバイセップス！\n"
+"\\N[27]　でかぁい！　キレてる！」"
+msgstr ""
+
+#. ID 17, Page 2, Line 89, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「お前の一番の願いは叶えられたよ。\n"
+"\\N[27]　俺のハートが欲しい、という\n"
+"\\N[27]　願い事はね……」"
+msgstr ""
+
+#. ID 17, Page 2, Line 96, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「俺はパズルのかけら。\n"
+"\\N[27]　君という名のパズルのピースさ……」"
+msgstr ""
+
+#. ID 17, Page 2, Line 102, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「俺はストリートに舞い降りた\n"
+"\\N[27]　漆黒の堕天使……。\n"
+"\\N[27]　お前のハートを堕落させる罪人」"
+msgstr ""
+
+#. ID 17, Page 2, Line 120, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「残りの願いを全部キャンセル\n"
+"\\N[27]　しますか？」"
+msgstr ""
+
+#. ID 17, Page 3, Line 2, Pos (4,6)
+msgid ""
+"\\N[27]小部屋の中央に台があり、\n"
+"\\N[27]その上におかしな容器が置かれていた。"
+msgstr ""
+
+#. ID 17, Page 3, Line 4, Pos (4,6)
+msgid ""
+"\\N[27]取っ手と蓋のついた真鍮製の入れ物で、\n"
+"\\N[27]注ぎ口のような部分から灯心が突き出ている。\n"
+"\\N[27]ランプの一種らしい。\n"
+"\\N[27]その表\面には古代の表\音文字が書かれている。"
+msgstr ""
+
+#. ID 17, Page 3, Line 10, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"ランプを持ち出す\n"
+"ランプに刻まれた文字を読む\n"
+"ランプをこする\n"
+"呪文を唱える"
+msgstr ""
+
+#. ID 17, Page 3, Line 12, Pos (4,6)
+msgid "\\N[27]ランプを持ち上げて、荷物袋に入れようとした。"
+msgstr ""
+
+#. ID 17, Page 3, Line 13, Pos (4,6)
+msgid ""
+"\\N[27]だが、ランプは台座から離れない！\n"
+"\\N[27]よく見ると、ランプはニカワのような物で\n"
+"\\N[27]台座にべっちょりと固定されていて、\n"
+"\\N[27]取り外して持ち去るのは無理のようだ。"
+msgstr ""
+
+#. ID 17, Page 3, Line 22, Pos (4,6)
+msgid ""
+"\\N[27]ランプの表\面に書かれた文字は\n"
+"\\N[27]「　\\C[6]ス　ゼ　イ　コ　テ　デ\\C[0]　」\n"
+"\\N[27]と読むことができる。"
+msgstr ""
+
+#. ID 17, Page 3, Line 27, Pos (4,6)
+msgid "\\N[27]文字を読むことはできなかった。"
+msgstr ""
+
+#. ID 17, Page 3, Line 33, Pos (4,6)
+msgid "\\N[27]ランプの表\面をこすってみた。"
+msgstr ""
+
+#. ID 17, Page 3, Line 34, Pos (4,6)
+msgid "\\N[27]……だが、何も起こらなかった。"
+msgstr ""
+
+#. ID 17, Page 3, Line 38, Pos (4,6)
+msgid "\\N[27]※唱える呪文を入力して下さい。"
+msgstr ""
+
+#. ID 17, Page 3, Line 41, Pos (4,6)
+#. Condition (Actor Name = スゼイコテデ)
+msgctxt "actors.name"
+msgid "スゼイコテデ"
+msgstr ""
+
+#. ID 17, Page 3, Line 42, Pos (4,6)
+msgid ""
+"\\N[27]何も起こらなかった……。\n"
+"\\N[27]惜しい。\n"
+"\\N[27]唱える呪文を、もう一ひねりする必要があるようだ。"
+msgstr ""
+
+#. ID 17, Page 3, Line 48, Pos (4,6)
+#. Condition (Actor Name = デテコイゼス)
+msgctxt "actors.name"
+msgid "デテコイゼス"
+msgstr ""
+
+#. ID 17, Page 3, Line 51, Pos (4,6)
+#. Condition (Actor Name = でてこいぜす)
+msgctxt "actors.name"
+msgid "でてこいぜす"
+msgstr ""
+
+#. ID 17, Page 3, Line 54, Pos (4,6)
+#. Condition (Actor Name = でてこいゼス)
+msgctxt "actors.name"
+msgid "でてこいゼス"
+msgstr ""
+
+#. ID 17, Page 3, Line 57, Pos (4,6)
+msgid "\\N[27]何も起こらなかった……。"
+msgstr ""
+
+#. ID 17, Page 3, Line 72, Pos (4,6)
+msgid ""
+"\\N[27]―\―\ランプの口から、もくもくと煙が吹き出した！\n"
+"\n"
+"\\N[27]あふれ出た煙は一ヶ所に寄り集まり、形を得て―\―\"
+msgstr ""
+
+#. ID 17, Page 3, Line 77, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「パパラパー！！」"
+msgstr ""
+
+#. ID 17, Page 3, Line 80, Pos (4,6)
+msgid "\\N[27]異様に派手な風体の人物が現れた。"
+msgstr ""
+
+#. ID 17, Page 3, Line 82, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「よくぞ呼び出して下さいました……。\n"
+"\\N[27]　三つの願いを叶えてさしあげましょう」"
+msgstr ""
+
+#. ID 17, Page 4, Line 2, Pos (4,6)
+msgid ""
+"\\N[27]小部屋の中央に台があり、\n"
+"\\N[27]その上にはランプが置かれていた。"
+msgstr ""
+
+#. ID 17, Page 4, Line 4, Pos (4,6)
+msgid "\\N[27]ランプの表\面に刻まれた呪文を唱えると―\―\"
+msgstr ""
+
+#. ID 17, Page 4, Line 10, Pos (4,6)
+msgid "\\N[27]―\―\吹き出た煙が形を得て人型の姿になった。"
+msgstr ""
+
+#. ID 17, Page 4, Line 13, Pos (4,6)
+msgid ""
+"\\N[27]夜種魔神\n"
+"\\N[27]「ご主人様にご奉仕するにゃん！」"
+msgstr ""
+
+#. ID 17, Page 5, Line 7, Pos (4,6)
+msgid ""
+"\\N[27]小部屋の中央には、ランプの置かれていた\n"
+"\\N[27]台だけが残っていた。"
+msgstr ""
+
+#. ID 18, Page 1, Line 7, Pos (9,9)
+msgid ""
+"\\N[27]南側の壁に開いた窓からは、白々とした外光が\n"
+"\\N[27]射し込んでいた。\n"
+"\\N[27]窓の外には、霞にかすんだ荒野の光景が見える。"
+msgstr ""
+
+#. ID 18, Page 1, Line 12, Pos (9,9)
+msgid ""
+"\\N[27]東に向かって延びる通路の、右側の壁にも窓が並び、\n"
+"\\N[27]弱々しい光が寺院内を照らし出している。\n"
+"\\N[27]この通路をまっすぐ進むと階段に繋がっており、\n"
+"\\N[27]上に登ることができるようだ。"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (11,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]この部屋の入り口は、大きな岩の板で塞がれていて、\n"
+"\\N[27]中に入れそうにない。"
+msgstr ""
+
+#. ID 19, Page 1, Line 5, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"岩を動かす\n"
+"立ち去る"
+msgstr ""
+
+#. ID 19, Page 1, Line 10, Pos (11,7)
+msgid "\\N[27]大岩を横にずらし、部屋の中へと入れるようにした。"
+msgstr ""
+
+#. ID 19, Page 1, Line 16, Pos (11,7)
+msgid "\\N[27]今いる仲間では、この岩を力で動かすことはできない。"
+msgstr ""
+
+#. ID 19, Page 2, Line 8, Pos (11,7)
+msgid "\\N[27]岩をツルハシで叩き割った！"
+msgstr ""
+
+#. ID 19, Page 3, Line 8, Pos (11,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]部屋の中には砂埃に埋もれた棚が並んでいた。\n"
+"\\N[27]それらの棚には教典や祭器が雑然と詰め込まれている。"
+msgstr ""
+
+#. ID 19, Page 3, Line 10, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]棚を調べる\n"
+"\\N[27]引き返す"
+msgstr ""
+
+#. ID 19, Page 3, Line 12, Pos (11,7)
+msgid ""
+"\\N[27]価値のある品物を探すには、\n"
+"\\N[27]古代語の知識が必要だ。"
+msgstr ""
+
+#. ID 19, Page 3, Line 18, Pos (11,7)
+msgid "\\N[27]古代知識を持つ者がいない。"
+msgstr ""
+
+#. ID 19, Page 3, Line 23, Pos (11,7)
+msgid "\\N[27]棚を調べ始めた……。"
+msgstr ""
+
+#. ID 19, Page 3, Line 31, Pos (11,7)
+#. ID 19, Page 3, Line 40, Pos (11,7)
+#. ID 19, Page 3, Line 52, Pos (11,7)
+msgid "\\N[27]原形の残っている文書を見つけた。"
+msgstr ""
+
+#. ID 19, Page 3, Line 32, Pos (11,7)
+msgid "\\N[27]「竜退治」を手に入れた！"
+msgstr ""
+
+#. ID 19, Page 3, Line 48, Pos (11,7)
+#. ID 19, Page 3, Line 75, Pos (11,7)
+msgid "\\N[27]特に何も見つからなかった。"
+msgstr ""
+
+#. ID 19, Page 3, Line 53, Pos (11,7)
+msgid "\\N[27]古代の文書を手に入れた！"
+msgstr ""
+
+#. ID 19, Page 3, Line 64, Pos (11,7)
+#. ID 19, Page 3, Line 87, Pos (11,7)
+#. ID 19, Page 3, Line 103, Pos (11,7)
+#. ID 19, Page 3, Line 118, Pos (11,7)
+msgid "\\N[27]だが、特に何も見つからなかった。"
+msgstr ""
+
+#. ID 19, Page 3, Line 78, Pos (11,7)
+#. ID 19, Page 3, Line 96, Pos (11,7)
+msgid "\\N[27]価値のありそうな品を見つけた。"
+msgstr ""
+
+#. ID 19, Page 3, Line 80, Pos (11,7)
+msgid "\\N[27]古代の祭器を手に入れた！"
+msgstr ""
+
+#. ID 19, Page 3, Line 98, Pos (11,7)
+msgid "\\N[27]古代の陶器を手に入れた！"
+msgstr ""
+
+#. ID 19, Page 3, Line 111, Pos (11,7)
+msgid "\\N[27]奇妙なものを見つけた。"
+msgstr ""
+
+#. ID 19, Page 3, Line 113, Pos (11,7)
+msgid "\\N[27]寺院のメモを手に入れた！"
+msgstr ""
+
+#. ID 19, Page 3, Line 126, Pos (11,7)
+#. Choice (2 options)
+msgid ""
+"\\N[27]もっと調べる\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 20, Page 1, Line 7, Pos (16,4)
+msgid ""
+"\\N[27]光の射す階段を登りきると、左手に新しい部屋への\n"
+"\\N[27]入り口が見えた。\n"
+"\\N[27]その内部からは異様な気配が漂い出ている。"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (13,2)
+#. Choice (4 options)
+msgid ""
+"戦いを挑む\n"
+"誘惑する\n"
+"食べ物を見せる\n"
+"金を渡す"
+msgstr ""
+
+#. ID 21, Page 1, Line 6, Pos (13,2)
+msgid ""
+"\\N[27]怪僧は動揺している。\n"
+"\\N[27]攻撃するなら今だ！"
+msgstr ""
+
+#. ID 21, Page 1, Line 11, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「イシシシッ、愚か者め。\n"
+"\\N[27]　その慢心、後悔させてやろう！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 15, Pos (13,2)
+msgid "\\N[27]怪僧に戦いを挑んだ！"
+msgstr ""
+
+#. ID 21, Page 1, Line 32, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「無駄な殺生はしない主義さ。\n"
+"\\N[27]　おうちに帰って寝てな！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 41, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「ば、バカな……。\n"
+"\\N[27]　ありえん……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 46, Pos (13,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]怪僧は力を失い、床に倒れている。\n"
+"\\N[27]とどめを刺すべきだろうか？"
+msgstr ""
+
+#. ID 21, Page 1, Line 48, Pos (13,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"命を助ける\n"
+"とどめを刺す"
+msgstr ""
+
+#. ID 21, Page 1, Line 51, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「イシシシッ……。\n"
+"\\N[27]　情けをかけたつもりかい」"
+msgstr ""
+
+#. ID 21, Page 1, Line 54, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「せめて警告しておいてやろう。\n"
+"\\N[27]　山頂におわす巨神王の姿を見たときが\n"
+"\\N[27]　お前たちの死ぬときさ！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 59, Pos (13,2)
+msgid ""
+"\\N[27]怪僧はそう言い捨てると、\n"
+"\\N[27]階段を降りて去っていった……。"
+msgstr ""
+
+#. ID 21, Page 1, Line 64, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「巨神よ……御許へ参ります」"
+msgstr ""
+
+#. ID 21, Page 1, Line 69, Pos (13,2)
+msgid "\\N[27]怪僧は息絶えた。"
+msgstr ""
+
+#. ID 21, Page 1, Line 76, Pos (13,2)
+msgid "\\N[27]誰が行いますか？"
+msgstr ""
+
+#. ID 21, Page 1, Line 84, Pos (13,2)
+msgid "\\N[27]ゲストキャラは選択できない。"
+msgstr ""
+
+#. ID 21, Page 1, Line 90, Pos (13,2)
+msgid "\\N[27]\\N[\\V[2]]はお色気を使った！"
+msgstr ""
+
+#. ID 21, Page 1, Line 93, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「阿呆かい」"
+msgstr ""
+
+#. ID 21, Page 1, Line 97, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「無駄じゃ無駄じゃ！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 102, Pos (13,2)
+msgid "\\N[27]効果はないようだ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 106, Pos (13,2)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「よーし、オレの色気で\n"
+"\\N[27]　誘惑してやるぜ！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 109, Pos (13,2)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「って、何でオレなんだよ。\n"
+"\\N[27]　馬鹿」"
+msgstr ""
+
+#. ID 21, Page 1, Line 115, Pos (13,2)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「うふん。おじいさん、ここを通して？\n"
+"\n"
+"\\N[27]　お・ね・が・い☆」"
+msgstr ""
+
+#. ID 21, Page 1, Line 120, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「だ・め・だ☆」"
+msgstr ""
+
+#. ID 21, Page 1, Line 123, Pos (13,2)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「ちぇー」"
+msgstr ""
+
+#. ID 21, Page 1, Line 128, Pos (13,2)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「おい。そこを退いてくれたら、\n"
+"\\N[27]　このエッチな本をやるぞ。\n"
+"\\N[27]　ターニャちゃんのパンツもやるぞ」"
+msgstr ""
+
+#. ID 21, Page 1, Line 133, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「いらんよ。\n"
+"\\N[27]　誰だよターニャちゃんって」"
+msgstr ""
+
+#. ID 21, Page 1, Line 140, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「えっ……！？\n"
+"\\N[27]　誘惑しろとか言われても……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 143, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「うーん……。\n"
+"\n"
+"\\N[27]　こ、こうかしら？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 148, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「ふん、そんな事をしても無駄無駄……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 150, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「…………。\n"
+"\n"
+"\\N[27]　……スーシャ！？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 155, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「はい？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 158, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「なんてこった、お前はスーシャに\n"
+"\\N[27]　そっくりだ！\n"
+"\\N[27]　はるか昔、修行のために捨てた妻……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 163, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……唐突に何なのよ……。\n"
+"\\N[27]　ってちょっ、なっ、\n"
+"\\N[27]　いきなり抱きつくなーっ！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 168, Pos (13,2)
+msgid ""
+"\\N[27]事情は分からないが、怪僧は平常心を\n"
+"\\N[27]失っているようだ。\n"
+"\\N[27]攻撃するなら今だ。"
+msgstr ""
+
+#. ID 21, Page 1, Line 175, Pos (13,2)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「なあジジイ。\n"
+"\\N[27]　お前のオデコに付いてる\n"
+"\\N[27]　それってボタン？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 179, Pos (13,2)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「押したらどうなるの？\n"
+"\\N[27]　飛ぶの？\n"
+"\\N[27]　爆発とかする？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 184, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「シシシシッ。\n"
+"\\N[27]　怒らせようとしてるのかも\n"
+"\\N[27]　しれないが、ムダだよ」"
+msgstr ""
+
+#. ID 21, Page 1, Line 189, Pos (13,2)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「チッ」"
+msgstr ""
+
+#. ID 21, Page 1, Line 194, Pos (13,2)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「ご老体。こんな場所に一人でいては、\n"
+"\\N[27]　寂しくなることもあるでしょう。\n"
+"\\N[27]　いっしょに一杯いかがです？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 199, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「イシシシッ、無駄無駄。\n"
+"\\N[27]　その手にはかからんぞ」"
+msgstr ""
+
+#. ID 21, Page 1, Line 203, Pos (13,2)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「ふむ、なかなか手強いな」"
+msgstr ""
+
+#. ID 21, Page 1, Line 208, Pos (13,2)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「お爺さん、聞いて下さい！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 210, Pos (13,2)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「僕たちは、希望を失いたくないんです。\n"
+"\\N[27]　大切な仲間たちのために！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 213, Pos (13,2)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「はかなく散ったあの花に賭けて、\n"
+"\\N[27]　風吹く丘での思い出に誓って、\n"
+"\\N[27]　ここで諦めるわけにはいかないんだ！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 218, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「意味わからん」"
+msgstr ""
+
+#. ID 21, Page 1, Line 221, Pos (13,2)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「どうして！？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 224, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「どうしてって……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 229, Pos (13,2)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「いやーんうふーん(棒読み)」"
+msgstr ""
+
+#. ID 21, Page 1, Line 232, Pos (13,2)
+#. ID 21, Page 1, Line 238, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 21, Page 1, Line 235, Pos (13,2)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「うふーんばかーん(棒読み)」"
+msgstr ""
+
+#. ID 21, Page 1, Line 243, Pos (13,2)
+msgid ""
+"\\N[27]\\N[13]\n"
+"\\N[27]「おじいさん、お腹すいてませんか？\n"
+"\\N[27]　何か作りましょうか」"
+msgstr ""
+
+#. ID 21, Page 1, Line 247, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「食い物で誘おうとしても無駄だよ！\n"
+"\\N[27]　食欲もとうの昔に捨てたからね」"
+msgstr ""
+
+#. ID 21, Page 1, Line 250, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「だいたいお前に、\n"
+"\\N[27]　あたしが食べたくなるような\n"
+"\\N[27]　食い物を用意できるはずはないさ」"
+msgstr ""
+
+#. ID 21, Page 1, Line 254, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「あたしの故郷の料理に比べたら、\n"
+"\\N[27]　どこの土地の料理も、\n"
+"\\N[27]　\\C[6]辛味が足りなさすぎる\\C[0]からね」"
+msgstr ""
+
+#. ID 21, Page 1, Line 261, Pos (13,2)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「誘惑？　手ぬるい。\n"
+"\\N[27]　奴の手下を人質に取って、\n"
+"\\N[27]　目の前で痛めつけて脅そう」"
+msgstr ""
+
+#. ID 21, Page 1, Line 267, Pos (13,2)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「黒っ！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 273, Pos (13,2)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「そう来たか」"
+msgstr ""
+
+#. ID 21, Page 1, Line 279, Pos (13,2)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「…………この人は……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 290, Pos (13,2)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「……だが、あの手の狂信者は、\n"
+"\\N[27]　人命に執着を持たないから\n"
+"\\N[27]　難しいかもしれんな」"
+msgstr ""
+
+#. ID 21, Page 1, Line 300, Pos (13,2)
+msgid "\\N[27]※見せる食品を選択して下さい。"
+msgstr ""
+
+#. ID 21, Page 1, Line 308, Pos (13,2)
+msgid "\\N[27]\\$※いくら渡しますか？"
+msgstr ""
+
+#. ID 21, Page 1, Line 312, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「んんー？\n"
+"\\N[27]　なんだいこれは？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 315, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「金なんて、あたしには\n"
+"\\N[27]　何の意味もないよ！\n"
+"\\N[27]　イシシシシッ！」"
+msgstr ""
+
+#. ID 21, Page 1, Line 334, Pos (13,2)
+msgid ""
+"\\N[27]この部屋の奥にある階段からは、\n"
+"\\N[27]冷たい風が吹き込んできている。"
+msgstr ""
+
+#. ID 21, Page 1, Line 337, Pos (13,2)
+msgid "\\N[27]『廃都物語 4』を手に入れた！"
+msgstr ""
+
+#. ID 21, Page 1, Line 344, Pos (13,2)
+msgid ""
+"\\N[27]3日以内にチェックポイント間をクリア！\n"
+"\\N[27]ボーナスSPを6点獲得！"
+msgstr ""
+
+#. ID 21, Page 1, Line 349, Pos (13,2)
+msgid ""
+"\\N[27]チェックポイントをクリア！\n"
+"\\N[27]SPを4点獲得！"
+msgstr ""
+
+#. ID 21, Page 2, Line 2, Pos (13,2)
+msgid ""
+"\\N[27]この岩室に飾りは何一つ無い。\n"
+"\\N[27]四方は鑿の跡が残る剥き出しの岩壁に囲まれている。\n"
+"\\N[27]部屋の奥には上へと続く階段があった。"
+msgstr ""
+
+#. ID 21, Page 2, Line 5, Pos (13,2)
+msgid ""
+"\\N[27]だがその階段の前には、\n"
+"\\N[27]痩せ細り年老いた怪僧の姿があった。\n"
+"\\N[27]座禅を組んで空中に浮かび、\n"
+"\\N[27]妖しい気配を振りまいている。"
+msgstr ""
+
+#. ID 21, Page 2, Line 10, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「イシシシッ、シシシ！\n"
+"\\N[27]　よく来たね、こわっぱども。\n"
+"\\N[27]　だが、ここは通してやらないよ」"
+msgstr ""
+
+#. ID 21, Page 2, Line 14, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「すべての欲望を捨てたあたしは\n"
+"\\N[27]　世界と完璧に調和し、\n"
+"\\N[27]　どんな攻撃も受け付けない」"
+msgstr ""
+
+#. ID 21, Page 2, Line 18, Pos (13,2)
+msgid ""
+"\\N[27]怪仙ダッタ\n"
+"\\N[27]「この通力は誰にも破れないさ！\n"
+"\\N[27]　あきらめて帰ることだね。\n"
+"\\N[27]　ウシシシッ」"
+msgstr ""
+
+#. ID 21, Page 3, Line 7, Pos (13,2)
+msgid ""
+"\\N[27]この岩室に飾りは何一つ無い。\n"
+"\\N[27]四方は鑿の跡が残る剥き出しの岩壁に囲まれている。\n"
+"\\N[27]ただ部屋の奥には上へと続く階段があった。"
+msgstr ""
+
+#. ID 23, Page 1, Line 8, Pos (8,24)
+msgid ""
+"\\N[27]巨人の左手が指し示している部分をツルハシで崩すと、\n"
+"\\N[27]金貨の袋が出てきた！"
+msgstr ""
+
+#. ID 23, Page 1, Line 11, Pos (8,24)
+msgid ""
+"\\N[27]50000Ｇを手に入れた！\n"
+"\\N[27]タレーリアを手に入れた！\n"
+"\\N[27]天礼衣を手に入れた！\n"
+"\\N[27]錆びた武器を手に入れた！"
+msgstr ""
+
+#. ID 24, Page 1, Line 5, Pos (5,26)
+msgid ""
+"\\N[27]巨人の右手が指し示している部分にツルハシを入れた\n"
+"\\N[27]瞬間、皆をすさまじい頭痛が襲う！"
+msgstr ""
+
+#. ID 24, Page 1, Line 10, Pos (5,26)
+msgid "パーティ全員が\\V[100]のダメージを受けた！"
+msgstr ""
+
+#. ID 26, Page 1, Line 1, Pos (1,28)
+#. Choice (2 options)
+msgid ""
+"ダメージ\n"
+"いいえ"
+msgstr ""
+

@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 19, Page 1, Line 1
+#. ID 232, Page 1, Line 1
+msgid ""
+"相手の能力はこちらと同格か、それ以上だ。\n"
+"強力な呪文で素早く片をつけるか、\n"
+"それとも相手が精神力を使い果たすまで待つか……。"
+msgstr ""
+
+#. ID 29, Page 1, Line 3
+msgid "竜の卵は様子を見ている。"
+msgstr ""
+
+#. ID 29, Page 2, Line 2
+msgid ""
+"竜の卵の中にいるものに語りかけ、\n"
+"それに名を付けた……。"
+msgstr ""
+
+#. ID 58, Page 2, Line 2
+#. ID 60, Page 2, Line 2
+#. ID 60, Page 3, Line 2
+msgid "混沌の獣は体を分裂させた！"
+msgstr ""
+
+#. ID 66, Page 2, Line 6
+#. ID 66, Page 2, Line 19
+#. ID 126, Page 2, Line 6
+#. ID 126, Page 2, Line 19
+msgid "凶獣は狂乱した！　　　　　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 120, Page 1, Line 2
+msgid "溶岩から炎が吹き上がった！"
+msgstr ""
+
+#. ID 120, Page 1, Line 6
+msgid "\\N[\\V[2]]は炎に包まれた！　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 120, Page 1, Line 15
+msgid "\\N[\\V[5]]は炎に包まれた！　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 120, Page 1, Line 24
+msgid "\\N[\\V[6]]は炎に包まれた！　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 120, Page 1, Line 33
+msgid "\\N[\\V[7]]は炎に包まれた！　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 136, Page 1, Line 12
+msgid ""
+"小麦粉を浴びて、不可視の守護者の姿が\n"
+"見えるようになった！"
+msgstr ""
+
+#. ID 140, Page 1, Line 11
+msgid ""
+"\\>\\N[5]\n"
+"\\>「こんなのどうやって倒すんだ！？」"
+msgstr ""
+
+#. ID 140, Page 1, Line 17
+msgid ""
+"\\>\\N[6]\n"
+"\\>「でかっ！？」"
+msgstr ""
+
+#. ID 140, Page 1, Line 23
+msgid ""
+"\\>\\N[7]\n"
+"\\>「おいおいおい！\n"
+"\\>　大きいにも程がある！」"
+msgstr ""
+
+#. ID 140, Page 1, Line 30
+msgid ""
+"\\>\\N[8]\n"
+"\\>「な、なんて非常識な大きさ……」"
+msgstr ""
+
+#. ID 140, Page 1, Line 36
+msgid ""
+"\\>\\N[9]\n"
+"\\>「いくら何でもデカすぎだろ！」"
+msgstr ""
+
+#. ID 140, Page 1, Line 42
+msgid ""
+"\\>\\N[10]\n"
+"\\>「……なんて巨大な……！\n"
+"\\>　これが神話の時代の存在かっ」"
+msgstr ""
+
+#. ID 140, Page 1, Line 49
+msgid ""
+"\\>\\N[11]\n"
+"\\>「うわっ！？\n"
+"\\>　なんて大きさですかっ」"
+msgstr ""
+
+#. ID 140, Page 1, Line 56
+msgid ""
+"\\>\\N[12]\n"
+"\\>「わー。大きいなっ」\n"
+"\\>"
+msgstr ""
+
+#. ID 140, Page 1, Line 63
+msgid ""
+"\\>\\N[13]\n"
+"\\>「…………！\n"
+"\\>　大きい……！」"
+msgstr ""
+
+#. ID 140, Page 1, Line 70
+msgid ""
+"\\>\\N[14]\n"
+"\\>「……何という巨大さ……。\n"
+"\\>　化け物め……！」"
+msgstr ""
+
+#. ID 140, Page 2, Line 2
+msgid "\\>空の巨人のHPが半分まで減った！"
+msgstr ""
+
+#. ID 149, Page 1, Line 37
+#. ID 307, Page 1, Line 37
+msgid "触手が生えた！　　　　　　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 151, Page 1, Line 2
+msgid ""
+"闇が形をなした。\n"
+"白い髪と強大な魔力を身にまとい、\n"
+"長大な剣をたずさえた王が目の前に舞い降りる……。"
+msgstr ""
+
+#. ID 151, Page 2, Line 5
+#. ID 172, Page 2, Line 5
+#. ID 173, Page 3, Line 5
+#. ID 174, Page 2, Line 5
+#. ID 175, Page 3, Line 5
+#. ID 176, Page 2, Line 5
+#. ID 177, Page 4, Line 5
+#. ID 180, Page 10, Line 5
+msgid "柘榴石のニルサが、不気味に響き始めた……。"
+msgstr ""
+
+#. ID 151, Page 2, Line 7
+#. ID 172, Page 2, Line 7
+#. ID 173, Page 3, Line 7
+#. ID 174, Page 2, Line 7
+#. ID 175, Page 3, Line 7
+#. ID 176, Page 2, Line 7
+#. ID 177, Page 4, Line 7
+#. ID 180, Page 10, Line 7
+msgid "\\N[\\V[2]]の腕は、しびれて動かない！"
+msgstr ""
+
+#. ID 151, Page 2, Line 8
+msgid ""
+"タイタス\n"
+"『そなたの手元に、余が造り出した秘石がある。\n"
+"　この意味が分かるか』"
+msgstr ""
+
+#. ID 151, Page 3, Line 5
+#. ID 172, Page 3, Line 5
+#. ID 173, Page 4, Line 5
+#. ID 174, Page 3, Line 5
+#. ID 175, Page 4, Line 5
+#. ID 176, Page 3, Line 5
+#. ID 177, Page 5, Line 5
+#. ID 180, Page 11, Line 5
+msgid "翡翠のシルハが、不気味に響き始めた……。"
+msgstr ""
+
+#. ID 151, Page 3, Line 7
+#. ID 172, Page 3, Line 7
+#. ID 173, Page 4, Line 7
+#. ID 174, Page 3, Line 7
+#. ID 175, Page 4, Line 7
+#. ID 176, Page 3, Line 7
+#. ID 177, Page 5, Line 7
+#. ID 180, Page 11, Line 7
+msgid ""
+"\\N[\\V[2]]の体に、\n"
+"大気がまとわりついて束縛する！"
+msgstr ""
+
+#. ID 151, Page 3, Line 9
+msgid ""
+"タイタス\n"
+"『それらは、力ある四王を捕らえるために造られた物。\n"
+"　そなたごときが抗う事かなわぬ』"
+msgstr ""
+
+#. ID 151, Page 4, Line 5
+#. ID 172, Page 4, Line 5
+#. ID 173, Page 5, Line 5
+#. ID 174, Page 4, Line 5
+#. ID 175, Page 5, Line 5
+#. ID 176, Page 4, Line 5
+#. ID 177, Page 6, Line 5
+#. ID 180, Page 12, Line 5
+msgid "琥珀のエルヤが、不気味に響き始めた……。"
+msgstr ""
+
+#. ID 151, Page 4, Line 7
+#. ID 172, Page 4, Line 7
+#. ID 173, Page 5, Line 7
+#. ID 174, Page 4, Line 7
+#. ID 175, Page 5, Line 7
+#. ID 176, Page 4, Line 7
+#. ID 177, Page 6, Line 7
+#. ID 180, Page 12, Line 7
+msgid "\\N[\\V[2]]の時が止まる！"
+msgstr ""
+
+#. ID 151, Page 4, Line 8
+msgid ""
+"タイタス\n"
+"『そなたは、ささやかな欲望と\n"
+"　好奇の心ゆえに、その秘石に魅入られた。\n"
+"　それが人の宿業であるがゆえに』"
+msgstr ""
+
+#. ID 151, Page 5, Line 6
+#. ID 172, Page 5, Line 6
+#. ID 173, Page 6, Line 6
+#. ID 174, Page 5, Line 6
+#. ID 175, Page 6, Line 6
+#. ID 176, Page 5, Line 6
+#. ID 177, Page 7, Line 6
+#. ID 180, Page 13, Line 5
+msgid "青金石のフィーアが、不気味に響き始めた……。"
+msgstr ""
+
+#. ID 151, Page 5, Line 8
+#. ID 172, Page 5, Line 8
+#. ID 173, Page 6, Line 8
+#. ID 174, Page 5, Line 8
+#. ID 175, Page 6, Line 8
+#. ID 176, Page 5, Line 8
+#. ID 177, Page 7, Line 8
+#. ID 180, Page 13, Line 7
+msgid "\\N[\\V[2]]の魂が縛られた！\\|　　"
+msgstr ""
+
+#. ID 151, Page 5, Line 10
+msgid ""
+"タイタス\n"
+"『これは余が与えた運命。\n"
+"　遠い昔から、こうなるよう定められていたのだ』"
+msgstr ""
+
+#. ID 167, Page 1, Line 2
+msgid "タイタス十六世の傷が塞がってゆく！　　　　　　　\\^"
+msgstr ""
+
+#. ID 173, Page 2, Line 1
+#. ID 175, Page 2, Line 1
+#. ID 177, Page 2, Line 1
+msgid ""
+"敵の位置は遠い！\n"
+"届かなければ逃げろ！"
+msgstr ""
+
+#. ID 180, Page 1, Line 5
+msgid ""
+"\\V[155]ターン目\n"
+"敵HP \\V[154]"
+msgstr ""
+
+#. ID 180, Page 3, Line 8
+msgid ""
+"天球の加速は止まらず、星と月と太陽が\n"
+"無数の平行線を空に描いた。"
+msgstr ""
+
+#. ID 180, Page 4, Line 11
+msgid "回転する空が速度を増し続ける……。"
+msgstr ""
+
+#. ID 180, Page 5, Line 11
+msgid ""
+"夜明けを迎えて空が白んだ。\n"
+"だが太陽は狂った速さで天球を駆け上がり、\n"
+"西の空へと消えてゆく……。\n"
+"この結界内では、太陽さえも救いにならない。"
+msgstr ""
+
+#. ID 180, Page 6, Line 5
+msgid ""
+"天球の回転はさらに速くなり、\n"
+"昇っては落ちてゆく月が空に輝線を描く。"
+msgstr ""
+
+#. ID 180, Page 7, Line 4
+msgid ""
+"オーバーロード\n"
+"『空よ……回れ』"
+msgstr ""
+
+#. ID 180, Page 7, Line 13
+msgid ""
+"その瞬間、空に輝く星々が一斉に動いた。\n"
+"天球が回転を始め、星の光が軌跡となって線を描く。"
+msgstr ""
+
+#. ID 180, Page 7, Line 15
+msgid ""
+"歪んだ時空間の中では、空気でさえも水のように重い。\n"
+"それどころか、荒れ狂う時間に晒された体と魂は\n"
+"一瞬ごとに数日ぶんの疲労を背負う。"
+msgstr ""
+
+#. ID 180, Page 7, Line 18
+msgid ""
+"オーバーロード\n"
+"『咲き誇る花も枯れるがさだめ。\n"
+"　余のほかに、時に抗えるものはない』"
+msgstr ""
+
+#. ID 180, Page 8, Line 49
+msgid ""
+"イーテリオのかけらを通じて、\n"
+"結界の外部から力が流れ込んでくる……。"
+msgstr ""
+
+#. ID 180, Page 8, Line 52
+msgid "懐かしい誰かの手が触れる……。"
+msgstr ""
+
+#. ID 180, Page 8, Line 56
+msgid ""
+"オーバーソウルを通じて、\n"
+"結界の外部から力が流れ込んでくる……。"
+msgstr ""
+
+#. ID 180, Page 8, Line 61
+msgid ""
+"時渡りの刃を通じて、\n"
+"結界の外部から力が流れ込んでくる……。"
+msgstr ""
+
+#. ID 180, Page 8, Line 66
+msgid ""
+"時渡りの剣を通じて、\n"
+"結界の外部から力が流れ込んでくる……。"
+msgstr ""
+
+#. ID 180, Page 8, Line 71
+msgid ""
+"アークフィアの杖を通じて、\n"
+"結界の外部から力が流れ込んでくる……。"
+msgstr ""
+
+#. ID 180, Page 8, Line 86
+msgid ""
+"――あふれ出た力の波が、体の中になみなみと満ちて\n"
+"外部にある時空の歪みに拮抗した！"
+msgstr ""
+
+#. ID 180, Page 8, Line 92
+msgid ""
+"オーバーロード\n"
+"『おのれ……。\n"
+"　上位世界からの介入か！』"
+msgstr ""
+
+#. ID 180, Page 8, Line 97
+#. ID 180, Page 8, Line 102
+msgid "全員の状態が元に戻った！　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 180, Page 9, Line 1
+msgid "全員のMPが回復してゆく！　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 183, Page 1, Line 2
+msgid "青竜は眠っている。"
+msgstr ""
+
+#. ID 185, Page 1, Line 2
+msgid "赤竜は眠っている。"
+msgstr ""
+
+#. ID 224, Page 1, Line 3
+msgid ""
+"攻撃がほとんど効かない！\n"
+"このままでは勝てそうにない。"
+msgstr ""
+
+#. ID 227, Page 1, Line 3
+msgid "魔将ク・ルームは闘気に満ちている！　　　　　　　\\^"
+msgstr ""
+
+#. ID 233, Page 1, Line 2
+#. ID 234, Page 1, Line 2
+#. ID 235, Page 1, Line 2
+#. ID 236, Page 1, Line 2
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「僕のターンだッッッ！！\n"
+"\\N[27]　人工精霊を攻撃表示で召喚ッ！」"
+msgstr ""
+
+#. ID 244, Page 2, Line 1
+msgid "逃げなければ死ぬ！"
+msgstr ""
+
+#. ID 249, Page 2, Line 2
+msgid "＜混沌＞は体を分裂させた！"
+msgstr ""
+
+#. ID 258, Page 3, Line 2
+msgid ""
+"渦巻く蛇の群れが周りを囲み、倒しても倒しても\n"
+"きりがない。\n"
+"倒れているメロダークに肩を貸し、\n"
+"小舟のところまで退いて、漕ぎ出そうとした。"
+msgstr ""
+
+#. ID 258, Page 3, Line 7
+msgid ""
+"だが水面からも黒蛇の群れが湧き出ていて、\n"
+"退路を塞いでいる。\n"
+"無数の蛇が押し寄せて、呑み込まれる……。"
+msgstr ""
+
+#. ID 258, Page 3, Line 14
+msgid ""
+"……手元で何かが光っている。\n"
+"小舟の櫂が輝き、黒蛇の群れを退けていた。"
+msgstr ""
+
+#. ID 258, Page 3, Line 17
+msgid ""
+"\\N[14]\n"
+"「それは……？」"
+msgstr ""
+
+#. ID 258, Page 3, Line 22
+msgid ""
+"櫂の光が照らす円に入ると、黒蛇たちは\n"
+"影のように消える……。"
+msgstr ""
+
+#. ID 258, Page 3, Line 26
+msgid ""
+"この櫂には光の蛇の力が宿っていて、\n"
+"魔法の杖として使える。\n"
+"\n"
+"アークフィアの杖を手に入れた！"
+msgstr ""
+
+#. ID 258, Page 4, Line 4
+msgid ""
+"\\N[27]渦巻く蛇の群れが周りを囲み、倒しても倒しても\n"
+"\\N[27]きりがない。\n"
+"\\N[27]倒れているメロダークに肩を貸し、\n"
+"\\N[27]小舟のところまで退いて、漕ぎ出そうとした。"
+msgstr ""
+
+#. ID 258, Page 4, Line 9
+msgid ""
+"\\N[27]だが水面からも黒蛇の群れが湧き出ていて、\n"
+"\\N[27]退路を塞いでいる。\n"
+"\\N[27]無数の蛇が押し寄せて、呑み込まれる……。"
+msgstr ""
+
+#. ID 258, Page 4, Line 15
+msgid ""
+"\\N[27]……手元で何かが光っている。\n"
+"\\N[27]小舟の櫂が輝き、黒蛇の群れを退けていた。"
+msgstr ""
+
+#. ID 258, Page 4, Line 18
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「これは……？」"
+msgstr ""
+
+#. ID 258, Page 4, Line 23
+msgid ""
+"\\N[27]櫂の光が照らす円に入ると、黒蛇たちは\n"
+"\\N[27]影のように消える……。"
+msgstr ""
+
+#. ID 258, Page 4, Line 28
+msgid ""
+"\\N[27]次々に襲ってくる黒蛇たちがすべて消え去るまで、\n"
+"\\N[27]たいした時間はかからなかった。"
+msgstr ""
+
+#. ID 258, Page 4, Line 31
+msgid ""
+"\\N[27]この櫂には光の蛇の力が宿っていて、\n"
+"\\N[27]魔法の杖として使える。\n"
+"\n"
+"\\N[27]アークフィアの杖を手に入れた！"
+msgstr ""
+
+#. ID 261, Page 3, Line 26
+#. ID 266, Page 3, Line 17
+#. ID 267, Page 3, Line 17
+#. ID 268, Page 3, Line 35
+#. ID 270, Page 3, Line 17
+#. ID 271, Page 3, Line 17
+#. ID 272, Page 3, Line 35
+#. ID 274, Page 3, Line 17
+#. ID 275, Page 3, Line 17
+msgid "敵の増援が出現！　　　　　　　　　　　　　　　　\\^"
+msgstr ""
+
+#. ID 265, Page 3, Line 42
+msgid ""
+"\\N[13]\n"
+"「本体を倒せば、分身も消えます！\n"
+"　どれが本体か見極めて下さい！」"
+msgstr ""
+
+#. ID 265, Page 3, Line 49
+msgid ""
+"\\N[7]\n"
+"「本体は一つだけだ！\n"
+"　そいつを仕留めろ！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 7
+msgid "やったか……？"
+msgstr ""
+
+#. ID 309, Page 1, Line 11
+msgid "煙が晴れてゆく……。"
+msgstr ""
+
+#. ID 309, Page 1, Line 14
+#. ID 309, Page 2, Line 7
+msgid ""
+"夜種王\n"
+"「脱げば脱ぐほど強くなる！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 28
+msgid ""
+"\\N[5]\n"
+"「畜生、負けてたまるか！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 34
+msgid ""
+"\\N[6]\n"
+"「なんか、イヤな予感がする……」"
+msgstr ""
+
+#. ID 309, Page 1, Line 40
+#. ID 356, Page 1, Line 19
+msgid ""
+"\\N[7]\n"
+"「くっ、しぶとい奴！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 46
+msgid ""
+"\\N[8]\n"
+"「……ひょっとして、\n"
+"　このまま戦うと……」"
+msgstr ""
+
+#. ID 309, Page 1, Line 53
+#. ID 356, Page 1, Line 31
+msgid ""
+"\\N[9]\n"
+"「ざけんなっのやらァ！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 59
+#. ID 356, Page 1, Line 37
+msgid ""
+"\\N[10]\n"
+"「まだあいつは実力の半分も\n"
+"　出していなかったというのか……！？」"
+msgstr ""
+
+#. ID 309, Page 1, Line 66
+#. ID 356, Page 1, Line 44
+msgid ""
+"\\N[11]\n"
+"「これでも倒れないのか……！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 72
+#. ID 356, Page 1, Line 50
+msgid ""
+"\\N[12]\n"
+"「脱がせよう！　もっと！」"
+msgstr ""
+
+#. ID 309, Page 1, Line 78
+msgid ""
+"\\N[13]\n"
+"「ううっ……。\n"
+"　ま、またへんたい……」"
+msgstr ""
+
+#. ID 309, Page 1, Line 85
+#. ID 356, Page 1, Line 62
+msgid ""
+"\\N[14]\n"
+"「ひるむな。殴り続けろ！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 12
+#. ID 309, Page 3, Line 81
+msgid ""
+"\\N[5]\n"
+"「最低だな！\n"
+"　なんかもう色々と最低だな！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 19
+#. ID 309, Page 3, Line 88
+msgid ""
+"\\N[6]\n"
+"「もう最悪だー！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 25
+#. ID 309, Page 3, Line 94
+msgid ""
+"\\N[7]\n"
+"「帰れ！\n"
+"　闇とか森とかに！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 32
+#. ID 309, Page 3, Line 101
+msgid ""
+"\\N[8]\n"
+"「もうイヤぁ！\n"
+"　逃げさせて、お願いだから！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 39
+#. ID 309, Page 3, Line 108
+msgid ""
+"\\N[9]\n"
+"「……僕は、何でこんな\n"
+"　必死になって戦ってたんだ……？」"
+msgstr ""
+
+#. ID 309, Page 3, Line 46
+#. ID 309, Page 3, Line 115
+msgid ""
+"\\N[10]\n"
+"「くっ……直視できない！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 52
+#. ID 309, Page 3, Line 121
+msgid ""
+"\\N[11]\n"
+"「何がなんだか分からない……！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 58
+#. ID 309, Page 3, Line 127
+msgid ""
+"\\N[12]\n"
+"「\\N[12]も脱ぐ！」"
+msgstr ""
+
+#. ID 309, Page 3, Line 64
+#. ID 309, Page 3, Line 133
+msgid ""
+"\\N[13]\n"
+"「ぶ、ぶらぶらが……っ（めまい）」"
+msgstr ""
+
+#. ID 309, Page 3, Line 70
+#. ID 309, Page 3, Line 139
+msgid ""
+"\\N[14]\n"
+"「脱げばいいと安易に思っているな……！\n"
+"　許せん！」"
+msgstr ""
+
+#. ID 309, Page 4, Line 1
+msgid ""
+"怪人の背から広がる翼が、ぎらぎらとした光を放つ。\n"
+"見ているだけで不安になる――。"
+msgstr ""
+
+#. ID 356, Page 1, Line 2
+msgid "嫌な予感がする……。"
+msgstr ""
+
+#. ID 356, Page 1, Line 7
+msgid ""
+"\\N[5]\n"
+"「……まさか」"
+msgstr ""
+
+#. ID 356, Page 1, Line 13
+msgid ""
+"\\N[6]\n"
+"「なんかイヤな予感が……」"
+msgstr ""
+
+#. ID 356, Page 1, Line 25
+msgid ""
+"\\N[8]\n"
+"「め、めげちゃ駄目よ！」"
+msgstr ""
+
+#. ID 356, Page 1, Line 56
+msgid ""
+"\\N[13]\n"
+"「ううっ……」"
+msgstr ""
+

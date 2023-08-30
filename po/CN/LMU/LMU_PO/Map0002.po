@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+#. ID 1, Page 1, Line 265, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+#. ID 1, Page 1, Line 289, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+msgctxt "actors.name"
+msgid "普通"
+msgstr ""
+
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid "\\N[27]※请决定主人公的出身。"
+msgstr ""
+
+#. ID 1, Page 1, Line 31, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"\\N[27]贤者的弟子\n"
+"\\N[27]骑士的长子\n"
+"\\N[27]罪人的弃儿\n"
+"\\N[27]神殿的孤儿"
+msgstr ""
+
+#. ID 1, Page 1, Line 58, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※请决定主人公的性别。"
+msgstr ""
+
+#. ID 1, Page 1, Line 59, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]男\n"
+"\\N[27]女"
+msgstr ""
+
+#. ID 1, Page 1, Line 62, Pos (0,0)
+#. ChangeHeroName (Actor 67)
+msgctxt "actors.name"
+msgid "哥哥"
+msgstr ""
+
+#. ID 1, Page 1, Line 63, Pos (0,0)
+#. ChangeHeroName (Actor 72)
+msgctxt "actors.name"
+msgid "他"
+msgstr ""
+
+#. ID 1, Page 1, Line 67, Pos (0,0)
+#. ChangeHeroName (Actor 67)
+msgctxt "actors.name"
+msgid "姐姐"
+msgstr ""
+
+#. ID 1, Page 1, Line 68, Pos (0,0)
+#. ChangeHeroName (Actor 72)
+msgctxt "actors.name"
+msgid "她"
+msgstr ""
+
+#. ID 1, Page 1, Line 77, Pos (0,0)
+#. ID 1, Page 1, Line 115, Pos (0,0)
+msgid "\\N[27]※请选择主人公的头像。"
+msgstr ""
+
+#. ID 1, Page 1, Line 79, Pos (0,0)
+#. Choice (4 options)
+#. ID 1, Page 1, Line 117, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"\\N[27]绘１\n"
+"\\N[27]绘２\n"
+"\\N[27]绘３\n"
+"\\N[27]绘４"
+msgstr ""
+
+#. ID 1, Page 1, Line 156, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※确定是这个头像吗？"
+msgstr ""
+
+#. ID 1, Page 1, Line 157, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]是\n"
+"\\N[27]否"
+msgstr ""
+
+#. ID 1, Page 1, Line 173, Pos (0,0)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "见习骑士"
+msgstr ""
+
+#. ID 1, Page 1, Line 174, Pos (0,0)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "加西亚斯"
+msgstr ""
+
+#. ID 1, Page 1, Line 178, Pos (0,0)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "领主的女儿"
+msgstr ""
+
+#. ID 1, Page 1, Line 179, Pos (0,0)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "温德琳"
+msgstr ""
+
+#. ID 1, Page 1, Line 183, Pos (0,0)
+#. ID 1, Page 1, Line 223, Pos (0,0)
+#. ID 1, Page 1, Line 242, Pos (0,0)
+msgid "\\N[27]※请决定主人公的名字。"
+msgstr ""
+
+#. ID 1, Page 1, Line 193, Pos (0,0)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "街头混混"
+msgstr ""
+
+#. ID 1, Page 1, Line 194, Pos (0,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "班"
+msgstr ""
+
+#. ID 1, Page 1, Line 198, Pos (0,0)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "舞女"
+msgstr ""
+
+#. ID 1, Page 1, Line 199, Pos (0,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "艾丽"
+msgstr ""
+
+#. ID 1, Page 1, Line 203, Pos (0,0)
+msgid "\\N[27]※请确定主人公的名字。"
+msgstr ""
+
+#. ID 1, Page 1, Line 213, Pos (0,0)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "魔法师"
+msgstr ""
+
+#. ID 1, Page 1, Line 214, Pos (0,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "阿贝里昂"
+msgstr ""
+
+#. ID 1, Page 1, Line 218, Pos (0,0)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "魔女"
+msgstr ""
+
+#. ID 1, Page 1, Line 219, Pos (0,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "菲"
+msgstr ""
+
+#. ID 1, Page 1, Line 232, Pos (0,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "修行僧"
+msgstr ""
+
+#. ID 1, Page 1, Line 233, Pos (0,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "艾梅克"
+msgstr ""
+
+#. ID 1, Page 1, Line 237, Pos (0,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "大河巫女"
+msgstr ""
+
+#. ID 1, Page 1, Line 238, Pos (0,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "玛娜"
+msgstr ""
+
+#. ID 1, Page 1, Line 254, Pos (0,0)
+#. Choice (3 options)
+msgid ""
+"\\N[27]故事开始\n"
+"\\N[27]改变难易度　现在：\\N[28]\n"
+"\\N[27]重新设定"
+msgstr ""
+
+#. ID 1, Page 1, Line 260, Pos (0,0)
+#. Contains choice at line 2 (3 options)
+#. ID 1, Page 1, Line 284, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※请选择难易度。"
+msgstr ""
+
+#. ID 1, Page 1, Line 261, Pos (0,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\N[27]普通\n"
+"\\N[27]容易　EXP×1.5\n"
+"\\N[27]困难　EXP×0.7"
+msgstr ""
+
+#. ID 1, Page 1, Line 263, Pos (0,0)
+#. ID 1, Page 1, Line 287, Pos (0,0)
+msgid "\\N[27]※设定为普通难度。"
+msgstr ""
+
+#. ID 1, Page 1, Line 268, Pos (0,0)
+#. ID 1, Page 1, Line 292, Pos (0,0)
+msgid ""
+"\\N[27]※事件中能获得的经验值\n"
+"\\N[27]　是普通值的1.5倍。"
+msgstr ""
+
+#. ID 1, Page 1, Line 271, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+#. ID 1, Page 1, Line 295, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+msgctxt "actors.name"
+msgid "容易"
+msgstr ""
+
+#. ID 1, Page 1, Line 274, Pos (0,0)
+msgid ""
+"\\N[27]※事件中能获得的经验值\n"
+"\\N[27]　是普通值的0.7倍。"
+msgstr ""
+
+#. ID 1, Page 1, Line 277, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+msgctxt "actors.name"
+msgid "困难"
+msgstr ""
+
+#. ID 1, Page 1, Line 285, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]普通\n"
+"\\N[27]容易　EXP×1.5"
+msgstr ""
+
+#. ID 1, Page 1, Line 335, Pos (0,0)
+msgid ""
+"\n"
+"\\N[27]　仿佛被什么人呼唤着，朦胧中你来到城镇外的森林。"
+msgstr ""
+
+#. ID 1, Page 1, Line 337, Pos (0,0)
+msgid ""
+"\\N[27]　　　  黎明前的天空，依旧是昏暗一片。\n"
+"\n"
+"\\N[27]   你在黑暗中前行，不久发现了一个洞穴的入口。"
+msgstr ""
+
+#. ID 1, Page 1, Line 340, Pos (0,0)
+msgid ""
+"\\N[27]　几天前被闪电偶然击中，烧得只剩灰烬的树下，\n"
+"\\N[27]　　　　　露出了通往地下的幽深入口。\n"
+"\\N[27]　　　　  里面一片漆黑，看不到尽头。"
+msgstr ""
+
+#. ID 1, Page 1, Line 343, Pos (0,0)
+msgid ""
+"\\N[27]　　　　　　……你却有了某种预感。\n"
+"\n"
+"\\N[27]　　　　　这个洞穴，的的确确是在召唤着你。"
+msgstr ""
+
+#. ID 1, Page 1, Line 346, Pos (0,0)
+msgid ""
+"\n"
+"\\N[27]　　　　　你下定决心，闯进了洞穴中……"
+msgstr ""
+
+#. ID 1, Page 1, Line 409, Pos (0,0)
+msgid ""
+"\\N[27]※请将光标移至右下角闪烁的位置，\n"
+"\\N[27]　然后按下决定键。"
+msgstr ""
+

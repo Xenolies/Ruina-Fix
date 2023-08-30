@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (3,1)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 1, Line 3, Pos (15,1)
+#. Contains choice at line 2 (2 options)
+#. ID 6, Page 1, Line 3, Pos (1,10)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 3, Pos (9,13)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]このマップを出ますか？"
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (3,1)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 4, Pos (15,1)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 4, Pos (1,10)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 4, Pos (9,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+
+#. ID 15, Page 1, Line 2, Pos (5,7)
+#. ID 16, Page 1, Line 2, Pos (9,8)
+msgid ""
+"\\N[27]底の見えない大縦穴の上に、\n"
+"\\N[27]岩でできた島や橋が続いている。"
+msgstr ""
+
+#. ID 30, Page 1, Line 3, Pos (9,10)
+msgid "\\N[27]地面の裂け目を溶岩が流れている。"
+msgstr ""
+
+#. ID 30, Page 1, Line 6, Pos (9,10)
+msgid "\\N[27]地面に大きな裂け目が開いている。"
+msgstr ""
+
+#. ID 30, Page 1, Line 11, Pos (9,10)
+#. Choice (3 options)
+#. ID 36, Page 1, Line 5, Pos (6,12)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"穴を飛び越える\n"
+"ロープを使う\n"
+"やめる"
+msgstr ""
+
+#. ID 30, Page 1, Line 21, Pos (9,10)
+#. ID 36, Page 1, Line 15, Pos (6,12)
+msgid ""
+"\\N[27]負傷者を出しつつも、\n"
+"\\N[27]先へと進むことができた。"
+msgstr ""
+
+#. ID 30, Page 1, Line 25, Pos (9,10)
+#. ID 36, Page 1, Line 19, Pos (6,12)
+msgid "\\N[27]無事に先へと進むことができた。"
+msgstr ""
+
+#. ID 30, Page 1, Line 31, Pos (9,10)
+msgid ""
+"\\N[27]裂け目を飛び越えることにした。\n"
+"\\N[27]運試し！"
+msgstr ""
+
+#. ID 30, Page 1, Line 40, Pos (9,10)
+#. ID 36, Page 1, Line 34, Pos (6,12)
+msgid ""
+"\\N[27]成功！\n"
+"\\N[27]向こう岸に渡った。"
+msgstr ""
+
+#. ID 30, Page 1, Line 45, Pos (9,10)
+#. ID 36, Page 1, Line 39, Pos (6,12)
+msgid ""
+"\\N[27]向こう岸まで届かない！\n"
+"\n"
+"\\N[27]穴の底へと落ちてゆく……。"
+msgstr ""
+
+#. ID 30, Page 1, Line 55, Pos (9,10)
+#. ID 36, Page 1, Line 49, Pos (6,12)
+#. ID 38, Page 1, Line 42, Pos (5,5)
+msgid ""
+"\\N[27]……あちこちにぶつかりながら落下し続けた果てに、\n"
+"\\N[27]床に全身を打ち付けた。"
+msgstr ""
+
+#. ID 30, Page 1, Line 71, Pos (9,10)
+#. ID 36, Page 1, Line 65, Pos (6,12)
+msgid "\\N[27]ロープを渡して通路を作った。"
+msgstr ""
+
+#. ID 30, Page 1, Line 76, Pos (9,10)
+#. ID 36, Page 1, Line 70, Pos (6,12)
+#. ID 38, Page 1, Line 62, Pos (5,5)
+#. ID 38, Page 1, Line 92, Pos (5,5)
+msgid "\\N[27]ロープを持っていない。"
+msgstr ""
+
+#. ID 31, Page 1, Line 2, Pos (5,11)
+msgid ""
+"\\N[27]通路を丸い岩が塞いでいる。\n"
+"\\N[27]\\C[6]腕力\\C[0]のスキルがあれば、岩を動かせる。\n"
+"\\N[27]\\C[6]ツルハシ\\C[0]があれば掘り崩すこともできる。"
+msgstr ""
+
+#. ID 31, Page 1, Line 7, Pos (5,11)
+#. Choice (3 options)
+msgid ""
+"岩を転がす\n"
+"ツルハシを使う\n"
+"やめる"
+msgstr ""
+
+#. ID 31, Page 1, Line 12, Pos (5,11)
+msgid "\\N[27]通路を通れるようになった！"
+msgstr ""
+
+#. ID 31, Page 1, Line 29, Pos (5,11)
+#. ID 37, Page 1, Line 14, Pos (9,4)
+msgid "\\N[27]岩を掘り崩した！"
+msgstr ""
+
+#. ID 31, Page 1, Line 34, Pos (5,11)
+#. ID 37, Page 1, Line 20, Pos (9,4)
+msgid "\\N[27]ツルハシを持っていない。"
+msgstr ""
+
+#. ID 36, Page 1, Line 2, Pos (6,12)
+#. Contains choice at line 2 (3 options)
+msgid "\\N[27]通路の真ん中に穴が開いている。"
+msgstr ""
+
+#. ID 36, Page 1, Line 25, Pos (6,12)
+msgid ""
+"\\N[27]穴を飛び越えることにした。\n"
+"\\N[27]運試し！"
+msgstr ""
+
+#. ID 37, Page 1, Line 2, Pos (9,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]通路は崩れやすそうな岩で塞がれている。\n"
+"\\N[27]\\C[6]ツルハシ\\C[0]を使えば岩を壊せるだろう。"
+msgstr ""
+
+#. ID 37, Page 1, Line 6, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ツルハシを使う\n"
+"やめる"
+msgstr ""
+
+#. ID 38, Page 1, Line 3, Pos (5,5)
+msgid ""
+"\\N[27]深い穴の上に、細い木橋がかかっている。\n"
+"\\N[27]橋はボロボロになっていて、いまにも崩れそうだ。"
+msgstr ""
+
+#. ID 38, Page 1, Line 7, Pos (5,5)
+#. Choice (3 options)
+#. ID 38, Page 1, Line 77, Pos (5,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"橋を渡る\n"
+"ロープを使う\n"
+"やめる"
+msgstr ""
+
+#. ID 38, Page 1, Line 9, Pos (5,5)
+msgid ""
+"\\N[27]木橋を渡ることにした。\n"
+"\\N[27]運試し！"
+msgstr ""
+
+#. ID 38, Page 1, Line 18, Pos (5,5)
+msgid ""
+"\\N[27]成功！\n"
+"\\N[27]問題なく橋を渡った。"
+msgstr ""
+
+#. ID 38, Page 1, Line 24, Pos (5,5)
+msgid ""
+"\\N[27]途中で木橋が崩れ落ちた！\n"
+"\n"
+"\\N[27]溶岩流に落ちてゆく……。"
+msgstr ""
+
+#. ID 38, Page 1, Line 32, Pos (5,5)
+msgid ""
+"\\N[27]途中で木橋が崩れ落ちた！\n"
+"\n"
+"\\N[27]穴の底へと落ちてゆく……。"
+msgstr ""
+
+#. ID 38, Page 1, Line 56, Pos (5,5)
+#. ID 38, Page 1, Line 86, Pos (5,5)
+msgid ""
+"\\N[27]念のため、橋のたもとに結んだ\n"
+"\\N[27]ロープを握りながら橋を渡った。"
+msgstr ""
+
+#. ID 38, Page 1, Line 74, Pos (5,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\N[27]深い穴の上に、細い木橋がかかっている。"
+msgstr ""
+
+#. ID 38, Page 1, Line 80, Pos (5,5)
+msgid "\\N[27]問題なく向こう岸にたどり着いた。"
+msgstr ""
+

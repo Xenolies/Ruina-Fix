@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"\\N[27]　　　――无常人生，直至死亡瞬间才能走完。\n"
+"\\N[27]　　　　　　　　   不论何等勇者，\n"
+"\\N[27]　　　      最终也未必会迎来美满的结局。"
+msgstr ""
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"\\N[27]　　　　 不过，故事的结局却常与幸福为伴。\n"
+"\\N[27]　　             这段故事也是如此，\n"
+"\\N[27]　　　　  暂且就以皆大欢喜的胜利告终吧。"
+msgstr ""
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"\n"
+"\\S[2]　　　于是，故事就此结束，冒险仍将继续――\n"
+"\\|\\|\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 6, Pos (1,1)
+msgid "\\> \\V[459]"
+msgstr ""
+

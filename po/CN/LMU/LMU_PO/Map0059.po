@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 1, Line 3, Pos (16,3)
+#. Contains choice at line 2 (2 options)
+#. ID 6, Page 1, Line 3, Pos (9,12)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]要离开迷宫吗？"
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 4, Pos (16,3)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 4, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"是\n"
+"否"
+msgstr ""
+
+#. ID 19, Page 1, Line 3, Pos (12,11)
+#. ID 20, Page 1, Line 3, Pos (8,10)
+#. ID 23, Page 1, Line 3, Pos (4,9)
+#. ID 27, Page 1, Line 3, Pos (12,7)
+#. ID 30, Page 1, Line 3, Pos (6,4)
+msgid "\\N[27]岩浆自地面的裂口中流淌而出。"
+msgstr ""
+
+#. ID 19, Page 1, Line 6, Pos (12,11)
+#. ID 20, Page 1, Line 6, Pos (8,10)
+#. ID 23, Page 1, Line 6, Pos (4,9)
+#. ID 27, Page 1, Line 6, Pos (12,7)
+#. ID 30, Page 1, Line 6, Pos (6,4)
+msgid "\\N[27]地面上裂开了一道大口。"
+msgstr ""
+
+#. ID 19, Page 1, Line 11, Pos (12,11)
+#. Choice (3 options)
+#. ID 20, Page 1, Line 11, Pos (8,10)
+#. Choice (3 options)
+#. ID 23, Page 1, Line 11, Pos (4,9)
+#. Choice (3 options)
+#. ID 27, Page 1, Line 11, Pos (12,7)
+#. Choice (3 options)
+#. ID 30, Page 1, Line 11, Pos (6,4)
+#. Choice (3 options)
+msgid ""
+"跳过裂口\n"
+"使用绳索\n"
+"算了"
+msgstr ""
+
+#. ID 19, Page 1, Line 21, Pos (12,11)
+#. ID 20, Page 1, Line 21, Pos (8,10)
+#. ID 23, Page 1, Line 21, Pos (4,9)
+#. ID 27, Page 1, Line 21, Pos (12,7)
+#. ID 30, Page 1, Line 21, Pos (6,4)
+msgid ""
+"\\N[27]虽然出现了负伤者，\n"
+"\\N[27]但你们得以继续前进了。"
+msgstr ""
+
+#. ID 19, Page 1, Line 25, Pos (12,11)
+#. ID 20, Page 1, Line 25, Pos (8,10)
+#. ID 23, Page 1, Line 25, Pos (4,9)
+#. ID 27, Page 1, Line 25, Pos (12,7)
+#. ID 30, Page 1, Line 25, Pos (6,4)
+msgid "\\N[27]平安无事地通过了。"
+msgstr ""
+
+#. ID 19, Page 1, Line 31, Pos (12,11)
+#. ID 20, Page 1, Line 31, Pos (8,10)
+#. ID 23, Page 1, Line 31, Pos (4,9)
+#. ID 27, Page 1, Line 31, Pos (12,7)
+#. ID 30, Page 1, Line 31, Pos (6,4)
+msgid ""
+"\\N[27]你尝试跳过裂口。\n"
+"\\N[27]碰碰运气吧！"
+msgstr ""
+
+#. ID 19, Page 1, Line 43, Pos (12,11)
+#. ID 20, Page 1, Line 43, Pos (8,10)
+#. ID 23, Page 1, Line 43, Pos (4,9)
+#. ID 27, Page 1, Line 43, Pos (12,7)
+#. ID 30, Page 1, Line 43, Pos (6,4)
+msgid ""
+"\\N[27]成功了！\n"
+"\\N[27]你跳到了对面。"
+msgstr ""
+
+#. ID 19, Page 1, Line 48, Pos (12,11)
+#. ID 20, Page 1, Line 48, Pos (8,10)
+#. ID 23, Page 1, Line 48, Pos (4,9)
+#. ID 27, Page 1, Line 48, Pos (12,7)
+#. ID 30, Page 1, Line 48, Pos (6,4)
+msgid ""
+"\\N[27]没能跳到对面！\n"
+"\n"
+"\\N[27]你落向了坑洞之底……"
+msgstr ""
+
+#. ID 19, Page 1, Line 58, Pos (12,11)
+#. ID 20, Page 1, Line 58, Pos (8,10)
+#. ID 23, Page 1, Line 58, Pos (4,9)
+#. ID 24, Page 1, Line 45, Pos (9,9)
+#. ID 26, Page 2, Line 45, Pos (6,8)
+#. ID 27, Page 1, Line 58, Pos (12,7)
+#. ID 28, Page 2, Line 45, Pos (11,6)
+#. ID 29, Page 1, Line 45, Pos (15,5)
+#. ID 30, Page 1, Line 58, Pos (6,4)
+#. ID 34, Page 2, Line 45, Pos (4,5)
+#. ID 38, Page 2, Line 45, Pos (14,8)
+#. ID 42, Page 2, Line 45, Pos (12,2)
+msgid ""
+"\\N[27]……你东磕西撞地一路跌下，\n"
+"\\N[27]最后在地板上摔得遍体鳞伤。"
+msgstr ""
+
+#. ID 19, Page 1, Line 74, Pos (12,11)
+#. ID 20, Page 1, Line 74, Pos (8,10)
+#. ID 23, Page 1, Line 74, Pos (4,9)
+#. ID 27, Page 1, Line 74, Pos (12,7)
+#. ID 30, Page 1, Line 75, Pos (6,4)
+msgid "\\N[27]你用绳索搭出了一条路来。"
+msgstr ""
+
+#. ID 19, Page 1, Line 79, Pos (12,11)
+#. ID 20, Page 1, Line 79, Pos (8,10)
+#. ID 23, Page 1, Line 79, Pos (4,9)
+#. ID 24, Page 1, Line 65, Pos (9,9)
+#. ID 24, Page 1, Line 95, Pos (9,9)
+#. ID 26, Page 2, Line 65, Pos (6,8)
+#. ID 26, Page 2, Line 95, Pos (6,8)
+#. ID 27, Page 1, Line 79, Pos (12,7)
+#. ID 28, Page 2, Line 65, Pos (11,6)
+#. ID 28, Page 2, Line 95, Pos (11,6)
+#. ID 29, Page 1, Line 65, Pos (15,5)
+#. ID 29, Page 1, Line 95, Pos (15,5)
+#. ID 30, Page 1, Line 80, Pos (6,4)
+#. ID 34, Page 2, Line 65, Pos (4,5)
+#. ID 34, Page 2, Line 95, Pos (4,5)
+#. ID 38, Page 2, Line 65, Pos (14,8)
+#. ID 38, Page 2, Line 95, Pos (14,8)
+#. ID 42, Page 2, Line 65, Pos (12,2)
+#. ID 42, Page 2, Line 95, Pos (12,2)
+msgid "\\N[27]没有绳索了。"
+msgstr ""
+
+#. ID 24, Page 1, Line 3, Pos (9,9)
+#. ID 26, Page 2, Line 3, Pos (6,8)
+#. ID 28, Page 2, Line 3, Pos (11,6)
+#. ID 29, Page 1, Line 3, Pos (15,5)
+#. ID 34, Page 2, Line 3, Pos (4,5)
+#. ID 38, Page 2, Line 3, Pos (14,8)
+#. ID 42, Page 2, Line 3, Pos (12,2)
+msgid ""
+"\\N[27]在一个深深的坑洞上，架着一座细细的木桥。\n"
+"\\N[27]木桥已经变得破烂不堪，看起来随时都会坍塌。"
+msgstr ""
+
+#. ID 24, Page 1, Line 7, Pos (9,9)
+#. Choice (3 options)
+#. ID 24, Page 1, Line 80, Pos (9,9)
+#. Choice (3 options, embedded in a message)
+#. ID 26, Page 2, Line 7, Pos (6,8)
+#. Choice (3 options)
+#. ID 26, Page 2, Line 80, Pos (6,8)
+#. Choice (3 options, embedded in a message)
+#. ID 28, Page 2, Line 7, Pos (11,6)
+#. Choice (3 options)
+#. ID 28, Page 2, Line 80, Pos (11,6)
+#. Choice (3 options, embedded in a message)
+#. ID 29, Page 1, Line 7, Pos (15,5)
+#. Choice (3 options)
+#. ID 29, Page 1, Line 80, Pos (15,5)
+#. Choice (3 options, embedded in a message)
+#. ID 34, Page 2, Line 7, Pos (4,5)
+#. Choice (3 options)
+#. ID 34, Page 2, Line 80, Pos (4,5)
+#. Choice (3 options, embedded in a message)
+#. ID 38, Page 2, Line 7, Pos (14,8)
+#. Choice (3 options)
+#. ID 38, Page 2, Line 80, Pos (14,8)
+#. Choice (3 options, embedded in a message)
+#. ID 42, Page 2, Line 7, Pos (12,2)
+#. Choice (3 options)
+#. ID 42, Page 2, Line 80, Pos (12,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"过桥\n"
+"使用绳索\n"
+"算了"
+msgstr ""
+
+#. ID 24, Page 1, Line 9, Pos (9,9)
+#. ID 26, Page 2, Line 9, Pos (6,8)
+#. ID 28, Page 2, Line 9, Pos (11,6)
+#. ID 29, Page 1, Line 9, Pos (15,5)
+#. ID 34, Page 2, Line 9, Pos (4,5)
+#. ID 38, Page 2, Line 9, Pos (14,8)
+#. ID 42, Page 2, Line 9, Pos (12,2)
+msgid ""
+"\\N[27]你尝试渡过木桥。\n"
+"\\N[27]碰碰运气吧！"
+msgstr ""
+
+#. ID 24, Page 1, Line 21, Pos (9,9)
+#. ID 26, Page 2, Line 21, Pos (6,8)
+#. ID 28, Page 2, Line 21, Pos (11,6)
+#. ID 29, Page 1, Line 21, Pos (15,5)
+#. ID 34, Page 2, Line 21, Pos (4,5)
+#. ID 38, Page 2, Line 21, Pos (14,8)
+#. ID 42, Page 2, Line 21, Pos (12,2)
+msgid ""
+"\\N[27]成功了！\n"
+"\\N[27]你平安无事地渡到了桥对面。"
+msgstr ""
+
+#. ID 24, Page 1, Line 27, Pos (9,9)
+#. ID 26, Page 2, Line 27, Pos (6,8)
+#. ID 28, Page 2, Line 27, Pos (11,6)
+#. ID 29, Page 1, Line 27, Pos (15,5)
+#. ID 34, Page 2, Line 27, Pos (4,5)
+#. ID 38, Page 2, Line 27, Pos (14,8)
+#. ID 42, Page 2, Line 27, Pos (12,2)
+msgid ""
+"\\N[27]木桥在途中坍塌了！\n"
+"\n"
+"\\N[27]你落向了岩浆之中……"
+msgstr ""
+
+#. ID 24, Page 1, Line 35, Pos (9,9)
+#. ID 26, Page 2, Line 35, Pos (6,8)
+#. ID 28, Page 2, Line 35, Pos (11,6)
+#. ID 29, Page 1, Line 35, Pos (15,5)
+#. ID 34, Page 2, Line 35, Pos (4,5)
+#. ID 38, Page 2, Line 35, Pos (14,8)
+#. ID 42, Page 2, Line 35, Pos (12,2)
+msgid ""
+"\\N[27]木桥在途中坍塌了！\n"
+"\n"
+"\\N[27]你落向了坑洞之底……"
+msgstr ""
+
+#. ID 24, Page 1, Line 59, Pos (9,9)
+#. ID 24, Page 1, Line 89, Pos (9,9)
+#. ID 26, Page 2, Line 59, Pos (6,8)
+#. ID 26, Page 2, Line 89, Pos (6,8)
+#. ID 28, Page 2, Line 59, Pos (11,6)
+#. ID 28, Page 2, Line 89, Pos (11,6)
+#. ID 29, Page 1, Line 59, Pos (15,5)
+#. ID 29, Page 1, Line 89, Pos (15,5)
+#. ID 34, Page 2, Line 59, Pos (4,5)
+#. ID 34, Page 2, Line 89, Pos (4,5)
+#. ID 38, Page 2, Line 59, Pos (14,8)
+#. ID 38, Page 2, Line 89, Pos (14,8)
+#. ID 42, Page 2, Line 59, Pos (12,2)
+#. ID 42, Page 2, Line 89, Pos (12,2)
+msgid ""
+"\\N[27]以防万一，你先把绳索捆在桥边，\n"
+"\\N[27]才握着绳子开始渡桥。"
+msgstr ""
+
+#. ID 24, Page 1, Line 77, Pos (9,9)
+#. Contains choice at line 2 (3 options)
+#. ID 26, Page 2, Line 77, Pos (6,8)
+#. Contains choice at line 2 (3 options)
+#. ID 28, Page 2, Line 77, Pos (11,6)
+#. Contains choice at line 2 (3 options)
+#. ID 29, Page 1, Line 77, Pos (15,5)
+#. Contains choice at line 2 (3 options)
+#. ID 34, Page 2, Line 77, Pos (4,5)
+#. Contains choice at line 2 (3 options)
+#. ID 38, Page 2, Line 77, Pos (14,8)
+#. Contains choice at line 2 (3 options)
+#. ID 42, Page 2, Line 77, Pos (12,2)
+#. Contains choice at line 2 (3 options)
+msgid "\\N[27]在一个深深的坑洞上，架着一座细细的木桥。"
+msgstr ""
+
+#. ID 24, Page 1, Line 83, Pos (9,9)
+#. ID 26, Page 2, Line 83, Pos (6,8)
+#. ID 28, Page 2, Line 83, Pos (11,6)
+#. ID 29, Page 1, Line 83, Pos (15,5)
+#. ID 34, Page 2, Line 83, Pos (4,5)
+#. ID 38, Page 2, Line 83, Pos (14,8)
+msgid "\\N[27]你顺利抵达了对岸。"
+msgstr ""
+
+#. ID 42, Page 2, Line 83, Pos (12,2)
+msgid "\\N[27]你平安无事地渡到了桥对面。"
+msgstr ""
+

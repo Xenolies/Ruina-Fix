@@ -1,0 +1,12728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "戦士"
+msgstr ""
+
+#. ID 1
+msgctxt "actors.title"
+msgid "騎士見習い"
+msgstr ""
+
+#. ID 2
+msgctxt "actors.name"
+msgid "盗賊"
+msgstr ""
+
+#. ID 2
+msgctxt "actors.title"
+msgid "町のチンピラ"
+msgstr ""
+
+#. ID 3
+msgctxt "actors.name"
+msgid "魔術師"
+msgstr ""
+
+#. ID 3
+#. ID 19
+msgctxt "actors.title"
+msgid "まじない師"
+msgstr ""
+
+#. ID 4
+msgctxt "actors.name"
+msgid "神官"
+msgstr ""
+
+#. ID 4
+msgctxt "actors.title"
+msgid "学僧"
+msgstr ""
+
+#. ID 5
+msgctxt "actors.name"
+msgid "パリス"
+msgstr ""
+
+#. ID 5
+msgctxt "actors.title"
+msgid "無頼漢"
+msgstr ""
+
+#. ID 6
+msgctxt "actors.name"
+msgid "ネル"
+msgstr ""
+
+#. ID 6
+msgctxt "actors.title"
+msgid "雑貨屋の娘"
+msgstr ""
+
+#. ID 7
+msgctxt "actors.name"
+msgid "ラバン"
+msgstr ""
+
+#. ID 7
+msgctxt "actors.title"
+msgid "風来坊"
+msgstr ""
+
+#. ID 8
+msgctxt "actors.name"
+msgid "キレハ"
+msgstr ""
+
+#. ID 8
+msgctxt "actors.title"
+msgid "遊牧民"
+msgstr ""
+
+#. ID 9
+msgctxt "actors.name"
+msgid "シーフォン"
+msgstr ""
+
+#. ID 9
+msgctxt "actors.title"
+msgid "妖術師"
+msgstr ""
+
+#. ID 10
+msgctxt "actors.name"
+msgid "テレージャ"
+msgstr ""
+
+#. ID 10
+msgctxt "actors.title"
+msgid "天秤の巫女"
+msgstr ""
+
+#. ID 11
+msgctxt "actors.name"
+msgid "アルソン"
+msgstr ""
+
+#. ID 11
+msgctxt "actors.title"
+msgid "騎士"
+msgstr ""
+
+#. ID 12
+msgctxt "actors.name"
+msgid "エンダ"
+msgstr ""
+
+#. ID 12
+msgctxt "actors.title"
+msgid "竜人"
+msgstr ""
+
+#. ID 13
+msgctxt "actors.name"
+msgid "フラン"
+msgstr ""
+
+#. ID 13
+msgctxt "actors.title"
+msgid "女中"
+msgstr ""
+
+#. ID 13
+msgctxt "actors.skill_name"
+msgid "忍術"
+msgstr ""
+
+#. ID 14
+msgctxt "actors.name"
+msgid "メロダーク"
+msgstr ""
+
+#. ID 14
+msgctxt "actors.title"
+msgid "傭兵"
+msgstr ""
+
+#. ID 16
+msgctxt "actors.name"
+msgid "偉大なる種族"
+msgstr ""
+
+#. ID 16
+msgctxt "actors.title"
+msgid "異星人"
+msgstr ""
+
+#. ID 17
+msgctxt "actors.name"
+msgid "ダリム"
+msgstr ""
+
+#. ID 17
+msgctxt "actors.title"
+msgid "編髭の小人族"
+msgstr ""
+
+#. ID 18
+msgctxt "actors.name"
+msgid "ルギルダ"
+msgstr ""
+
+#. ID 18
+msgctxt "actors.title"
+msgid "仙女"
+msgstr ""
+
+#. ID 19
+msgctxt "actors.name"
+msgid "デネロス"
+msgstr ""
+
+#. ID 20
+msgctxt "actors.name"
+msgid "チュナ"
+msgstr ""
+
+#. ID 20
+msgctxt "actors.title"
+msgid "子供"
+msgstr ""
+
+#. ID 22
+msgctxt "actors.name"
+msgid "テスト"
+msgstr ""
+
+#. ID 23
+msgctxt "actors.name"
+msgid "テスト装備付"
+msgstr ""
+
+#. ID 24
+msgctxt "actors.name"
+msgid "テスト戦闘"
+msgstr ""
+
+#. ID 27
+msgctxt "actors.name"
+msgid "\\S[1]"
+msgstr ""
+
+#. ID 28
+msgctxt "actors.name"
+msgid "文字入力"
+msgstr ""
+
+#. ID 30
+msgctxt "actors.name"
+msgid "機敏"
+msgstr ""
+
+#. ID 31
+msgctxt "actors.name"
+msgid "生存術"
+msgstr ""
+
+#. ID 32
+msgctxt "actors.name"
+msgid "危険感知"
+msgstr ""
+
+#. ID 33
+msgctxt "actors.name"
+msgid "盗賊の技"
+msgstr ""
+
+#. ID 34
+msgctxt "actors.name"
+msgid "腕力"
+msgstr ""
+
+#. ID 35
+msgctxt "actors.name"
+msgid "古代知識"
+msgstr ""
+
+#. ID 40
+msgctxt "actors.name"
+msgid "2機敏"
+msgstr ""
+
+#. ID 41
+msgctxt "actors.name"
+msgid "2生存術"
+msgstr ""
+
+#. ID 42
+msgctxt "actors.name"
+msgid "2危険感知"
+msgstr ""
+
+#. ID 43
+msgctxt "actors.name"
+msgid "2盗賊の技"
+msgstr ""
+
+#. ID 44
+msgctxt "actors.name"
+msgid "2腕力"
+msgstr ""
+
+#. ID 45
+msgctxt "actors.name"
+msgid "2古代知識"
+msgstr ""
+
+#. ID 50
+msgctxt "actors.name"
+msgid "3機敏"
+msgstr ""
+
+#. ID 51
+msgctxt "actors.name"
+msgid "3生存術"
+msgstr ""
+
+#. ID 52
+msgctxt "actors.name"
+msgid "3危険感知"
+msgstr ""
+
+#. ID 53
+msgctxt "actors.name"
+msgid "3盗賊の技"
+msgstr ""
+
+#. ID 54
+msgctxt "actors.name"
+msgid "3腕力"
+msgstr ""
+
+#. ID 55
+msgctxt "actors.name"
+msgid "3古代知識"
+msgstr ""
+
+#. ID 60
+msgctxt "actors.name"
+msgid "4機敏"
+msgstr ""
+
+#. ID 61
+msgctxt "actors.name"
+msgid "4生存術"
+msgstr ""
+
+#. ID 62
+msgctxt "actors.name"
+msgid "4危険感知"
+msgstr ""
+
+#. ID 63
+msgctxt "actors.name"
+msgid "4盗賊の技"
+msgstr ""
+
+#. ID 64
+msgctxt "actors.name"
+msgid "4腕力"
+msgstr ""
+
+#. ID 65
+msgctxt "actors.name"
+msgid "4古代知識"
+msgstr ""
+
+#. ID 71
+msgctxt "actors.name"
+msgid "兄さん/姉さ"
+msgstr ""
+
+#. ID 72
+msgctxt "actors.name"
+msgid "彼/彼女"
+msgstr ""
+
+#. ID 73
+msgctxt "actors.name"
+msgid "お父/お母"
+msgstr ""
+
+#. ID 75
+msgctxt "actors.name"
+msgid "素材1"
+msgstr ""
+
+#. ID 76
+msgctxt "actors.name"
+msgid "素材2"
+msgstr ""
+
+#. ID 77
+msgctxt "actors.name"
+msgid "素材3"
+msgstr ""
+
+#. ID 78
+msgctxt "actors.name"
+msgid "生成アイテム"
+msgstr ""
+
+#. ID 79
+msgctxt "actors.name"
+msgid "生成ｱｲﾃﾑ2"
+msgstr ""
+
+#. ID 80
+msgctxt "actors.name"
+msgid "１人目Ａ"
+msgstr ""
+
+#. ID 81
+msgctxt "actors.name"
+msgid "１人目Ｂ"
+msgstr ""
+
+#. ID 83
+msgctxt "actors.name"
+msgid "２人目Ａ"
+msgstr ""
+
+#. ID 84
+msgctxt "actors.name"
+msgid "２人目Ｂ"
+msgstr ""
+
+#. ID 86
+msgctxt "actors.name"
+msgid "３人目Ａ"
+msgstr ""
+
+#. ID 87
+msgctxt "actors.name"
+msgid "３人目Ｂ"
+msgstr ""
+
+#. ID 89
+msgctxt "actors.name"
+msgid "４人目Ａ"
+msgstr ""
+
+#. ID 90
+msgctxt "actors.name"
+msgid "４人目Ｂ"
+msgstr ""
+
+#. ID 93
+msgctxt "actors.name"
+msgid "アイテム1"
+msgstr ""
+
+#. ID 94
+msgctxt "actors.name"
+msgid "アイテム2"
+msgstr ""
+
+#. ID 96
+msgctxt "actors.name"
+msgid "称号名"
+msgstr ""
+
+#. ID 98
+msgctxt "actors.name"
+msgid "素材1-2"
+msgstr ""
+
+#. ID 99
+msgctxt "actors.name"
+msgid "素材2-2"
+msgstr ""
+
+#. ID 101
+msgctxt "actors.name"
+msgid "御使い"
+msgstr ""
+
+#. ID 102
+msgctxt "actors.name"
+msgid "102"
+msgstr ""
+
+#. ID 103
+msgctxt "actors.name"
+msgid "103"
+msgstr ""
+
+#. ID 104
+msgctxt "actors.name"
+msgid "泉の貴婦人"
+msgstr ""
+
+#. ID 105
+msgctxt "actors.name"
+msgid "塚護人"
+msgstr ""
+
+#. ID 106
+msgctxt "actors.name"
+msgid "風に乗るもの"
+msgstr ""
+
+#. ID 107
+msgctxt "actors.name"
+msgid "剣の精霊"
+msgstr ""
+
+#. ID 108
+msgctxt "actors.name"
+msgid "108"
+msgstr ""
+
+#. ID 109
+msgctxt "actors.name"
+msgid "魔神"
+msgstr ""
+
+#. ID 110
+msgctxt "actors.name"
+msgid "110"
+msgstr ""
+
+#. ID 111
+msgctxt "actors.name"
+msgid "111"
+msgstr ""
+
+#. ID 112
+msgctxt "actors.name"
+msgid "コート"
+msgstr ""
+
+#. ID 113
+msgctxt "actors.name"
+msgid "黒陰"
+msgstr ""
+
+#. ID 114
+msgctxt "actors.name"
+msgid "ホルガー"
+msgstr ""
+
+#. ID 115
+msgctxt "actors.name"
+msgid "Ｂプディング"
+msgstr ""
+
+#. ID 116
+msgctxt "actors.name"
+msgid "人工精霊８号"
+msgstr ""
+
+#. ID 117
+msgctxt "actors.name"
+msgid "117"
+msgstr ""
+
+#. ID 118
+msgctxt "actors.name"
+msgid "118"
+msgstr ""
+
+#. ID 119
+msgctxt "actors.name"
+msgid "119"
+msgstr ""
+
+#. ID 120
+msgctxt "actors.name"
+msgid "120"
+msgstr ""
+
+#. ID 122
+msgctxt "actors.name"
+msgid "人工精霊ﾃｽﾄ"
+msgstr ""
+
+#. ID 125
+msgctxt "actors.name"
+msgid "乱数ﾏｯﾌﾟ敵名"
+msgstr ""
+
+#. ID 130
+msgctxt "actors.name"
+msgid "テオル"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.name"
+msgid "テスト$n"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.using_message1"
+msgid "はテストを放った！"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.name"
+msgid "テスト2"
+msgstr ""
+
+#. ID 3
+msgctxt "skills.name"
+msgid "テスト3"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.name"
+msgid "※螢火"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.description"
+msgid "魔法の照明を点ける。ランタンの代わりになる。"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.name"
+msgid "※ともしび"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.description"
+msgid "暗闇を照らす。ランタンの代わりになる。"
+msgstr ""
+
+#. ID 6
+msgctxt "skills.name"
+msgid "↓得意.普通.暗黒の順"
+msgstr ""
+
+#. ID 7
+#. ID 8
+#. ID 9
+msgctxt "skills.name"
+msgid "※料理"
+msgstr ""
+
+#. ID 7
+msgctxt "skills.description"
+msgid "食材を加工して上手に料理を作る。"
+msgstr ""
+
+#. ID 7
+#. ID 8
+#. ID 9
+msgctxt "skills.using_message1"
+msgid "は料理を始めた！"
+msgstr ""
+
+#. ID 8
+msgctxt "skills.description"
+msgid "食材を加工して簡単な料理を作る。"
+msgstr ""
+
+#. ID 9
+msgctxt "skills.description"
+msgid "食材を加工して料理を作れたらいいですね。"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.name"
+msgid "※調合"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.description"
+msgid "薬や装飾品などを作成する。"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.using_message1"
+msgid "は調合を使った！"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.name"
+msgid "※武器作成"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.description"
+msgid "素材を消費して武器を作る。"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.using_message1"
+msgid "は武器鍛冶を使った！"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.name"
+msgid "※防具作成"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.description"
+msgid "素材を消費して防具を作る。"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.using_message1"
+msgid "は防具鍛冶を使った！"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.name"
+msgid "※工芸ボツ"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.description"
+msgid "非金属が主材料の武具や特殊な品を作る。"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.using_message1"
+msgid "は工芸を使った！"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.name"
+msgid "※裁縫ボツ"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.description"
+msgid "布が主材料の防具を作る。"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.using_message1"
+msgid "は裁縫を使った！"
+msgstr ""
+
+#. ID 20
+msgctxt "skills.name"
+msgid "20"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.name"
+msgid "※忍び足"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.description"
+msgid "敵に見つからないよう歩き、遭遇率を減らす。"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.using_message1"
+msgid "は忍び足を使った！"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.name"
+msgid "※魔物よけ"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.description"
+msgid "結界を張り、敵との遭遇率を減らす。"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.using_message1"
+msgid "は魔物よけを使った！"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.name"
+msgid "※ダウジング"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.description"
+msgid "資材などの入手率を上げる？"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.using_message1"
+msgid "はダウジングを使った！"
+msgstr ""
+
+#. ID 25
+msgctxt "skills.name"
+msgid "■■■回復魔法"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.name"
+msgid "◎応急手当"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.description"
+msgid "HPを回復させる。回24/回"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.using_message1"
+msgid "は応急手当を使った！"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.name"
+msgid "◎$C治癒術"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.description"
+msgid "HPを回復させる。効果値90/魔/回"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.using_message1"
+msgid "は傷口に触れた！"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.name"
+msgid "◎$C再生術"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.description"
+msgid "HPを全快させる。/魔/回"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.using_message1"
+msgid "は再生術を使った！"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.name"
+msgid "◎$C治癒の力場"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.description"
+msgid "仲間全員のHPを回復させる。効果値42/魔/全/回"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.using_message1"
+msgid "は治癒の力場を使った！"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.name"
+msgid "◎$C再生の力場"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.description"
+msgid "仲間全員のHPを回復させる。効果値100/魔/全/回/"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.using_message1"
+msgid "は再生の力場を使った！"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.name"
+msgid "◎$C病祓い"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.description"
+msgid "味方全体の肉体的な異常を治療する/魔/全/治(減劣)"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.using_message1"
+msgid "は病祓いを使った！"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "◎$C憂い祓い"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.description"
+msgid "味方全体の精神的異常を治療する/魔/全/治(停制乱)"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.using_message1"
+msgid "は憂い払いを使った！"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.name"
+msgid "◎$C禍祓い"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.description"
+msgid "死と特殊を除く状態異常を全体治療する。魔/全/治(全)"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.using_message1"
+msgid "は禍祓いを使った！"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.name"
+msgid "◎$C蘇生の秘儀"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.description"
+msgid "戦闘不能を治療し、HPを少し回復。回58/魔/回蘇"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.using_message1"
+msgid "は蘇生の秘儀を使った！"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.name"
+msgid "◎$C復活の秘儀"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.description"
+msgid "戦闘不能を治療し、HPを全快させる/魔/回蘇"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.using_message1"
+msgid "は復活の秘儀を使った！"
+msgstr ""
+
+#. ID 39
+msgctxt "skills.name"
+msgid "※イーテリオのかけら"
+msgstr ""
+
+#. ID 39
+#. ID 40
+msgctxt "skills.description"
+msgid "死と特殊を含む全状態異常を治療。/全体/治(全)"
+msgstr ""
+
+#. ID 39
+#. ID 40
+msgctxt "skills.using_message1"
+msgid "はイーテリオのかけらを使った！"
+msgstr ""
+
+#. ID 39
+#. ID 40
+msgctxt "skills.using_message2"
+msgid "清らかな空間が広がる！"
+msgstr ""
+
+#. ID 40
+msgctxt "skills.name"
+msgid "◎イーテリオのかけら"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.name"
+msgid "◎$Bｱｰｸﾌｨｱの加護"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.description"
+msgid "ほぼ完全回復と、魔法への耐性。/全/回/治(全)/耐:魔"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.using_message1"
+msgid "は大河の女神の加護を求めた！"
+msgstr ""
+
+#. ID 41
+#. ID 254
+msgctxt "skills.using_message2"
+msgid "女神の指先が触れる！"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.name"
+msgid "◎不屈"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.description"
+msgid "自身のHP回復と全状態異常の治療。回120/回治"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.using_message1"
+msgid "は不屈を使った！"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.name"
+msgid "◎神聖介入ﾎﾞﾂ"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.description"
+msgid "味方全員のHP全快、蘇生、全異常を治療/全/回蘇治"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.using_message1"
+msgid "は神聖介入を使った！"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.using_message2"
+msgid "神の手が触れる！"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.name"
+msgid "◎助力"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.description"
+msgid "仲間一人に10点のMPを分け与える。効10/MP"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.using_message1"
+msgid "は仲間を手助けした！"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.name"
+msgid "◎みんながんばれ"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.description"
+msgid "仲間全員に10点のMPを分け与える。効10/全/MP"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.using_message1"
+msgid "は声援を送った！"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.name"
+msgid "◎$Bいのちをだいじに"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.description"
+msgid "仲間全員の防御を上げつつHP回復。効0/全/回防"
+msgstr ""
+
+#. ID 46
+#. ID 294
+msgctxt "skills.using_message1"
+msgid "は応援した！"
+msgstr ""
+
+#. ID 48
+msgctxt "skills.name"
+msgid "■■■■召喚"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.name"
+msgid "※精霊の召喚"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.description"
+msgid "精霊を従者として召喚する。"
+msgstr ""
+
+#. ID 50
+msgctxt "skills.name"
+msgid "※妖魔の召喚"
+msgstr ""
+
+#. ID 50
+msgctxt "skills.description"
+msgid "妖魔を従者として召喚する。"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.name"
+msgid "※従者の創造"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.name"
+msgid "※御使いの召喚"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.description"
+msgid "神の御使いを召喚する。"
+msgstr ""
+
+#. ID 53
+msgctxt "skills.name"
+msgid "※獣呼び"
+msgstr ""
+
+#. ID 53
+msgctxt "skills.description"
+msgid "獣を従者として召喚する。"
+msgstr ""
+
+#. ID 54
+msgctxt "skills.name"
+msgid "※人工精霊の召喚"
+msgstr ""
+
+#. ID 54
+msgctxt "skills.description"
+msgid "人工精霊を従者として召喚する。"
+msgstr ""
+
+#. ID 55
+msgctxt "skills.name"
+msgid "■■■■攻撃"
+msgstr ""
+
+#. ID 56
+msgctxt "skills.name"
+msgid "----ランク5攻撃技"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.name"
+msgid "$Aおぞましき鉄串"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.description"
+msgid "恐怖の全体貫通攻撃。ダ×2/突長/全/縛/防無"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.using_message1"
+msgid "はおぞましき鉄串を放った！"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.using_message2"
+msgid "連続貫通！"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.name"
+msgid "$A大勝負"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.description"
+msgid "当たるかどうかは運次第。攻300/全"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.using_message1"
+msgid "は大勝負を使った！"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.using_message2"
+msgid "「生きるか死ぬかの大バクチ！」"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.name"
+msgid "$A薔薇の剣"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.description"
+msgid "強力な突き攻撃。低命中率。攻35ダ×3/突/出血"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.using_message1"
+msgid "は薔薇の剣を放った！"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.using_message2"
+msgid "「薔薇のごとく散れ！」"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.name"
+msgid "$A大あばれ"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.description"
+msgid "敵全体に強力な打撃。ダ×1.5/全/衝撃"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.using_message1"
+msgid "はあばれ回った！"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.using_message2"
+msgid "「このこのこのっ！」"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.name"
+msgid "$A流星剣"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.description"
+msgid "神速の斬撃。攻180/斬/必中"
+msgstr ""
+
+#. ID 62
+#. ID 341
+msgctxt "skills.using_message1"
+msgid "は流星剣を放った！"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.name"
+msgid "$A城門落とし"
+msgstr ""
+
+#. ID 63
+#. ID 357
+msgctxt "skills.description"
+msgid "防御無効の重攻撃。攻52/重/防無"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.using_message1"
+msgid "は城門落としを放った！"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.name"
+msgid "$A一騎当千"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.description"
+msgid "敵陣を突破する攻撃。攻30/長/全"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.using_message1"
+msgid "の単騎突撃！！"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.name"
+msgid "$A月相閃"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.description"
+msgid "敵を忘我させる魔剣。攻80/暗/停止"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.using_message1"
+msgid "の刃が円を描く！"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.name"
+msgid "$A陰陽殺"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.description"
+msgid "強力な連続攻撃。ダ×3/暗/出血"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.using_message1"
+msgid "は陰陽殺を放った！"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.name"
+msgid "$A魔弾"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.description"
+msgid "敵を吹き飛ばす必中射撃。攻65/射/必中/衝撃/防無対獣"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.using_message1"
+msgid "は魔弾を放った！"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.name"
+msgid "$Aネックハング"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.description"
+msgid "敵の首を締め上げる。攻62/鞭/死停"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.using_message1"
+msgid "はネックハングを放った！"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.name"
+msgid "$A死獄"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.description"
+msgid "素手で敵を即死させる。攻72/死血"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.using_message1"
+msgid "は死獄を放った！"
+msgstr ""
+
+#. ID 70
+msgctxt "skills.name"
+msgid "$A虚空斬"
+msgstr ""
+
+#. ID 70
+#. ID 342
+msgctxt "skills.description"
+msgid "失われたはずの剣技。攻75/斬/必中防無"
+msgstr ""
+
+#. ID 70
+#. ID 342
+msgctxt "skills.using_message1"
+msgid "は虚空斬を放った！"
+msgstr ""
+
+#. ID 70
+msgctxt "skills.using_message2"
+msgid "「せいやッ！」"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.name"
+msgid "$A徹し"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.description"
+msgid "素手で防御無視ダメージを与える。攻120/格/衝撃/防無"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.using_message1"
+msgid "は徹しを放った！"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.name"
+msgid "$A八連剣陣"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.description"
+msgid "高速の連続斬撃。ダ×3/斬/必中"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.using_message1"
+msgid "は八連剣陣を放った！"
+msgstr ""
+
+#. ID 73
+msgctxt "skills.name"
+msgid "$A光のブレス"
+msgstr ""
+
+#. ID 73
+msgctxt "skills.description"
+msgid "光のエネルギーをぶつける。攻90/聖竜/全"
+msgstr ""
+
+#. ID 73
+msgctxt "skills.using_message1"
+msgid "は光のブレスを放った！"
+msgstr ""
+
+#. ID 74
+msgctxt "skills.name"
+msgid "$A瘴気のブレス"
+msgstr ""
+
+#. ID 74
+msgctxt "skills.description"
+msgid "敵全体を殺す。攻18/闇/全/死猛"
+msgstr ""
+
+#. ID 74
+msgctxt "skills.using_message1"
+msgid "は瘴気のブレスを放った！"
+msgstr ""
+
+#. ID 76
+msgctxt "skills.name"
+msgid "----ランク5攻撃魔法"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.name"
+msgid "$A$C大いなる秘儀"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.description"
+msgid "神秘の力を解き放つ。攻100/魔/全/防無"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.using_message1"
+msgid "は大いなる秘儀を唱えた！"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.using_message2"
+msgid "破壊と創造の光！"
+msgstr ""
+
+#. ID 78
+msgctxt "skills.name"
+msgid "$A$C屠りの剣の呪文"
+msgstr ""
+
+#. ID 78
+#. ID 330
+msgctxt "skills.description"
+msgid "異界の魔剣を投げつける。攻75/魔闇/死/防無"
+msgstr ""
+
+#. ID 78
+#. ID 330
+msgctxt "skills.using_message1"
+msgid "は魔剣を召喚した！"
+msgstr ""
+
+#. ID 78
+msgctxt "skills.using_message2"
+msgid "「死によって断たれぬ物無し！　死ねやクソがァッ！」"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.name"
+msgid "$A$C金色の王剣"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.description"
+msgid "雷の魔法剣。攻67/斬雷魔/衝"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.using_message1"
+msgid "は雷の剣を投げ放った！"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.name"
+msgid "$A$C魔界門"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.description"
+msgid "敵を異界へ追放する。攻32/闇魔/死"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.using_message1"
+msgid "は魔界門を唱えた！"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.using_message2"
+msgid "すべてが吸い込まれてゆく……。"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.name"
+msgid "$A$C星落とし"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.description"
+msgid "隕石を落とす。攻68/魔/全"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.using_message1"
+msgid "は星を呼んだ！"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.name"
+msgid "$A$C凍土領域"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.description"
+msgid "最強の冷気魔法。攻52/水魔/全/束縛"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.using_message1"
+msgid "は凍土領域を唱えた！"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.using_message2"
+msgid "凍てつく異界の侵食！"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.name"
+msgid "$A$C風の十二方位"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.description"
+msgid "最強の風魔法。攻60/空魔/全/怯み"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.using_message1"
+msgid "は風の十二方位を唱えた！"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.using_message2"
+msgid "世界の果てから吹き込む風！"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.name"
+msgid "$A$C劫火の王国"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.description"
+msgid "最強の火炎攻撃。攻65/火魔/全/炎上"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.using_message1"
+msgid "は劫火の王国を唱えた！"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.using_message2"
+msgid "熱線がなぎ払う！"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.name"
+msgid "$A$C箱船の記憶"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.description"
+msgid "大洪水を起こす。攻44/水聖魔/全/呑"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.using_message1"
+msgid "は箱船の記憶を唱えた！"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.using_message2"
+msgid "世界が大洪水を思い出す……。"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.name"
+msgid "$A$C聖絶の剣"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.description"
+msgid "聖なる魔法剣。攻70/斬聖魔"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.using_message1"
+msgid "は聖絶の剣を放った！"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.name"
+msgid "$A$Cファイヤーボム"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.description"
+msgid "ファイヤー。攻50/魔/全/"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.using_message1"
+msgid "はファイヤーボムを唱えた！"
+msgstr ""
+
+#. ID 91
+msgctxt "skills.name"
+msgid "----ランク4攻撃技"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.name"
+msgid "$A心臓刺し"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.description"
+msgid "強力な急所突き攻撃。攻52/突/即死"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.using_message1"
+msgid "は心臓刺しを放った！"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.name"
+msgid "$A竜牙砕き"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.description"
+msgid "敵一体の攻撃力を下げる攻撃。攻52/斬重/対竜/劣攻"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.using_message1"
+msgid "は竜牙砕きを放った！"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.name"
+msgid "$A組み打ち"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.description"
+msgid "動きを封じ防御無視ダメージ。攻30/格/束縛劣化"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.using_message1"
+msgid "は組み打ちを放った！"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.name"
+msgid "$A百人斬"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.description"
+msgid "敵全体に攻撃をする。/斬/全"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.using_message1"
+msgid "は敵陣に突進した！"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.name"
+msgid "$A斬鉄剣"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.description"
+msgid "装甲を切り裂く斬撃。攻25/斬/防無/劣防"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.using_message1"
+msgid "は斬鉄剣を放った！"
+msgstr ""
+
+#. ID 97
+msgctxt "skills.name"
+msgid "$Aピット"
+msgstr ""
+
+#. ID 97
+msgctxt "skills.description"
+msgid "敵を落とし穴に誘導する。攻36/地/束縛"
+msgstr ""
+
+#. ID 97
+msgctxt "skills.using_message1"
+msgid "はピットを使った！"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.name"
+msgid "$A斬首"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.description"
+msgid "一撃で敵を倒す。攻24/暗/死"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.using_message1"
+msgid "は斬首を放った！"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.name"
+msgid "$A針穴通し"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.description"
+msgid "装甲の隙間を狙う必中射撃。攻28/射/防無必中"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.using_message1"
+msgid "は針穴通しを放った！"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.name"
+msgid "$Aめった打ち"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.description"
+msgid "ひたすら殴って気絶させる。ダ×2/重/停止"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.using_message1"
+msgid "の乱打攻撃！"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.name"
+msgid "$A灼熱のブレス"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.description"
+msgid "灼熱の炎を吐く。攻41/火/全/炎上"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.using_message1"
+msgid "は灼熱のブレスを吹いた！"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.name"
+msgid "$A竜翼"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.description"
+msgid "突風を起こす。攻35/空竜/全/怯み"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.using_message1"
+msgid "は翼を羽ばたかせた！"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.name"
+msgid "$A吹雪のブレス"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.description"
+msgid "猛烈な冷気を吐く。攻38/水/全/劣速"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.using_message1"
+msgid "は吹雪のブレスを吹いた！"
+msgstr ""
+
+#. ID 108
+msgctxt "skills.name"
+msgid "----ランク4攻撃魔法"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.name"
+msgid "$A$C炎魔界"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.description"
+msgid "敵全体を火で包む。攻45/火魔/全/炎上"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.using_message1"
+msgid "は炎魔界を唱えた！"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.name"
+msgid "$A$C竜巻の呪文"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.description"
+msgid "竜巻を起こす。攻40/空魔/全/怯み"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.using_message1"
+msgid "は竜巻の呪文を唱えた！"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.name"
+msgid "$A$C不可視の力"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.description"
+msgid "魔力による念動力で攻撃する。攻52/魔/全"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.using_message1"
+msgid "は不可視の力を使った！"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.using_message2"
+msgid "これでもくらえ！"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.name"
+msgid "$A$C竜脈の解放"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.description"
+msgid "大地震を起こす。攻44/地魔/全/衝撃"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.using_message1"
+msgid "は竜脈の解放を唱えた！"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.name"
+msgid "$A$C裁きの雷"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.description"
+msgid "聖なる雷をぶつける。攻47/雷魔/衝撃"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.using_message1"
+msgid "は裁きの雷を落とした！"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.name"
+msgid "$A$C雷の暴君"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.description"
+msgid "雷撃の嵐をぶつける。攻47/雷魔/全/衝撃"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.using_message1"
+msgid "は雷の暴君を唱えた！"
+msgstr ""
+
+#. ID 117
+msgctxt "skills.name"
+msgid "----ランク3攻撃技"
+msgstr ""
+
+#. ID 118
+msgctxt "skills.name"
+msgid "$Aヨロイ割り"
+msgstr ""
+
+#. ID 118
+msgctxt "skills.description"
+msgid "敵一体の防御力を下げる攻撃。攻33/重/劣防"
+msgstr ""
+
+#. ID 118
+#. ID 413
+msgctxt "skills.using_message1"
+msgid "はヨロイ割りを放った！"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.name"
+msgid "$A一閃"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.description"
+msgid "敵を出血させる必中攻撃。攻35/斬/必中/出血"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.using_message1"
+msgid "は一閃を放った！"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.name"
+msgid "$A手裏剣乱れ投げ"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.description"
+msgid "敵全体に手裏剣を投げる。攻0/暗/対空/全"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.using_message1"
+msgid "は手裏剣をばらまいた！"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.name"
+msgid "$A一か八か"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.description"
+msgid "当たるかどうかは運次第。攻80"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.using_message1"
+msgid "は一か八かを使った！"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.using_message2"
+msgid "「さあて、運試しと来らあ！！」"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.name"
+msgid "$A一刀両断"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.description"
+msgid "斬武器により大ダメージを与える。攻44/斬"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.using_message1"
+msgid "は一刀両断を放った！"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.name"
+msgid "$A乱れ突き"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.description"
+msgid "強力な連続刺突攻撃。ダ×2/突"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.using_message1"
+msgid "は乱れ突きを放った！"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.name"
+msgid "$A縫い止め"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.description"
+msgid "敵一体の動きを止める。獣に強い。攻28/射/束縛対獣"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.using_message1"
+msgid "は縫い止めを放った！"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.name"
+msgid "$A風車砕き"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.description"
+msgid "鎧をも貫く防御無効攻撃。攻35/突/防無"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.using_message1"
+msgid "の貫通突き！"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.name"
+msgid "$A捕縛術"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.description"
+msgid "敵一体の動きを封じる。攻25/鞭/停止劣速"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.using_message1"
+msgid "は捕縛術を使った！"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.name"
+msgid "$A死毒刃"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.description"
+msgid "敵一体に猛毒の刃で攻撃。攻20/暗/猛毒"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.using_message1"
+msgid "は死毒刃を放った！"
+msgstr ""
+
+#. ID 128
+msgctxt "skills.name"
+msgid "$A百烈連打"
+msgstr ""
+
+#. ID 128
+msgctxt "skills.description"
+msgid "素手での連続攻撃。攻40ダ×2/格"
+msgstr ""
+
+#. ID 128
+msgctxt "skills.using_message1"
+msgid "は百烈連打を放った！"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.name"
+msgid "$A影斬り"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.description"
+msgid "出血させる防御無視攻撃。攻19/暗/防無出血"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.using_message1"
+msgid "は影斬りを放った！"
+msgstr ""
+
+#. ID 130
+msgctxt "skills.name"
+msgid "$A$C真空斬り"
+msgstr ""
+
+#. ID 130
+msgctxt "skills.description"
+msgid "魔力武器でのみ使用可な全体攻撃。攻36/斬魔空/全"
+msgstr ""
+
+#. ID 130
+msgctxt "skills.using_message1"
+msgid "は真空斬りを放った！"
+msgstr ""
+
+#. ID 132
+msgctxt "skills.name"
+msgid "$A猛火のブレス"
+msgstr ""
+
+#. ID 132
+msgctxt "skills.description"
+msgid "口から猛火を吹く。攻23/火/全/炎上"
+msgstr ""
+
+#. ID 132
+msgctxt "skills.using_message1"
+msgid "は激しい炎を吹いた！"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.name"
+msgid "$A雷撃のブレス"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.description"
+msgid "口から雷撃を吹く。攻34/雷/衝撃"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.using_message1"
+msgid "は雷撃を放った！"
+msgstr ""
+
+#. ID 134
+msgctxt "skills.name"
+msgid "$A毒のブレス"
+msgstr ""
+
+#. ID 134
+msgctxt "skills.description"
+msgid "敵全体に毒を与える。攻16/水/全/毒"
+msgstr ""
+
+#. ID 134
+msgctxt "skills.using_message1"
+msgid "は毒霧を吹いた！"
+msgstr ""
+
+#. ID 138
+msgctxt "skills.name"
+msgid "----ランク3攻撃魔法"
+msgstr ""
+
+#. ID 139
+msgctxt "skills.name"
+msgid "$A$C天雷陣"
+msgstr ""
+
+#. ID 139
+msgctxt "skills.description"
+msgid "敵全体に雷撃。攻24/雷魔/全/衝撃"
+msgstr ""
+
+#. ID 139
+msgctxt "skills.using_message1"
+msgid "は天雷陣を唱えた！"
+msgstr ""
+
+#. ID 140
+msgctxt "skills.name"
+msgid "$A$C白き槍の呪文"
+msgstr ""
+
+#. ID 140
+msgctxt "skills.description"
+msgid "敵単体を氷で攻撃する。攻36/水魔/劣速"
+msgstr ""
+
+#. ID 140
+msgctxt "skills.using_message1"
+msgid "は氷の槍を投げ放った！"
+msgstr ""
+
+#. ID 141
+msgctxt "skills.name"
+msgid "$A$C聖雨"
+msgstr ""
+
+#. ID 141
+msgctxt "skills.description"
+msgid "敵全体に聖なる水で攻撃。攻20/聖水魔/全/呑"
+msgstr ""
+
+#. ID 141
+msgctxt "skills.using_message1"
+msgid "は聖雨を呼んだ！"
+msgstr ""
+
+#. ID 142
+msgctxt "skills.name"
+msgid "$A$C吸血鬼の呪文"
+msgstr ""
+
+#. ID 142
+msgctxt "skills.description"
+msgid "敵一体からHPを奪い取る。攻16/魔/吸収"
+msgstr ""
+
+#. ID 142
+msgctxt "skills.using_message1"
+msgid "の吸血攻撃！"
+msgstr ""
+
+#. ID 143
+msgctxt "skills.name"
+msgid "$A$C燔祭の火"
+msgstr ""
+
+#. ID 143
+msgctxt "skills.description"
+msgid "敵全体に聖なる火で攻撃。攻28/聖火魔/全/炎上"
+msgstr ""
+
+#. ID 143
+msgctxt "skills.using_message1"
+msgid "は生贄の炎を放った！"
+msgstr ""
+
+#. ID 144
+msgctxt "skills.name"
+msgid "$A$C死の指"
+msgstr ""
+
+#. ID 144
+msgctxt "skills.description"
+msgid "敵一体を即座に倒す。攻0/闇魔/即死"
+msgstr ""
+
+#. ID 144
+msgctxt "skills.using_message1"
+msgid "は敵を指さした！"
+msgstr ""
+
+#. ID 145
+msgctxt "skills.name"
+msgid "$A$C樹縛"
+msgstr ""
+
+#. ID 145
+msgctxt "skills.description"
+msgid "植物を使い敵を締め上げる。攻11/地魔/呑縛"
+msgstr ""
+
+#. ID 145
+msgctxt "skills.using_message1"
+msgid "は樹を操った！"
+msgstr ""
+
+#. ID 148
+msgctxt "skills.name"
+msgid "----ランク2攻撃技"
+msgstr ""
+
+#. ID 149
+msgctxt "skills.name"
+msgid "$A二連突き"
+msgstr ""
+
+#. ID 149
+msgctxt "skills.description"
+msgid "連続した突き攻撃。ダ×1.5/突"
+msgstr ""
+
+#. ID 149
+msgctxt "skills.using_message1"
+msgid "は二連突きを放った！"
+msgstr ""
+
+#. ID 150
+msgctxt "skills.name"
+msgid "$A毒の矢"
+msgstr ""
+
+#. ID 150
+msgctxt "skills.description"
+msgid "敵一体に毒を与える射撃攻撃。攻21/射/毒"
+msgstr ""
+
+#. ID 150
+msgctxt "skills.using_message1"
+msgid "は毒矢を射た！"
+msgstr ""
+
+#. ID 152
+msgctxt "skills.name"
+msgid "$A武器落とし"
+msgstr ""
+
+#. ID 152
+msgctxt "skills.description"
+msgid "敵の手元を打ち、攻撃力を下げる。攻12/劣攻"
+msgstr ""
+
+#. ID 152
+msgctxt "skills.using_message1"
+msgid "は武器落としを放った！"
+msgstr ""
+
+#. ID 153
+msgctxt "skills.name"
+msgid "$A正拳"
+msgstr ""
+
+#. ID 153
+msgctxt "skills.description"
+msgid "素手でダメージを与える。攻70/格/衝撃"
+msgstr ""
+
+#. ID 153
+msgctxt "skills.using_message1"
+msgid "は正拳を放った！"
+msgstr ""
+
+#. ID 155
+msgctxt "skills.name"
+msgid "$A全力斬撃"
+msgstr ""
+
+#. ID 155
+msgctxt "skills.description"
+msgid "斬武器によって中ダメージを与える。攻24/斬"
+msgstr ""
+
+#. ID 155
+msgctxt "skills.using_message1"
+msgid "は全力で斬りつけた！"
+msgstr ""
+
+#. ID 156
+msgctxt "skills.name"
+msgid "$A一回転"
+msgstr ""
+
+#. ID 156
+msgctxt "skills.description"
+msgid "敵全体を八割の威力で攻撃。ダ×0.8/鞭/全"
+msgstr ""
+
+#. ID 156
+msgctxt "skills.using_message1"
+msgid "は一回転を放った！"
+msgstr ""
+
+#. ID 157
+msgctxt "skills.name"
+msgid "$A乱れ撃ち"
+msgstr ""
+
+#. ID 157
+msgctxt "skills.description"
+msgid "敵全体を八割の威力で射撃。ダ×0.8/射/全"
+msgstr ""
+
+#. ID 157
+msgctxt "skills.using_message1"
+msgid "は乱れ撃ちを放った！"
+msgstr ""
+
+#. ID 158
+msgctxt "skills.name"
+msgid "$A連射"
+msgstr ""
+
+#. ID 158
+msgctxt "skills.description"
+msgid "敵一体に連続射撃。ダ×1.5/射"
+msgstr ""
+
+#. ID 158
+msgctxt "skills.using_message1"
+msgid "は連射を放った！"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.name"
+msgid "$A二本牙"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.description"
+msgid "敵を出血させる連続攻撃。ダ×1.5/暗/出血"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.using_message1"
+msgid "は二本牙を放った！"
+msgstr ""
+
+#. ID 160
+msgctxt "skills.name"
+msgid "$A足払い"
+msgstr ""
+
+#. ID 160
+msgctxt "skills.description"
+msgid "敵を転倒させる下段攻撃。攻0/地/衝撃"
+msgstr ""
+
+#. ID 160
+msgctxt "skills.using_message1"
+msgid "は足払いを放った！"
+msgstr ""
+
+#. ID 162
+msgctxt "skills.name"
+msgid "$A氷のブレス"
+msgstr ""
+
+#. ID 162
+msgctxt "skills.description"
+msgid "口から冷気を吹く。攻14/水/全/劣速"
+msgstr ""
+
+#. ID 162
+msgctxt "skills.using_message1"
+msgid "は氷のブレスを放った！"
+msgstr ""
+
+#. ID 163
+msgctxt "skills.name"
+msgid "$A酸のブレス"
+msgstr ""
+
+#. ID 163
+msgctxt "skills.description"
+msgid "敵全体の防御力を下げる。攻10/水/全/劣防"
+msgstr ""
+
+#. ID 163
+msgctxt "skills.using_message1"
+msgid "は酸の霧を吹いた！"
+msgstr ""
+
+#. ID 168
+msgctxt "skills.name"
+msgid "----ランク2攻撃魔法"
+msgstr ""
+
+#. ID 169
+msgctxt "skills.name"
+msgid "$A$C闇の投影"
+msgstr ""
+
+#. ID 169
+msgctxt "skills.description"
+msgid "敵全体を闇に包んで視界を塞ぐ。攻12/闇魔/全/劣中"
+msgstr ""
+
+#. ID 169
+msgctxt "skills.using_message1"
+msgid "は闇の投影を唱えた！"
+msgstr ""
+
+#. ID 170
+msgctxt "skills.name"
+msgid "$A$C爆炎の投射"
+msgstr ""
+
+#. ID 170
+msgctxt "skills.description"
+msgid "敵全体を炎に包む。攻13/火魔/全/炎上"
+msgstr ""
+
+#. ID 170
+msgctxt "skills.using_message1"
+msgid "は爆炎の投射を唱えた！"
+msgstr ""
+
+#. ID 171
+msgctxt "skills.name"
+msgid "$A$C氷の棺"
+msgstr ""
+
+#. ID 171
+msgctxt "skills.description"
+msgid "氷で敵の動きを封じる。攻12/水魔/劣速/束縛"
+msgstr ""
+
+#. ID 171
+msgctxt "skills.using_message1"
+msgid "は氷の棺を唱えた！"
+msgstr ""
+
+#. ID 172
+msgctxt "skills.name"
+msgid "$A$C風喚びの歌"
+msgstr ""
+
+#. ID 172
+msgctxt "skills.description"
+msgid "敵全体を突風で転倒させる。攻13/空魔/全/怯み"
+msgstr ""
+
+#. ID 172
+msgctxt "skills.using_message1"
+msgid "は風喚びの歌を歌った！"
+msgstr ""
+
+#. ID 173
+msgctxt "skills.name"
+msgid "$A$C破魔の理力"
+msgstr ""
+
+#. ID 173
+msgctxt "skills.description"
+msgid "敵全体に浄化の力をぶつける。攻16/聖魔/全"
+msgstr ""
+
+#. ID 173
+msgctxt "skills.using_message1"
+msgid "は破魔の理力を放った！"
+msgstr ""
+
+#. ID 175
+msgctxt "skills.name"
+msgid "$A$C地霊の爪"
+msgstr ""
+
+#. ID 175
+msgctxt "skills.description"
+msgid "敵の足元に岩を隆起させる。攻20/地魔/衝撃"
+msgstr ""
+
+#. ID 175
+msgctxt "skills.using_message1"
+msgid "は地霊の爪を唱えた！"
+msgstr ""
+
+#. ID 181
+msgctxt "skills.name"
+msgid "----ランク1攻撃技"
+msgstr ""
+
+#. ID 182
+msgctxt "skills.name"
+msgid "$A手裏剣"
+msgstr ""
+
+#. ID 182
+msgctxt "skills.description"
+msgid "敵に手裏剣を投げつける。攻8/空"
+msgstr ""
+
+#. ID 182
+msgctxt "skills.using_message1"
+msgid "は手裏剣を放った！"
+msgstr ""
+
+#. ID 183
+msgctxt "skills.name"
+msgid "$A必中斬撃"
+msgstr ""
+
+#. ID 183
+msgctxt "skills.description"
+msgid "斬武器による必中攻撃。攻8/斬/必中"
+msgstr ""
+
+#. ID 183
+msgctxt "skills.using_message1"
+msgid "のフェイント攻撃！"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.name"
+msgid "$Aなぎ払い"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.description"
+msgid "半分の威力で敵全体に攻撃する。ダ×0.5/長/全"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.using_message1"
+msgid "はなぎ払いを放った！"
+msgstr ""
+
+#. ID 185
+msgctxt "skills.name"
+msgid "$Aぶん殴り"
+msgstr ""
+
+#. ID 185
+msgctxt "skills.description"
+msgid "装甲ごと殴る。命中率低め。ダ×0.8/重/防御無視"
+msgstr ""
+
+#. ID 185
+msgctxt "skills.using_message1"
+msgid "はぶん殴った！"
+msgstr ""
+
+#. ID 186
+msgctxt "skills.name"
+msgid "$Aチャージ"
+msgstr ""
+
+#. ID 186
+msgctxt "skills.description"
+msgid "命中率は低いが強力な突き攻撃。攻28/突"
+msgstr ""
+
+#. ID 186
+msgctxt "skills.using_message1"
+msgid "は突撃した！"
+msgstr ""
+
+#. ID 188
+msgctxt "skills.name"
+msgid "$A強打"
+msgstr ""
+
+#. ID 188
+msgctxt "skills.description"
+msgid "力を込めた無属性攻撃。攻12"
+msgstr ""
+
+#. ID 188
+msgctxt "skills.using_message1"
+msgid "は強打を放った！"
+msgstr ""
+
+#. ID 190
+msgctxt "skills.name"
+msgid "$A狙撃"
+msgstr ""
+
+#. ID 190
+msgctxt "skills.description"
+msgid "必ず命中する射撃攻撃。攻12/射/必中対獣"
+msgstr ""
+
+#. ID 190
+msgctxt "skills.using_message1"
+msgid "は狙撃を使った！"
+msgstr ""
+
+#. ID 191
+msgctxt "skills.name"
+msgid "$A火矢"
+msgstr ""
+
+#. ID 191
+msgctxt "skills.description"
+msgid "燃える矢を放つ。攻5/射火/炎上/対獣"
+msgstr ""
+
+#. ID 191
+msgctxt "skills.using_message1"
+msgid "は火矢を放った！"
+msgstr ""
+
+#. ID 192
+msgctxt "skills.name"
+msgid "$Aナイフ投げ"
+msgstr ""
+
+#. ID 192
+msgctxt "skills.description"
+msgid "敵にナイフを投げつける。攻8/空"
+msgstr ""
+
+#. ID 192
+msgctxt "skills.using_message1"
+msgid "はナイフを投げた！"
+msgstr ""
+
+#. ID 193
+msgctxt "skills.name"
+msgid "$A奇襲"
+msgstr ""
+
+#. ID 193
+msgctxt "skills.description"
+msgid "背後からの防御力無視攻撃。攻8/暗/防無"
+msgstr ""
+
+#. ID 193
+msgctxt "skills.using_message1"
+msgid "は死角から攻撃した！"
+msgstr ""
+
+#. ID 194
+msgctxt "skills.name"
+msgid "$A目つぶし"
+msgstr ""
+
+#. ID 194
+msgctxt "skills.description"
+msgid "敵一体の視界を塞ぎ命中率低下。攻0/劣中"
+msgstr ""
+
+#. ID 194
+#. ID 386
+msgctxt "skills.using_message1"
+msgid "は目つぶしを放った！"
+msgstr ""
+
+#. ID 195
+msgctxt "skills.name"
+msgid "$A火のブレス"
+msgstr ""
+
+#. ID 195
+msgctxt "skills.description"
+msgid "口から火を吹く。攻5/火/全/炎上"
+msgstr ""
+
+#. ID 195
+msgctxt "skills.using_message1"
+msgid "は火を吹いた！"
+msgstr ""
+
+#. ID 200
+msgctxt "skills.name"
+msgid "----ランク1攻撃魔法"
+msgstr ""
+
+#. ID 201
+msgctxt "skills.name"
+msgid "$A$C矢の呪文"
+msgstr ""
+
+#. ID 201
+msgctxt "skills.description"
+msgid "敵に傷を負わせる。攻8/魔"
+msgstr ""
+
+#. ID 201
+msgctxt "skills.using_message1"
+msgid "は矢の呪文を唱えた！"
+msgstr ""
+
+#. ID 202
+msgctxt "skills.name"
+msgid "$A$C鬼火"
+msgstr ""
+
+#. ID 202
+msgctxt "skills.description"
+msgid "小さな火を投げつける。攻11/炎魔/炎上"
+msgstr ""
+
+#. ID 202
+msgctxt "skills.using_message1"
+msgid "は鬼火の呪文を唱えた！"
+msgstr ""
+
+#. ID 203
+msgctxt "skills.name"
+msgid "$A$C水妖の手"
+msgstr ""
+
+#. ID 203
+msgctxt "skills.description"
+msgid "敵一体を水で包んで攻撃。攻0/魔水/呑む"
+msgstr ""
+
+#. ID 203
+msgctxt "skills.using_message1"
+msgid "は命ある水を召喚した！"
+msgstr ""
+
+#. ID 204
+msgctxt "skills.name"
+msgid "$A$C稲妻"
+msgstr ""
+
+#. ID 204
+msgctxt "skills.description"
+msgid "雷の魔法。攻9/魔雷/衝撃"
+msgstr ""
+
+#. ID 204
+msgctxt "skills.using_message1"
+msgid "は稲妻の呪文を唱えた！"
+msgstr ""
+
+#. ID 209
+msgctxt "skills.name"
+msgid "■■敵状態・能力下降"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.name"
+msgid "$E$C迷宮結界"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.description"
+msgid "複数の状態異常を起こす。/魔/全/減停乱黙怒"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.using_message1"
+msgid "は迷宮結界を唱えた！"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.using_message2"
+msgid "物理法則が狂ってゆく……。"
+msgstr ""
+
+#. ID 212
+msgctxt "skills.name"
+msgid "$E$C瘴気"
+msgstr ""
+
+#. ID 212
+msgctxt "skills.description"
+msgid "敵全体を狂死させる。/魔/全/死乱猛"
+msgstr ""
+
+#. ID 212
+msgctxt "skills.using_message1"
+msgid "は瘴気を放った！"
+msgstr ""
+
+#. ID 214
+msgctxt "skills.name"
+msgid "$E獣使い"
+msgstr ""
+
+#. ID 214
+msgctxt "skills.description"
+msgid "野獣に命令する。/全/混乱"
+msgstr ""
+
+#. ID 214
+msgctxt "skills.using_message1"
+msgid "は獣使いを使った！"
+msgstr ""
+
+#. ID 215
+msgctxt "skills.name"
+msgid "$E$C神威"
+msgstr ""
+
+#. ID 215
+msgctxt "skills.description"
+msgid "心を持つ人間に命令する。/魔/全/混乱"
+msgstr ""
+
+#. ID 215
+msgctxt "skills.using_message1"
+msgid "は神威を使った！"
+msgstr ""
+
+#. ID 216
+msgctxt "skills.name"
+msgid "$E$C魔力支配"
+msgstr ""
+
+#. ID 216
+msgctxt "skills.description"
+msgid "魔法で造られた存在の支配権を得る。/魔/全/混乱"
+msgstr ""
+
+#. ID 216
+msgctxt "skills.using_message1"
+msgid "は魔力支配を唱えた！"
+msgstr ""
+
+#. ID 217
+msgctxt "skills.name"
+msgid "$E$C死霊支配"
+msgstr ""
+
+#. ID 217
+msgctxt "skills.description"
+msgid "死霊に対してのみ支配権を得る。/魔/全/混乱"
+msgstr ""
+
+#. ID 217
+msgctxt "skills.using_message1"
+msgid "は死霊支配を唱えた！"
+msgstr ""
+
+#. ID 219
+msgctxt "skills.name"
+msgid "$E$C惑乱の歌"
+msgstr ""
+
+#. ID 219
+msgctxt "skills.description"
+msgid "敵全体を魅了する。/魔/全/混乱"
+msgstr ""
+
+#. ID 219
+#. ID 417
+msgctxt "skills.using_message1"
+msgid "は惑乱の歌を歌った！"
+msgstr ""
+
+#. ID 220
+msgctxt "skills.name"
+msgid "$E$C呪縛の歌"
+msgstr ""
+
+#. ID 220
+msgctxt "skills.description"
+msgid "敵全体の動きを強力に封じる。/魔/全/眠怯縛"
+msgstr ""
+
+#. ID 220
+msgctxt "skills.using_message1"
+msgid "は呪縛の歌を歌った！"
+msgstr ""
+
+#. ID 221
+msgctxt "skills.name"
+msgid "$E$C死の空気"
+msgstr ""
+
+#. ID 221
+msgctxt "skills.description"
+msgid "敵全体を即座に倒す。/魔/全/死"
+msgstr ""
+
+#. ID 221
+msgctxt "skills.using_message1"
+msgid "は死の空気を唱えた！"
+msgstr ""
+
+#. ID 222
+msgctxt "skills.name"
+msgid "$E$Cくくりの呪文"
+msgstr ""
+
+#. ID 222
+msgctxt "skills.description"
+msgid "敵全体の動きを縛る。/魔/全/劣速/縛"
+msgstr ""
+
+#. ID 222
+msgctxt "skills.using_message1"
+msgid "はくくりの呪文を唱えた！"
+msgstr ""
+
+#. ID 224
+msgctxt "skills.name"
+msgid "$E$C腐敗の呪い"
+msgstr ""
+
+#. ID 224
+msgctxt "skills.description"
+msgid "敵全体を毒状態にする。/魔/全/毒"
+msgstr ""
+
+#. ID 224
+msgctxt "skills.using_message1"
+msgid "は腐敗の呪いを唱えた！"
+msgstr ""
+
+#. ID 225
+msgctxt "skills.name"
+msgid "$E$Cまどろみの歌"
+msgstr ""
+
+#. ID 225
+msgctxt "skills.description"
+msgid "敵全体を失神させる。/魔/全/眠り"
+msgstr ""
+
+#. ID 225
+msgctxt "skills.using_message1"
+msgid "はまどろみの歌を歌った！"
+msgstr ""
+
+#. ID 226
+msgctxt "skills.name"
+msgid "$E$C邪眼"
+msgstr ""
+
+#. ID 226
+msgctxt "skills.description"
+msgid "敵一体のMPを減らし、恐怖させる。効10/闇魔/MP減/怯"
+msgstr ""
+
+#. ID 226
+msgctxt "skills.using_message1"
+msgid "は邪眼を使った！"
+msgstr ""
+
+#. ID 227
+msgctxt "skills.name"
+msgid "$E$C踊り歌"
+msgstr ""
+
+#. ID 227
+#. ID 417
+msgctxt "skills.description"
+msgid "敵全体を踊らせる。/魔/全/踊"
+msgstr ""
+
+#. ID 227
+msgctxt "skills.using_message1"
+msgid "は踊り歌を歌った！"
+msgstr ""
+
+#. ID 228
+msgctxt "skills.name"
+msgid "$E$C腕なえの言葉"
+msgstr ""
+
+#. ID 228
+msgctxt "skills.description"
+msgid "敵全体の攻撃力を下げる。/魔/全/劣攻"
+msgstr ""
+
+#. ID 228
+msgctxt "skills.using_message1"
+msgid "は腕なえの言葉を唱えた！"
+msgstr ""
+
+#. ID 229
+msgctxt "skills.name"
+msgid "$E$C錆の呪文"
+msgstr ""
+
+#. ID 229
+msgctxt "skills.description"
+msgid "敵全体の防御力を下げる。魔/全/劣防"
+msgstr ""
+
+#. ID 229
+msgctxt "skills.using_message1"
+msgid "は錆の呪文を唱えた！"
+msgstr ""
+
+#. ID 230
+msgctxt "skills.name"
+msgid "$E$C封魔の呪文"
+msgstr ""
+
+#. ID 230
+msgctxt "skills.description"
+msgid "敵全体の魔力を下げ沈黙させる。/魔/全/劣魔/沈黙"
+msgstr ""
+
+#. ID 230
+msgctxt "skills.using_message1"
+msgid "は封魔の呪文を唱えた！"
+msgstr ""
+
+#. ID 231
+msgctxt "skills.name"
+msgid "$E$C幻影の呪文"
+msgstr ""
+
+#. ID 231
+msgctxt "skills.description"
+msgid "敵全体に幻影を見せ命中率を低下させる。/魔/全/劣中"
+msgstr ""
+
+#. ID 231
+msgctxt "skills.using_message1"
+msgid "は幻影の呪文を唱えた！"
+msgstr ""
+
+#. ID 235
+msgctxt "skills.name"
+msgid "$E弱点看破"
+msgstr ""
+
+#. ID 235
+msgctxt "skills.description"
+msgid "敵一体を多数の物理攻撃に弱くする。低成功率。"
+msgstr ""
+
+#. ID 235
+msgctxt "skills.using_message1"
+msgid "は弱点看破を使った！"
+msgstr ""
+
+#. ID 238
+msgctxt "skills.name"
+msgid "$E誘惑"
+msgstr ""
+
+#. ID 238
+msgctxt "skills.description"
+msgid "敵全体を混乱させる。/全/混乱"
+msgstr ""
+
+#. ID 238
+msgctxt "skills.using_message1"
+msgid "は誘惑を使った！"
+msgstr ""
+
+#. ID 241
+msgctxt "skills.name"
+msgid "$E咆哮"
+msgstr ""
+
+#. ID 241
+msgctxt "skills.description"
+msgid "敵全体を驚かせ、行動できなくする。全/怯み"
+msgstr ""
+
+#. ID 241
+#. ID 384
+msgctxt "skills.using_message1"
+msgid "はおたけびをあげた！"
+msgstr ""
+
+#. ID 242
+msgctxt "skills.name"
+msgid "$E挑発"
+msgstr ""
+
+#. ID 242
+msgctxt "skills.description"
+msgid "敵全体を怒らせる。全/怒り"
+msgstr ""
+
+#. ID 242
+msgctxt "skills.using_message1"
+msgid "は挑発を使った！"
+msgstr ""
+
+#. ID 243
+msgctxt "skills.name"
+msgid "$E煙幕"
+msgstr ""
+
+#. ID 243
+msgctxt "skills.description"
+msgid "敵全体の命中率を低下させる。/全/劣中"
+msgstr ""
+
+#. ID 243
+msgctxt "skills.using_message1"
+msgid "は煙幕を使った！"
+msgstr ""
+
+#. ID 244
+msgctxt "skills.name"
+msgid "$Eワイヤートラップ"
+msgstr ""
+
+#. ID 244
+msgctxt "skills.description"
+msgid "敵を吊り上げ、射撃・対空に弱くする。/束縛"
+msgstr ""
+
+#. ID 244
+msgctxt "skills.using_message1"
+msgid "はワイヤートラップを使った！"
+msgstr ""
+
+#. ID 245
+msgctxt "skills.name"
+msgid "$Eオイルトラップ"
+msgstr ""
+
+#. ID 245
+msgctxt "skills.description"
+msgid "敵を油まみれにし、火に弱くしつつ転倒させる。/衝撃"
+msgstr ""
+
+#. ID 245
+msgctxt "skills.using_message1"
+msgid "は油をぶっかけた！"
+msgstr ""
+
+#. ID 246
+msgctxt "skills.name"
+msgid "$Eウォータートラップ"
+msgstr ""
+
+#. ID 246
+msgctxt "skills.description"
+msgid "敵をずぶ濡れにして、雷・水に弱くする。"
+msgstr ""
+
+#. ID 246
+msgctxt "skills.using_message1"
+msgid "は水をぶっかけた！"
+msgstr ""
+
+#. ID 248
+msgctxt "skills.name"
+msgid "$E急所狙い"
+msgstr ""
+
+#. ID 248
+msgctxt "skills.description"
+msgid "敵一体を射撃と暗殺に弱くする。"
+msgstr ""
+
+#. ID 248
+msgctxt "skills.using_message1"
+msgid "は敵の急所を見つけた！"
+msgstr ""
+
+#. ID 253
+msgctxt "skills.name"
+msgid "■■■■属性防御など"
+msgstr ""
+
+#. ID 254
+msgctxt "skills.name"
+msgid "◎$B大河神の介入ボツ"
+msgstr ""
+
+#. ID 254
+msgctxt "skills.description"
+msgid "味方全体をほぼ完全回復。魔法に強くする。/全/耐:魔"
+msgstr ""
+
+#. ID 254
+msgctxt "skills.using_message1"
+msgid "はアークフィアの加護を求めた。"
+msgstr ""
+
+#. ID 255
+msgctxt "skills.name"
+msgid "$Bハァルの加護ボツ"
+msgstr ""
+
+#. ID 255
+msgctxt "skills.description"
+msgid "攻撃強化と全武器属性の耐性付与。効39/全/攻/耐:武器"
+msgstr ""
+
+#. ID 255
+#. ID 274
+msgctxt "skills.using_message1"
+msgid "はハァルの加護を求めた！"
+msgstr ""
+
+#. ID 256
+msgctxt "skills.name"
+msgid "$Bキューグの加護"
+msgstr ""
+
+#. ID 256
+msgctxt "skills.description"
+msgid "魔法やブレスへの耐性と状態治療。/全/治(全)/耐:魔"
+msgstr ""
+
+#. ID 256
+msgctxt "skills.using_message1"
+msgid "はキューグの加護を求めた！"
+msgstr ""
+
+#. ID 257
+msgctxt "skills.name"
+msgid "$B神殿結界"
+msgstr ""
+
+#. ID 257
+msgctxt "skills.description"
+msgid "味方全体を魔法とブレス等から守る。低成功率。/耐:魔"
+msgstr ""
+
+#. ID 257
+msgctxt "skills.using_message1"
+msgid "は神殿結界を使った！"
+msgstr ""
+
+#. ID 259
+msgctxt "skills.name"
+msgid "$B光の障壁"
+msgstr ""
+
+#. ID 259
+msgctxt "skills.description"
+msgid "味方単体に魔法と闇への耐性を付与。/耐:魔闇"
+msgstr ""
+
+#. ID 259
+msgctxt "skills.using_message1"
+msgid "は光の障壁を使った！"
+msgstr ""
+
+#. ID 260
+msgctxt "skills.name"
+msgid "$B熱よけの鏡"
+msgstr ""
+
+#. ID 260
+msgctxt "skills.description"
+msgid "味方全員に炎と雷への耐性付与。/全/耐:火雷"
+msgstr ""
+
+#. ID 260
+msgctxt "skills.using_message1"
+msgid "は熱よけの鏡を使った！"
+msgstr ""
+
+#. ID 261
+msgctxt "skills.name"
+msgid "$B水と風の加護"
+msgstr ""
+
+#. ID 261
+msgctxt "skills.description"
+msgid "味方全員に水と対空への耐性付与。/全/耐:水空"
+msgstr ""
+
+#. ID 261
+msgctxt "skills.using_message1"
+msgid "は水と風の加護を使った！"
+msgstr ""
+
+#. ID 263
+msgctxt "skills.name"
+msgid "$B地霊の守護"
+msgstr ""
+
+#. ID 263
+msgctxt "skills.description"
+msgid "味方全員に大地と聖への耐性付与。/全/耐:地聖"
+msgstr ""
+
+#. ID 263
+msgctxt "skills.using_message1"
+msgid "は地霊の守護を使った！"
+msgstr ""
+
+#. ID 264
+msgctxt "skills.name"
+msgid "$B盾かざしボツ"
+msgstr ""
+
+#. ID 264
+#. ID 270
+msgctxt "skills.description"
+msgid "自分に刃への耐性を付与。/耐:斬突射"
+msgstr ""
+
+#. ID 264
+#. ID 270
+msgctxt "skills.using_message1"
+msgid "は盾かざしを使った！"
+msgstr ""
+
+#. ID 265
+msgctxt "skills.name"
+msgid "$B見切り"
+msgstr ""
+
+#. ID 265
+msgctxt "skills.description"
+msgid "自分に多数の武器への耐性を付与。/耐:斬突重射鞭"
+msgstr ""
+
+#. ID 265
+msgctxt "skills.using_message1"
+msgid "は見切りを使った！"
+msgstr ""
+
+#. ID 266
+msgctxt "skills.name"
+msgid "$B紙一重"
+msgstr ""
+
+#. ID 266
+msgctxt "skills.description"
+msgid "自分に突きと暗殺武器への耐性を付与。耐:突暗"
+msgstr ""
+
+#. ID 266
+msgctxt "skills.using_message1"
+msgid "は紙一重を使った！"
+msgstr ""
+
+#. ID 267
+msgctxt "skills.name"
+msgid "$B受け流し"
+msgstr ""
+
+#. ID 267
+msgctxt "skills.description"
+msgid "自分に斬りと重武器への耐性を付ける。耐:斬重"
+msgstr ""
+
+#. ID 267
+msgctxt "skills.using_message1"
+msgid "は受け流しを使った！"
+msgstr ""
+
+#. ID 268
+msgctxt "skills.name"
+msgid "$B身かわし"
+msgstr ""
+
+#. ID 268
+msgctxt "skills.description"
+msgid "自分に突きと長柄への耐性を付ける。耐:突長"
+msgstr ""
+
+#. ID 268
+msgctxt "skills.using_message1"
+msgid "は身かわしを使った！"
+msgstr ""
+
+#. ID 269
+msgctxt "skills.name"
+msgid "$B切り払い"
+msgstr ""
+
+#. ID 269
+msgctxt "skills.description"
+msgid "自分自身に射撃と鞭への耐性を付ける。耐:射鞭"
+msgstr ""
+
+#. ID 269
+msgctxt "skills.using_message1"
+msgid "は切り払いを使った！"
+msgstr ""
+
+#. ID 270
+msgctxt "skills.name"
+msgid "$B盾かざし"
+msgstr ""
+
+#. ID 271
+msgctxt "skills.name"
+msgid "■■■■味方能力上昇"
+msgstr ""
+
+#. ID 272
+msgctxt "skills.name"
+msgid "----２倍・全体"
+msgstr ""
+
+#. ID 274
+msgctxt "skills.name"
+msgid "$Bハァルの加護"
+msgstr ""
+
+#. ID 274
+msgctxt "skills.description"
+msgid "全状態異常を治療し、攻撃を二倍。/全/攻/治(全)"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.name"
+msgid "$B$C聖戦"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.description"
+msgid "仲間全員の攻撃力を２倍にする。/魔/全/攻"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.using_message1"
+msgid "は聖戦を発動した！"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.using_message2"
+msgid "神の指先が触れる！"
+msgstr ""
+
+#. ID 277
+msgctxt "skills.name"
+msgid "----２倍・個人"
+msgstr ""
+
+#. ID 278
+msgctxt "skills.name"
+msgid "$B速度付与"
+msgstr ""
+
+#. ID 278
+msgctxt "skills.description"
+msgid "味方一人の速度を２倍にする。/速"
+msgstr ""
+
+#. ID 278
+msgctxt "skills.using_message1"
+msgid "は速度付与を使った！"
+msgstr ""
+
+#. ID 279
+msgctxt "skills.name"
+msgid "$B魔力付与"
+msgstr ""
+
+#. ID 279
+msgctxt "skills.description"
+msgid "味方一人の魔力を２倍にする。/魔"
+msgstr ""
+
+#. ID 279
+msgctxt "skills.using_message1"
+msgid "は魔力付与を使った！"
+msgstr ""
+
+#. ID 280
+msgctxt "skills.name"
+msgid "$B$C倍力"
+msgstr ""
+
+#. ID 280
+msgctxt "skills.description"
+msgid "味方一人の攻撃力を２倍にする。/魔/攻"
+msgstr ""
+
+#. ID 280
+msgctxt "skills.using_message1"
+msgid "は倍力の呪文を唱えた！"
+msgstr ""
+
+#. ID 281
+msgctxt "skills.name"
+msgid "$B鉄壁"
+msgstr ""
+
+#. ID 281
+msgctxt "skills.description"
+msgid "味方一人の防御力２倍。/防"
+msgstr ""
+
+#. ID 281
+msgctxt "skills.using_message1"
+msgid "は鉄壁を使った！"
+msgstr ""
+
+#. ID 282
+msgctxt "skills.name"
+msgid "----２倍・自分"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.name"
+msgid "$Bバーサーク"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.description"
+msgid "自分の攻防速を２倍。回復できなくなる。/攻防速/呪"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.using_message1"
+msgid "は狂乱した！"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.using_message2"
+msgid "破滅の呪い！"
+msgstr ""
+
+#. ID 284
+msgctxt "skills.name"
+msgid "$B分身"
+msgstr ""
+
+#. ID 284
+#. ID 338
+msgctxt "skills.description"
+msgid "自分自身の攻撃力と速度を２倍にする。/攻速"
+msgstr ""
+
+#. ID 284
+#. ID 338
+msgctxt "skills.using_message1"
+msgid "は分身した！"
+msgstr ""
+
+#. ID 284
+#. ID 338
+msgctxt "skills.using_message2"
+msgid "１人が２人、２人が４人！"
+msgstr ""
+
+#. ID 285
+msgctxt "skills.name"
+msgid "$B激怒"
+msgstr ""
+
+#. ID 285
+msgctxt "skills.description"
+msgid "自分自身の攻撃力を２倍にする。/攻"
+msgstr ""
+
+#. ID 285
+msgctxt "skills.using_message1"
+msgid "は激怒した！"
+msgstr ""
+
+#. ID 286
+msgctxt "skills.name"
+msgid "$B槍の間合い"
+msgstr ""
+
+#. ID 286
+msgctxt "skills.description"
+msgid "長武器に有利な距離を保つことで速度二倍。/長/速"
+msgstr ""
+
+#. ID 286
+msgctxt "skills.using_message1"
+msgid "は間合いを取った！"
+msgstr ""
+
+#. ID 287
+msgctxt "skills.name"
+msgid "$B縮地"
+msgstr ""
+
+#. ID 287
+msgctxt "skills.description"
+msgid "自分自身の速度を２倍にする。/速"
+msgstr ""
+
+#. ID 287
+msgctxt "skills.using_message1"
+msgid "は縮地を使った！"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.name"
+msgid "$B混沌の血脈"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.description"
+msgid "自分自身の全能力を２倍にする。/攻防魔速"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.using_message1"
+msgid "の四肢が異形と化す！"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.using_message2"
+msgid "「この力は使いたくなかった……」"
+msgstr ""
+
+#. ID 289
+msgctxt "skills.name"
+msgid "$B$C無音詠唱"
+msgstr ""
+
+#. ID 289
+msgctxt "skills.description"
+msgid "自分自身の魔力を２倍にする。/魔/魔"
+msgstr ""
+
+#. ID 289
+msgctxt "skills.using_message1"
+msgid "は魔法陣を展開した！"
+msgstr ""
+
+#. ID 290
+msgctxt "skills.name"
+msgid "----上昇・全員"
+msgstr ""
+
+#. ID 291
+msgctxt "skills.name"
+msgid "$B$Cいくさ歌"
+msgstr ""
+
+#. ID 291
+msgctxt "skills.description"
+msgid "仲間全員の攻撃力を上げる。効果値22/魔/全/攻"
+msgstr ""
+
+#. ID 291
+msgctxt "skills.using_message1"
+msgid "は、いくさ歌を歌った！"
+msgstr ""
+
+#. ID 292
+msgctxt "skills.name"
+msgid "$B$C結界の構成"
+msgstr ""
+
+#. ID 292
+msgctxt "skills.description"
+msgid "仲間全員の防御力を上げる。効果値22/魔/全/防"
+msgstr ""
+
+#. ID 292
+msgctxt "skills.using_message1"
+msgid "は結界を張った！"
+msgstr ""
+
+#. ID 293
+msgctxt "skills.name"
+msgid "$B$C加速の呪文"
+msgstr ""
+
+#. ID 293
+msgctxt "skills.description"
+msgid "仲間全員の速度を上げる。効果値44/魔/全/速"
+msgstr ""
+
+#. ID 293
+msgctxt "skills.using_message1"
+msgid "は加速の呪文を唱えた！"
+msgstr ""
+
+#. ID 294
+msgctxt "skills.name"
+msgid "$Bガンガンいこうぜ"
+msgstr ""
+
+#. ID 294
+msgctxt "skills.description"
+msgid "仲間全員の攻撃力を上げる。効果値18/全/攻"
+msgstr ""
+
+#. ID 296
+msgctxt "skills.name"
+msgid "$B突撃命令"
+msgstr ""
+
+#. ID 296
+msgctxt "skills.description"
+msgid "仲間全員の攻撃力を上げる。効果値22/全/攻"
+msgstr ""
+
+#. ID 296
+msgctxt "skills.using_message1"
+msgid "は突撃命令を下した！"
+msgstr ""
+
+#. ID 297
+msgctxt "skills.name"
+msgid "$B防御陣形"
+msgstr ""
+
+#. ID 297
+msgctxt "skills.description"
+msgid "仲間全員の防御力を上げる。効果値22/全/防"
+msgstr ""
+
+#. ID 297
+msgctxt "skills.using_message1"
+msgid "は防御命令を下した！"
+msgstr ""
+
+#. ID 299
+msgctxt "skills.name"
+msgid "----上昇・個人"
+msgstr ""
+
+#. ID 301
+msgctxt "skills.name"
+msgid "$B$C盾の呪文"
+msgstr ""
+
+#. ID 301
+msgctxt "skills.description"
+msgid "仲間一人の防御力を上げる。効果値26/魔/防"
+msgstr ""
+
+#. ID 301
+msgctxt "skills.using_message1"
+msgid "は盾の呪文を唱えた！"
+msgstr ""
+
+#. ID 304
+msgctxt "skills.name"
+msgid "----上昇・自分"
+msgstr ""
+
+#. ID 306
+msgctxt "skills.name"
+msgid "$B闘気"
+msgstr ""
+
+#. ID 306
+#. ID 333
+#. ID 336
+#. ID 344
+msgctxt "skills.description"
+msgid "自分自身の攻撃力を上げる。効果値30/攻"
+msgstr ""
+
+#. ID 306
+#. ID 333
+#. ID 344
+msgctxt "skills.using_message1"
+msgid "は闘気を高めた！"
+msgstr ""
+
+#. ID 307
+msgctxt "skills.name"
+msgid "$B堅固の構え"
+msgstr ""
+
+#. ID 307
+msgctxt "skills.description"
+msgid "自分自身の防御力を上げる。効果値30/防"
+msgstr ""
+
+#. ID 307
+msgctxt "skills.using_message1"
+msgid "は堅固の構えを使った！"
+msgstr ""
+
+#. ID 308
+msgctxt "skills.name"
+msgid "$B俊足"
+msgstr ""
+
+#. ID 308
+msgctxt "skills.description"
+msgid "自分自身の速度を上げる。効果値60/速"
+msgstr ""
+
+#. ID 308
+msgctxt "skills.using_message1"
+msgid "は俊足を使った！"
+msgstr ""
+
+#. ID 309
+msgctxt "skills.name"
+msgid "$B$C詠唱"
+msgstr ""
+
+#. ID 309
+msgctxt "skills.description"
+msgid "自分自身の魔力を上げる。効果値60/魔/魔"
+msgstr ""
+
+#. ID 309
+#. ID 337
+msgctxt "skills.using_message1"
+msgid "は呪文を詠唱した！"
+msgstr ""
+
+#. ID 312
+msgctxt "skills.name"
+msgid "↑戦闘スキル-------"
+msgstr ""
+
+#. ID 313
+msgctxt "skills.name"
+msgid "火炎ボトル"
+msgstr ""
+
+#. ID 313
+#. ID 314
+#. ID 315
+msgctxt "skills.description"
+msgid "敵を炎に包む。"
+msgstr ""
+
+#. ID 313
+msgctxt "skills.using_message1"
+msgid "は火炎ボトルを投げつけた！"
+msgstr ""
+
+#. ID 314
+msgctxt "skills.name"
+msgid "爆発フラスコ"
+msgstr ""
+
+#. ID 314
+msgctxt "skills.using_message1"
+msgid "は爆発フラスコを投げつけた！"
+msgstr ""
+
+#. ID 315
+msgctxt "skills.name"
+msgid "破壊爆弾"
+msgstr ""
+
+#. ID 315
+msgctxt "skills.using_message1"
+msgid "は破壊爆弾を投げつけた！"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.name"
+msgid "妖精の薬"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.description"
+msgid "魔法使いの薬"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.using_message1"
+msgid "は妖精の薬を使った！"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.using_message2"
+msgid "魔法の光に包まれる！"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.name"
+msgid "小人の薬"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.description"
+msgid "耐性が手に入る薬"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.using_message1"
+msgid "は小人の薬を使った！"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.using_message2"
+msgid "小さすぎて見えない！"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.name"
+msgid "巨人の薬"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.description"
+msgid "怪力の薬"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.using_message1"
+msgid "は巨人の薬を使った！"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.using_message2"
+msgid "驚きの巨大化！"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.name"
+msgid "竜の薬"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.description"
+msgid "不死の力が手に入る薬"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.using_message1"
+msgid "は竜の薬を使った！"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.using_message2"
+msgid "不思議な力に守られる！"
+msgstr ""
+
+#. ID 325
+msgctxt "skills.name"
+msgid "325"
+msgstr ""
+
+#. ID 327
+msgctxt "skills.name"
+msgid "100面ダイスボツ"
+msgstr ""
+
+#. ID 327
+msgctxt "skills.description"
+msgid "全能力100低下"
+msgstr ""
+
+#. ID 327
+msgctxt "skills.using_message1"
+msgid "は100面ダイスを放った！"
+msgstr ""
+
+#. ID 328
+msgctxt "skills.name"
+msgid "握り潰しラスボス"
+msgstr ""
+
+#. ID 328
+#. ID 354
+msgctxt "skills.description"
+msgid "敵一体の動きを封じる。攻11/停止"
+msgstr ""
+
+#. ID 328
+#. ID 354
+msgctxt "skills.using_message1"
+msgid "は掴みかかってきた！"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.name"
+msgid "封印回廊"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.description"
+msgid "/魔闇/死/防無"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.using_message1"
+msgid "は封印回廊を唱えた！"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.using_message2"
+msgid "空間が歪む！"
+msgstr ""
+
+#. ID 330
+msgctxt "skills.name"
+msgid "屠りの剣敵用"
+msgstr ""
+
+#. ID 331
+msgctxt "skills.name"
+msgid "戦闘咆哮"
+msgstr ""
+
+#. ID 331
+msgctxt "skills.using_message1"
+msgid "の戦闘咆哮！"
+msgstr ""
+
+#. ID 331
+msgctxt "skills.using_message2"
+msgid "プレッシャー！"
+msgstr ""
+
+#. ID 332
+msgctxt "skills.name"
+msgid "混沌渦動"
+msgstr ""
+
+#. ID 332
+msgctxt "skills.using_message1"
+msgid "は虹色の渦動を放った！"
+msgstr ""
+
+#. ID 333
+msgctxt "skills.name"
+msgid "全裸闘気"
+msgstr ""
+
+#. ID 334
+msgctxt "skills.name"
+msgid "狼手加減"
+msgstr ""
+
+#. ID 334
+#. ID 362
+#. ID 363
+msgctxt "skills.using_message1"
+msgid "の動きはにぶい！"
+msgstr ""
+
+#. ID 335
+msgctxt "skills.name"
+msgid "もじもじ"
+msgstr ""
+
+#. ID 335
+msgctxt "skills.using_message1"
+msgid "はもじもじしている！"
+msgstr ""
+
+#. ID 336
+msgctxt "skills.name"
+msgid "こっち向いて"
+msgstr ""
+
+#. ID 336
+msgctxt "skills.using_message1"
+msgid "はこっちをむいた！"
+msgstr ""
+
+#. ID 337
+msgctxt "skills.name"
+msgid "ラスボス詠唱"
+msgstr ""
+
+#. ID 338
+msgctxt "skills.name"
+msgid "敵分身"
+msgstr ""
+
+#. ID 339
+msgctxt "skills.name"
+msgid "警報"
+msgstr ""
+
+#. ID 339
+msgctxt "skills.using_message1"
+msgid "は応援を呼んだ！"
+msgstr ""
+
+#. ID 340
+msgctxt "skills.name"
+msgid "ウリュウ斬撃"
+msgstr ""
+
+#. ID 340
+#. ID 396
+msgctxt "skills.description"
+msgid "敵専用斬り攻撃。"
+msgstr ""
+
+#. ID 340
+#. ID 396
+msgctxt "skills.using_message1"
+msgid "の斬撃！"
+msgstr ""
+
+#. ID 341
+msgctxt "skills.name"
+msgid "ウリュウ流星剣"
+msgstr ""
+
+#. ID 341
+msgctxt "skills.description"
+msgid "神速の斬撃。攻200/斬/必中"
+msgstr ""
+
+#. ID 341
+msgctxt "skills.using_message2"
+msgid "「フフッ……」"
+msgstr ""
+
+#. ID 342
+msgctxt "skills.name"
+msgid "ウリュウ虚空斬"
+msgstr ""
+
+#. ID 342
+msgctxt "skills.using_message2"
+msgid "「フッ……」"
+msgstr ""
+
+#. ID 343
+msgctxt "skills.name"
+msgid "網投げ"
+msgstr ""
+
+#. ID 343
+msgctxt "skills.description"
+msgid "敵全体の動きを縛る。/魔/全/縛"
+msgstr ""
+
+#. ID 343
+msgctxt "skills.using_message1"
+msgid "は網を放った！"
+msgstr ""
+
+#. ID 344
+msgctxt "skills.name"
+msgid "$B全裸拳"
+msgstr ""
+
+#. ID 344
+msgctxt "skills.using_message2"
+msgid "「自然に還れ！！」"
+msgstr ""
+
+#. ID 345
+msgctxt "skills.name"
+msgid "345"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.name"
+msgid "$A七色怪光線"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.description"
+msgid "謎の光線。攻30/全/炎上"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.using_message1"
+msgid "は七色怪光線を放った！"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.using_message2"
+msgid "ZAP!! ZAP!! ZAP!!"
+msgstr ""
+
+#. ID 347
+msgctxt "skills.name"
+msgid "詠唱MP20"
+msgstr ""
+
+#. ID 347
+msgctxt "skills.using_message1"
+msgid "は精神を集中した！"
+msgstr ""
+
+#. ID 348
+msgctxt "skills.name"
+msgid "生贄"
+msgstr ""
+
+#. ID 348
+msgctxt "skills.description"
+msgid "HPを回復させる。効果値90/回"
+msgstr ""
+
+#. ID 348
+msgctxt "skills.using_message1"
+msgid "は魔物たちの生命を奪った！"
+msgstr ""
+
+#. ID 349
+msgctxt "skills.name"
+msgid "食らいつき"
+msgstr ""
+
+#. ID 349
+#. ID 372
+msgctxt "skills.using_message1"
+msgid "は大きな口を開けた！"
+msgstr ""
+
+#. ID 350
+msgctxt "skills.name"
+msgid "350"
+msgstr ""
+
+#. ID 351
+msgctxt "skills.name"
+msgid "魔物召喚"
+msgstr ""
+
+#. ID 351
+msgctxt "skills.using_message1"
+msgid "は魔物を召喚した！"
+msgstr ""
+
+#. ID 352
+msgctxt "skills.name"
+msgid "$E$C悪の曼陀羅4"
+msgstr ""
+
+#. ID 352
+msgctxt "skills.description"
+msgid "敵全体の動きを封じる。/魔/全/停止"
+msgstr ""
+
+#. ID 352
+msgctxt "skills.using_message1"
+msgid "たちは空中にマンダラを描いた！"
+msgstr ""
+
+#. ID 354
+msgctxt "skills.name"
+msgid "$A握りつぶし3"
+msgstr ""
+
+#. ID 355
+msgctxt "skills.name"
+msgid "$A体当たり1"
+msgstr ""
+
+#. ID 355
+msgctxt "skills.description"
+msgid "低命中率。80%/重/防御無視/衝"
+msgstr ""
+
+#. ID 355
+msgctxt "skills.using_message1"
+msgid "の体当たり！"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.name"
+msgid "$A踏み鳴らし4"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.description"
+msgid "大地震を起こす。/地/全/衝撃"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.using_message1"
+msgid "は大地を踏み鳴らした！"
+msgstr ""
+
+#. ID 357
+msgctxt "skills.name"
+msgid "$A振り下ろし5"
+msgstr ""
+
+#. ID 357
+msgctxt "skills.using_message1"
+msgid "は拳を振り下ろした！"
+msgstr ""
+
+#. ID 358
+msgctxt "skills.name"
+msgid "しがみつき"
+msgstr ""
+
+#. ID 358
+msgctxt "skills.description"
+msgid "敵一体の動きを封じる。/停止劣速"
+msgstr ""
+
+#. ID 358
+msgctxt "skills.using_message1"
+msgid "はしがみついた！"
+msgstr ""
+
+#. ID 359
+msgctxt "skills.name"
+msgid "笛吹き"
+msgstr ""
+
+#. ID 359
+msgctxt "skills.using_message1"
+msgid "は笛を吹いた！"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.name"
+msgid "自己再生"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.description"
+msgid "自身のHP回復と全状態異常の治療。回70[回治]"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.using_message1"
+msgid "の傷がふさがってゆく！"
+msgstr ""
+
+#. ID 362
+msgctxt "skills.name"
+msgid "シジ皇帝手加減"
+msgstr ""
+
+#. ID 362
+msgctxt "skills.using_message2"
+msgid "シーフォン「…僕は……こんなのは望んでねえ……！」"
+msgstr ""
+
+#. ID 363
+msgctxt "skills.name"
+msgid "チュナ皇帝手加減"
+msgstr ""
+
+#. ID 363
+msgctxt "skills.using_message2"
+msgid "チュナ「……今のうちに……早く……！」"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.name"
+msgid "突進攻撃"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.description"
+msgid "敵全体に攻撃。攻28[全]"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.using_message1"
+msgid "は突進して暴れ回った！"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.name"
+msgid "主砲発射"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.description"
+msgid "敵全体を業火で包む。"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.using_message1"
+msgid "は主砲を発射した！"
+msgstr ""
+
+#. ID 366
+msgctxt "skills.name"
+msgid "突風"
+msgstr ""
+
+#. ID 366
+msgctxt "skills.using_message1"
+msgid "は風を巻き起こした！"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.name"
+msgid "眠りの粉"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.description"
+msgid "敵全体を失神させる[魔/失神]"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.using_message1"
+msgid "は眠りの粉をばらまいた！"
+msgstr ""
+
+#. ID 368
+msgctxt "skills.name"
+msgid "踊り"
+msgstr ""
+
+#. ID 368
+msgctxt "skills.using_message1"
+msgid "は踊っている！"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.name"
+msgid "腸回し"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.description"
+msgid "敵全体を鞭で攻撃。攻12[鞭/全]"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.using_message1"
+msgid "は腸を振り回した！"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.using_message2"
+msgid "「ワーオ！」"
+msgstr ""
+
+#. ID 370
+msgctxt "skills.name"
+msgid "生首投げ"
+msgstr ""
+
+#. ID 370
+msgctxt "skills.using_message1"
+msgid "は自分の首を投げつけた！"
+msgstr ""
+
+#. ID 370
+msgctxt "skills.using_message2"
+msgid "「イエーイ！！」"
+msgstr ""
+
+#. ID 371
+msgctxt "skills.name"
+msgid "石化の視線"
+msgstr ""
+
+#. ID 371
+msgctxt "skills.using_message1"
+msgid "は石化の視線を使った！"
+msgstr ""
+
+#. ID 372
+msgctxt "skills.name"
+msgid "丸飲み"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.name"
+msgid "巻き付き"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.description"
+msgid "敵単体にダメージを与え、麻痺状態にする。"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.using_message1"
+msgid "の巻き付き攻撃！"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.name"
+msgid "石つぶて"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.description"
+msgid "敵単体に射撃ダメージを与える。"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.using_message1"
+msgid "は石つぶてを放った！"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.name"
+msgid "毒攻撃"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.description"
+msgid "敵単体にダメージを与え、毒状態にする。"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.using_message1"
+msgid "の攻撃！"
+msgstr ""
+
+#. ID 376
+msgctxt "skills.name"
+msgid "小麦粉投げ"
+msgstr ""
+
+#. ID 376
+msgctxt "skills.using_message1"
+msgid "は小麦粉を投げつけた！"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.name"
+msgid "油投げ"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.using_message1"
+msgid "は油を投げつけた！"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.using_message2"
+msgid "ぬるぬるした！"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.name"
+msgid "マッスルチョップ"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.description"
+msgid "力を込めた無属性攻撃。攻8"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.using_message1"
+msgid "はマッスルチョップを放った！"
+msgstr ""
+
+#. ID 379
+msgctxt "skills.name"
+msgid "ナイトブリード・ボム"
+msgstr ""
+
+#. ID 379
+msgctxt "skills.description"
+msgid "敵を転倒させる無属性攻撃。攻12[衝撃]"
+msgstr ""
+
+#. ID 379
+msgctxt "skills.using_message1"
+msgid "はナイトブリードボムを放った！"
+msgstr ""
+
+#. ID 380
+msgctxt "skills.name"
+msgid "セントバーナード蹴り"
+msgstr ""
+
+#. ID 380
+msgctxt "skills.description"
+msgid "攻24"
+msgstr ""
+
+#. ID 380
+msgctxt "skills.using_message1"
+msgid "のセントバーナード蹴り！"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.name"
+msgid "$EＢＰ腐食"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.description"
+msgid "ブラックプディングの特殊能力。効20/劣防"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.using_message1"
+msgid "は敵の装甲を溶かした！"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.using_message2"
+msgid "「無敵の侵食力」"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.name"
+msgid "$A$EＢＰ同化"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.description"
+msgid "ブラックプディングの特殊能力。攻10/吸収"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.using_message1"
+msgid "は同化を使った！"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.using_message2"
+msgid "「おいしく食べてね」"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.name"
+msgid "$A$EＢＰアタック"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.description"
+msgid "ブラックプディングの特殊能力。攻0/呑込"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.using_message1"
+msgid "はのしかかった！"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.using_message2"
+msgid "「食べ物のうらみは恐ろしい」"
+msgstr ""
+
+#. ID 384
+msgctxt "skills.name"
+msgid "$Eおたけび"
+msgstr ""
+
+#. ID 384
+msgctxt "skills.description"
+msgid "敵全体を驚かせ、行動できなくする。"
+msgstr ""
+
+#. ID 385
+msgctxt "skills.name"
+msgid "$A引き裂き"
+msgstr ""
+
+#. ID 385
+msgctxt "skills.description"
+msgid "爪による連続攻撃。攻44/斬/血"
+msgstr ""
+
+#. ID 385
+msgctxt "skills.using_message1"
+msgid "は引き裂きを使った！"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.name"
+msgid "$A目つつき"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.description"
+msgid "敵一体の目を突き命中率低下。攻3/突/劣中"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.name"
+msgid "$A蹴飛ばし"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.description"
+msgid "敵を転倒させる攻撃。攻12/重/衝撃"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.using_message1"
+msgid "は敵を蹴飛ばした！"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.name"
+msgid "鞭"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.description"
+msgid "敵専用鞭攻撃。"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.using_message1"
+msgid "の鞭攻撃！"
+msgstr ""
+
+#. ID 390
+msgctxt "skills.name"
+msgid "重打・衝撃"
+msgstr ""
+
+#. ID 390
+#. ID 391
+msgctxt "skills.description"
+msgid "敵専用重武器攻撃。"
+msgstr ""
+
+#. ID 390
+#. ID 394
+msgctxt "skills.using_message1"
+msgid "の打撃！"
+msgstr ""
+
+#. ID 391
+msgctxt "skills.name"
+msgid "重打・出血"
+msgstr ""
+
+#. ID 391
+msgctxt "skills.using_message1"
+msgid "の重斬撃！"
+msgstr ""
+
+#. ID 392
+msgctxt "skills.name"
+msgid "暗殺"
+msgstr ""
+
+#. ID 392
+msgctxt "skills.description"
+msgid "敵専用暗殺攻撃。"
+msgstr ""
+
+#. ID 392
+msgctxt "skills.using_message1"
+msgid "の刃！"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.name"
+msgid "射撃"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.description"
+msgid "敵専用射撃攻撃。"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.using_message1"
+msgid "の射撃！"
+msgstr ""
+
+#. ID 394
+msgctxt "skills.name"
+msgid "重打ボツ？"
+msgstr ""
+
+#. ID 394
+msgctxt "skills.description"
+msgid "敵専用打撃攻撃。"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.name"
+msgid "刺突"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.description"
+msgid "敵専用刺突攻撃。"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.using_message1"
+msgid "の刺突！"
+msgstr ""
+
+#. ID 396
+msgctxt "skills.name"
+msgid "斬撃"
+msgstr ""
+
+#. ID 398
+msgctxt "skills.name"
+msgid "↓探索スキル--------"
+msgstr ""
+
+#. ID 399
+msgctxt "skills.name"
+msgid "※機敏"
+msgstr ""
+
+#. ID 399
+msgctxt "skills.description"
+msgid "素早く正確な運動能力。"
+msgstr ""
+
+#. ID 400
+msgctxt "skills.name"
+msgid "※生存術"
+msgstr ""
+
+#. ID 400
+msgctxt "skills.description"
+msgid "野宿、狩り、水泳、操船など野外生活全般の技術。"
+msgstr ""
+
+#. ID 401
+msgctxt "skills.name"
+msgid "※危険感知"
+msgstr ""
+
+#. ID 401
+msgctxt "skills.description"
+msgid "危険を察知し、事前に回避するスキル。"
+msgstr ""
+
+#. ID 402
+msgctxt "skills.name"
+msgid "※盗賊の技"
+msgstr ""
+
+#. ID 402
+msgctxt "skills.description"
+msgid "罠や簡単な鍵を解除するスキル。"
+msgstr ""
+
+#. ID 403
+msgctxt "skills.name"
+msgid "※腕力"
+msgstr ""
+
+#. ID 403
+msgctxt "skills.description"
+msgid "腕っぷしの強さをあらわすスキル。"
+msgstr ""
+
+#. ID 404
+msgctxt "skills.name"
+msgid "※古代知識"
+msgstr ""
+
+#. ID 404
+msgctxt "skills.description"
+msgid "歴史の知識や古代語のスキル。"
+msgstr ""
+
+#. ID 408
+msgctxt "skills.name"
+msgid "夜魔知識"
+msgstr ""
+
+#. ID 408
+msgctxt "skills.using_message1"
+msgid "は夜魔知識を使った！"
+msgstr ""
+
+#. ID 410
+msgctxt "skills.name"
+msgid "※名付けの術"
+msgstr ""
+
+#. ID 410
+msgctxt "skills.description"
+msgid "名前の無いものに名を与えられる。"
+msgstr ""
+
+#. ID 410
+msgctxt "skills.using_message1"
+msgid "は名付けの術を使った！"
+msgstr ""
+
+#. ID 411
+msgctxt "skills.name"
+msgid "↓ボツ--------"
+msgstr ""
+
+#. ID 412
+msgctxt "skills.name"
+msgid "$A風車砕きボツ"
+msgstr ""
+
+#. ID 412
+msgctxt "skills.description"
+msgid "鎧をも貫く防御無効攻撃。攻52/突/防無"
+msgstr ""
+
+#. ID 412
+msgctxt "skills.using_message1"
+msgid "は貫通突きを放った！"
+msgstr ""
+
+#. ID 413
+msgctxt "skills.name"
+msgid "$Aヨロイ割りボツ"
+msgstr ""
+
+#. ID 413
+msgctxt "skills.description"
+msgid "敵一体の防御力を下げる攻撃。攻10/重/劣防"
+msgstr ""
+
+#. ID 414
+msgctxt "skills.name"
+msgid "$A武器からめ3ボツ"
+msgstr ""
+
+#. ID 414
+msgctxt "skills.description"
+msgid "敵の命中率と攻撃力を下げる。攻15/鞭/劣攻中"
+msgstr ""
+
+#. ID 414
+msgctxt "skills.using_message1"
+msgid "は武器からめを放った！"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.name"
+msgid "$A脳天打ち3ボツ"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.description"
+msgid "敵を気絶させる打撃。攻8/重/停止"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.using_message1"
+msgid "は脳天打ちを放った！"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.name"
+msgid "$A閃光突き2ボツ"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.description"
+msgid "対空効果のある必中攻撃。攻16/突空/必中"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.using_message1"
+msgid "は閃光突きを放った！"
+msgstr ""
+
+#. ID 417
+msgctxt "skills.name"
+msgid "$E$C踊り歌1ボツ"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.name"
+msgid "$Eクラウンアクション"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.description"
+msgid "敵全体の行動を狂わせる。/全/乱怯怒"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.using_message1"
+msgid "の攪乱攻撃！"
+msgstr ""
+
+#. ID 419
+msgctxt "skills.name"
+msgid "$B聖甲冑ボツ"
+msgstr ""
+
+#. ID 419
+msgctxt "skills.description"
+msgid "全武器への耐性を付与。効18/防/耐:武器"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.name"
+msgid "$B水への守りボツ"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.description"
+msgid "味方全員に水への耐性付与。/全/耐:水"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.using_message1"
+msgid "は水への守りを使った！"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.name"
+msgid "$A足縛り1ボツ"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.description"
+msgid "敵の足元を鞭で攻撃し、転倒させる。攻8/鞭/衝撃"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.using_message1"
+msgid "は足縛りを放った！"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.name"
+msgid "$A構え崩し1ボツ"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.description"
+msgid "強力な攻撃で敵をよろめかせる。攻8/重/衝撃"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.using_message1"
+msgid "は構え崩しを放った！"
+msgstr ""
+
+#. ID 423
+msgctxt "skills.name"
+msgid "$Aソードダンス5ボツ"
+msgstr ""
+
+#. ID 423
+msgctxt "skills.description"
+msgid "敵全体に斬りつける。攻60/斬/全"
+msgstr ""
+
+#. ID 423
+msgctxt "skills.using_message1"
+msgid "はソードダンスを放った！"
+msgstr ""
+
+#. ID 1
+msgctxt "items.name"
+msgid "テスト"
+msgstr ""
+
+#. ID 5
+msgctxt "items.name"
+msgid "5"
+msgstr ""
+
+#. ID 7
+msgctxt "items.name"
+msgid "◎衛生兵"
+msgstr ""
+
+#. ID 7
+msgctxt "items.description"
+msgid "味方全員を全快させる。戦闘中は使用不可。"
+msgstr ""
+
+#. ID 8
+msgctxt "items.name"
+msgid "--------------------"
+msgstr ""
+
+#. ID 9
+msgctxt "items.name"
+msgid "※玻璃瓶"
+msgstr ""
+
+#. ID 9
+msgctxt "items.description"
+msgid "星の光を宿す聖水が入ってる。何度でも照明を使える。"
+msgstr ""
+
+#. ID 10
+msgctxt "items.name"
+msgid "※ランタン"
+msgstr ""
+
+#. ID 10
+msgctxt "items.description"
+msgid "金属製の照明器具。油を入れて使う。"
+msgstr ""
+
+#. ID 11
+msgctxt "items.name"
+msgid "※ロープ"
+msgstr ""
+
+#. ID 11
+msgctxt "items.description"
+msgid "鉤爪つきロープの束。約5回使うとなくなる。"
+msgstr ""
+
+#. ID 12
+msgctxt "items.name"
+msgid "※ツルハシ"
+msgstr ""
+
+#. ID 12
+#. ID 13
+msgctxt "items.description"
+msgid "土や岩を掘る道具。約10回使うと壊れる。"
+msgstr ""
+
+#. ID 14
+msgctxt "items.name"
+msgid "※油"
+msgstr ""
+
+#. ID 14
+msgctxt "items.description"
+msgid "照明用の油。ランタンを使うのに必要。"
+msgstr ""
+
+#. ID 16
+msgctxt "items.name"
+msgid "※魔法の鍵"
+msgstr ""
+
+#. ID 16
+msgctxt "items.description"
+msgid "普通の鍵を安全確実に開けることができる。"
+msgstr ""
+
+#. ID 19
+msgctxt "items.name"
+msgid "※釣竿"
+msgstr ""
+
+#. ID 19
+msgctxt "items.description"
+msgid "釣りの道具。水辺のポイント上で使用できる。"
+msgstr ""
+
+#. ID 20
+msgctxt "items.name"
+msgid "※冒険の手帳"
+msgstr ""
+
+#. ID 20
+msgctxt "items.description"
+msgid "手に入れた文書やヒントを記録する手帳。"
+msgstr ""
+
+#. ID 21
+msgctxt "items.name"
+msgid "※忘れじの石"
+msgstr ""
+
+#. ID 21
+msgctxt "items.description"
+msgid "好きな場所でセーブ可能。ハマりに注意。"
+msgstr ""
+
+#. ID 22
+msgctxt "items.name"
+msgid "◎傷薬"
+msgstr ""
+
+#. ID 22
+msgctxt "items.description"
+msgid "HPを40点程度回復させる。"
+msgstr ""
+
+#. ID 23
+msgctxt "items.name"
+msgid "◎上等な傷薬"
+msgstr ""
+
+#. ID 23
+msgctxt "items.description"
+msgid "HPを120点程度回復させる。"
+msgstr ""
+
+#. ID 24
+msgctxt "items.name"
+msgid "◎特上の傷薬"
+msgstr ""
+
+#. ID 24
+msgctxt "items.description"
+msgid "HPを全快させる。"
+msgstr ""
+
+#. ID 25
+msgctxt "items.name"
+msgid "◎蘇生薬"
+msgstr ""
+
+#. ID 25
+msgctxt "items.description"
+msgid "戦闘不能をHP60%で回復させる。"
+msgstr ""
+
+#. ID 26
+msgctxt "items.name"
+msgid "◎復活薬"
+msgstr ""
+
+#. ID 26
+msgctxt "items.description"
+msgid "戦闘不能をHP100%で回復させる。"
+msgstr ""
+
+#. ID 27
+msgctxt "items.name"
+msgid "◎治癒の石"
+msgstr ""
+
+#. ID 27
+msgctxt "items.description"
+msgid "味方全体のHPを120点程度回復させる。"
+msgstr ""
+
+#. ID 28
+msgctxt "items.name"
+msgid "◎再生の石"
+msgstr ""
+
+#. ID 28
+msgctxt "items.description"
+msgid "味方全体のHPを全快させる。"
+msgstr ""
+
+#. ID 29
+msgctxt "items.name"
+msgid "◎賢者の石"
+msgstr ""
+
+#. ID 29
+msgctxt "items.description"
+msgid "味方全体を蘇生させ、HPとMPを全快させる。"
+msgstr ""
+
+#. ID 31
+msgctxt "items.name"
+msgid "◎治療薬"
+msgstr ""
+
+#. ID 31
+msgctxt "items.description"
+msgid "HP減衰・劣化を治療する。"
+msgstr ""
+
+#. ID 32
+msgctxt "items.name"
+msgid "◎気付け薬"
+msgstr ""
+
+#. ID 32
+msgctxt "items.description"
+msgid "停止・混乱・制限を治療する。"
+msgstr ""
+
+#. ID 33
+msgctxt "items.name"
+msgid "◎万能薬"
+msgstr ""
+
+#. ID 33
+msgctxt "items.description"
+msgid "戦闘不能と特殊以外の状態異常を治療する。"
+msgstr ""
+
+#. ID 34
+msgctxt "items.name"
+msgid "◎霊薬"
+msgstr ""
+
+#. ID 34
+msgctxt "items.description"
+msgid "MPを全快させる。"
+msgstr ""
+
+#. ID 36
+msgctxt "items.name"
+msgid "◎妖精の薬"
+msgstr ""
+
+#. ID 36
+msgctxt "items.description"
+msgid "戦闘中、不思議な魔法の力を与える。"
+msgstr ""
+
+#. ID 37
+msgctxt "items.name"
+msgid "◎小人の薬"
+msgstr ""
+
+#. ID 37
+msgctxt "items.description"
+msgid "戦闘中、体を小さくする。"
+msgstr ""
+
+#. ID 38
+msgctxt "items.name"
+msgid "◎巨人の薬"
+msgstr ""
+
+#. ID 38
+msgctxt "items.description"
+msgid "戦闘中、体を巨大化させる。"
+msgstr ""
+
+#. ID 39
+msgctxt "items.name"
+msgid "◎竜の薬"
+msgstr ""
+
+#. ID 39
+msgctxt "items.description"
+msgid "戦闘中、不思議な加護の力を得る。"
+msgstr ""
+
+#. ID 40
+msgctxt "items.name"
+msgid "$n煙石"
+msgstr ""
+
+#. ID 40
+msgctxt "items.description"
+msgid "敵全体の視界を奪う。"
+msgstr ""
+
+#. ID 41
+msgctxt "items.name"
+msgid "$n桃色試験管"
+msgstr ""
+
+#. ID 41
+msgctxt "items.description"
+msgid "敵全体を混乱させる。"
+msgstr ""
+
+#. ID 42
+msgctxt "items.name"
+msgid "$n眠り霧のビン"
+msgstr ""
+
+#. ID 42
+msgctxt "items.description"
+msgid "敵全体を眠らせる。"
+msgstr ""
+
+#. ID 43
+msgctxt "items.name"
+msgid "$n毒玉"
+msgstr ""
+
+#. ID 43
+msgctxt "items.description"
+msgid "敵全体を毒状態にする。"
+msgstr ""
+
+#. ID 44
+msgctxt "items.name"
+msgid "$n猛毒のダーツ"
+msgstr ""
+
+#. ID 44
+msgctxt "items.description"
+msgid "敵にダメージと猛毒を与える。"
+msgstr ""
+
+#. ID 45
+msgctxt "items.name"
+msgid "$n火炎ボトル"
+msgstr ""
+
+#. ID 45
+msgctxt "items.description"
+msgid "敵単体に炎で小ダメージ。"
+msgstr ""
+
+#. ID 46
+msgctxt "items.name"
+msgid "$n爆発フラスコ"
+msgstr ""
+
+#. ID 46
+msgctxt "items.description"
+msgid "敵全体に炎で中ダメージ。"
+msgstr ""
+
+#. ID 47
+msgctxt "items.name"
+msgid "$n破壊爆弾"
+msgstr ""
+
+#. ID 47
+msgctxt "items.description"
+msgid "敵全体に炎で大ダメージ。"
+msgstr ""
+
+#. ID 50
+msgctxt "items.name"
+msgid "50"
+msgstr ""
+
+#. ID 51
+msgctxt "items.name"
+msgid "※ブラックプディング"
+msgstr ""
+
+#. ID 51
+msgctxt "items.description"
+msgid "放置された台所から生まれた生命の神秘。"
+msgstr ""
+
+#. ID 52
+msgctxt "items.name"
+msgid "※とげとげした指輪"
+msgstr ""
+
+#. ID 52
+msgctxt "items.description"
+msgid "とげとげしている。装備はできず、使い捨て。"
+msgstr ""
+
+#. ID 55
+msgctxt "items.name"
+msgid "※世界地図ボツ"
+msgstr ""
+
+#. ID 55
+#. ID 232
+msgctxt "items.description"
+msgid "世界設定が読める。"
+msgstr ""
+
+#. ID 56
+msgctxt "items.name"
+msgid "※封印された小箱"
+msgstr ""
+
+#. ID 56
+msgctxt "items.description"
+msgid "壊すとランダムにアイテムや経験点を入手。"
+msgstr ""
+
+#. ID 58
+msgctxt "items.name"
+msgid "○パン"
+msgstr ""
+
+#. ID 58
+#. ID 88
+#. ID 99
+#. ID 102
+#. ID 110
+#. ID 112
+#. ID 128
+msgctxt "items.description"
+msgid "HP30%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 59
+msgctxt "items.name"
+msgid "○魚"
+msgstr ""
+
+#. ID 59
+#. ID 60
+#. ID 61
+msgctxt "items.description"
+msgid "HP10%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 60
+msgctxt "items.name"
+msgid "○生肉"
+msgstr ""
+
+#. ID 61
+msgctxt "items.name"
+msgid "○鳥肉"
+msgstr ""
+
+#. ID 62
+msgctxt "items.name"
+msgid "○野菜"
+msgstr ""
+
+#. ID 62
+#. ID 68
+msgctxt "items.description"
+msgid "MP5%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 63
+msgctxt "items.name"
+msgid "○卵"
+msgstr ""
+
+#. ID 63
+msgctxt "items.description"
+msgid "HP5%MP3%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 68
+msgctxt "items.name"
+msgid "○果物"
+msgstr ""
+
+#. ID 69
+msgctxt "items.name"
+msgid "○チョコレート"
+msgstr ""
+
+#. ID 69
+#. ID 84
+#. ID 92
+#. ID 123
+#. ID 124
+#. ID 129
+msgctxt "items.description"
+msgid "MP30%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 74
+msgctxt "items.name"
+msgid "○虹色魚"
+msgstr ""
+
+#. ID 74
+msgctxt "items.description"
+msgid "伝説の魚。MP80%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 75
+msgctxt "items.name"
+msgid "○竜の肉"
+msgstr ""
+
+#. ID 75
+msgctxt "items.description"
+msgid "竜の生肉。HP80%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 78
+msgctxt "items.name"
+msgid "○マヨケーキボツ"
+msgstr ""
+
+#. ID 78
+msgctxt "items.description"
+msgid "よくわからない味。HP32MP8回復。"
+msgstr ""
+
+#. ID 79
+msgctxt "items.name"
+msgid "○プディング"
+msgstr ""
+
+#. ID 79
+#. ID 90
+msgctxt "items.description"
+msgid "HP20%MP5%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 81
+msgctxt "items.name"
+msgid "○肉のプディング(ボ"
+msgstr ""
+
+#. ID 81
+msgctxt "items.description"
+msgid "HP64回復。"
+msgstr ""
+
+#. ID 82
+msgctxt "items.name"
+msgid "○フルーツプディング"
+msgstr ""
+
+#. ID 82
+msgctxt "items.description"
+msgid "HP30%MP15%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 84
+msgctxt "items.name"
+msgid "○アップルパイ"
+msgstr ""
+
+#. ID 85
+msgctxt "items.name"
+msgid "○チョコレートパイ"
+msgstr ""
+
+#. ID 85
+msgctxt "items.description"
+msgid "MP60%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 86
+msgctxt "items.name"
+msgid "○フルーツサンド"
+msgstr ""
+
+#. ID 86
+#. ID 122
+msgctxt "items.description"
+msgid "MP25%回復。食べやすい。"
+msgstr ""
+
+#. ID 88
+msgctxt "items.name"
+msgid "○焼き魚"
+msgstr ""
+
+#. ID 89
+msgctxt "items.name"
+msgid "○魚のマヨ焼きボツ"
+msgstr ""
+
+#. ID 89
+msgctxt "items.description"
+msgid "HP32MP8回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 90
+msgctxt "items.name"
+msgid "○魚のスープ"
+msgstr ""
+
+#. ID 91
+msgctxt "items.name"
+msgid "○魚介鍋"
+msgstr ""
+
+#. ID 91
+msgctxt "items.description"
+msgid "味方全体のHP10%MP10%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 92
+msgctxt "items.name"
+msgid "○魚のあんかけ煮"
+msgstr ""
+
+#. ID 93
+msgctxt "items.name"
+msgid "○魚のパイ"
+msgstr ""
+
+#. ID 93
+#. ID 104
+#. ID 116
+msgctxt "items.description"
+msgid "HP40%MP10%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 94
+msgctxt "items.name"
+msgid "○魚介のパスタ"
+msgstr ""
+
+#. ID 94
+#. ID 121
+#. ID 131
+msgctxt "items.description"
+msgid "HP20%MP20%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 95
+msgctxt "items.name"
+msgid "○白身魚サンド"
+msgstr ""
+
+#. ID 95
+msgctxt "items.description"
+msgid "HP10%MP20%回復。食べやすい。"
+msgstr ""
+
+#. ID 96
+msgctxt "items.name"
+msgid "○マヨ刺身ボツ"
+msgstr ""
+
+#. ID 96
+msgctxt "items.description"
+msgid "HP24MP10回復。"
+msgstr ""
+
+#. ID 99
+msgctxt "items.name"
+msgid "○焼肉"
+msgstr ""
+
+#. ID 100
+msgctxt "items.name"
+msgid "○肉のマヨ焼きボツ"
+msgstr ""
+
+#. ID 100
+msgctxt "items.description"
+msgid "HP32MP8回復。"
+msgstr ""
+
+#. ID 102
+msgctxt "items.name"
+msgid "○肉団子のシチュー"
+msgstr ""
+
+#. ID 103
+msgctxt "items.name"
+msgid "○スキヤキ"
+msgstr ""
+
+#. ID 103
+msgctxt "items.description"
+msgid "味方全体のHP30%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 104
+msgctxt "items.name"
+msgid "○肉団子のあんかけ"
+msgstr ""
+
+#. ID 105
+msgctxt "items.name"
+msgid "○ミートパイ"
+msgstr ""
+
+#. ID 105
+#. ID 107
+#. ID 115
+msgctxt "items.description"
+msgid "HP60%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 106
+msgctxt "items.name"
+msgid "○厚切り肉のサンド"
+msgstr ""
+
+#. ID 106
+msgctxt "items.description"
+msgid "HP50%回復。食べやすい。"
+msgstr ""
+
+#. ID 107
+msgctxt "items.name"
+msgid "○パスタミートソース"
+msgstr ""
+
+#. ID 110
+msgctxt "items.name"
+msgid "○ローストチキン"
+msgstr ""
+
+#. ID 111
+msgctxt "items.name"
+msgid "○鳥のマヨ焼きボツ"
+msgstr ""
+
+#. ID 112
+msgctxt "items.name"
+msgid "○鳥のスープ"
+msgstr ""
+
+#. ID 113
+msgctxt "items.name"
+msgid "○鳥鍋"
+msgstr ""
+
+#. ID 113
+msgctxt "items.description"
+msgid "味方全体のHP20%MP5%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 114
+msgctxt "items.name"
+msgid "○チキンサンド"
+msgstr ""
+
+#. ID 114
+#. ID 130
+msgctxt "items.description"
+msgid "HP30%MP10%回復。食べやすい。"
+msgstr ""
+
+#. ID 115
+msgctxt "items.name"
+msgid "○鳥肉のパイ"
+msgstr ""
+
+#. ID 116
+msgctxt "items.name"
+msgid "○鳥肉のパスタ"
+msgstr ""
+
+#. ID 119
+msgctxt "items.name"
+msgid "○野菜の炒め物"
+msgstr ""
+
+#. ID 119
+#. ID 127
+msgctxt "items.description"
+msgid "HP10%MP10%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 120
+msgctxt "items.name"
+msgid "○野菜スープ"
+msgstr ""
+
+#. ID 120
+msgctxt "items.description"
+msgid "MP15%回復。戦闘時使用不可。"
+msgstr ""
+
+#. ID 121
+msgctxt "items.name"
+msgid "○かぼちゃパイ"
+msgstr ""
+
+#. ID 122
+msgctxt "items.name"
+msgid "○野菜サンド"
+msgstr ""
+
+#. ID 123
+msgctxt "items.name"
+msgid "○サラダ"
+msgstr ""
+
+#. ID 124
+msgctxt "items.name"
+msgid "○ほうれん草のパスタ"
+msgstr ""
+
+#. ID 127
+msgctxt "items.name"
+msgid "○目玉焼き"
+msgstr ""
+
+#. ID 128
+msgctxt "items.name"
+msgid "○ゆで卵"
+msgstr ""
+
+#. ID 129
+msgctxt "items.name"
+msgid "○パンケーキ"
+msgstr ""
+
+#. ID 130
+msgctxt "items.name"
+msgid "○エッグサンド"
+msgstr ""
+
+#. ID 131
+msgctxt "items.name"
+msgid "○カルボナーラ"
+msgstr ""
+
+#. ID 136
+msgctxt "items.name"
+msgid "$n激辛ラーメン"
+msgstr ""
+
+#. ID 136
+#. ID 141
+msgctxt "items.description"
+msgid "口から火の出る辛さ。戦闘中使用可能。"
+msgstr ""
+
+#. ID 137
+msgctxt "items.name"
+msgid "○虹色ラーメン"
+msgstr ""
+
+#. ID 137
+msgctxt "items.description"
+msgid "HP100%MP100%回復。蘇生。輝く美味さ。戦闘時使用不可"
+msgstr ""
+
+#. ID 139
+msgctxt "items.name"
+msgid "○ドラゴンステーキ"
+msgstr ""
+
+#. ID 139
+msgctxt "items.description"
+msgid "HP80%回復。蘇生。戦闘時使用不可。"
+msgstr ""
+
+#. ID 140
+msgctxt "items.name"
+msgid "○ドラゴンフライ"
+msgstr ""
+
+#. ID 140
+msgctxt "items.description"
+msgid "HP100%回復。蘇生。戦闘時使用不可。"
+msgstr ""
+
+#. ID 141
+msgctxt "items.name"
+msgid "$n激辛ドラゴンスープ"
+msgstr ""
+
+#. ID 142
+msgctxt "items.name"
+msgid "○竜鍋"
+msgstr ""
+
+#. ID 142
+msgctxt "items.description"
+msgid "味方全体のHP60%回復。蘇生。戦闘時使用不可。"
+msgstr ""
+
+#. ID 145
+msgctxt "items.name"
+msgid "○レインボー焼魚"
+msgstr ""
+
+#. ID 145
+msgctxt "items.description"
+msgid "HP40%MP40%回復。蘇生。戦闘時使用不可。"
+msgstr ""
+
+#. ID 146
+msgctxt "items.name"
+msgid "○レインボーフライ"
+msgstr ""
+
+#. ID 146
+msgctxt "items.description"
+msgid "HP80%MP40%回復。蘇生。戦闘時使用不可。"
+msgstr ""
+
+#. ID 147
+msgctxt "items.name"
+msgid "○虹色スープ"
+msgstr ""
+
+#. ID 147
+msgctxt "items.description"
+msgid "MP80%回復。蘇生。戦闘時使用不可。"
+msgstr ""
+
+#. ID 148
+msgctxt "items.name"
+msgid "○黄金鍋"
+msgstr ""
+
+#. ID 148
+msgctxt "items.description"
+msgid "味方全体のHP60%MP60%回復。蘇生。戦闘時使用不可。"
+msgstr ""
+
+#. ID 150
+msgctxt "items.name"
+msgid "○妖精の薄焼菓子"
+msgstr ""
+
+#. ID 150
+msgctxt "items.description"
+msgid "HP40%MP10%回復。保存食品。戦闘時使用不可。"
+msgstr ""
+
+#. ID 151
+msgctxt "items.name"
+msgid "○乾パン"
+msgstr ""
+
+#. ID 151
+msgctxt "items.description"
+msgid "HP20%回復。保存食品。戦闘時使用不可。"
+msgstr ""
+
+#. ID 152
+msgctxt "items.name"
+msgid "○魚の干物"
+msgstr ""
+
+#. ID 152
+msgctxt "items.description"
+msgid "HP20%MP15%回復。保存食品。戦闘時使用不可。"
+msgstr ""
+
+#. ID 153
+msgctxt "items.name"
+msgid "○干し肉"
+msgstr ""
+
+#. ID 153
+msgctxt "items.description"
+msgid "HP50%回復。保存食品。戦闘時使用不可。"
+msgstr ""
+
+#. ID 154
+msgctxt "items.name"
+msgid "○塩漬け鳥肉"
+msgstr ""
+
+#. ID 154
+msgctxt "items.description"
+msgid "HP40%MP5%回復。保存食品。戦闘時使用不可。"
+msgstr ""
+
+#. ID 155
+msgctxt "items.name"
+msgid "○塩漬けドラゴン"
+msgstr ""
+
+#. ID 155
+msgctxt "items.description"
+msgid "HP90%回復。蘇生。保存食品。戦闘時使用不可。"
+msgstr ""
+
+#. ID 156
+msgctxt "items.name"
+msgid "○黄金の干物"
+msgstr ""
+
+#. ID 156
+msgctxt "items.description"
+msgid "HP10%MP70%回復。蘇生。保存食品。戦闘時使用不可。"
+msgstr ""
+
+#. ID 157
+msgctxt "items.name"
+msgid "○干し果物"
+msgstr ""
+
+#. ID 157
+msgctxt "items.description"
+msgid "MP25%回復。保存食品。戦闘時使用不可。"
+msgstr ""
+
+#. ID 159
+msgctxt "items.name"
+msgid "$A殺人パン"
+msgstr ""
+
+#. ID 159
+msgctxt "items.description"
+msgid "人間を撲殺できる。攻8/重/？"
+msgstr ""
+
+#. ID 160
+msgctxt "items.name"
+msgid "$n地獄焼き"
+msgstr ""
+
+#. ID 160
+msgctxt "items.description"
+msgid "地獄への門が開くほどのまずさ。"
+msgstr ""
+
+#. ID 161
+msgctxt "items.name"
+msgid "$nマッドシチュー"
+msgstr ""
+
+#. ID 161
+msgctxt "items.description"
+msgid "どう見ても毒。"
+msgstr ""
+
+#. ID 162
+msgctxt "items.name"
+msgid "$n暗黒鍋"
+msgstr ""
+
+#. ID 162
+msgctxt "items.description"
+msgid "うかつに触れると死ぬ。"
+msgstr ""
+
+#. ID 163
+msgctxt "items.name"
+msgid "$nバイオケーキ"
+msgstr ""
+
+#. ID 163
+msgctxt "items.description"
+msgid "生物兵器の一種。"
+msgstr ""
+
+#. ID 164
+msgctxt "items.name"
+msgid "○ポララポ"
+msgstr ""
+
+#. ID 164
+msgctxt "items.description"
+msgid "ホルム地方の郷土料理。目が覚めるまずさ。"
+msgstr ""
+
+#. ID 165
+msgctxt "items.name"
+msgid "$n焦げた石"
+msgstr ""
+
+#. ID 165
+msgctxt "items.description"
+msgid "すさまじい固さ。"
+msgstr ""
+
+#. ID 175
+msgctxt "items.name"
+msgid "175"
+msgstr ""
+
+#. ID 180
+msgctxt "items.name"
+msgid "180"
+msgstr ""
+
+#. ID 185
+msgctxt "items.name"
+msgid "185"
+msgstr ""
+
+#. ID 190
+msgctxt "items.name"
+msgid "190"
+msgstr ""
+
+#. ID 195
+msgctxt "items.name"
+msgid "195"
+msgstr ""
+
+#. ID 200
+msgctxt "items.name"
+msgid "イベント------------"
+msgstr ""
+
+#. ID 201
+msgctxt "items.name"
+msgid "★称号のしるし"
+msgstr ""
+
+#. ID 201
+msgctxt "items.description"
+msgid "とある場所に持ってゆくと称号を得られる。"
+msgstr ""
+
+#. ID 202
+msgctxt "items.name"
+msgid "★熟練のしるし"
+msgstr ""
+
+#. ID 202
+msgctxt "items.description"
+msgid "上級称号を得られる。"
+msgstr ""
+
+#. ID 205
+msgctxt "items.name"
+msgid "205"
+msgstr ""
+
+#. ID 206
+msgctxt "items.name"
+msgid "★旅人の骨"
+msgstr ""
+
+#. ID 206
+msgctxt "items.description"
+msgid "洞窟の中に転がっていた骨。"
+msgstr ""
+
+#. ID 207
+msgctxt "items.name"
+msgid "◇『旅人の手記』"
+msgstr ""
+
+#. ID 207
+msgctxt "items.description"
+msgid "行き倒れた旅人が持っていたノート。"
+msgstr ""
+
+#. ID 210
+msgctxt "items.name"
+msgid "◇『よいこの神話 1』"
+msgstr ""
+
+#. ID 210
+msgctxt "items.description"
+msgid "子供のための神話集・第一巻"
+msgstr ""
+
+#. ID 211
+msgctxt "items.name"
+msgid "◇『よいこの神話 2』"
+msgstr ""
+
+#. ID 211
+msgctxt "items.description"
+msgid "子供のための神話集・第二巻"
+msgstr ""
+
+#. ID 212
+msgctxt "items.name"
+msgid "◇『よいこの神話 3』"
+msgstr ""
+
+#. ID 212
+msgctxt "items.description"
+msgid "子供のための神話集・第三巻"
+msgstr ""
+
+#. ID 213
+msgctxt "items.name"
+msgid "◇『よいこの神話 4』"
+msgstr ""
+
+#. ID 213
+msgctxt "items.description"
+msgid "子供のための神話集・第四巻"
+msgstr ""
+
+#. ID 215
+msgctxt "items.name"
+msgid "◇『ﾅﾘｽとﾅﾑﾘｽ』"
+msgstr ""
+
+#. ID 215
+#. ID 216
+#. ID 217
+#. ID 218
+#. ID 225
+#. ID 233
+#. ID 234
+msgctxt "items.description"
+msgid "古代の文献。"
+msgstr ""
+
+#. ID 216
+msgctxt "items.name"
+msgid "◇『ラァグの遍歴』"
+msgstr ""
+
+#. ID 217
+msgctxt "items.name"
+msgid "◇『ﾀﾞｰﾏﾃﾞｨｳｽ伝』"
+msgstr ""
+
+#. ID 218
+msgctxt "items.name"
+msgid "◇『ｳﾞｧﾗﾒｱの魔女』"
+msgstr ""
+
+#. ID 219
+msgctxt "items.name"
+msgid "◇『ｸｰﾑ･ﾙｰﾑ･ﾃﾞｨｰﾑ』"
+msgstr ""
+
+#. ID 219
+msgctxt "items.description"
+msgid "戯れ歌を記録したもの。"
+msgstr ""
+
+#. ID 220
+msgctxt "items.name"
+msgid "220"
+msgstr ""
+
+#. ID 222
+msgctxt "items.name"
+msgid "◇『塔の王国年代記』"
+msgstr ""
+
+#. ID 222
+msgctxt "items.description"
+msgid "小人族の歴史を描いた長大な文書の断片。"
+msgstr ""
+
+#. ID 223
+msgctxt "items.name"
+msgid "◇『ホルムの伝説』"
+msgstr ""
+
+#. ID 223
+msgctxt "items.description"
+msgid "ホルム地方に伝わる伝説を郷土史家が記録したもの。"
+msgstr ""
+
+#. ID 224
+msgctxt "items.name"
+msgid "◇『川の娘』"
+msgstr ""
+
+#. ID 224
+msgctxt "items.description"
+msgid "大河中流域に伝わる伝説を郷土史家が記録したもの。"
+msgstr ""
+
+#. ID 225
+msgctxt "items.name"
+msgid "◇『無限宮の幻視者』"
+msgstr ""
+
+#. ID 226
+msgctxt "items.name"
+msgid "◇『大予言の恐怖』"
+msgstr ""
+
+#. ID 226
+msgctxt "items.description"
+msgid "印刷された小冊子。"
+msgstr ""
+
+#. ID 227
+msgctxt "items.name"
+msgid "◇『皇帝の手記』"
+msgstr ""
+
+#. ID 227
+msgctxt "items.description"
+msgid "アルケア帝国最後の皇帝の手記。"
+msgstr ""
+
+#. ID 229
+msgctxt "items.name"
+msgid "◇『世界の名剣』"
+msgstr ""
+
+#. ID 229
+msgctxt "items.description"
+msgid "伝説的な武器についての本。"
+msgstr ""
+
+#. ID 230
+msgctxt "items.name"
+msgid "◇『大河教典』"
+msgstr ""
+
+#. ID 230
+msgctxt "items.description"
+msgid "大河神殿の教義や神話をまとめたもの。"
+msgstr ""
+
+#. ID 231
+msgctxt "items.name"
+msgid "◇『歴史』"
+msgstr ""
+
+#. ID 231
+msgctxt "items.description"
+msgid "この世界の歴史についてまとめたもの。"
+msgstr ""
+
+#. ID 232
+msgctxt "items.name"
+msgid "◇『世界地図』"
+msgstr ""
+
+#. ID 233
+msgctxt "items.name"
+msgid "◇『ｱﾙｹｱ年代記 上』"
+msgstr ""
+
+#. ID 234
+msgctxt "items.name"
+msgid "◇『ｱﾙｹｱ年代記 下』"
+msgstr ""
+
+#. ID 235
+msgctxt "items.name"
+msgid "235"
+msgstr ""
+
+#. ID 237
+msgctxt "items.name"
+msgid "◇小人族のメモ"
+msgstr ""
+
+#. ID 237
+msgctxt "items.description"
+msgid "黒鉄の小人族の兵士が持っていたらしい。『1593』"
+msgstr ""
+
+#. ID 238
+msgctxt "items.name"
+msgid "◇寺院のメモ"
+msgstr ""
+
+#. ID 238
+msgctxt "items.description"
+msgid "「巨神の左手に宝あり　巨神の右手に呪いあり」"
+msgstr ""
+
+#. ID 239
+msgctxt "items.name"
+msgid "◇妖精族のメモ"
+msgstr ""
+
+#. ID 239
+msgctxt "items.description"
+msgid "奇妙な図形が描かれている。"
+msgstr ""
+
+#. ID 240
+msgctxt "items.name"
+msgid "◇宝のメモ１"
+msgstr ""
+
+#. ID 240
+msgctxt "items.description"
+msgid "「いにしえのオベリスクのてっぺんから　南４西７」"
+msgstr ""
+
+#. ID 241
+msgctxt "items.name"
+msgid "◇宝のメモ２"
+msgstr ""
+
+#. ID 241
+msgctxt "items.description"
+msgid "「竜骨の見つめる先　南８」"
+msgstr ""
+
+#. ID 242
+msgctxt "items.name"
+msgid "◇宝のメモ３"
+msgstr ""
+
+#. ID 242
+msgctxt "items.description"
+msgid "「ノキノキタカシノキノキタカシ　３歩」"
+msgstr ""
+
+#. ID 243
+msgctxt "items.name"
+msgid "◇宝のメモ４"
+msgstr ""
+
+#. ID 243
+msgctxt "items.description"
+msgid "「七本足に角一本　から　東７南８」"
+msgstr ""
+
+#. ID 244
+msgctxt "items.name"
+msgid "◇宝のメモ５"
+msgstr ""
+
+#. ID 244
+msgctxt "items.description"
+msgid "「生首岩の西　山頂と巨人を線で結べ」"
+msgstr ""
+
+#. ID 245
+msgctxt "items.name"
+msgid "245"
+msgstr ""
+
+#. ID 250
+msgctxt "items.name"
+msgid "250"
+msgstr ""
+
+#. ID 251
+msgctxt "items.name"
+msgid "★竜の鍵ボツ"
+msgstr ""
+
+#. ID 251
+msgctxt "items.description"
+msgid "竜の模様が刻まれた鍵。"
+msgstr ""
+
+#. ID 252
+msgctxt "items.name"
+msgid "★銅の鍵"
+msgstr ""
+
+#. ID 252
+msgctxt "items.description"
+msgid "銅製の鍵。"
+msgstr ""
+
+#. ID 253
+msgctxt "items.name"
+msgid "★黒鉄の鍵"
+msgstr ""
+
+#. ID 253
+msgctxt "items.description"
+msgid "鋼鉄の鍵。"
+msgstr ""
+
+#. ID 254
+msgctxt "items.name"
+msgid "★呼び水の鍵"
+msgstr ""
+
+#. ID 254
+msgctxt "items.description"
+msgid "女神の封印を破る鍵。"
+msgstr ""
+
+#. ID 255
+msgctxt "items.name"
+msgid "★石の鍵"
+msgstr ""
+
+#. ID 255
+msgctxt "items.description"
+msgid "石で作られた鍵。"
+msgstr ""
+
+#. ID 260
+msgctxt "items.name"
+msgid "◇『廃都物語 1』"
+msgstr ""
+
+#. ID 260
+#. ID 261
+#. ID 262
+#. ID 263
+#. ID 264
+msgctxt "items.description"
+msgid "古代の娯楽作品。"
+msgstr ""
+
+#. ID 261
+msgctxt "items.name"
+msgid "◇『廃都物語 2』"
+msgstr ""
+
+#. ID 262
+msgctxt "items.name"
+msgid "◇『廃都物語 3』"
+msgstr ""
+
+#. ID 263
+msgctxt "items.name"
+msgid "◇『廃都物語 4』"
+msgstr ""
+
+#. ID 264
+msgctxt "items.name"
+msgid "◇『廃都物語 5』"
+msgstr ""
+
+#. ID 265
+msgctxt "items.name"
+msgid "265"
+msgstr ""
+
+#. ID 270
+msgctxt "items.name"
+msgid "◇『神帝記 1』"
+msgstr ""
+
+#. ID 270
+#. ID 271
+#. ID 272
+#. ID 273
+#. ID 274
+#. ID 275
+#. ID 276
+#. ID 277
+#. ID 278
+#. ID 279
+#. ID 280
+#. ID 281
+#. ID 282
+#. ID 283
+#. ID 284
+#. ID 285
+msgctxt "items.description"
+msgid "初代皇帝の伝記"
+msgstr ""
+
+#. ID 271
+msgctxt "items.name"
+msgid "◇『神帝記 2』"
+msgstr ""
+
+#. ID 272
+msgctxt "items.name"
+msgid "◇『神帝記 3』"
+msgstr ""
+
+#. ID 273
+msgctxt "items.name"
+msgid "◇『神帝記 4』"
+msgstr ""
+
+#. ID 274
+msgctxt "items.name"
+msgid "◇『神帝記 5』"
+msgstr ""
+
+#. ID 275
+msgctxt "items.name"
+msgid "◇『神帝記 6』"
+msgstr ""
+
+#. ID 276
+msgctxt "items.name"
+msgid "◇『神帝記 7』"
+msgstr ""
+
+#. ID 277
+msgctxt "items.name"
+msgid "◇『神帝記 8』"
+msgstr ""
+
+#. ID 278
+msgctxt "items.name"
+msgid "◇『神帝記 9』"
+msgstr ""
+
+#. ID 279
+msgctxt "items.name"
+msgid "◇『神帝記10』"
+msgstr ""
+
+#. ID 280
+msgctxt "items.name"
+msgid "◇『神帝記11』"
+msgstr ""
+
+#. ID 281
+msgctxt "items.name"
+msgid "◇『神帝記12』"
+msgstr ""
+
+#. ID 282
+msgctxt "items.name"
+msgid "◇『神帝記13』"
+msgstr ""
+
+#. ID 283
+msgctxt "items.name"
+msgid "◇『神帝記14』"
+msgstr ""
+
+#. ID 284
+msgctxt "items.name"
+msgid "◇『神帝記15』"
+msgstr ""
+
+#. ID 285
+msgctxt "items.name"
+msgid "◇『神帝記16』"
+msgstr ""
+
+#. ID 287
+msgctxt "items.name"
+msgid "◇『鍵の書 上』"
+msgstr ""
+
+#. ID 287
+#. ID 288
+msgctxt "items.description"
+msgid "初代皇帝が記した魔道書。"
+msgstr ""
+
+#. ID 288
+msgctxt "items.name"
+msgid "◇『鍵の書 下』"
+msgstr ""
+
+#. ID 290
+msgctxt "items.name"
+msgid "オムリの秘石ボツ"
+msgstr ""
+
+#. ID 290
+msgctxt "items.description"
+msgid "攻撃魔法『竜脈の解放』を修得させる。"
+msgstr ""
+
+#. ID 292
+msgctxt "items.name"
+msgid "★銀のメダル"
+msgstr ""
+
+#. ID 292
+msgctxt "items.description"
+msgid "塔の紋様が刻まれている。"
+msgstr ""
+
+#. ID 293
+msgctxt "items.name"
+msgid "★自由乗船券"
+msgstr ""
+
+#. ID 293
+msgctxt "items.description"
+msgid "古代都市の渡し船に何度でも乗れる。"
+msgstr ""
+
+#. ID 295
+msgctxt "items.name"
+msgid "295"
+msgstr ""
+
+#. ID 296
+msgctxt "items.name"
+msgid "★ツルハシ神の護符"
+msgstr ""
+
+#. ID 296
+msgctxt "items.description"
+msgid "普通は掘れないものを掘れるようになる。"
+msgstr ""
+
+#. ID 297
+msgctxt "items.name"
+msgid "★ロープ神の護符"
+msgstr ""
+
+#. ID 297
+msgctxt "items.description"
+msgid "持っているだけでロープの使用回数が無限になる。"
+msgstr ""
+
+#. ID 300
+msgctxt "items.name"
+msgid "素材・換金----------"
+msgstr ""
+
+#. ID 302
+msgctxt "items.name"
+msgid "●カブラ苔"
+msgstr ""
+
+#. ID 302
+msgctxt "items.description"
+msgid "調合の素材。炎症を止める。"
+msgstr ""
+
+#. ID 303
+msgctxt "items.name"
+msgid "●クルカの葉"
+msgstr ""
+
+#. ID 303
+msgctxt "items.description"
+msgid "調合の素材。新陳代謝を促進する。"
+msgstr ""
+
+#. ID 304
+msgctxt "items.name"
+msgid "●緑光黴"
+msgstr ""
+
+#. ID 304
+msgctxt "items.description"
+msgid "調合の素材。免疫力増強と発汗作用がある。"
+msgstr ""
+
+#. ID 305
+msgctxt "items.name"
+msgid "●トルキタの花"
+msgstr ""
+
+#. ID 305
+msgctxt "items.description"
+msgid "調合の素材。幻覚を引き起こし、啓示をもたらす。"
+msgstr ""
+
+#. ID 306
+msgctxt "items.name"
+msgid "●ムシクサダケ"
+msgstr ""
+
+#. ID 306
+msgctxt "items.description"
+msgid "調合の素材。覚醒と興奮効果がある。"
+msgstr ""
+
+#. ID 307
+msgctxt "items.name"
+msgid "●アセラスの葉"
+msgstr ""
+
+#. ID 307
+msgctxt "items.description"
+msgid "調合の素材。強い治癒力を持つ。"
+msgstr ""
+
+#. ID 308
+msgctxt "items.name"
+msgid "●毒腺"
+msgstr ""
+
+#. ID 308
+msgctxt "items.description"
+msgid "調合の素材。猛毒が詰まっている。"
+msgstr ""
+
+#. ID 309
+msgctxt "items.name"
+msgid "●聖なる骨"
+msgstr ""
+
+#. ID 309
+msgctxt "items.description"
+msgid "調合の素材。神秘的な力を秘めている。"
+msgstr ""
+
+#. ID 310
+msgctxt "items.name"
+msgid "●竜の血"
+msgstr ""
+
+#. ID 310
+msgctxt "items.description"
+msgid "調合の素材。肉体強化の力を持つ。"
+msgstr ""
+
+#. ID 311
+msgctxt "items.name"
+msgid "●燃える羽根"
+msgstr ""
+
+#. ID 311
+msgctxt "items.description"
+msgid "調合の素材。蘇生の力を秘める。"
+msgstr ""
+
+#. ID 312
+msgctxt "items.name"
+msgid "●トカゲの糞"
+msgstr ""
+
+#. ID 312
+msgctxt "items.description"
+msgid "調合の素材。硝石を大量に含む。"
+msgstr ""
+
+#. ID 319
+msgctxt "items.name"
+msgid "●小麦粉"
+msgstr ""
+
+#. ID 319
+msgctxt "items.description"
+msgid "料理の素材。パンや麺の材料。"
+msgstr ""
+
+#. ID 321
+msgctxt "items.name"
+msgid "●べとべと"
+msgstr ""
+
+#. ID 321
+msgctxt "items.description"
+msgid "料理の素材。料理にとろみと怪しさを加える。"
+msgstr ""
+
+#. ID 322
+msgctxt "items.name"
+msgid "●マヨネーズボツ"
+msgstr ""
+
+#. ID 322
+msgctxt "items.description"
+msgid "料理の素材。カロリーが高く、一部の人に愛好される。"
+msgstr ""
+
+#. ID 323
+msgctxt "items.name"
+msgid "●不思議な保存塩"
+msgstr ""
+
+#. ID 323
+msgctxt "items.description"
+msgid "料理の素材。混ぜると保存食が作れる。"
+msgstr ""
+
+#. ID 327
+msgctxt "items.name"
+msgid "●鉄"
+msgstr ""
+
+#. ID 327
+#. ID 328
+msgctxt "items.description"
+msgid "アイテムの材料。熱して叩け。"
+msgstr ""
+
+#. ID 328
+msgctxt "items.name"
+msgid "●上等な鉄"
+msgstr ""
+
+#. ID 329
+msgctxt "items.name"
+msgid "●銀"
+msgstr ""
+
+#. ID 329
+#. ID 330
+msgctxt "items.description"
+msgid "アイテムの材料。高価。"
+msgstr ""
+
+#. ID 330
+msgctxt "items.name"
+msgid "●金"
+msgstr ""
+
+#. ID 331
+msgctxt "items.name"
+msgid "●ミスリル"
+msgstr ""
+
+#. ID 331
+#. ID 332
+msgctxt "items.description"
+msgid "アイテムの材料。魔力を持つ。"
+msgstr ""
+
+#. ID 332
+msgctxt "items.name"
+msgid "●竜鋼"
+msgstr ""
+
+#. ID 333
+msgctxt "items.name"
+msgid "●宝石"
+msgstr ""
+
+#. ID 333
+msgctxt "items.description"
+msgid "アイテムの材料。高価。魔力を持つとも言われる。"
+msgstr ""
+
+#. ID 334
+msgctxt "items.name"
+msgid "●木材"
+msgstr ""
+
+#. ID 334
+msgctxt "items.description"
+msgid "アイテムの材料。普通の木。"
+msgstr ""
+
+#. ID 335
+msgctxt "items.name"
+msgid "●聖木"
+msgstr ""
+
+#. ID 335
+msgctxt "items.description"
+msgid "アイテムの材料。魔力を秘めている。"
+msgstr ""
+
+#. ID 336
+msgctxt "items.name"
+msgid "●獣皮"
+msgstr ""
+
+#. ID 336
+msgctxt "items.description"
+msgid "アイテムの材料。もじゃもじゃで生臭い。"
+msgstr ""
+
+#. ID 338
+msgctxt "items.name"
+msgid "●布地"
+msgstr ""
+
+#. ID 338
+msgctxt "items.description"
+msgid "アイテムの材料。普通の布。"
+msgstr ""
+
+#. ID 339
+msgctxt "items.name"
+msgid "●祝福された布"
+msgstr ""
+
+#. ID 339
+msgctxt "items.description"
+msgid "アイテムの材料。一見すると普通の布。"
+msgstr ""
+
+#. ID 341
+msgctxt "items.name"
+msgid "●錆びた武器"
+msgstr ""
+
+#. ID 341
+#. ID 342
+msgctxt "items.description"
+msgid "アイテムの材料。大昔の名品の残骸。"
+msgstr ""
+
+#. ID 342
+msgctxt "items.name"
+msgid "●錆びた防具"
+msgstr ""
+
+#. ID 346
+msgctxt "items.name"
+msgid "●白い毛皮"
+msgstr ""
+
+#. ID 346
+msgctxt "items.description"
+msgid "白い大鹿の毛皮。"
+msgstr ""
+
+#. ID 348
+msgctxt "items.name"
+msgid "335"
+msgstr ""
+
+#. ID 353
+msgctxt "items.name"
+msgid "◆古代の銅貨"
+msgstr ""
+
+#. ID 353
+msgctxt "items.description"
+msgid "換金用。50Ｇ"
+msgstr ""
+
+#. ID 354
+msgctxt "items.name"
+msgid "◆古代の銀貨"
+msgstr ""
+
+#. ID 354
+msgctxt "items.description"
+msgid "換金用。1000Ｇ"
+msgstr ""
+
+#. ID 355
+msgctxt "items.name"
+msgid "◆古代の金貨"
+msgstr ""
+
+#. ID 355
+msgctxt "items.description"
+msgid "換金用。4000Ｇ"
+msgstr ""
+
+#. ID 356
+msgctxt "items.name"
+msgid "◆古代の壁画"
+msgstr ""
+
+#. ID 356
+msgctxt "items.description"
+msgid "換金用。1500Ｇ"
+msgstr ""
+
+#. ID 357
+msgctxt "items.name"
+msgid "◆古代の彫像"
+msgstr ""
+
+#. ID 357
+msgctxt "items.description"
+msgid "換金用。300Ｇ"
+msgstr ""
+
+#. ID 358
+msgctxt "items.name"
+msgid "◆古代の陶器"
+msgstr ""
+
+#. ID 358
+msgctxt "items.description"
+msgid "換金用。200Ｇ"
+msgstr ""
+
+#. ID 359
+msgctxt "items.name"
+msgid "◆古代の宝飾品"
+msgstr ""
+
+#. ID 359
+msgctxt "items.description"
+msgid "換金用。3000Ｇ"
+msgstr ""
+
+#. ID 360
+msgctxt "items.name"
+msgid "◆古代の祭器"
+msgstr ""
+
+#. ID 360
+msgctxt "items.description"
+msgid "換金用。4500Ｇ"
+msgstr ""
+
+#. ID 361
+msgctxt "items.name"
+msgid "◆古代の文書"
+msgstr ""
+
+#. ID 361
+msgctxt "items.description"
+msgid "換金用。350Ｇ"
+msgstr ""
+
+#. ID 365
+msgctxt "items.name"
+msgid "365"
+msgstr ""
+
+#. ID 366
+msgctxt "items.name"
+msgid "◆黄金魔神像"
+msgstr ""
+
+#. ID 366
+msgctxt "items.description"
+msgid "換金用。とてもムキムキ。30000Ｇ"
+msgstr ""
+
+#. ID 367
+msgctxt "items.name"
+msgid "◆100面ダイス"
+msgstr ""
+
+#. ID 367
+msgctxt "items.description"
+msgid "換金用？　ボールにしか見えない。100000Ｇ"
+msgstr ""
+
+#. ID 368
+msgctxt "items.name"
+msgid "◆20面ダイス"
+msgstr ""
+
+#. ID 368
+msgctxt "items.description"
+msgid "換金用。よく転がる。20000Ｇ"
+msgstr ""
+
+#. ID 369
+msgctxt "items.name"
+msgid "◆8面ダイス"
+msgstr ""
+
+#. ID 369
+msgctxt "items.description"
+msgid "換金用。寝てるプレイヤーに投げ付ける。8000Ｇ"
+msgstr ""
+
+#. ID 370
+msgctxt "items.name"
+msgid "370"
+msgstr ""
+
+#. ID 375
+msgctxt "items.name"
+msgid "375"
+msgstr ""
+
+#. ID 380
+msgctxt "items.name"
+msgid "380"
+msgstr ""
+
+#. ID 385
+msgctxt "items.name"
+msgid "385"
+msgstr ""
+
+#. ID 390
+msgctxt "items.name"
+msgid "390"
+msgstr ""
+
+#. ID 400
+msgctxt "items.name"
+msgid "武器6---------"
+msgstr ""
+
+#. ID 402
+msgctxt "items.name"
+msgid "$Cエウルス"
+msgstr ""
+
+#. ID 402
+msgctxt "items.description"
+msgid "東方守護の剣。攻50/斬突魔/二回/命中必殺出血"
+msgstr ""
+
+#. ID 403
+msgctxt "items.name"
+msgid "$C時渡りの剣"
+msgstr ""
+
+#. ID 403
+msgctxt "items.description"
+msgid "伝説の剣。攻120魔80/斬突重/両手/必中必殺/劣攻防中"
+msgstr ""
+
+#. ID 404
+msgctxt "items.name"
+msgid "$Cキューグの聖剣"
+msgstr ""
+
+#. ID 404
+msgctxt "items.description"
+msgid "司法神の力が宿る剣。攻95魔220/斬突聖魔/命中先制"
+msgstr ""
+
+#. ID 405
+msgctxt "items.name"
+msgid "$A村正"
+msgstr ""
+
+#. ID 405
+msgctxt "items.description"
+msgid "伝説の名刀。攻150速20/斬暗重/両手/命中即死"
+msgstr ""
+
+#. ID 406
+msgctxt "items.name"
+msgid "$C母なる夜の剣ボツ"
+msgstr ""
+
+#. ID 406
+msgctxt "items.description"
+msgid "太古の邪神の魔剣。攻250魔200/斬重闇魔/両手/即死"
+msgstr ""
+
+#. ID 407
+msgctxt "items.name"
+msgid "$A朱雀紋柄神奉太刀"
+msgstr ""
+
+#. ID 407
+msgctxt "items.description"
+msgid "皇帝の副葬品。攻118/斬重長火/両手"
+msgstr ""
+
+#. ID 408
+msgctxt "items.name"
+msgid "$C真銀四神獣文鎚"
+msgstr ""
+
+#. ID 408
+msgctxt "items.description"
+msgid "皇帝の副葬品。攻125魔60/重魔獣/両手/衝撃調教"
+msgstr ""
+
+#. ID 409
+msgctxt "items.name"
+msgid "$C金刻雷文黒鉄斧"
+msgstr ""
+
+#. ID 409
+msgctxt "items.description"
+msgid "皇帝の副葬品。攻110魔140/斬重長雷魔/両手"
+msgstr ""
+
+#. ID 410
+msgctxt "items.name"
+msgid "$A白翼飾太穂槍"
+msgstr ""
+
+#. ID 410
+msgctxt "items.description"
+msgid "皇帝の副葬品。攻84速12/突長射/必殺/対空/命中"
+msgstr ""
+
+#. ID 411
+msgctxt "items.name"
+msgid "$A竜骨線刻螺鈿剣"
+msgstr ""
+
+#. ID 411
+msgctxt "items.description"
+msgid "皇帝の副葬品。攻85/斬突/対竜"
+msgstr ""
+
+#. ID 412
+msgctxt "items.name"
+msgid "$C星護符文小刀"
+msgstr ""
+
+#. ID 412
+msgctxt "items.description"
+msgid "皇帝の副葬品。投擲可。攻57魔90/突暗魔/射撃/必殺"
+msgstr ""
+
+#. ID 413
+msgctxt "items.name"
+msgid "$C幽鬼の刃"
+msgstr ""
+
+#. ID 413
+msgctxt "items.description"
+msgid "悪しき刃。攻75防-10/斬突暗闇魔/死猛血"
+msgstr ""
+
+#. ID 414
+msgctxt "items.name"
+msgid "$C霊樹細工琴型弓"
+msgstr ""
+
+#. ID 414
+msgctxt "items.description"
+msgid "皇帝の副葬品。攻85魔80/射聖魔/両手/先制二回"
+msgstr ""
+
+#. ID 415
+msgctxt "items.name"
+msgid "$A蛇鱗八条鞭"
+msgstr ""
+
+#. ID 415
+msgctxt "items.description"
+msgid "皇帝の副葬品。全体に攻撃。攻80/鞭/全/両手/劣速束縛"
+msgstr ""
+
+#. ID 417
+msgctxt "items.name"
+msgid "$Cアークフィアの杖"
+msgstr ""
+
+#. ID 417
+msgctxt "items.description"
+msgid "冥府の渡し船の櫂。攻60魔240/重水魔/両手/全/呑"
+msgstr ""
+
+#. ID 418
+msgctxt "items.name"
+msgid "$C＜上霊＞"
+msgstr ""
+
+#. ID 418
+msgctxt "items.description"
+msgid "天界の知恵。攻80魔240/重聖闇魔/全体/支配怯み"
+msgstr ""
+
+#. ID 419
+msgctxt "items.name"
+msgid "$C翡翠飾樹枝型杖"
+msgstr ""
+
+#. ID 419
+msgctxt "items.description"
+msgid "皇帝の副葬品。攻14魔220/魔/対地/両手/束縛"
+msgstr ""
+
+#. ID 420
+msgctxt "items.name"
+msgid "$C竜王石"
+msgstr ""
+
+#. ID 420
+msgctxt "items.description"
+msgid "竜の力を使うための石。攻30防30魔60敏60/魔竜/全体"
+msgstr ""
+
+#. ID 423
+msgctxt "items.name"
+msgid "武器5---------"
+msgstr ""
+
+#. ID 426
+msgctxt "items.name"
+msgid "$A匠の剛剣"
+msgstr ""
+
+#. ID 426
+msgctxt "items.description"
+msgid "特別あつらえの長剣。攻80/斬突/命中必殺"
+msgstr ""
+
+#. ID 427
+msgctxt "items.name"
+msgid "$Cルーンの剣"
+msgstr ""
+
+#. ID 427
+msgctxt "items.description"
+msgid "魔術師に力を与える長剣。攻65魔140/斬突魔"
+msgstr ""
+
+#. ID 429
+msgctxt "items.name"
+msgid "$A鷹のレイピア"
+msgstr ""
+
+#. ID 429
+msgctxt "items.description"
+msgid "特別製の突剣。二回攻撃可能。攻20/突/必殺二回"
+msgstr ""
+
+#. ID 430
+msgctxt "items.name"
+msgid "$C妖精の突剣"
+msgstr ""
+
+#. ID 430
+msgctxt "items.description"
+msgid "眠りの力を持つ突剣。攻50/突魔/必殺命中失神"
+msgstr ""
+
+#. ID 431
+msgctxt "items.name"
+msgid "$A霧薙"
+msgstr ""
+
+#. ID 431
+msgctxt "items.description"
+msgid "特別製の刀。高確率で出血。攻100/斬/両手/出血"
+msgstr ""
+
+#. ID 433
+msgctxt "items.name"
+msgid "$A屠竜刀"
+msgstr ""
+
+#. ID 433
+msgctxt "items.description"
+msgid "竜殺しの巨大刀。攻120速-40/斬重長/両手/対竜"
+msgstr ""
+
+#. ID 434
+msgctxt "items.name"
+msgid "$C太陽のフレイル"
+msgstr ""
+
+#. ID 434
+msgctxt "items.description"
+msgid "特別製のフレイル。攻79魔100/重聖魔/衝撃命中"
+msgstr ""
+
+#. ID 435
+msgctxt "items.name"
+msgid "$A達人の投擲斧"
+msgstr ""
+
+#. ID 435
+msgctxt "items.description"
+msgid "特別製の手斧。攻86/斬重射"
+msgstr ""
+
+#. ID 436
+msgctxt "items.name"
+msgid "$A白銀の騎士槍"
+msgstr ""
+
+#. ID 436
+msgctxt "items.description"
+msgid "特別製の突撃槍。攻76速16/突重長/必中必殺"
+msgstr ""
+
+#. ID 438
+msgctxt "items.name"
+msgid "$A業物の短剣"
+msgstr ""
+
+#. ID 438
+msgctxt "items.description"
+msgid "特別あつらえの短剣。攻55/突暗/命中"
+msgstr ""
+
+#. ID 439
+msgctxt "items.name"
+msgid "$A手術刀"
+msgstr ""
+
+#. ID 439
+msgctxt "items.description"
+msgid "非常に鋭い短剣。攻50/斬突暗/必殺"
+msgstr ""
+
+#. ID 440
+msgctxt "items.name"
+msgid "$A月撃ちの弓"
+msgstr ""
+
+#. ID 440
+msgctxt "items.description"
+msgid "特別製の弓。必殺上昇。攻110/射獣/両手/先制命中必殺"
+msgstr ""
+
+#. ID 441
+msgctxt "items.name"
+msgid "$A魔神の尾"
+msgstr ""
+
+#. ID 441
+msgctxt "items.description"
+msgid "特別製の鞭。高確率で動きを縛る。攻50/鞭闇/劣速束縛"
+msgstr ""
+
+#. ID 443
+msgctxt "items.name"
+msgid "$C不死鳥の杖"
+msgstr ""
+
+#. ID 443
+msgctxt "items.description"
+msgid "特別製の小杖。攻20魔160/魔炎/全体/炎上"
+msgstr ""
+
+#. ID 444
+msgctxt "items.name"
+msgid "$Cハァルの杖"
+msgstr ""
+
+#. ID 444
+msgctxt "items.description"
+msgid "雷の魔力を持つ杖。攻80魔210/重雷魔/衝撃/両手"
+msgstr ""
+
+#. ID 445
+msgctxt "items.name"
+msgid "$Cカエルタッパー"
+msgstr ""
+
+#. ID 445
+msgctxt "items.description"
+msgid "いやがらせの一種。みっしり。攻-20/魔210/全/両手/？"
+msgstr ""
+
+#. ID 446
+msgctxt "items.name"
+msgid "$Aカジキマグロ"
+msgstr ""
+
+#. ID 446
+msgctxt "items.description"
+msgid "凍っている。攻115速-10/突重水/両手"
+msgstr ""
+
+#. ID 447
+msgctxt "items.name"
+msgid "$C白竜石"
+msgstr ""
+
+#. ID 447
+msgctxt "items.description"
+msgid "竜の力を使うための石。攻-15防-15/魔竜水空/全体"
+msgstr ""
+
+#. ID 448
+msgctxt "items.name"
+msgid "$C緑竜石"
+msgstr ""
+
+#. ID 448
+msgctxt "items.description"
+msgid "竜の力を使うための石。攻-20防-40敏120/魔竜雷空"
+msgstr ""
+
+#. ID 450
+msgctxt "items.name"
+msgid "武器4---------"
+msgstr ""
+
+#. ID 451
+msgctxt "items.name"
+msgid "$CＥ・Ｊ"
+msgstr ""
+
+#. ID 451
+msgctxt "items.description"
+msgid "別に喋るわけではない。蜘蛛が苦手。攻68/斬突魔/命中"
+msgstr ""
+
+#. ID 452
+msgctxt "items.name"
+msgid "$A真銀の剣"
+msgstr ""
+
+#. ID 452
+msgctxt "items.description"
+msgid "ミスリル製の剣。攻60/斬突"
+msgstr ""
+
+#. ID 453
+msgctxt "items.name"
+msgid "$C風羽根の刃"
+msgstr ""
+
+#. ID 453
+msgctxt "items.description"
+msgid "風の力を持つ刀。攻46/斬魔/対空/先制出血怯み"
+msgstr ""
+
+#. ID 454
+msgctxt "items.name"
+msgid "$A処刑刀"
+msgstr ""
+
+#. ID 454
+msgctxt "items.description"
+msgid "処刑用の大剣。たまに即死。攻79/斬重長/両手/即死"
+msgstr ""
+
+#. ID 455
+msgctxt "items.name"
+msgid "$A破城鎚"
+msgstr ""
+
+#. ID 455
+msgctxt "items.description"
+msgid "必殺率7割、命中率極低。攻85速-15/重/両手/必殺/衝撃"
+msgstr ""
+
+#. ID 456
+msgctxt "items.name"
+msgid "$A小人族の戦斧"
+msgstr ""
+
+#. ID 456
+msgctxt "items.description"
+msgid "大地の属性を持つ斧。攻83/斬重/対地/両手/衝撃"
+msgstr ""
+
+#. ID 457
+msgctxt "items.name"
+msgid "$C冬神の槍"
+msgstr ""
+
+#. ID 457
+msgctxt "items.description"
+msgid "氷の魔力を持つ槍。攻56速14/突長水魔/劣速/命中"
+msgstr ""
+
+#. ID 458
+msgctxt "items.name"
+msgid "$C首刈り鎌"
+msgstr ""
+
+#. ID 458
+msgctxt "items.description"
+msgid "戦闘用大鎌。たまに即死。攻70速6/斬長暗魔/両/即死"
+msgstr ""
+
+#. ID 460
+msgctxt "items.name"
+msgid "$C真銀の短剣"
+msgstr ""
+
+#. ID 460
+msgctxt "items.description"
+msgid "極上の儀式用短剣。攻35魔60/突暗魔"
+msgstr ""
+
+#. ID 461
+msgctxt "items.name"
+msgid "$A機械式連射弩"
+msgstr ""
+
+#. ID 461
+msgctxt "items.description"
+msgid "機械仕掛けの弩。二回攻撃可能。攻12/射/先制二回"
+msgstr ""
+
+#. ID 462
+msgctxt "items.name"
+msgid "$Aワイヤーブレイド"
+msgstr ""
+
+#. ID 462
+msgctxt "items.description"
+msgid "鞭と剣の二形態。攻80/斬鞭/両手/劣速出血"
+msgstr ""
+
+#. ID 463
+msgctxt "items.name"
+msgid "$Cシャーリックの弓"
+msgstr ""
+
+#. ID 463
+msgctxt "items.description"
+msgid "狩猟神の弓。攻68魔95/両手/射魔水獣/先制必殺"
+msgstr ""
+
+#. ID 464
+msgctxt "items.name"
+msgid "$C軍団長の指揮杖"
+msgstr ""
+
+#. ID 464
+msgctxt "items.description"
+msgid "指揮官の杖。一部の敵を混乱。攻50魔50/魔/従属"
+msgstr ""
+
+#. ID 465
+msgctxt "items.name"
+msgid "$C義人の杖"
+msgstr ""
+
+#. ID 465
+msgctxt "items.description"
+msgid "聖なる杖。攻5魔150/聖魔/両手"
+msgstr ""
+
+#. ID 466
+msgctxt "items.name"
+msgid "$Aダイコンブレード"
+msgstr ""
+
+#. ID 466
+msgctxt "items.description"
+msgid "消化にいい。攻35/斬突重/？"
+msgstr ""
+
+#. ID 468
+msgctxt "items.name"
+msgid "$A黒竜石"
+msgstr ""
+
+#. ID 468
+msgctxt "items.description"
+msgid "竜の物理戦闘力を上げる石。攻60防80魔-220/竜闇地"
+msgstr ""
+
+#. ID 469
+msgctxt "items.name"
+msgid "$C赤竜石"
+msgstr ""
+
+#. ID 469
+msgctxt "items.description"
+msgid "竜の力を使うための石。攻50防-45魔20敏-30/魔竜火地"
+msgstr ""
+
+#. ID 470
+msgctxt "items.name"
+msgid "$C青竜石"
+msgstr ""
+
+#. ID 470
+msgctxt "items.description"
+msgid "竜の力を使うための石。攻-75魔150/魔竜水雷"
+msgstr ""
+
+#. ID 472
+msgctxt "items.name"
+msgid "武器3---------"
+msgstr ""
+
+#. ID 473
+msgctxt "items.name"
+msgid "$C魔性の剣"
+msgstr ""
+
+#. ID 473
+msgctxt "items.description"
+msgid "魔力を帯びた長剣。攻41魔50/斬突闇魔"
+msgstr ""
+
+#. ID 474
+msgctxt "items.name"
+msgid "$C一角獣の剣"
+msgstr ""
+
+#. ID 474
+msgctxt "items.description"
+msgid "聖なる魔力を持つ突剣。攻32魔25/突聖魔/必殺/対獣"
+msgstr ""
+
+#. ID 475
+msgctxt "items.name"
+msgid "$A鬼丸"
+msgstr ""
+
+#. ID 475
+msgctxt "items.description"
+msgid "粗造りな刀。攻57/斬/両手/出血"
+msgstr ""
+
+#. ID 476
+msgctxt "items.name"
+msgid "$A焔刃の大剣"
+msgstr ""
+
+#. ID 476
+msgctxt "items.description"
+msgid "炎に似た刃を持つ大剣。攻56/斬重長火/両手/炎上"
+msgstr ""
+
+#. ID 477
+msgctxt "items.name"
+msgid "$Cモーニングスター"
+msgstr ""
+
+#. ID 477
+msgctxt "items.description"
+msgid "棘つき鎖鉄球。攻34/重鞭魔/衝撃"
+msgstr ""
+
+#. ID 478
+msgctxt "items.name"
+msgid "$Aプージ"
+msgstr ""
+
+#. ID 478
+msgctxt "items.description"
+msgid "独特な刃を持つ戦斧。攻45/斬重"
+msgstr ""
+
+#. ID 479
+msgctxt "items.name"
+msgid "$Aグレイブ"
+msgstr ""
+
+#. ID 479
+msgctxt "items.description"
+msgid "大型の矛。攻55速12/斬突重長/両手"
+msgstr ""
+
+#. ID 481
+msgctxt "items.name"
+msgid "$A漆黒の短刀"
+msgstr ""
+
+#. ID 481
+msgctxt "items.description"
+msgid "暗殺用短剣。たまに出血か毒。攻20/突暗/減衰"
+msgstr ""
+
+#. ID 482
+msgctxt "items.name"
+msgid "$Aグラディウス"
+msgstr ""
+
+#. ID 482
+msgctxt "items.description"
+msgid "古代の軍用短剣。攻27/斬突暗"
+msgstr ""
+
+#. ID 483
+msgctxt "items.name"
+msgid "$C妖精の弓"
+msgstr ""
+
+#. ID 483
+msgctxt "items.description"
+msgid "妖精族の弓。攻54魔30/両手/射魔/先制"
+msgstr ""
+
+#. ID 484
+msgctxt "items.name"
+msgid "$A弩"
+msgstr ""
+
+#. ID 484
+msgctxt "items.description"
+msgid "引き金で撃つ弓。片手に持てる。攻30/射/先制必殺"
+msgstr ""
+
+#. ID 486
+msgctxt "items.name"
+msgid "$C魔術師の小杖"
+msgstr ""
+
+#. ID 486
+msgctxt "items.description"
+msgid "敵全体を怯ませる。攻0魔80/魔/全/怯"
+msgstr ""
+
+#. ID 487
+msgctxt "items.name"
+msgid "$A殺人パン3ボツ"
+msgstr ""
+
+#. ID 487
+msgctxt "items.description"
+msgid "人間を撲殺できる。/重/？"
+msgstr ""
+
+#. ID 488
+msgctxt "items.name"
+msgid "$Aちくわ"
+msgstr ""
+
+#. ID 488
+msgctxt "items.description"
+msgid "穴にチーズを入れると美味だと思う。攻0/暗/？"
+msgstr ""
+
+#. ID 490
+msgctxt "items.name"
+msgid "$Cｼｬｰﾘｯｸの杖ボツ"
+msgstr ""
+
+#. ID 490
+msgctxt "items.description"
+msgid "氷の魔力を持つ小杖。攻10魔80/水魔/全/劣速"
+msgstr ""
+
+#. ID 492
+msgctxt "items.name"
+msgid "武器2---------"
+msgstr ""
+
+#. ID 495
+msgctxt "items.name"
+msgid "$C銀の剣"
+msgstr ""
+
+#. ID 495
+msgctxt "items.description"
+msgid "魔を祓う力を持った剣。攻21/魔斬突聖"
+msgstr ""
+
+#. ID 496
+msgctxt "items.name"
+msgid "$Aシャムシール2ﾎﾞﾂ"
+msgstr ""
+
+#. ID 496
+msgctxt "items.description"
+msgid "両手用の曲刀。攻34/斬/両手/出血"
+msgstr ""
+
+#. ID 497
+msgctxt "items.name"
+msgid "$Aサーベル"
+msgstr ""
+
+#. ID 497
+msgctxt "items.description"
+msgid "反りのある片刃剣。出血率が高い。攻18/斬/出血"
+msgstr ""
+
+#. ID 498
+msgctxt "items.name"
+msgid "$Aクレイモア"
+msgstr ""
+
+#. ID 498
+msgctxt "items.description"
+msgid "長大な刃の大剣。攻30/斬重長/両手"
+msgstr ""
+
+#. ID 499
+msgctxt "items.name"
+msgid "$C聖鎚"
+msgstr ""
+
+#. ID 499
+msgctxt "items.description"
+msgid "魔力と聖なる力を持つメイス。攻16魔20/重魔聖/衝撃"
+msgstr ""
+
+#. ID 500
+msgctxt "items.name"
+msgid "$A戦斧"
+msgstr ""
+
+#. ID 500
+msgctxt "items.description"
+msgid "戦闘用の大斧。攻33/斬重/両手"
+msgstr ""
+
+#. ID 501
+msgctxt "items.name"
+msgid "$A長槍"
+msgstr ""
+
+#. ID 501
+msgctxt "items.description"
+msgid "長柄の槍。攻18速8/突長/命中"
+msgstr ""
+
+#. ID 503
+msgctxt "items.name"
+msgid "$Aソードブレイカー"
+msgstr ""
+
+#. ID 503
+msgctxt "items.description"
+msgid "たまに敵の攻撃力を下げる。攻14/斬突暗/劣攻"
+msgstr ""
+
+#. ID 504
+msgctxt "items.name"
+msgid "$Aマンゴーシュ"
+msgstr ""
+
+#. ID 504
+msgctxt "items.description"
+msgid "手を守るよう作られた短剣。攻7防7/突暗"
+msgstr ""
+
+#. ID 505
+msgctxt "items.name"
+msgid "$A長弓"
+msgstr ""
+
+#. ID 505
+msgctxt "items.description"
+msgid "大きな複合弓。先制攻撃可能。攻28/射/両手/先制"
+msgstr ""
+
+#. ID 506
+msgctxt "items.name"
+msgid "$A鉄鎖"
+msgstr ""
+
+#. ID 506
+msgctxt "items.description"
+msgid "長い鎖と鉄球。攻30/重鞭/両手/劣速束縛"
+msgstr ""
+
+#. ID 508
+msgctxt "items.name"
+msgid "$C老樹の杖"
+msgstr ""
+
+#. ID 508
+msgctxt "items.description"
+msgid "年を経た強力な杖。攻3魔60/魔/両手"
+msgstr ""
+
+#. ID 509
+msgctxt "items.name"
+msgid "$C紫電の小杖"
+msgstr ""
+
+#. ID 509
+msgctxt "items.description"
+msgid "稲妻を帯びた杖。攻25魔50/魔雷/衝撃"
+msgstr ""
+
+#. ID 512
+msgctxt "items.name"
+msgid "武器1---------"
+msgstr ""
+
+#. ID 515
+msgctxt "items.name"
+msgid "$A長剣"
+msgstr ""
+
+#. ID 515
+msgctxt "items.description"
+msgid "両刃の剣。攻8/斬突"
+msgstr ""
+
+#. ID 516
+msgctxt "items.name"
+msgid "$Aレイピア"
+msgstr ""
+
+#. ID 516
+msgctxt "items.description"
+msgid "突きに特化した細身剣。必殺率が高い。攻5/突/必殺"
+msgstr ""
+
+#. ID 517
+msgctxt "items.name"
+msgid "$Aボツサーベル"
+msgstr ""
+
+#. ID 517
+msgctxt "items.description"
+msgid "反りのある片刃剣。たまに出血させる。攻4[斬突/出血]"
+msgstr ""
+
+#. ID 518
+msgctxt "items.name"
+msgid "$A大剣"
+msgstr ""
+
+#. ID 518
+msgctxt "items.description"
+msgid "両手用の大剣。攻12/斬重長/両手"
+msgstr ""
+
+#. ID 519
+msgctxt "items.name"
+msgid "$Aメイス"
+msgstr ""
+
+#. ID 519
+msgctxt "items.description"
+msgid "当たりにくいが、たまに転倒させる。攻8/重/衝撃"
+msgstr ""
+
+#. ID 520
+msgctxt "items.name"
+msgid "$A手斧"
+msgstr ""
+
+#. ID 520
+msgctxt "items.description"
+msgid "命中率は低いが、攻撃力は高め。攻11/斬重"
+msgstr ""
+
+#. ID 521
+msgctxt "items.name"
+msgid "$A手槍"
+msgstr ""
+
+#. ID 521
+msgctxt "items.description"
+msgid "短めの投げ槍。攻6速6/突長空/命中"
+msgstr ""
+
+#. ID 523
+msgctxt "items.name"
+msgid "$Cクリスナイフ"
+msgstr ""
+
+#. ID 523
+msgctxt "items.description"
+msgid "波打った刃を持つ儀式用短剣。攻6魔20/突暗聖魔"
+msgstr ""
+
+#. ID 524
+msgctxt "items.name"
+msgid "$A短剣"
+msgstr ""
+
+#. ID 524
+msgctxt "items.description"
+msgid "刃の短い剣。攻4/突暗"
+msgstr ""
+
+#. ID 525
+msgctxt "items.name"
+msgid "$A短弓"
+msgstr ""
+
+#. ID 525
+msgctxt "items.description"
+msgid "短い弓矢。先制攻撃可能。攻8/射/両手/先制"
+msgstr ""
+
+#. ID 526
+msgctxt "items.name"
+msgid "$A革紐の鞭"
+msgstr ""
+
+#. ID 526
+msgctxt "items.description"
+msgid "革製の鞭。たまに敵の速度を下げる。攻6/鞭/劣速"
+msgstr ""
+
+#. ID 527
+msgctxt "items.name"
+msgid "$A投げ網"
+msgstr ""
+
+#. ID 527
+msgctxt "items.description"
+msgid "高確率で行動停止にする。攻-3/鞭/対空/束縛"
+msgstr ""
+
+#. ID 529
+msgctxt "items.name"
+msgid "$C錫杖"
+msgstr ""
+
+#. ID 529
+msgctxt "items.description"
+msgid "金属製の杖。攻6魔8/聖魔"
+msgstr ""
+
+#. ID 530
+msgctxt "items.name"
+msgid "$C若木の杖"
+msgstr ""
+
+#. ID 530
+msgctxt "items.description"
+msgid "魔法を使うために必要な杖。攻1魔15/魔/両手"
+msgstr ""
+
+#. ID 531
+msgctxt "items.name"
+msgid "$C竜石"
+msgstr ""
+
+#. ID 531
+msgctxt "items.description"
+msgid "人の姿で竜の力を使うための石。攻0/魔竜"
+msgstr ""
+
+#. ID 534
+msgctxt "items.name"
+msgid "$C母なる夜の剣"
+msgstr ""
+
+#. ID 534
+msgctxt "items.description"
+msgid "古き邪神の魔剣。攻220魔200/斬重闇魔/両手/必殺/？"
+msgstr ""
+
+#. ID 535
+msgctxt "items.name"
+msgid "鎧6---------"
+msgstr ""
+
+#. ID 538
+msgctxt "items.name"
+msgid "$B魔甲冑ボツ"
+msgstr ""
+
+#. ID 538
+msgctxt "items.description"
+msgid "命ある鎧。防100速12/耐:斬重鞭聖/無:死減停/？"
+msgstr ""
+
+#. ID 539
+msgctxt "items.name"
+msgid "$B金糸綴竜鱗甲冑"
+msgstr ""
+
+#. ID 539
+msgctxt "items.description"
+msgid "皇帝の副葬品。防45速-6/耐:火竜/無効:減"
+msgstr ""
+
+#. ID 540
+msgctxt "items.name"
+msgid "$B始祖帝の戦衣"
+msgstr ""
+
+#. ID 540
+msgctxt "items.description"
+msgid "皇帝の装束。防35魔8/耐:突射暗/無:死停乱制"
+msgstr ""
+
+#. ID 541
+msgctxt "items.name"
+msgid "$B冒険王の外套"
+msgstr ""
+
+#. ID 541
+msgctxt "items.description"
+msgid "伝説的な探検家の服。防30速10/回避/無効:減衰"
+msgstr ""
+
+#. ID 542
+msgctxt "items.name"
+msgid "$B銀糸葉文黒紗衣"
+msgstr ""
+
+#. ID 542
+msgctxt "items.description"
+msgid "皇帝の副葬品。防27魔16/耐:全魔属/無効:制限"
+msgstr ""
+
+#. ID 545
+msgctxt "items.name"
+msgid "$B皇女のヒメーション"
+msgstr ""
+
+#. ID 545
+msgctxt "items.description"
+msgid "美しい古代風外衣。防25/回避/耐:聖闇/無効:死"
+msgstr ""
+
+#. ID 550
+msgctxt "items.name"
+msgid "鎧5---------"
+msgstr ""
+
+#. ID 553
+msgctxt "items.name"
+msgid "$B巨人族の鎧"
+msgstr ""
+
+#. ID 553
+msgctxt "items.description"
+msgid "巨人が作った鎧。防40魔-2速-14"
+msgstr ""
+
+#. ID 554
+msgctxt "items.name"
+msgid "$B匠の板金鎧"
+msgstr ""
+
+#. ID 554
+msgctxt "items.description"
+msgid "様々な工夫が凝らされた鎧。防33魔-4速-2/無効:減"
+msgstr ""
+
+#. ID 555
+msgctxt "items.name"
+msgid "$B竜鱗鎧"
+msgstr ""
+
+#. ID 555
+msgctxt "items.description"
+msgid "短冊状の竜鱗を連ねた鎧。防30速-4/耐:火竜/無効:炎"
+msgstr ""
+
+#. ID 556
+msgctxt "items.name"
+msgid "$Bオローリオの胸当て"
+msgstr ""
+
+#. ID 556
+msgctxt "items.description"
+msgid "山の神の鎧。攻4防27速-2/耐:雷地空闇"
+msgstr ""
+
+#. ID 557
+msgctxt "items.name"
+msgid "$B漆黒のコート"
+msgstr ""
+
+#. ID 557
+msgctxt "items.description"
+msgid "特別製の防刃コート。防23/回避/耐性:斬突射暗"
+msgstr ""
+
+#. ID 558
+msgctxt "items.name"
+msgid "$Bエンバーのキトン"
+msgstr ""
+
+#. ID 558
+msgctxt "items.description"
+msgid "海神の力を宿す薄衣。防23魔4速4/耐:火水/無:減衰"
+msgstr ""
+
+#. ID 559
+msgctxt "items.name"
+msgid "$B緋色の長衣"
+msgstr ""
+
+#. ID 559
+msgctxt "items.description"
+msgid "魔術師の赤いローブ。防22魔10/耐性:火/半減:炎制"
+msgstr ""
+
+#. ID 560
+msgctxt "items.name"
+msgid "$B天礼衣"
+msgstr ""
+
+#. ID 560
+msgctxt "items.description"
+msgid "特別製の僧衣。防20魔12/耐性:水雷闇"
+msgstr ""
+
+#. ID 563
+#. ID 564
+msgctxt "items.name"
+msgid "$B忍びの女中服"
+msgstr ""
+
+#. ID 563
+#. ID 564
+msgctxt "items.description"
+msgid "影に生きる一族の服。防21速19/回避/半減:停"
+msgstr ""
+
+#. ID 565
+#. ID 566
+msgctxt "items.name"
+msgid "$B革のコスチューム"
+msgstr ""
+
+#. ID 565
+#. ID 566
+msgctxt "items.description"
+msgid "大胆なデザイン。防20/回避/耐性:聖闇/半減:混乱"
+msgstr ""
+
+#. ID 567
+#. ID 568
+msgctxt "items.name"
+msgid "$B翼のドレス"
+msgstr ""
+
+#. ID 567
+#. ID 568
+msgctxt "items.description"
+msgid "特別製のドレス。防18速8/耐性:地空/無効:死"
+msgstr ""
+
+#. ID 572
+msgctxt "items.name"
+msgid "鎧4---------"
+msgstr ""
+
+#. ID 575
+msgctxt "items.name"
+msgid "$B真銀の帷子"
+msgstr ""
+
+#. ID 575
+msgctxt "items.description"
+msgid "小人族の帷子。防25/無効:死血"
+msgstr ""
+
+#. ID 576
+msgctxt "items.name"
+msgid "$B自動甲冑"
+msgstr ""
+
+#. ID 576
+msgctxt "items.description"
+msgid "機械仕掛けの鎧。攻18防28魔-12/半減:停"
+msgstr ""
+
+#. ID 577
+msgctxt "items.name"
+msgid "$B賢人のトーガ"
+msgstr ""
+
+#. ID 577
+msgctxt "items.description"
+msgid "古代風の外套。防19魔4/耐:闇"
+msgstr ""
+
+#. ID 578
+msgctxt "items.name"
+msgid "$B常闇のローブ"
+msgstr ""
+
+#. ID 578
+msgctxt "items.description"
+msgid "魔導師のローブ。防14魔10/耐:聖/半減:制限"
+msgstr ""
+
+#. ID 582
+#. ID 583
+msgctxt "items.name"
+msgid "$Bビキニアーマー"
+msgstr ""
+
+#. ID 582
+#. ID 583
+msgctxt "items.description"
+msgid "ﾌｧﾝﾀｼﾞｰのお約束。不条理な防御力。防20速4/耐:斬突"
+msgstr ""
+
+#. ID 584
+#. ID 585
+msgctxt "items.name"
+msgid "$B舞姫の薄衣"
+msgstr ""
+
+#. ID 584
+#. ID 585
+msgctxt "items.description"
+msgid "優れた舞い手のための衣装。防16速15/回避"
+msgstr ""
+
+#. ID 589
+msgctxt "items.name"
+msgid "鎧3---------"
+msgstr ""
+
+#. ID 592
+msgctxt "items.name"
+msgid "$Bカボチャアーマー"
+msgstr ""
+
+#. ID 592
+msgctxt "items.description"
+msgid "集まれ畑のエナジー。攻-6防40速-20/耐:水地空"
+msgstr ""
+
+#. ID 593
+msgctxt "items.name"
+msgid "$B板金鎧"
+msgstr ""
+
+#. ID 593
+msgctxt "items.description"
+msgid "金属板を組み合わせた全身鎧。防18速-6/半減:出血"
+msgstr ""
+
+#. ID 594
+msgctxt "items.name"
+msgid "$Bかぶき者の戦装束"
+msgstr ""
+
+#. ID 594
+msgctxt "items.description"
+msgid "異常に派手な甲冑。夜露死苦。攻2防15速-4"
+msgstr ""
+
+#. ID 595
+msgctxt "items.name"
+msgid "$B妖精族の衣"
+msgstr ""
+
+#. ID 595
+msgctxt "items.description"
+msgid "妖精族の隠れ蓑。防14魔6/回避"
+msgstr ""
+
+#. ID 596
+msgctxt "items.name"
+msgid "$B厚手のカウル"
+msgstr ""
+
+#. ID 596
+msgctxt "items.description"
+msgid "フードつき外套。防10魔2/耐:水"
+msgstr ""
+
+#. ID 597
+msgctxt "items.name"
+msgid "$Bピチピチタイツ"
+msgstr ""
+
+#. ID 597
+msgctxt "items.description"
+msgid "体にピッチリジャストフィット。攻5防7速15"
+msgstr ""
+
+#. ID 599
+msgctxt "items.name"
+msgid "$B軍服3mmボツ"
+msgstr ""
+
+#. ID 599
+#. ID 600
+msgctxt "items.description"
+msgid "ボタンや肩章で飾られた制服。防15"
+msgstr ""
+
+#. ID 600
+msgctxt "items.name"
+msgid "$B軍服3mfﾎﾞﾂ"
+msgstr ""
+
+#. ID 601
+#. ID 602
+msgctxt "items.name"
+msgid "$B戦闘用コルセット"
+msgstr ""
+
+#. ID 601
+#. ID 602
+msgctxt "items.description"
+msgid "目立たぬよう擬装された装甲服。きつい。防15速4"
+msgstr ""
+
+#. ID 603
+#. ID 604
+msgctxt "items.name"
+msgid "$B洒落者のダブレット"
+msgstr ""
+
+#. ID 603
+#. ID 604
+msgctxt "items.description"
+msgid "奇抜な服。巨大な飾り襟つき。防11速2"
+msgstr ""
+
+#. ID 608
+msgctxt "items.name"
+msgid "鎧2---------"
+msgstr ""
+
+#. ID 611
+msgctxt "items.name"
+msgid "$B古代の胸当て"
+msgstr ""
+
+#. ID 611
+msgctxt "items.description"
+msgid "古代風の胸鎧。防11速-2"
+msgstr ""
+
+#. ID 612
+msgctxt "items.name"
+msgid "$B鎖帷子"
+msgstr ""
+
+#. ID 612
+msgctxt "items.description"
+msgid "金属環をつらねた鎧。防8速-2/半減:出血"
+msgstr ""
+
+#. ID 613
+msgctxt "items.name"
+msgid "$B道化服ボツ"
+msgstr ""
+
+#. ID 613
+msgctxt "items.description"
+msgid "道化師の衣装。防7速4"
+msgstr ""
+
+#. ID 614
+msgctxt "items.name"
+msgid "$Bパリューム"
+msgstr ""
+
+#. ID 614
+msgctxt "items.description"
+msgid "僧が儀式時に着る外套。防4魔2"
+msgstr ""
+
+#. ID 615
+msgctxt "items.name"
+msgid "$Bビキニパンツ"
+msgstr ""
+
+#. ID 615
+msgctxt "items.description"
+msgid "ピチピチした着用感が戦闘力を解放。攻10防2"
+msgstr ""
+
+#. ID 618
+#. ID 619
+msgctxt "items.name"
+msgid "$B貴婦人のドレス"
+msgstr ""
+
+#. ID 618
+#. ID 619
+msgctxt "items.description"
+msgid "美しいデザインのドレス。防10速-6"
+msgstr ""
+
+#. ID 620
+#. ID 621
+msgctxt "items.name"
+msgid "$Bジュストコール"
+msgstr ""
+
+#. ID 620
+#. ID 621
+msgctxt "items.description"
+msgid "袖の大きい紳士服。防7"
+msgstr ""
+
+#. ID 622
+msgctxt "items.name"
+msgid "$B礼装2mmボツ"
+msgstr ""
+
+#. ID 622
+#. ID 623
+msgctxt "items.description"
+msgid "祝祭時に着る男ものの正装。防4"
+msgstr ""
+
+#. ID 623
+msgctxt "items.name"
+msgid "$B礼装2mfﾎﾞﾂ"
+msgstr ""
+
+#. ID 627
+msgctxt "items.name"
+msgid "鎧1---------"
+msgstr ""
+
+#. ID 630
+msgctxt "items.name"
+msgid "$B胸当て"
+msgstr ""
+
+#. ID 630
+msgctxt "items.description"
+msgid "胸部を守る鎧。防6速-2"
+msgstr ""
+
+#. ID 631
+msgctxt "items.name"
+msgid "$B革鎧"
+msgstr ""
+
+#. ID 631
+msgctxt "items.description"
+msgid "革製の胴鎧。防4速-2"
+msgstr ""
+
+#. ID 632
+msgctxt "items.name"
+msgid "$B遊牧民の服"
+msgstr ""
+
+#. ID 632
+msgctxt "items.description"
+msgid "羊毛製の乗馬服。防2速2"
+msgstr ""
+
+#. ID 633
+msgctxt "items.name"
+msgid "$B革製の胴衣"
+msgstr ""
+
+#. ID 633
+msgctxt "items.description"
+msgid "紐で締める短衣。防2"
+msgstr ""
+
+#. ID 634
+msgctxt "items.name"
+msgid "$B長衣"
+msgstr ""
+
+#. ID 634
+msgctxt "items.description"
+msgid "裾の長い衣。防1"
+msgstr ""
+
+#. ID 635
+msgctxt "items.name"
+msgid "$Bぼろ布"
+msgstr ""
+
+#. ID 635
+msgctxt "items.description"
+msgid "ただのぼろ布。防1"
+msgstr ""
+
+#. ID 637
+#. ID 638
+msgctxt "items.name"
+msgid "$B踊りの衣装"
+msgstr ""
+
+#. ID 637
+#. ID 638
+msgctxt "items.description"
+msgid "露出の多い衣装。防1速2"
+msgstr ""
+
+#. ID 639
+#. ID 640
+msgctxt "items.name"
+msgid "$Bダーンドル"
+msgstr ""
+
+#. ID 639
+#. ID 640
+msgctxt "items.description"
+msgid "女ものの民族衣装。防3"
+msgstr ""
+
+#. ID 641
+msgctxt "items.name"
+msgid "$B女中服1fmボツ"
+msgstr ""
+
+#. ID 641
+#. ID 642
+msgctxt "items.description"
+msgid "質素で丈夫なエプロンドレス。防3"
+msgstr ""
+
+#. ID 642
+msgctxt "items.name"
+msgid "$B女中服1ffﾎﾞﾂ"
+msgstr ""
+
+#. ID 644
+msgctxt "items.name"
+msgid "$B魔甲冑"
+msgstr ""
+
+#. ID 644
+msgctxt "items.description"
+msgid "命ある鎧。防200速30/耐:斬突射重鞭長聖闇/無:死減停"
+msgstr ""
+
+#. ID 645
+msgctxt "items.name"
+msgid "$B凡例fm"
+msgstr ""
+
+#. ID 645
+msgctxt "items.description"
+msgid "アイテム名(装備可能性別m/f)(主役の性別m/f)の順"
+msgstr ""
+
+#. ID 646
+msgctxt "items.name"
+msgid "$B凡例ff"
+msgstr ""
+
+#. ID 648
+msgctxt "items.name"
+msgid "兜6---------"
+msgstr ""
+
+#. ID 649
+msgctxt "items.name"
+msgid "$B真銀翼状飾冠"
+msgstr ""
+
+#. ID 649
+msgctxt "items.description"
+msgid "皇帝の副葬品。防20/無効:死乱制劣"
+msgstr ""
+
+#. ID 650
+msgctxt "items.name"
+msgid "$B白金月桂樹文冠"
+msgstr ""
+
+#. ID 650
+msgctxt "items.description"
+msgid "皇帝の副葬品。防18魔8/耐:聖闇/無効:死減停"
+msgstr ""
+
+#. ID 652
+msgctxt "items.name"
+msgid "$B上帝の頭環ボツ"
+msgstr ""
+
+#. ID 652
+msgctxt "items.description"
+msgid "四つ眼の額飾り。攻防20魔速40/耐:全/無:全/消MP半"
+msgstr ""
+
+#. ID 654
+msgctxt "items.name"
+msgid "兜5---------"
+msgstr ""
+
+#. ID 657
+msgctxt "items.name"
+msgid "$B特級品の兜"
+msgstr ""
+
+#. ID 657
+msgctxt "items.description"
+msgid "最新技術で作られた兜。防22/無効:死停"
+msgstr ""
+
+#. ID 658
+msgctxt "items.name"
+msgid "$B竜頭兜"
+msgstr ""
+
+#. ID 658
+msgctxt "items.description"
+msgid "竜をかたどった兜。防20/耐:火雷水空竜"
+msgstr ""
+
+#. ID 659
+msgctxt "items.name"
+msgid "$Bラーヤの兜"
+msgstr ""
+
+#. ID 659
+msgctxt "items.description"
+msgid "太陽神の兜。防19/耐:火雷闇/無効:死減"
+msgstr ""
+
+#. ID 660
+msgctxt "items.name"
+msgid "$B猫耳フード"
+msgstr ""
+
+#. ID 660
+msgctxt "items.description"
+msgid "猫の耳をかたどった頭巾。防19魔6/耐:水空/回避"
+msgstr ""
+
+#. ID 661
+msgctxt "items.name"
+msgid "$B旅人の羽根帽子"
+msgstr ""
+
+#. ID 661
+msgctxt "items.description"
+msgid "旅の無事を守る。防18速16/耐:水空雷"
+msgstr ""
+
+#. ID 662
+msgctxt "items.name"
+msgid "$Bサークレット"
+msgstr ""
+
+#. ID 662
+msgctxt "items.description"
+msgid "魔力の宿る頭環。防15魔18/無効:死制"
+msgstr ""
+
+#. ID 665
+#. ID 666
+msgctxt "items.name"
+msgid "$B影のベール"
+msgstr ""
+
+#. ID 665
+#. ID 666
+msgctxt "items.description"
+msgid "頭部を大きく覆う。防18速26/回避"
+msgstr ""
+
+#. ID 670
+msgctxt "items.name"
+msgid "兜4---------"
+msgstr ""
+
+#. ID 673
+msgctxt "items.name"
+msgid "$B角飾りの兜"
+msgstr ""
+
+#. ID 673
+msgctxt "items.description"
+msgid "角が二本付いている。攻4防17"
+msgstr ""
+
+#. ID 674
+msgctxt "items.name"
+msgid "$B翼の兜"
+msgstr ""
+
+#. ID 674
+msgctxt "items.description"
+msgid "翼型の飾り付き。即死率半減。防16/半減:死"
+msgstr ""
+
+#. ID 675
+msgctxt "items.name"
+msgid "$Bティアラ"
+msgstr ""
+
+#. ID 675
+msgctxt "items.description"
+msgid "豪奢な頭飾り。防15魔10"
+msgstr ""
+
+#. ID 676
+msgctxt "items.name"
+msgid "$B鴉の仮面"
+msgstr ""
+
+#. ID 676
+msgctxt "items.description"
+msgid "鳥の嘴型の仮面。顔の上半分を覆う。防13速14"
+msgstr ""
+
+#. ID 679
+#. ID 680
+msgctxt "items.name"
+msgid "$B豹頭の仮面"
+msgstr ""
+
+#. ID 679
+#. ID 680
+msgctxt "items.description"
+msgid "豹をかたどった仮面。攻28防11"
+msgstr ""
+
+#. ID 684
+msgctxt "items.name"
+msgid "兜3---------"
+msgstr ""
+
+#. ID 687
+msgctxt "items.name"
+msgid "$B指揮官の兜"
+msgstr ""
+
+#. ID 687
+msgctxt "items.description"
+msgid "房飾りが付いている。防13魔-4/無:乱"
+msgstr ""
+
+#. ID 688
+msgctxt "items.name"
+msgid "$B船長帽3ボツ"
+msgstr ""
+
+#. ID 688
+msgctxt "items.description"
+msgid "船乗りの帽子。防13/耐:水"
+msgstr ""
+
+#. ID 689
+msgctxt "items.name"
+msgid "$B異貌の兜"
+msgstr ""
+
+#. ID 689
+msgctxt "items.description"
+msgid "恐ろしい仮面のついた兜。攻5防10魔-2速-4"
+msgstr ""
+
+#. ID 690
+msgctxt "items.name"
+msgid "$B道化の帽子"
+msgstr ""
+
+#. ID 690
+msgctxt "items.description"
+msgid "ふざけた帽子。防8速10"
+msgstr ""
+
+#. ID 691
+msgctxt "items.name"
+msgid "$B骨の仮面3ボツ"
+msgstr ""
+
+#. ID 691
+#. ID 733
+msgctxt "items.description"
+msgid "呪われた仮面。防40/耐:聖/半減:停乱制/？"
+msgstr ""
+
+#. ID 695
+#. ID 696
+msgctxt "items.name"
+msgid "$B髪覆い"
+msgstr ""
+
+#. ID 695
+#. ID 696
+msgctxt "items.description"
+msgid "フリル付きの白い帽子。防9速6"
+msgstr ""
+
+#. ID 697
+#. ID 698
+msgctxt "items.name"
+msgid "$Bアフロのカツラ"
+msgstr ""
+
+#. ID 697
+#. ID 698
+msgctxt "items.description"
+msgid "野生のパワー。攻10"
+msgstr ""
+
+#. ID 702
+msgctxt "items.name"
+msgid "兜2---------"
+msgstr ""
+
+#. ID 705
+msgctxt "items.name"
+msgid "$B犬鼻兜"
+msgstr ""
+
+#. ID 705
+msgctxt "items.description"
+msgid "尖った面覆いのついた兜。防9魔-2速-2"
+msgstr ""
+
+#. ID 706
+msgctxt "items.name"
+msgid "$B丸形兜"
+msgstr ""
+
+#. ID 706
+msgctxt "items.description"
+msgid "頭部に合わせた兜。即死率半減。防7魔-2速-2/半減:死"
+msgstr ""
+
+#. ID 707
+msgctxt "items.name"
+msgid "$B古代の兜"
+msgstr ""
+
+#. ID 707
+msgctxt "items.description"
+msgid "シンプルな兜。防7"
+msgstr ""
+
+#. ID 708
+msgctxt "items.name"
+msgid "$B羽根飾りの帽2ボツ"
+msgstr ""
+
+#. ID 708
+msgctxt "items.description"
+msgid "優雅に飾られた帽子。防7"
+msgstr ""
+
+#. ID 709
+msgctxt "items.name"
+msgid "$B毛皮の帽子"
+msgstr ""
+
+#. ID 709
+msgctxt "items.description"
+msgid "寒さに強い毛皮の帽子。防4/耐:水"
+msgstr ""
+
+#. ID 710
+msgctxt "items.name"
+msgid "$Bとんがり帽子"
+msgstr ""
+
+#. ID 710
+msgctxt "items.description"
+msgid "魔法使いの帽子。防3魔8"
+msgstr ""
+
+#. ID 711
+msgctxt "items.name"
+msgid "$B僧帽"
+msgstr ""
+
+#. ID 711
+msgctxt "items.description"
+msgid "聖職者の帽子。防4魔4"
+msgstr ""
+
+#. ID 714
+msgctxt "items.name"
+msgid "$B紳士帽2mmﾎﾞﾂ"
+msgstr ""
+
+#. ID 714
+#. ID 715
+msgctxt "items.description"
+msgid "気品のある帽子。防5"
+msgstr ""
+
+#. ID 715
+msgctxt "items.name"
+msgid "$B紳士帽2mfﾎﾞﾂ"
+msgstr ""
+
+#. ID 716
+#. ID 717
+msgctxt "items.name"
+msgid "$Bホワイトブリム"
+msgstr ""
+
+#. ID 716
+#. ID 717
+msgctxt "items.description"
+msgid "飾り付きのカチューシャ。防4速2"
+msgstr ""
+
+#. ID 721
+msgctxt "items.name"
+msgid "兜1---------"
+msgstr ""
+
+#. ID 724
+msgctxt "items.name"
+msgid "$Bバケツ型兜"
+msgstr ""
+
+#. ID 724
+msgctxt "items.description"
+msgid "頭部全体を守る兜。停止率半減。防5魔-3速-3/半減:停"
+msgstr ""
+
+#. ID 725
+msgctxt "items.name"
+msgid "$B鉄兜"
+msgstr ""
+
+#. ID 725
+msgctxt "items.description"
+msgid "簡素な形の鉄製兜。防3"
+msgstr ""
+
+#. ID 726
+msgctxt "items.name"
+msgid "$Bつば広帽"
+msgstr ""
+
+#. ID 726
+msgctxt "items.description"
+msgid "大きな帽子。防1"
+msgstr ""
+
+#. ID 730
+#. ID 731
+msgctxt "items.name"
+msgid "$B髪飾り"
+msgstr ""
+
+#. ID 730
+#. ID 731
+msgctxt "items.description"
+msgid "簡素な髪飾り。防1魔2"
+msgstr ""
+
+#. ID 732
+msgctxt "items.name"
+msgid "兜呪い---------"
+msgstr ""
+
+#. ID 733
+msgctxt "items.name"
+msgid "$B骨の仮面"
+msgstr ""
+
+#. ID 735
+msgctxt "items.name"
+msgid "盾----------------"
+msgstr ""
+
+#. ID 738
+msgctxt "items.name"
+msgid "$B幾何紋様鏡"
+msgstr ""
+
+#. ID 738
+msgctxt "items.description"
+msgid "皇帝の副葬品。防40/耐:火雷聖重鞭/無効:死乱"
+msgstr ""
+
+#. ID 739
+msgctxt "items.name"
+msgid "$Bイバの盾"
+msgstr ""
+
+#. ID 739
+msgctxt "items.description"
+msgid "地母神の盾。防38/耐:水地空闇/無効:死減"
+msgstr ""
+
+#. ID 740
+msgctxt "items.name"
+msgid "$Bミスリディオの盾"
+msgstr ""
+
+#. ID 740
+msgctxt "items.description"
+msgid "月神の盾。防35/耐:聖/無効:死停制"
+msgstr ""
+
+#. ID 741
+msgctxt "items.name"
+msgid "$B英雄の紋章盾"
+msgstr ""
+
+#. ID 741
+msgctxt "items.description"
+msgid "昔の勇者が使ったらしい盾。攻25防30速25/無効:乱劣"
+msgstr ""
+
+#. ID 743
+msgctxt "items.name"
+msgid "$B名工の守護盾"
+msgstr ""
+
+#. ID 743
+msgctxt "items.description"
+msgid "熟練の職人が作った盾。防37/耐:斬突射"
+msgstr ""
+
+#. ID 744
+msgctxt "items.name"
+msgid "$B竜鱗盾"
+msgstr ""
+
+#. ID 744
+msgctxt "items.description"
+msgid "鱗状の盾。防32/耐:火水/無効:減"
+msgstr ""
+
+#. ID 747
+msgctxt "items.name"
+msgid "$B真銀の盾"
+msgstr ""
+
+#. ID 747
+msgctxt "items.description"
+msgid "ミスリル製の盾。防35"
+msgstr ""
+
+#. ID 748
+msgctxt "items.name"
+msgid "$B獣の盾"
+msgstr ""
+
+#. ID 748
+msgctxt "items.description"
+msgid "重武器に耐性のある盾。防20/耐:重"
+msgstr ""
+
+#. ID 751
+msgctxt "items.name"
+msgid "$B騎士盾"
+msgstr ""
+
+#. ID 751
+msgctxt "items.description"
+msgid "紋章入りの盾。突き攻撃に耐性。防18/耐:突"
+msgstr ""
+
+#. ID 752
+msgctxt "items.name"
+msgid "$B鏡の盾"
+msgstr ""
+
+#. ID 752
+msgctxt "items.description"
+msgid "死と魅了の力に耐性のある盾。防15/無効:死乱"
+msgstr ""
+
+#. ID 755
+msgctxt "items.name"
+msgid "$B長盾"
+msgstr ""
+
+#. ID 755
+msgctxt "items.description"
+msgid "大きな長方形の盾。射撃に耐性。防10/耐:射"
+msgstr ""
+
+#. ID 756
+msgctxt "items.name"
+msgid "$Bスパイクシールド"
+msgstr ""
+
+#. ID 756
+msgctxt "items.description"
+msgid "トゲ付きの盾。攻5防5"
+msgstr ""
+
+#. ID 759
+msgctxt "items.name"
+msgid "$B円形盾"
+msgstr ""
+
+#. ID 759
+msgctxt "items.description"
+msgid "大きめの円盾。斬撃に耐性。防5/耐:斬"
+msgstr ""
+
+#. ID 760
+msgctxt "items.name"
+msgid "$Bバックラー"
+msgstr ""
+
+#. ID 760
+msgctxt "items.description"
+msgid "小さな盾。防1"
+msgstr ""
+
+#. ID 764
+msgctxt "items.name"
+msgid "義手---------------"
+msgstr ""
+
+#. ID 766
+msgctxt "items.name"
+msgid "$A精神銃"
+msgstr ""
+
+#. ID 766
+msgctxt "items.description"
+msgid "謎の武器。ラバン専用。攻150/射/両手/先制必殺"
+msgstr ""
+
+#. ID 768
+msgctxt "items.name"
+msgid "$B白銀の鉤爪"
+msgstr ""
+
+#. ID 768
+msgctxt "items.description"
+msgid "機械技術と魔法の融合。ラバン専用。攻25防28"
+msgstr ""
+
+#. ID 770
+msgctxt "items.name"
+msgid "$B骨の義手"
+msgstr ""
+
+#. ID 770
+msgctxt "items.description"
+msgid "何者かの霊が宿る。ラバン専用。防20魔40"
+msgstr ""
+
+#. ID 771
+msgctxt "items.name"
+msgid "$B大砲仕込の義手"
+msgstr ""
+
+#. ID 771
+msgctxt "items.description"
+msgid "小型大砲が仕込んである。ラバン専用。攻35速-8"
+msgstr ""
+
+#. ID 773
+msgctxt "items.name"
+msgid "$B機械仕掛けの義手"
+msgstr ""
+
+#. ID 773
+msgctxt "items.description"
+msgid "歯車仕掛けで自ら動く。ラバン専用。攻5防14速8"
+msgstr ""
+
+#. ID 775
+msgctxt "items.name"
+msgid "$Bフック型の義手"
+msgstr ""
+
+#. ID 775
+msgctxt "items.description"
+msgid "鉄製義手。ラバン専用。攻8防6"
+msgstr ""
+
+#. ID 776
+msgctxt "items.name"
+msgid "$B木の義手"
+msgstr ""
+
+#. ID 776
+msgctxt "items.description"
+msgid "木製の義手。ラバン専用。防1"
+msgstr ""
+
+#. ID 778
+msgctxt "items.name"
+msgid "特殊盾-------------"
+msgstr ""
+
+#. ID 781
+msgctxt "items.name"
+msgid "装飾品-------------"
+msgstr ""
+
+#. ID 783
+msgctxt "items.name"
+msgid "$B月長石のユーヌム"
+msgstr ""
+
+#. ID 783
+msgctxt "items.description"
+msgid "月長石の護符。消費MP半減/回避/無:死"
+msgstr ""
+
+#. ID 784
+msgctxt "items.name"
+msgid "$B青金石のフィーア"
+msgstr ""
+
+#. ID 784
+msgctxt "items.description"
+msgid "ﾗﾋﾟｽﾗｽﾞﾘの首飾り。魔40/耐:水/消費MP半減/無:乱制"
+msgstr ""
+
+#. ID 785
+msgctxt "items.name"
+msgid "$B翡翠のシルハ"
+msgstr ""
+
+#. ID 785
+msgctxt "items.description"
+msgid "翡翠の額飾り。速40/耐:空/消費MP半減/無:停"
+msgstr ""
+
+#. ID 786
+msgctxt "items.name"
+msgid "$B柘榴石のニルサ"
+msgstr ""
+
+#. ID 786
+msgctxt "items.description"
+msgid "ガーネットの指輪。攻20/耐:火/消費MP半減/無:減"
+msgstr ""
+
+#. ID 787
+msgctxt "items.name"
+msgid "$B琥珀のエルヤ"
+msgstr ""
+
+#. ID 787
+msgctxt "items.description"
+msgid "琥珀の腕輪。防20/耐:地/消費MP半減/無:劣"
+msgstr ""
+
+#. ID 788
+msgctxt "items.name"
+msgid "$Bイーテリオのかけら"
+msgstr ""
+
+#. ID 788
+msgctxt "items.description"
+msgid "契約のあかし。/耐:雷聖闇/消費MP半減/回避/無:死"
+msgstr ""
+
+#. ID 789
+msgctxt "items.name"
+msgid "$Bオーバーソウル"
+msgstr ""
+
+#. ID 789
+msgctxt "items.description"
+msgid "攻防5魔速10/回避/消費MP半減/無:死"
+msgstr ""
+
+#. ID 790
+msgctxt "items.name"
+msgid "$Bミルドラの石"
+msgstr ""
+
+#. ID 790
+msgctxt "items.description"
+msgid "黒き神の力を宿す魔石。魔80/耐:全魔法属性"
+msgstr ""
+
+#. ID 791
+msgctxt "items.name"
+msgid "$Bアークフィアの聖印"
+msgstr ""
+
+#. ID 791
+msgctxt "items.description"
+msgid "女神の加護を宿す聖遺物。/耐:火水/無:全異常"
+msgstr ""
+
+#. ID 792
+msgctxt "items.name"
+msgid "$B猫神のタレーリア"
+msgstr ""
+
+#. ID 792
+msgctxt "items.description"
+msgid "放浪神の力を宿す靴。速+200/耐:地空/無:死停/回避"
+msgstr ""
+
+#. ID 795
+msgctxt "items.name"
+msgid "$B魔将の外衣ボツ"
+msgstr ""
+
+#. ID 795
+msgctxt "items.description"
+msgid "魔将の衣。/耐:闇/消費MP半減/無:死制/？"
+msgstr ""
+
+#. ID 799
+msgctxt "items.name"
+msgid "$B隠身のマント"
+msgstr ""
+
+#. ID 799
+msgctxt "items.description"
+msgid "減衰を防ぎ、姿を隠すことができる。速20/回避/無:減"
+msgstr ""
+
+#. ID 800
+msgctxt "items.name"
+msgid "$B巨人の小手"
+msgstr ""
+
+#. ID 800
+msgctxt "items.description"
+msgid "攻撃力を強化。劣化を防ぐ。攻20/無効:劣"
+msgstr ""
+
+#. ID 801
+msgctxt "items.name"
+msgid "$B思い出の品"
+msgstr ""
+
+#. ID 801
+msgctxt "items.description"
+msgid "死と停止・混乱・制限を防ぐ。/無効:死停乱制"
+msgstr ""
+
+#. ID 806
+msgctxt "items.name"
+msgid "$B一角獣の護符"
+msgstr ""
+
+#. ID 806
+msgctxt "items.description"
+msgid "一角獣の角を模した護符。減衰を防ぐ。攻15/無:減"
+msgstr ""
+
+#. ID 807
+msgctxt "items.name"
+msgid "$Bタレーリア"
+msgstr ""
+
+#. ID 807
+msgctxt "items.description"
+msgid "翼あるサンダル。停止を防ぐ。速30/無:停"
+msgstr ""
+
+#. ID 808
+msgctxt "items.name"
+msgid "$B聖なる印"
+msgstr ""
+
+#. ID 808
+msgctxt "items.description"
+msgid "神聖なシンボル。混乱と制限を防ぐ。魔30/無:乱制"
+msgstr ""
+
+#. ID 809
+msgctxt "items.name"
+msgid "$B常若の護符"
+msgstr ""
+
+#. ID 809
+msgctxt "items.description"
+msgid "持つ者に活力を与え、劣化を防ぐ。防15/無:劣"
+msgstr ""
+
+#. ID 812
+msgctxt "items.name"
+msgid "$B血染めの木片"
+msgstr ""
+
+#. ID 812
+msgctxt "items.description"
+msgid "聖への耐性。魔20/耐:聖"
+msgstr ""
+
+#. ID 813
+msgctxt "items.name"
+msgid "$B純白のサーコート"
+msgstr ""
+
+#. ID 813
+msgctxt "items.description"
+msgid "闇への耐性。防6魔8/耐:闇"
+msgstr ""
+
+#. ID 814
+msgctxt "items.name"
+msgid "$B鋼鉄の靴"
+msgstr ""
+
+#. ID 814
+msgctxt "items.description"
+msgid "対地への耐性。防14速-2/耐:地"
+msgstr ""
+
+#. ID 815
+msgctxt "items.name"
+msgid "$B北国のマント"
+msgstr ""
+
+#. ID 815
+msgctxt "items.description"
+msgid "水への耐性。防6魔8/耐:水"
+msgstr ""
+
+#. ID 816
+msgctxt "items.name"
+msgid "$B風の司の護符"
+msgstr ""
+
+#. ID 816
+msgctxt "items.description"
+msgid "対空への耐性。速20/耐:空"
+msgstr ""
+
+#. ID 817
+msgctxt "items.name"
+msgid "$B金色の小手"
+msgstr ""
+
+#. ID 817
+msgctxt "items.description"
+msgid "雷への耐性。攻5防5/耐:雷"
+msgstr ""
+
+#. ID 818
+msgctxt "items.name"
+msgid "$B火鼠の手袋"
+msgstr ""
+
+#. ID 818
+msgctxt "items.description"
+msgid "火への耐性。攻10/耐:火"
+msgstr ""
+
+#. ID 822
+msgctxt "items.name"
+msgid "$B奴隷の首輪"
+msgstr ""
+
+#. ID 822
+msgctxt "items.description"
+msgid "混乱の確率を半減させる。/半減:乱"
+msgstr ""
+
+#. ID 823
+msgctxt "items.name"
+msgid "$B病よけのお守り"
+msgstr ""
+
+#. ID 823
+msgctxt "items.description"
+msgid "減衰の確率を半減させる。/半減:減"
+msgstr ""
+
+#. ID 824
+msgctxt "items.name"
+msgid "$B悪夢食いのお守り"
+msgstr ""
+
+#. ID 824
+msgctxt "items.description"
+msgid "停止の確率を半減させる。/半減:停"
+msgstr ""
+
+#. ID 825
+msgctxt "items.name"
+msgid "$B古代風のカリガ"
+msgstr ""
+
+#. ID 825
+msgctxt "items.description"
+msgid "軍靴として使われたサンダル。速10"
+msgstr ""
+
+#. ID 826
+msgctxt "items.name"
+msgid "$B水晶のお守り"
+msgstr ""
+
+#. ID 826
+msgctxt "items.description"
+msgid "魔術などが封じられる率を半減。魔10/半減:制"
+msgstr ""
+
+#. ID 827
+msgctxt "items.name"
+msgid "$Bチャンピオンベルト"
+msgstr ""
+
+#. ID 827
+msgctxt "items.description"
+msgid "ヒーローのしるし。攻8防5魔-6"
+msgstr ""
+
+#. ID 831
+msgctxt "items.name"
+msgid "$B織布のマント"
+msgstr ""
+
+#. ID 831
+msgctxt "items.description"
+msgid "身を守るマント。防2"
+msgstr ""
+
+#. ID 832
+msgctxt "items.name"
+msgid "$B祈り紐"
+msgstr ""
+
+#. ID 832
+msgctxt "items.description"
+msgid "儀式用の数珠。魔力を少し上げる。魔4"
+msgstr ""
+
+#. ID 835
+msgctxt "items.name"
+msgid "$B魔将の外衣"
+msgstr ""
+
+#. ID 835
+msgctxt "items.description"
+msgid "魔将の衣。/耐:全魔法属性/無:全異常/回避/？"
+msgstr ""
+
+#. ID 840
+msgctxt "items.name"
+msgid "召還キャラ---------"
+msgstr ""
+
+#. ID 841
+msgctxt "items.name"
+msgid "$A宇宙銃"
+msgstr ""
+
+#. ID 841
+msgctxt "items.description"
+msgid "おもちゃっぽい。"
+msgstr ""
+
+#. ID 842
+msgctxt "items.name"
+msgid "$Aくちばし"
+msgstr ""
+
+#. ID 842
+msgctxt "items.description"
+msgid "猛禽の武器。"
+msgstr ""
+
+#. ID 843
+msgctxt "items.name"
+msgid "$A爪"
+msgstr ""
+
+#. ID 843
+msgctxt "items.description"
+msgid "獣の武器。"
+msgstr ""
+
+#. ID 844
+msgctxt "items.name"
+msgid "$A蹄"
+msgstr ""
+
+#. ID 844
+msgctxt "items.description"
+msgid "馬の武器。"
+msgstr ""
+
+#. ID 845
+msgctxt "items.name"
+msgid "$A剣"
+msgstr ""
+
+#. ID 845
+#. ID 847
+msgctxt "items.description"
+msgid "従者の武器。"
+msgstr ""
+
+#. ID 846
+msgctxt "items.name"
+msgid "$A水の杖"
+msgstr ""
+
+#. ID 846
+msgctxt "items.description"
+msgid "精霊の武器。"
+msgstr ""
+
+#. ID 847
+msgctxt "items.name"
+msgid "$A拳"
+msgstr ""
+
+#. ID 848
+msgctxt "items.name"
+msgid "$Aデバッガー"
+msgstr ""
+
+#. ID 848
+msgctxt "items.description"
+msgid "ボツ"
+msgstr ""
+
+#. ID 849
+msgctxt "items.name"
+msgid "イベント用強化武器A"
+msgstr ""
+
+#. ID 850
+msgctxt "items.name"
+msgid "イベント用強化武器B"
+msgstr ""
+
+#. ID 851
+msgctxt "items.description"
+msgid "何も装備していない状態。"
+msgstr ""
+
+#. ID 852
+msgctxt "items.name"
+msgid "↑この上ID851は素手"
+msgstr ""
+
+#. ID 853
+msgctxt "items.name"
+msgid "イベント用強化兜C"
+msgstr ""
+
+#. ID 859
+msgctxt "items.name"
+msgid "$AデバッガーA"
+msgstr ""
+
+#. ID 859
+msgctxt "items.description"
+msgid "全能力+500"
+msgstr ""
+
+#. ID 860
+msgctxt "items.name"
+msgid "$AデバッガーB"
+msgstr ""
+
+#. ID 860
+msgctxt "items.description"
+msgid "全能力-500"
+msgstr ""
+
+#. ID 861
+msgctxt "items.name"
+msgid "成長アイテム-------"
+msgstr ""
+
+#. ID 862
+msgctxt "items.name"
+msgid "※生命の秘薬"
+msgstr ""
+
+#. ID 862
+msgctxt "items.description"
+msgid "最大HPを成長させる。"
+msgstr ""
+
+#. ID 863
+msgctxt "items.name"
+msgid "※精神の秘薬"
+msgstr ""
+
+#. ID 863
+msgctxt "items.description"
+msgid "最大MPを成長させる。"
+msgstr ""
+
+#. ID 864
+msgctxt "items.name"
+msgid "※武勇の秘薬"
+msgstr ""
+
+#. ID 864
+msgctxt "items.description"
+msgid "攻撃力を成長させる。"
+msgstr ""
+
+#. ID 865
+msgctxt "items.name"
+msgid "※頑健の秘薬"
+msgstr ""
+
+#. ID 865
+msgctxt "items.description"
+msgid "防御力を成長させる。"
+msgstr ""
+
+#. ID 866
+msgctxt "items.name"
+msgid "※魔力の秘薬"
+msgstr ""
+
+#. ID 866
+msgctxt "items.description"
+msgid "魔力を成長させる。"
+msgstr ""
+
+#. ID 867
+msgctxt "items.name"
+msgid "※敏捷の秘薬"
+msgstr ""
+
+#. ID 867
+msgctxt "items.description"
+msgid "速度を成長させる。"
+msgstr ""
+
+#. ID 870
+msgctxt "items.name"
+msgid "※「聖医の書 上」"
+msgstr ""
+
+#. ID 870
+msgctxt "items.description"
+msgid "「応急手当」を習得させる。(神官)"
+msgstr ""
+
+#. ID 871
+msgctxt "items.name"
+msgid "※「聖医の書 中」"
+msgstr ""
+
+#. ID 871
+msgctxt "items.description"
+msgid "「治癒術」を習得させる。(賢者)"
+msgstr ""
+
+#. ID 872
+msgctxt "items.name"
+msgid "※「聖医の書 下」"
+msgstr ""
+
+#. ID 872
+msgctxt "items.description"
+msgid "「再生術」を習得させる。(使徒)"
+msgstr ""
+
+#. ID 873
+msgctxt "items.name"
+msgid "※「聖域について」"
+msgstr ""
+
+#. ID 873
+msgctxt "items.description"
+msgid "「治癒の力場」を習得させる。(神官)"
+msgstr ""
+
+#. ID 875
+msgctxt "items.name"
+msgid "※「薬草と祈祷」"
+msgstr ""
+
+#. ID 875
+msgctxt "items.description"
+msgid "「病祓い」を習得させる。(神官)"
+msgstr ""
+
+#. ID 876
+msgctxt "items.name"
+msgid "※「魂と悪霊」"
+msgstr ""
+
+#. ID 876
+msgctxt "items.description"
+msgid "「憂い祓い」を習得させる。(神官)"
+msgstr ""
+
+#. ID 877
+msgctxt "items.name"
+msgid "※「呪術治療の実際」"
+msgstr ""
+
+#. ID 877
+msgctxt "items.description"
+msgid "「禍祓い」を習得させる。(賢者)"
+msgstr ""
+
+#. ID 878
+msgctxt "items.name"
+msgid "※「奇跡の諸例」"
+msgstr ""
+
+#. ID 878
+msgctxt "items.description"
+msgid "「蘇生の秘儀」を習得させる。(賢者)"
+msgstr ""
+
+#. ID 879
+msgctxt "items.name"
+msgid "※「救済論」"
+msgstr ""
+
+#. ID 879
+msgctxt "items.description"
+msgid "「復活の秘儀」を習得させる。(使徒)"
+msgstr ""
+
+#. ID 882
+msgctxt "items.name"
+msgid "※「錬金術」"
+msgstr ""
+
+#. ID 882
+msgctxt "items.description"
+msgid "「調合」を習得させる。(魔術師)"
+msgstr ""
+
+#. ID 883
+msgctxt "items.name"
+msgid "※「霊魂について」"
+msgstr ""
+
+#. ID 883
+msgctxt "items.description"
+msgid "「螢火」を習得させる。(魔術師)"
+msgstr ""
+
+#. ID 884
+msgctxt "items.name"
+msgid "※「妖神調理法」"
+msgstr ""
+
+#. ID 884
+msgctxt "items.description"
+msgid "「料理」を習得させる。"
+msgstr ""
+
+#. ID 885
+msgctxt "items.name"
+msgid "※「祓魔図」"
+msgstr ""
+
+#. ID 885
+msgctxt "items.description"
+msgid "「魔物よけ」を習得させる。(退魔師)"
+msgstr ""
+
+#. ID 886
+msgctxt "items.name"
+msgid "※「ベルバの書」ボツ"
+msgstr ""
+
+#. ID 886
+msgctxt "items.description"
+msgid "「妖魔の召喚」を習得させる。"
+msgstr ""
+
+#. ID 889
+msgctxt "items.name"
+msgid "※「刑罰技法」"
+msgstr ""
+
+#. ID 889
+msgctxt "items.description"
+msgid "「おぞましき鉄串」を習得させる。"
+msgstr ""
+
+#. ID 890
+msgctxt "items.name"
+msgid "※「竜退治」"
+msgstr ""
+
+#. ID 890
+msgctxt "items.description"
+msgid "「竜牙砕き」を習得させる。"
+msgstr ""
+
+#. ID 891
+msgctxt "items.name"
+msgid "※「オグカムイズナ」"
+msgstr ""
+
+#. ID 891
+msgctxt "items.description"
+msgid "「真空斬り」を習得させる。"
+msgstr ""
+
+#. ID 892
+msgctxt "items.name"
+msgid "※「隠華抄」"
+msgstr ""
+
+#. ID 892
+msgctxt "items.description"
+msgid "「捕縛術」を習得させる。(遺跡荒らし)"
+msgstr ""
+
+#. ID 893
+msgctxt "items.name"
+msgid "※「力学」"
+msgstr ""
+
+#. ID 893
+msgctxt "items.description"
+msgid "「ヨロイ割り」を習得させる。(狂戦士)"
+msgstr ""
+
+#. ID 894
+msgctxt "items.name"
+msgid "※「合一の書」"
+msgstr ""
+
+#. ID 894
+msgctxt "items.description"
+msgid "「針穴通し」を習得させる。(野伏)"
+msgstr ""
+
+#. ID 895
+msgctxt "items.name"
+msgid "※「狩猟術」"
+msgstr ""
+
+#. ID 895
+msgctxt "items.description"
+msgid "「毒の矢」を習得させる。(射手)"
+msgstr ""
+
+#. ID 896
+msgctxt "items.name"
+msgid "※「一輪書」"
+msgstr ""
+
+#. ID 896
+msgctxt "items.description"
+msgid "「一閃」を習得させる。(剣聖)"
+msgstr ""
+
+#. ID 897
+msgctxt "items.name"
+msgid "※「巧妙なる剣術」"
+msgstr ""
+
+#. ID 897
+msgctxt "items.description"
+msgid "「必中斬撃」を習得させる。"
+msgstr ""
+
+#. ID 898
+msgctxt "items.name"
+msgid "※「愚かな戦士の書」"
+msgstr ""
+
+#. ID 898
+msgctxt "items.description"
+msgid "「風車砕き」を習得させる。(君主)"
+msgstr ""
+
+#. ID 899
+msgctxt "items.name"
+msgid "※「ﾚﾝﾃﾞｭｰﾑ秘伝書」"
+msgstr ""
+
+#. ID 899
+msgctxt "items.description"
+msgid "「手裏剣乱れ投げ」を習得させる。"
+msgstr ""
+
+#. ID 900
+msgctxt "items.name"
+msgid "※「刺客の書」"
+msgstr ""
+
+#. ID 900
+msgctxt "items.description"
+msgid "「死毒刃」を習得させる。(夜盗)"
+msgstr ""
+
+#. ID 902
+msgctxt "items.name"
+msgid "※「妖精の女王」"
+msgstr ""
+
+#. ID 902
+msgctxt "items.description"
+msgid "「氷の棺」を習得させる。"
+msgstr ""
+
+#. ID 903
+msgctxt "items.name"
+msgid "※「ハァル教典 上」"
+msgstr ""
+
+#. ID 903
+msgctxt "items.description"
+msgid "「裁きの雷」を習得させる。(裁きの司)"
+msgstr ""
+
+#. ID 904
+msgctxt "items.name"
+msgid "※「ハァル教典 下」"
+msgstr ""
+
+#. ID 904
+msgctxt "items.description"
+msgid "「金色の王剣」を習得させる。"
+msgstr ""
+
+#. ID 905
+msgctxt "items.name"
+msgid "※「天体の運行」"
+msgstr ""
+
+#. ID 905
+msgctxt "items.description"
+msgid "「星落とし」を習得させる。"
+msgstr ""
+
+#. ID 906
+msgctxt "items.name"
+msgid "※「死者の書 上」"
+msgstr ""
+
+#. ID 906
+msgctxt "items.description"
+msgid "「吸血鬼の呪文」を習得させる。"
+msgstr ""
+
+#. ID 907
+msgctxt "items.name"
+msgid "※「死者の書 中」"
+msgstr ""
+
+#. ID 907
+msgctxt "items.description"
+msgid "「死の空気」を習得させる。"
+msgstr ""
+
+#. ID 908
+msgctxt "items.name"
+msgid "※「死者の書 下」"
+msgstr ""
+
+#. ID 908
+msgctxt "items.description"
+msgid "「瘴気」を習得させる。"
+msgstr ""
+
+#. ID 909
+msgctxt "items.name"
+msgid "※「拝火 上」"
+msgstr ""
+
+#. ID 909
+msgctxt "items.description"
+msgid "「爆炎の投射」を習得させる。(魔術師)"
+msgstr ""
+
+#. ID 910
+msgctxt "items.name"
+msgid "※「拝火 中」"
+msgstr ""
+
+#. ID 910
+msgctxt "items.description"
+msgid "「炎魔界」を習得させる。(精霊術師)"
+msgstr ""
+
+#. ID 911
+msgctxt "items.name"
+msgid "※「拝火 下」"
+msgstr ""
+
+#. ID 911
+msgctxt "items.description"
+msgid "「熱よけの鏡」を習得させる。"
+msgstr ""
+
+#. ID 912
+msgctxt "items.name"
+msgid "※「気象と儀式魔術」"
+msgstr ""
+
+#. ID 912
+msgctxt "items.description"
+msgid "「竜巻の呪文」を習得させる。(精霊術師)"
+msgstr ""
+
+#. ID 913
+msgctxt "items.name"
+msgid "※「異能者について」"
+msgstr ""
+
+#. ID 913
+msgctxt "items.description"
+msgid "「不可視の力」を習得させる。"
+msgstr ""
+
+#. ID 914
+msgctxt "items.name"
+msgid "※「石の諸霊 上」"
+msgstr ""
+
+#. ID 914
+msgctxt "items.description"
+msgid "「地霊の爪」を習得させる。(魔術師)"
+msgstr ""
+
+#. ID 915
+msgctxt "items.name"
+msgid "※「石の諸霊 中」"
+msgstr ""
+
+#. ID 915
+msgctxt "items.description"
+msgid "「竜脈の解放」を習得させる。(賢者)"
+msgstr ""
+
+#. ID 916
+msgctxt "items.name"
+msgid "※「石の諸霊 下」"
+msgstr ""
+
+#. ID 916
+msgctxt "items.description"
+msgid "「地霊の守護」を習得させる。"
+msgstr ""
+
+#. ID 917
+msgctxt "items.name"
+msgid "※「河神書 上」"
+msgstr ""
+
+#. ID 917
+msgctxt "items.description"
+msgid "「聖雨」を習得させる。(神官)"
+msgstr ""
+
+#. ID 918
+msgctxt "items.name"
+msgid "※「河神書 下」"
+msgstr ""
+
+#. ID 918
+msgctxt "items.description"
+msgid "「水と風の加護」を習得させる。(野伏)"
+msgstr ""
+
+#. ID 920
+msgctxt "items.name"
+msgid "※「ファイヤーの書」"
+msgstr ""
+
+#. ID 920
+msgctxt "items.description"
+msgid "「ファイヤーボム」を習得させる。"
+msgstr ""
+
+#. ID 923
+msgctxt "items.name"
+msgid "※「建築」"
+msgstr ""
+
+#. ID 923
+msgctxt "items.description"
+msgid "「迷宮結界」を習得させる。"
+msgstr ""
+
+#. ID 924
+msgctxt "items.name"
+msgid "※「美容術」"
+msgstr ""
+
+#. ID 924
+msgctxt "items.description"
+msgid "「誘惑」を習得させる。"
+msgstr ""
+
+#. ID 925
+msgctxt "items.name"
+msgid "※「賛歌」"
+msgstr ""
+
+#. ID 925
+msgctxt "items.description"
+msgid "「詠唱」を習得させる。(妖術師)"
+msgstr ""
+
+#. ID 927
+msgctxt "items.name"
+msgid "※「肉体言語学 1」"
+msgstr ""
+
+#. ID 927
+msgctxt "items.description"
+msgid "「正拳」を習得させる。"
+msgstr ""
+
+#. ID 928
+msgctxt "items.name"
+msgid "※「肉体言語学 2」"
+msgstr ""
+
+#. ID 928
+msgctxt "items.description"
+msgid "「百烈連打」を習得させる。"
+msgstr ""
+
+#. ID 929
+msgctxt "items.name"
+msgid "※「肉体言語学 3」"
+msgstr ""
+
+#. ID 929
+msgctxt "items.description"
+msgid "「組み打ち」を習得させる。"
+msgstr ""
+
+#. ID 930
+msgctxt "items.name"
+msgid "※「肉体言語学 4」"
+msgstr ""
+
+#. ID 930
+msgctxt "items.description"
+msgid "「徹し」を習得させる。"
+msgstr ""
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "ニョロ"
+msgstr ""
+
+#. ID 2
+msgctxt "enemies.name"
+msgid "大コウモリ"
+msgstr ""
+
+#. ID 3
+msgctxt "enemies.name"
+msgid "土の小鬼"
+msgstr ""
+
+#. ID 4
+msgctxt "enemies.name"
+msgid "石の小鬼"
+msgstr ""
+
+#. ID 5
+msgctxt "enemies.name"
+msgid "大長虫"
+msgstr ""
+
+#. ID 6
+msgctxt "enemies.name"
+msgid "告死鳥"
+msgstr ""
+
+#. ID 7
+msgctxt "enemies.name"
+msgid "死霊戦士"
+msgstr ""
+
+#. ID 8
+msgctxt "enemies.name"
+msgid "シーフォンボツ"
+msgstr ""
+
+#. ID 9
+msgctxt "enemies.name"
+msgid "オメメナイナイ"
+msgstr ""
+
+#. ID 10
+msgctxt "enemies.name"
+msgid "戦士ﾎﾞﾂ"
+msgstr ""
+
+#. ID 11
+msgctxt "enemies.name"
+msgid "生ける巨竜像"
+msgstr ""
+
+#. ID 12
+msgctxt "enemies.name"
+msgid "生ける彫像"
+msgstr ""
+
+#. ID 13
+msgctxt "enemies.name"
+msgid "チャンピオン"
+msgstr ""
+
+#. ID 14
+msgctxt "enemies.name"
+msgid "獣鬼"
+msgstr ""
+
+#. ID 15
+msgctxt "enemies.name"
+msgid "魔術師ﾎﾞﾂ"
+msgstr ""
+
+#. ID 16
+msgctxt "enemies.name"
+msgid "盗賊ﾎﾞﾂ"
+msgstr ""
+
+#. ID 18
+msgctxt "enemies.name"
+msgid "フナット"
+msgstr ""
+
+#. ID 19
+msgctxt "enemies.name"
+msgid "竜の卵"
+msgstr ""
+
+#. ID 20
+msgctxt "enemies.name"
+msgid "クラーケン"
+msgstr ""
+
+#. ID 21
+msgctxt "enemies.name"
+msgid "ダドアチャック"
+msgstr ""
+
+#. ID 22
+msgctxt "enemies.name"
+msgid "歩く死者"
+msgstr ""
+
+#. ID 23
+msgctxt "enemies.name"
+msgid "できそこない"
+msgstr ""
+
+#. ID 24
+msgctxt "enemies.name"
+msgid "妖蛇后"
+msgstr ""
+
+#. ID 25
+msgctxt "enemies.name"
+msgid "ヂグモ"
+msgstr ""
+
+#. ID 26
+msgctxt "enemies.name"
+msgid "亡霊"
+msgstr ""
+
+#. ID 27
+msgctxt "enemies.name"
+msgid "処刑機械"
+msgstr ""
+
+#. ID 29
+msgctxt "enemies.name"
+msgid "トム"
+msgstr ""
+
+#. ID 30
+msgctxt "enemies.name"
+msgid "ジョン"
+msgstr ""
+
+#. ID 31
+msgctxt "enemies.name"
+msgid "踊る死者"
+msgstr ""
+
+#. ID 32
+msgctxt "enemies.name"
+msgid "ヒトクイバナ"
+msgstr ""
+
+#. ID 33
+msgctxt "enemies.name"
+msgid "野菜怪物"
+msgstr ""
+
+#. ID 34
+msgctxt "enemies.name"
+msgid "塚護人"
+msgstr ""
+
+#. ID 35
+msgctxt "enemies.name"
+msgid "さまよえる監視者"
+msgstr ""
+
+#. ID 36
+msgctxt "enemies.name"
+msgid "ごろつき"
+msgstr ""
+
+#. ID 37
+msgctxt "enemies.name"
+msgid "兵士"
+msgstr ""
+
+#. ID 38
+msgctxt "enemies.name"
+msgid "混沌の獣"
+msgstr ""
+
+#. ID 39
+msgctxt "enemies.name"
+msgid "鞭使い"
+msgstr ""
+
+#. ID 40
+msgctxt "enemies.name"
+msgid "槍の戦鬼"
+msgstr ""
+
+#. ID 41
+msgctxt "enemies.name"
+msgid "グラガドリス"
+msgstr ""
+
+#. ID 42
+msgctxt "enemies.name"
+msgid "指揮官"
+msgstr ""
+
+#. ID 44
+msgctxt "enemies.name"
+msgid "凶獣"
+msgstr ""
+
+#. ID 45
+msgctxt "enemies.name"
+msgid "賢人"
+msgstr ""
+
+#. ID 46
+msgctxt "enemies.name"
+msgid "獅子の神官"
+msgstr ""
+
+#. ID 47
+msgctxt "enemies.name"
+msgid "山羊の神官"
+msgstr ""
+
+#. ID 49
+msgctxt "enemies.name"
+msgid "トムス"
+msgstr ""
+
+#. ID 50
+msgctxt "enemies.name"
+msgid "レッツァ"
+msgstr ""
+
+#. ID 51
+msgctxt "enemies.name"
+msgid "アイラ"
+msgstr ""
+
+#. ID 52
+msgctxt "enemies.name"
+msgid "ミランダ"
+msgstr ""
+
+#. ID 53
+msgctxt "enemies.name"
+msgid "ハヤバ"
+msgstr ""
+
+#. ID 54
+msgctxt "enemies.name"
+msgid "アーデス"
+msgstr ""
+
+#. ID 55
+msgctxt "enemies.name"
+msgid "アニキンゲトリクス"
+msgstr ""
+
+#. ID 56
+msgctxt "enemies.name"
+msgid "エルバクス"
+msgstr ""
+
+#. ID 59
+msgctxt "enemies.name"
+msgid "魔狼"
+msgstr ""
+
+#. ID 60
+msgctxt "enemies.name"
+msgid "食人鬼"
+msgstr ""
+
+#. ID 61
+msgctxt "enemies.name"
+msgid "イバの大鹿"
+msgstr ""
+
+#. ID 62
+msgctxt "enemies.name"
+msgid "妖精族の戦士"
+msgstr ""
+
+#. ID 63
+msgctxt "enemies.name"
+msgid "西風の精"
+msgstr ""
+
+#. ID 64
+msgctxt "enemies.name"
+msgid "ルク"
+msgstr ""
+
+#. ID 65
+msgctxt "enemies.name"
+msgid "巨鳥のヒナ"
+msgstr ""
+
+#. ID 66
+msgctxt "enemies.name"
+msgid "妖精族の術者"
+msgstr ""
+
+#. ID 67
+msgctxt "enemies.name"
+msgid "妖精王ユールフィンデ"
+msgstr ""
+
+#. ID 68
+msgctxt "enemies.name"
+msgid "マーメイド"
+msgstr ""
+
+#. ID 71
+msgctxt "enemies.name"
+msgid "黒鉄小人の戦士"
+msgstr ""
+
+#. ID 72
+msgctxt "enemies.name"
+msgid "黒鉄小人の狙撃手"
+msgstr ""
+
+#. ID 73
+msgctxt "enemies.name"
+msgid "編髭小人の戦士"
+msgstr ""
+
+#. ID 74
+msgctxt "enemies.name"
+msgid "編髭小人の狙撃手"
+msgstr ""
+
+#. ID 75
+msgctxt "enemies.name"
+msgid "剣の戦鬼"
+msgstr ""
+
+#. ID 76
+msgctxt "enemies.name"
+msgid "地底戦車"
+msgstr ""
+
+#. ID 77
+msgctxt "enemies.name"
+msgid "地底戦車ロキ"
+msgstr ""
+
+#. ID 78
+msgctxt "enemies.name"
+msgid "自動機兵"
+msgstr ""
+
+#. ID 79
+msgctxt "enemies.name"
+msgid "オオグモ"
+msgstr ""
+
+#. ID 80
+msgctxt "enemies.name"
+msgid "火炎蜥蜴"
+msgstr ""
+
+#. ID 81
+msgctxt "enemies.name"
+msgid "火喰鳥"
+msgstr ""
+
+#. ID 82
+msgctxt "enemies.name"
+msgid "火喰鳥のヒナ"
+msgstr ""
+
+#. ID 83
+msgctxt "enemies.name"
+msgid "黒鉄のミーベル"
+msgstr ""
+
+#. ID 85
+msgctxt "enemies.name"
+msgid "編髭のダリム"
+msgstr ""
+
+#. ID 88
+msgctxt "enemies.name"
+msgid "山の巨人"
+msgstr ""
+
+#. ID 89
+msgctxt "enemies.name"
+msgid "人面石"
+msgstr ""
+
+#. ID 90
+msgctxt "enemies.name"
+msgid "怪仙"
+msgstr ""
+
+#. ID 91
+msgctxt "enemies.name"
+msgid "合成魔獣"
+msgstr ""
+
+#. ID 92
+msgctxt "enemies.name"
+msgid "霜の巨人"
+msgstr ""
+
+#. ID 93
+msgctxt "enemies.name"
+msgid "北風の精"
+msgstr ""
+
+#. ID 94
+msgctxt "enemies.name"
+msgid "不可視の守護者"
+msgstr ""
+
+#. ID 95
+msgctxt "enemies.name"
+msgid " 不可視の守護者"
+msgstr ""
+
+#. ID 96
+msgctxt "enemies.name"
+msgid "怪仙ダッタ"
+msgstr ""
+
+#. ID 97
+msgctxt "enemies.name"
+msgid " 怪仙ダッタ"
+msgstr ""
+
+#. ID 98
+msgctxt "enemies.name"
+msgid "空の巨人"
+msgstr ""
+
+#. ID 101
+msgctxt "enemies.name"
+msgid "生命無き者の王"
+msgstr ""
+
+#. ID 102
+msgctxt "enemies.name"
+msgid "死せる近衛兵"
+msgstr ""
+
+#. ID 103
+msgctxt "enemies.name"
+msgid "＜闇＞"
+msgstr ""
+
+#. ID 104
+msgctxt "enemies.name"
+msgid "＜恐怖＞"
+msgstr ""
+
+#. ID 105
+msgctxt "enemies.name"
+msgid "＜業火＞"
+msgstr ""
+
+#. ID 106
+msgctxt "enemies.name"
+msgid "奈落の戦鬼"
+msgstr ""
+
+#. ID 107
+msgctxt "enemies.name"
+msgid "イド"
+msgstr ""
+
+#. ID 108
+msgctxt "enemies.name"
+msgid "触手"
+msgstr ""
+
+#. ID 109
+msgctxt "enemies.name"
+msgid "タイタス一世"
+msgstr ""
+
+#. ID 110
+msgctxt "enemies.name"
+msgid "タイタス二世"
+msgstr ""
+
+#. ID 111
+msgctxt "enemies.name"
+msgid "タイタス三世"
+msgstr ""
+
+#. ID 112
+msgctxt "enemies.name"
+msgid "タイタス四世"
+msgstr ""
+
+#. ID 113
+msgctxt "enemies.name"
+msgid "タイタス五世"
+msgstr ""
+
+#. ID 114
+msgctxt "enemies.name"
+msgid "タイタス六世"
+msgstr ""
+
+#. ID 115
+msgctxt "enemies.name"
+msgid "タイタス七世"
+msgstr ""
+
+#. ID 116
+msgctxt "enemies.name"
+msgid "タイタス八世"
+msgstr ""
+
+#. ID 117
+msgctxt "enemies.name"
+msgid "タイタス九世"
+msgstr ""
+
+#. ID 118
+msgctxt "enemies.name"
+msgid " タイタス十世"
+msgstr ""
+
+#. ID 119
+msgctxt "enemies.name"
+msgid "タイタス十世"
+msgstr ""
+
+#. ID 120
+msgctxt "enemies.name"
+msgid "タイタス十一世"
+msgstr ""
+
+#. ID 121
+msgctxt "enemies.name"
+msgid "タイタス十二世"
+msgstr ""
+
+#. ID 122
+msgctxt "enemies.name"
+msgid "タイタス十三世"
+msgstr ""
+
+#. ID 123
+msgctxt "enemies.name"
+msgid "タイタス十四世"
+msgstr ""
+
+#. ID 124
+msgctxt "enemies.name"
+msgid "タイタス十五世"
+msgstr ""
+
+#. ID 125
+msgctxt "enemies.name"
+msgid "タイタス十六世"
+msgstr ""
+
+#. ID 126
+msgctxt "enemies.name"
+msgid "生ける玉座"
+msgstr ""
+
+#. ID 127
+msgctxt "enemies.name"
+msgid "コンコーダンス思考体"
+msgstr ""
+
+#. ID 128
+msgctxt "enemies.name"
+msgid "双極式ハーモニウム"
+msgstr ""
+
+#. ID 129
+msgctxt "enemies.name"
+msgid "回転ソフィア機関"
+msgstr ""
+
+#. ID 130
+#. ID 132
+#. ID 134
+msgctxt "enemies.name"
+msgid "タイタス"
+msgstr ""
+
+#. ID 131
+#. ID 133
+#. ID 135
+msgctxt "enemies.name"
+msgid " タイタス"
+msgstr ""
+
+#. ID 140
+msgctxt "enemies.name"
+msgid "オーバーロード"
+msgstr ""
+
+#. ID 143
+msgctxt "enemies.name"
+msgid "青竜"
+msgstr ""
+
+#. ID 144
+msgctxt "enemies.name"
+msgid "緑竜"
+msgstr ""
+
+#. ID 145
+msgctxt "enemies.name"
+msgid "赤竜"
+msgstr ""
+
+#. ID 146
+msgctxt "enemies.name"
+msgid "白竜"
+msgstr ""
+
+#. ID 147
+msgctxt "enemies.name"
+msgid "黒竜"
+msgstr ""
+
+#. ID 148
+msgctxt "enemies.name"
+msgid "さまよえる大鹿ﾎﾞﾂ"
+msgstr ""
+
+#. ID 149
+msgctxt "enemies.name"
+msgid "鬼士"
+msgstr ""
+
+#. ID 150
+msgctxt "enemies.name"
+msgid "狂い豚"
+msgstr ""
+
+#. ID 151
+msgctxt "enemies.name"
+msgid "修羅丸"
+msgstr ""
+
+#. ID 152
+msgctxt "enemies.name"
+msgid "大猿"
+msgstr ""
+
+#. ID 154
+msgctxt "enemies.name"
+msgid "火車騎士"
+msgstr ""
+
+#. ID 155
+msgctxt "enemies.name"
+msgid "神殿軍騎兵"
+msgstr ""
+
+#. ID 156
+msgctxt "enemies.name"
+msgid "神殿軍武僧"
+msgstr ""
+
+#. ID 157
+msgctxt "enemies.name"
+msgid "シーウァ騎兵"
+msgstr ""
+
+#. ID 158
+msgctxt "enemies.name"
+msgid "シーウァ兵"
+msgstr ""
+
+#. ID 159
+msgctxt "enemies.name"
+msgid "パーシャ"
+msgstr ""
+
+#. ID 160
+msgctxt "enemies.name"
+msgid "バルスムス"
+msgstr ""
+
+#. ID 161
+msgctxt "enemies.name"
+msgid "メロダーク"
+msgstr ""
+
+#. ID 163
+msgctxt "enemies.name"
+msgid "戦将バルスムス"
+msgstr ""
+
+#. ID 164
+msgctxt "enemies.name"
+msgid "鉄騎兵"
+msgstr ""
+
+#. ID 168
+msgctxt "enemies.name"
+msgid "魔将ナムリス"
+msgstr ""
+
+#. ID 169
+msgctxt "enemies.name"
+msgid "魔将ダーマディウス"
+msgstr ""
+
+#. ID 170
+msgctxt "enemies.name"
+msgid "魔将ラァグ"
+msgstr ""
+
+#. ID 171
+msgctxt "enemies.name"
+msgid "魔将ク・ルーム"
+msgstr ""
+
+#. ID 172
+msgctxt "enemies.name"
+msgid "魔将アイビア"
+msgstr ""
+
+#. ID 173
+msgctxt "enemies.name"
+msgid "魔将テオル"
+msgstr ""
+
+#. ID 174
+msgctxt "enemies.name"
+msgid " 魔将ク・ルーム"
+msgstr ""
+
+#. ID 176
+msgctxt "enemies.name"
+msgid "シーフォンLv3"
+msgstr ""
+
+#. ID 177
+msgctxt "enemies.name"
+msgid "シーフォンLv6"
+msgstr ""
+
+#. ID 178
+msgctxt "enemies.name"
+msgid "シーフォンLv12"
+msgstr ""
+
+#. ID 179
+msgctxt "enemies.name"
+msgid "シーフォンLv18"
+msgstr ""
+
+#. ID 180
+msgctxt "enemies.name"
+msgid "シーフォンLv24"
+msgstr ""
+
+#. ID 181
+msgctxt "enemies.name"
+msgid "人工精霊３号"
+msgstr ""
+
+#. ID 182
+msgctxt "enemies.name"
+msgid "人工精霊８号"
+msgstr ""
+
+#. ID 183
+msgctxt "enemies.name"
+msgid "人工精霊18号"
+msgstr ""
+
+#. ID 186
+msgctxt "enemies.name"
+msgid "殺人ウサギ"
+msgstr ""
+
+#. ID 187
+msgctxt "enemies.name"
+msgid "ミ＝ゴ"
+msgstr ""
+
+#. ID 188
+msgctxt "enemies.name"
+msgid "星船"
+msgstr ""
+
+#. ID 189
+msgctxt "enemies.name"
+msgid "ダイモン"
+msgstr ""
+
+#. ID 190
+msgctxt "enemies.name"
+msgid "空飛ぶモンスター"
+msgstr ""
+
+#. ID 191
+msgctxt "enemies.name"
+msgid "ソムニウム"
+msgstr ""
+
+#. ID 192
+msgctxt "enemies.name"
+msgid "星竜"
+msgstr ""
+
+#. ID 193
+msgctxt "enemies.name"
+msgid "＜混沌＞"
+msgstr ""
+
+#. ID 194
+msgctxt "enemies.name"
+msgid "鍵の守護者"
+msgstr ""
+
+#. ID 197
+#. ID 198
+#. ID 199
+#. ID 200
+msgctxt "enemies.name"
+msgid "スナーク"
+msgstr ""
+
+#. ID 201
+msgctxt "enemies.name"
+msgid "ブージャム"
+msgstr ""
+
+#. ID 202
+msgctxt "enemies.name"
+msgid "ミルドラの蛇"
+msgstr ""
+
+#. ID 205
+msgctxt "enemies.name"
+msgid "カムール"
+msgstr ""
+
+#. ID 206
+msgctxt "enemies.name"
+msgid "パリス"
+msgstr ""
+
+#. ID 207
+msgctxt "enemies.name"
+msgid "ウリュウ"
+msgstr ""
+
+#. ID 208
+msgctxt "enemies.name"
+msgid "ギュスタール"
+msgstr ""
+
+#. ID 210
+msgctxt "enemies.name"
+msgid "ＮＩＮＪＡ"
+msgstr ""
+
+#. ID 211
+msgctxt "enemies.name"
+msgid "妖術師"
+msgstr ""
+
+#. ID 213
+msgctxt "enemies.name"
+msgid "MASTER NINJA"
+msgstr ""
+
+#. ID 214
+msgctxt "enemies.name"
+msgid "戦士"
+msgstr ""
+
+#. ID 215
+msgctxt "enemies.name"
+msgid "魔術師"
+msgstr ""
+
+#. ID 216
+msgctxt "enemies.name"
+msgid "盗賊"
+msgstr ""
+
+#. ID 217
+msgctxt "enemies.name"
+msgid "神官"
+msgstr ""
+
+#. ID 218
+msgctxt "enemies.name"
+msgid "射手"
+msgstr ""
+
+#. ID 219
+msgctxt "enemies.name"
+msgid "武僧"
+msgstr ""
+
+#. ID 220
+msgctxt "enemies.name"
+msgid "騎士"
+msgstr ""
+
+#. ID 221
+msgctxt "enemies.name"
+msgid "君主"
+msgstr ""
+
+#. ID 222
+msgctxt "enemies.name"
+msgid "狂戦士"
+msgstr ""
+
+#. ID 223
+msgctxt "enemies.name"
+msgid "魔人"
+msgstr ""
+
+#. ID 224
+msgctxt "enemies.name"
+msgid "野伏"
+msgstr ""
+
+#. ID 225
+msgctxt "enemies.name"
+msgid "異端タイタス派"
+msgstr ""
+
+#. ID 226
+msgctxt "enemies.name"
+msgid "異端ミルドラ派"
+msgstr ""
+
+#. ID 227
+msgctxt "enemies.name"
+msgid "マメルク"
+msgstr ""
+
+#. ID 228
+msgctxt "enemies.name"
+msgid " 処刑機械"
+msgstr ""
+
+#. ID 229
+msgctxt "enemies.name"
+msgid "さまよえる大鹿"
+msgstr ""
+
+#. ID 230
+msgctxt "enemies.name"
+msgid " ルク"
+msgstr ""
+
+#. ID 231
+msgctxt "enemies.name"
+msgid "牛鬼公"
+msgstr ""
+
+#. ID 232
+msgctxt "enemies.name"
+msgid "鬼竜"
+msgstr ""
+
+#. ID 233
+msgctxt "enemies.name"
+msgid " イバの大鹿"
+msgstr ""
+
+#. ID 234
+msgctxt "enemies.name"
+msgid " 処刑機械ボツ"
+msgstr ""
+
+#. ID 235
+msgctxt "enemies.name"
+msgid "シャルクー"
+msgstr ""
+
+#. ID 236
+msgctxt "enemies.name"
+msgid "青銅の女神"
+msgstr ""
+
+#. ID 237
+msgctxt "enemies.name"
+msgid "イグナティウス"
+msgstr ""
+
+#. ID 238
+msgctxt "enemies.name"
+msgid "深淵のもの"
+msgstr ""
+
+#. ID 239
+msgctxt "enemies.name"
+msgid "グラガドリス八十二世"
+msgstr ""
+
+#. ID 240
+#. ID 241
+#. ID 242
+#. ID 243
+msgctxt "enemies.name"
+msgid "真・夜種王"
+msgstr ""
+
+#. ID 245
+msgctxt "enemies.name"
+msgid "＜浄火＞"
+msgstr ""
+
+#. ID 246
+msgctxt "enemies.name"
+msgid "滅びの風の精"
+msgstr ""
+
+#. ID 248
+msgctxt "enemies.name"
+msgid "混沌の狼"
+msgstr ""
+
+#. ID 250
+msgctxt "enemies.name"
+msgid "★★ダミー速度1★★"
+msgstr ""
+
+#. ID 256
+msgctxt "enemies.name"
+msgid "テストマン13"
+msgstr ""
+
+#. ID 257
+msgctxt "enemies.name"
+msgid "テストマン25"
+msgstr ""
+
+#. ID 258
+msgctxt "enemies.name"
+msgid "テストマン30"
+msgstr ""
+
+#. ID 260
+msgctxt "enemies.name"
+msgid "プロト"
+msgstr ""
+
+#. ID 1
+msgctxt "states.name"
+msgid "戦闘不能"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "は倒れた！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "を倒した！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "は立ち上がった！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.name"
+msgid "減衰：毒"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_actor"
+msgid "は毒に冒された！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_enemy"
+msgid "は毒に冒された！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_already"
+msgid "はすでに毒に冒されている！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_affected"
+msgid "は毒に蝕まれている！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_recovery"
+msgid "の毒が消えた！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.name"
+msgid "減衰：炎"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_actor"
+msgid "は火だるまになった！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_enemy"
+msgid "は火だるまになった！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_already"
+msgid "はすでに炎上している！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_affected"
+msgid "は炎上している！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_recovery"
+msgid "の火が消えた！"
+msgstr ""
+
+#. ID 4
+msgctxt "states.name"
+msgid "減衰：血"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_actor"
+msgid "の体から血が吹き出る！"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_enemy"
+msgid "の体から血が吹き出る！"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_already"
+msgid "はすでに出血している！"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_affected"
+msgid "の流血が止まらない！"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_recovery"
+msgid "の出血が止まった！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.name"
+msgid "減衰：猛"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_actor"
+msgid "は猛毒に冒された！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_enemy"
+msgid "は猛毒に冒された！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_already"
+msgid "はすでに猛毒に冒されている！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_affected"
+msgid "は猛毒に蝕まれている！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_recovery"
+msgid "の猛毒が消えた！"
+msgstr ""
+
+#. ID 6
+#. ID 12
+#. ID 14
+#. ID 15
+#. ID 16
+#. ID 25
+#. ID 31
+#. ID 37
+#. ID 38
+#. ID 41
+#. ID 42
+msgctxt "states.name"
+msgid "---"
+msgstr ""
+
+#. ID 7
+msgctxt "states.name"
+msgid "停止：踊"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_actor"
+msgid "は踊り出した！"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_enemy"
+msgid "は踊り出した！"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_already"
+msgid "は踊っている！"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_affected"
+msgid "は踊っている！"
+msgstr ""
+
+#. ID 7
+#. ID 9
+#. ID 10
+#. ID 11
+#. ID 34
+#. ID 39
+msgctxt "states.message_recovery"
+msgid "は動けるようになった！"
+msgstr ""
+
+#. ID 8
+msgctxt "states.name"
+msgid "停止：眠"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_actor"
+msgid "は意識を失った！"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_enemy"
+msgid "の意識を失わせた！"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_already"
+msgid "はすでに意識を失っている！"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_affected"
+msgid "は意識を失っている……。"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_recovery"
+msgid "は目を覚ました！"
+msgstr ""
+
+#. ID 9
+msgctxt "states.name"
+msgid "停止：衝"
+msgstr ""
+
+#. ID 9
+#. ID 34
+msgctxt "states.message_actor"
+msgid "は衝撃を受けた！"
+msgstr ""
+
+#. ID 9
+#. ID 34
+msgctxt "states.message_enemy"
+msgid "は衝撃を受けた！"
+msgstr ""
+
+#. ID 9
+#. ID 10
+#. ID 11
+#. ID 34
+msgctxt "states.message_already"
+msgid "はすでに動けない！"
+msgstr ""
+
+#. ID 9
+#. ID 10
+#. ID 11
+#. ID 34
+msgctxt "states.message_affected"
+msgid "は動けない！"
+msgstr ""
+
+#. ID 10
+msgctxt "states.name"
+msgid "停止：怯"
+msgstr ""
+
+#. ID 10
+msgctxt "states.message_actor"
+msgid "はひるんだ！"
+msgstr ""
+
+#. ID 10
+msgctxt "states.message_enemy"
+msgid "はひるんだ！"
+msgstr ""
+
+#. ID 11
+msgctxt "states.name"
+msgid "停止：縛"
+msgstr ""
+
+#. ID 11
+msgctxt "states.message_actor"
+msgid "は動けなくなった！"
+msgstr ""
+
+#. ID 11
+msgctxt "states.message_enemy"
+msgid "は動けなくなった！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.name"
+msgid "減停：呑"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_actor"
+msgid "は呑み込まれてしまった！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_enemy"
+msgid "は呑み込まれた！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_already"
+msgid "はすでに呑み込まれている！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_affected"
+msgid "は呑み込まれている！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_recovery"
+msgid "は脱出した！"
+msgstr ""
+
+#. ID 17
+msgctxt "states.name"
+msgid "混乱：惑"
+msgstr ""
+
+#. ID 17
+msgctxt "states.message_actor"
+msgid "は混乱した！"
+msgstr ""
+
+#. ID 17
+msgctxt "states.message_enemy"
+msgid "を混乱させた！"
+msgstr ""
+
+#. ID 17
+msgctxt "states.message_already"
+msgid "はすでに混乱している！"
+msgstr ""
+
+#. ID 17
+msgctxt "states.message_affected"
+msgid "は混乱している！"
+msgstr ""
+
+#. ID 17
+#. ID 24
+msgctxt "states.message_recovery"
+msgid "は我に帰った！"
+msgstr ""
+
+#. ID 18
+msgctxt "states.name"
+msgid "混乱：従"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_actor"
+msgid "は敵に支配された！"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_enemy"
+msgid "を支配した！"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_already"
+msgid "はすでに支配下に入っている！"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_affected"
+msgid "は支配されている！"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_recovery"
+msgid "は我に返った！"
+msgstr ""
+
+#. ID 19
+msgctxt "states.name"
+msgid "混乱：調"
+msgstr ""
+
+#. ID 20
+msgctxt "states.name"
+msgid "混乱：威"
+msgstr ""
+
+#. ID 21
+msgctxt "states.name"
+msgid "混乱：死"
+msgstr ""
+
+#. ID 23
+msgctxt "states.name"
+msgid "制限：黙"
+msgstr ""
+
+#. ID 23
+msgctxt "states.message_actor"
+msgid "は術を使えなくなった！"
+msgstr ""
+
+#. ID 23
+msgctxt "states.message_enemy"
+msgid "は術を使えなくなった！"
+msgstr ""
+
+#. ID 23
+msgctxt "states.message_already"
+msgid "は術を使えない！"
+msgstr ""
+
+#. ID 23
+msgctxt "states.message_recovery"
+msgid "は術を使えるようになった！"
+msgstr ""
+
+#. ID 24
+msgctxt "states.name"
+msgid "制限：怒"
+msgstr ""
+
+#. ID 24
+msgctxt "states.message_actor"
+msgid "は怒り狂った！"
+msgstr ""
+
+#. ID 24
+msgctxt "states.message_enemy"
+msgid "は怒り狂った！"
+msgstr ""
+
+#. ID 24
+msgctxt "states.message_already"
+msgid "はすでに怒っている！"
+msgstr ""
+
+#. ID 24
+msgctxt "states.message_affected"
+msgid "は怒り狂っている！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.name"
+msgid "劣化：攻"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_actor"
+msgid "の攻撃力が半減した！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_enemy"
+msgid "の攻撃力が半減した！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_already"
+msgid "の攻撃力はすでに半減している！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_recovery"
+msgid "の攻撃力が元に戻った！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.name"
+msgid "劣化：防"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_actor"
+msgid "の防御力が半減した！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_enemy"
+msgid "の防御力が半減した！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_already"
+msgid "の防御力はすでに半減している！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_affected"
+msgid "の防御力は半減している！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_recovery"
+msgid "の防御力が元に戻った！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.name"
+msgid "劣化：魔"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_actor"
+msgid "の魔力が半減した！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_enemy"
+msgid "の魔力が半減した！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_already"
+msgid "の魔力はすでに半減している！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_recovery"
+msgid "の魔力が元に戻った！"
+msgstr ""
+
+#. ID 29
+msgctxt "states.name"
+msgid "劣化：速"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_actor"
+msgid "の速度が半減した！"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_enemy"
+msgid "の速度が半減した！"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_already"
+msgid "の速度はすでに半減している！"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_recovery"
+msgid "の速度が元に戻った！"
+msgstr ""
+
+#. ID 30
+msgctxt "states.name"
+msgid "劣化：中"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_actor"
+msgid "の命中率が半減した！"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_enemy"
+msgid "の命中率が半減した！"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_already"
+msgid "の命中率はすでに半減している！"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_recovery"
+msgid "の命中率が元に戻った！"
+msgstr ""
+
+#. ID 32
+msgctxt "states.name"
+msgid "↓敵用"
+msgstr ""
+
+#. ID 33
+msgctxt "states.name"
+msgid "減衰；血"
+msgstr ""
+
+#. ID 34
+msgctxt "states.name"
+msgid "停止；衝"
+msgstr ""
+
+#. ID 35
+msgctxt "states.name"
+msgid "劣化；中"
+msgstr ""
+
+#. ID 36
+msgctxt "states.name"
+msgid "劣化；速"
+msgstr ""
+
+#. ID 39
+msgctxt "states.name"
+msgid "封印回廊"
+msgstr ""
+
+#. ID 39
+msgctxt "states.message_actor"
+msgid "は閉じ込められた！"
+msgstr ""
+
+#. ID 39
+msgctxt "states.message_affected"
+msgid "は閉じ込められている！"
+msgstr ""
+
+#. ID 40
+msgctxt "states.name"
+msgid "天球結界"
+msgstr ""
+
+#. ID 40
+msgctxt "states.message_affected"
+msgid "は衰弱してゆく！"
+msgstr ""
+
+msgctxt "terms.encounter"
+msgid "が出現！"
+msgstr ""
+
+msgctxt "terms.special_combat"
+msgid "先制攻撃のチャンス！"
+msgstr ""
+
+msgctxt "terms.escape_success"
+msgid "無事に逃げ出した！"
+msgstr ""
+
+msgctxt "terms.escape_failure"
+msgid "逃げ切れなかった！"
+msgstr ""
+
+msgctxt "terms.victory"
+msgid "戦いに勝った！"
+msgstr ""
+
+msgctxt "terms.defeat"
+msgid "負けてしまった……。"
+msgstr ""
+
+msgctxt "terms.exp_received"
+msgid "の経験値を獲得！"
+msgstr ""
+
+msgctxt "terms.gold_recieved_b"
+msgid "を手に入れた！"
+msgstr ""
+
+msgctxt "terms.item_recieved"
+msgid "を手に入れた！"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid "の攻撃！"
+msgstr ""
+
+msgctxt "terms.enemy_critical"
+msgid "会心の一撃！！"
+msgstr ""
+
+msgctxt "terms.actor_critical"
+msgid "痛恨の一撃！！"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid "は身を守っている！"
+msgstr ""
+
+msgctxt "terms.observing"
+msgid "は様子を見ている……。"
+msgstr ""
+
+msgctxt "terms.focus"
+msgid "は力をためている……。"
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid "は自爆した！"
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid "は逃げてしまった！"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid "は姿を変えた！"
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid "のダメージを与えた！"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid "にダメージを与えられない！"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid "のダメージを受けた！"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid "はダメージを受けていない！"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid "には効かなかった！"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid "は平気だった！"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid "は眠らなかった！"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid "は攻撃をかわした！"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "を使った！"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid "回復した！"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid "上がった！"
+msgstr ""
+
+msgctxt "terms.parameter_decrease"
+msgid "下がった！"
+msgstr ""
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "奪った！"
+msgstr ""
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "奪われた！"
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "に強くなった！"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "に弱くなった！"
+msgstr ""
+
+msgctxt "terms.level_up"
+msgid "になった！"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid "を覚えた！"
+msgstr ""
+
+msgctxt "terms.shop_buy1"
+msgid "購入する"
+msgstr ""
+
+msgctxt "terms.shop_sell1"
+msgid "売却する"
+msgstr ""
+
+msgctxt "terms.shop_leave1"
+msgid "やめる"
+msgstr ""
+
+msgctxt "terms.shop_buy_select1"
+msgid "何を買いますか？"
+msgstr ""
+
+msgctxt "terms.shop_buy_number1"
+msgid "いくつ買いますか？"
+msgstr ""
+
+msgctxt "terms.shop_purchased1"
+msgid "購入しました。"
+msgstr ""
+
+msgctxt "terms.shop_sell_select1"
+msgid "何を売りますか？"
+msgstr ""
+
+msgctxt "terms.shop_sell_number1"
+msgid "いくつ売りますか？"
+msgstr ""
+
+msgctxt "terms.shop_sold1"
+msgid "売却しました。"
+msgstr ""
+
+msgctxt "terms.shop_greeting2"
+msgid "「いらっしゃい！　今日はどんな用だい？」"
+msgstr ""
+
+msgctxt "terms.shop_regreeting2"
+msgid "「ほかにも用があるかい？」"
+msgstr ""
+
+msgctxt "terms.shop_buy2"
+msgid "購入する"
+msgstr ""
+
+msgctxt "terms.shop_sell2"
+msgid "売却する"
+msgstr ""
+
+msgctxt "terms.shop_leave2"
+msgid "やめる"
+msgstr ""
+
+msgctxt "terms.shop_buy_select2"
+msgid "「何を買うんだい？」"
+msgstr ""
+
+msgctxt "terms.shop_buy_number2"
+msgid "「いくつ買うんだい？」"
+msgstr ""
+
+msgctxt "terms.shop_purchased2"
+msgid "「ありがとよっ！」"
+msgstr ""
+
+msgctxt "terms.shop_sell_select2"
+msgid "「何を売るんだい？」"
+msgstr ""
+
+msgctxt "terms.shop_sell_number2"
+msgid "「いくつ売るんだい？」"
+msgstr ""
+
+msgctxt "terms.shop_sold2"
+msgid "「ありがとよっ！」"
+msgstr ""
+
+msgctxt "terms.shop_greeting3"
+msgid "商人「ここでは異国の金も使えるよ」"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "購入する"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "売却する"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "やめる"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "何を買いますか？"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "いくつ買いますか？"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "購入しました。"
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "何を売りますか？"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "いくつ売りますか？"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "売却しました。"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "「宿泊料金は"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_2"
+msgid "になります。"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "　お泊まりになりますか？」"
+msgstr ""
+
+msgctxt "terms.inn_a_accept"
+msgid "泊まる"
+msgstr ""
+
+msgctxt "terms.inn_a_cancel"
+msgid "泊まらない"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "「一泊"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_2"
+msgid "だが"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "　泊まっていくかい？」"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "泊まる"
+msgstr ""
+
+msgctxt "terms.inn_b_cancel"
+msgid "泊まらない"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "所持数"
+msgstr ""
+
+msgctxt "terms.equipped_items"
+msgid "装備数"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "Ｇ"
+msgstr ""
+
+msgctxt "terms.battle_fight"
+msgid "戦う"
+msgstr ""
+
+msgctxt "terms.battle_auto"
+msgid "オート"
+msgstr ""
+
+msgctxt "terms.battle_escape"
+msgid "逃げる"
+msgstr ""
+
+msgctxt "terms.command_attack"
+msgid "攻撃"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "防御"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "アイテム"
+msgstr ""
+
+msgctxt "terms.command_skill"
+msgid "特殊技能"
+msgstr ""
+
+msgctxt "terms.menu_equipment"
+msgid "装備・能力"
+msgstr ""
+
+msgctxt "terms.menu_save"
+msgid "セーブ"
+msgstr ""
+
+msgctxt "terms.menu_quit"
+msgid "タイトルへ"
+msgstr ""
+
+msgctxt "terms.new_game"
+msgid "　開始する　"
+msgstr ""
+
+msgctxt "terms.load_game"
+msgid "　続きから"
+msgstr ""
+
+msgctxt "terms.exit_game"
+msgid "　終了する"
+msgstr ""
+
+msgctxt "terms.level"
+msgid "レベル"
+msgstr ""
+
+msgctxt "terms.health_points"
+msgid "ＨＰ"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "ＭＰ"
+msgstr ""
+
+msgctxt "terms.normal_status"
+msgid "正常"
+msgstr ""
+
+msgctxt "terms.exp_short"
+msgid "Ｅ"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "Ｌ"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "Ｈ"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "Ｍ"
+msgstr ""
+
+msgctxt "terms.sp_cost"
+msgid "消費ＭＰ"
+msgstr ""
+
+msgctxt "terms.attack"
+msgid "攻撃力"
+msgstr ""
+
+msgctxt "terms.defense"
+msgid "防御力"
+msgstr ""
+
+msgctxt "terms.spirit"
+msgid "魔力"
+msgstr ""
+
+msgctxt "terms.agility"
+msgid "速度"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "利き腕"
+msgstr ""
+
+msgctxt "terms.shield"
+msgid "腕"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "胴体"
+msgstr ""
+
+msgctxt "terms.helmet"
+msgid "頭部"
+msgstr ""
+
+msgctxt "terms.accessory"
+msgid "装飾品"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "どのしおりに記録しますか？"
+msgstr ""
+
+msgctxt "terms.load_game_message"
+msgid "どのしおりを読み込みますか？"
+msgstr ""
+
+msgctxt "terms.file"
+msgid "しおり"
+msgstr ""
+
+msgctxt "terms.exit_game_message"
+msgid "終了してよろしいですか？"
+msgstr ""
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr ""
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr ""
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+

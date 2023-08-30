@@ -1,0 +1,905 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (1,1)
+msgid "\\>素材を選んでください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 24, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 1, Page 2, Line 94, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "ポララポ"
+msgstr ""
+
+#. ID 1, Page 1, Line 43, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 9, Page 1, Line 4, Pos (1,3)
+#. ChangeHeroName (Actor 75)
+#. ID 9, Page 1, Line 21, Pos (1,3)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "パン"
+msgstr ""
+
+#. ID 1, Page 1, Line 56, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 1, Page 1, Line 77, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+#. ID 1, Page 2, Line 77, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "プディング"
+msgstr ""
+
+#. ID 1, Page 1, Line 76, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 1, Page 1, Line 127, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "フルーツ"
+msgstr ""
+
+#. ID 1, Page 1, Line 90, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "アップルパイ"
+msgstr ""
+
+#. ID 1, Page 1, Line 109, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 16, Page 1, Line 4, Pos (10,3)
+#. ChangeHeroName (Actor 75)
+#. ID 16, Page 1, Line 21, Pos (10,3)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "チョコレート"
+msgstr ""
+
+#. ID 1, Page 1, Line 110, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "パイ"
+msgstr ""
+
+#. ID 1, Page 1, Line 128, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+#. ID 1, Page 1, Line 367, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "サンド"
+msgstr ""
+
+#. ID 1, Page 1, Line 146, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "焼き魚"
+msgstr ""
+
+#. ID 1, Page 1, Line 159, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "魚のスープ"
+msgstr ""
+
+#. ID 1, Page 1, Line 178, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "魚介鍋"
+msgstr ""
+
+#. ID 1, Page 1, Line 195, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "魚のあんかけ"
+msgstr ""
+
+#. ID 1, Page 1, Line 196, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "煮"
+msgstr ""
+
+#. ID 1, Page 1, Line 214, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "魚のパイ"
+msgstr ""
+
+#. ID 1, Page 1, Line 227, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "魚介のパスタ"
+msgstr ""
+
+#. ID 1, Page 1, Line 246, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "白身魚サンド"
+msgstr ""
+
+#. ID 1, Page 1, Line 264, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "焼肉"
+msgstr ""
+
+#. ID 1, Page 1, Line 277, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "肉団子のシチ"
+msgstr ""
+
+#. ID 1, Page 1, Line 278, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "ュー"
+msgstr ""
+
+#. ID 1, Page 1, Line 298, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "ミートパイ"
+msgstr ""
+
+#. ID 1, Page 1, Line 311, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 1, Page 1, Line 576, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "パスタ"
+msgstr ""
+
+#. ID 1, Page 1, Line 312, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "ミートソ\ース"
+msgstr ""
+
+#. ID 1, Page 1, Line 331, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "スキヤキ"
+msgstr ""
+
+#. ID 1, Page 1, Line 348, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "肉団子の"
+msgstr ""
+
+#. ID 1, Page 1, Line 349, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "あんかけ"
+msgstr ""
+
+#. ID 1, Page 1, Line 366, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "厚切り肉の"
+msgstr ""
+
+#. ID 1, Page 1, Line 385, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "ロースト"
+msgstr ""
+
+#. ID 1, Page 1, Line 386, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "チキン"
+msgstr ""
+
+#. ID 1, Page 1, Line 399, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "鳥のスープ"
+msgstr ""
+
+#. ID 1, Page 1, Line 419, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "鳥鍋"
+msgstr ""
+
+#. ID 1, Page 1, Line 437, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "チキンサンド"
+msgstr ""
+
+#. ID 1, Page 1, Line 456, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "鳥肉のパイ"
+msgstr ""
+
+#. ID 1, Page 1, Line 470, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "鳥肉のパスタ"
+msgstr ""
+
+#. ID 1, Page 1, Line 490, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 1, Page 1, Line 538, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "サラダ"
+msgstr ""
+
+#. ID 1, Page 1, Line 509, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "野菜の炒め物"
+msgstr ""
+
+#. ID 1, Page 1, Line 524, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "野菜スープ"
+msgstr ""
+
+#. ID 1, Page 1, Line 561, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "かぼちゃパイ"
+msgstr ""
+
+#. ID 1, Page 1, Line 575, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "ほうれん草の"
+msgstr ""
+
+#. ID 1, Page 1, Line 595, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "野菜サンド"
+msgstr ""
+
+#. ID 1, Page 1, Line 614, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "目玉焼き"
+msgstr ""
+
+#. ID 1, Page 1, Line 628, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "ゆで卵"
+msgstr ""
+
+#. ID 1, Page 1, Line 649, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "パンケーキ"
+msgstr ""
+
+#. ID 1, Page 1, Line 663, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "カルボナーラ"
+msgstr ""
+
+#. ID 1, Page 1, Line 683, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "エッグサンド"
+msgstr ""
+
+#. ID 1, Page 1, Line 702, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 1, Page 1, Line 737, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 1, Page 1, Line 968, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "ドラゴン"
+msgstr ""
+
+#. ID 1, Page 1, Line 703, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "ステーキ"
+msgstr ""
+
+#. ID 1, Page 1, Line 716, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "激辛ドラ"
+msgstr ""
+
+#. ID 1, Page 1, Line 717, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "ゴンスープ"
+msgstr ""
+
+#. ID 1, Page 1, Line 738, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+#. ID 1, Page 1, Line 826, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "フライ"
+msgstr ""
+
+#. ID 1, Page 1, Line 751, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "激辛ラーメン"
+msgstr ""
+
+#. ID 1, Page 1, Line 771, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "竜鍋"
+msgstr ""
+
+#. ID 1, Page 1, Line 790, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+#. ID 1, Page 1, Line 825, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "レインボー"
+msgstr ""
+
+#. ID 1, Page 1, Line 791, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "焼魚"
+msgstr ""
+
+#. ID 1, Page 1, Line 804, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "虹色スープ"
+msgstr ""
+
+#. ID 1, Page 1, Line 839, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "虹色ラーメン"
+msgstr ""
+
+#. ID 1, Page 1, Line 859, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "黄金鍋"
+msgstr ""
+
+#. ID 1, Page 1, Line 877, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "妖精の"
+msgstr ""
+
+#. ID 1, Page 1, Line 878, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "薄焼菓子"
+msgstr ""
+
+#. ID 1, Page 1, Line 895, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "乾パン"
+msgstr ""
+
+#. ID 1, Page 1, Line 913, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "魚の干物"
+msgstr ""
+
+#. ID 1, Page 1, Line 931, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "干し肉"
+msgstr ""
+
+#. ID 1, Page 1, Line 949, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "塩漬け鳥肉"
+msgstr ""
+
+#. ID 1, Page 1, Line 967, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "塩漬け"
+msgstr ""
+
+#. ID 1, Page 1, Line 985, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "黄金の干物"
+msgstr ""
+
+#. ID 1, Page 1, Line 1003, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "干し果物"
+msgstr ""
+
+#. ID 1, Page 1, Line 1024, Pos (1,1)
+#. ID 1, Page 2, Line 144, Pos (1,1)
+msgid ""
+"\\>\\N[75]\\N[98]＋\\N[76]\\N[99]＝失敗\n"
+"\n"
+"\\>これらの素材は調理できないようだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 1029, Pos (1,1)
+#. ID 1, Page 2, Line 149, Pos (1,1)
+msgid ""
+"\\>\\N[75]\\N[98]＝失敗\n"
+"\n"
+"\\>これらの素材は調理できないようだ。"
+msgstr ""
+
+#. ID 1, Page 1, Line 1036, Pos (1,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 1, Line 1037, Pos (1,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 1, Line 1063, Pos (1,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 1, Line 1064, Pos (1,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 1, Line 1094, Pos (1,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 1, Line 1095, Pos (1,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 1, Line 1096, Pos (1,1)
+#. ChangeHeroName (Actor 77)
+#. ID 1, Page 2, Line 156, Pos (1,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 2, Line 157, Pos (1,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 2, Line 183, Pos (1,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 2, Line 184, Pos (1,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 2, Line 220, Pos (1,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 2, Line 221, Pos (1,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 2, Line 222, Pos (1,1)
+#. ChangeHeroName (Actor 77)
+#. ID 4, Page 1, Line 20, Pos (0,1)
+#. ChangeHeroName (Actor 75)
+#. ID 4, Page 1, Line 21, Pos (0,1)
+#. ChangeHeroName (Actor 76)
+#. ID 4, Page 1, Line 22, Pos (0,1)
+#. ChangeHeroName (Actor 77)
+#. ID 7, Page 1, Line 11, Pos (19,14)
+#. ChangeHeroName (Actor 75)
+#. ID 7, Page 1, Line 12, Pos (19,14)
+#. ChangeHeroName (Actor 76)
+#. ID 7, Page 1, Line 13, Pos (19,14)
+#. ChangeHeroName (Actor 77)
+msgctxt "actors.name"
+msgid "----"
+msgstr ""
+
+#. ID 1, Page 1, Line 1049, Pos (1,1)
+#. ID 1, Page 2, Line 169, Pos (1,1)
+msgid ""
+"\\>\\N[75]\\N[98]と\\N[76]\\N[99]で\n"
+"\\>\\N[78]\\N[79]ができた！\n"
+"\\>しかし、すでに\\V[161]個持っている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 1054, Pos (1,1)
+#. ID 1, Page 2, Line 174, Pos (1,1)
+msgid ""
+"\\>\\N[75]\\N[98]で\n"
+"\\>\\N[78]\\N[79]ができた！\n"
+"\\>しかし、すでに\\V[161]個持っている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 1059, Pos (1,1)
+#. ID 1, Page 2, Line 179, Pos (1,1)
+msgid ""
+"\\>このアイテムは\\V[177]個以上は作り置きできない。\n"
+"\\>別のアイテムを調合しよう。"
+msgstr ""
+
+#. ID 1, Page 1, Line 1078, Pos (1,1)
+#. ID 1, Page 2, Line 204, Pos (1,1)
+msgid ""
+"\\>\\N[75]\\N[98]と\\N[76]\\N[99]で\n"
+"\\>\\N[78]\\N[79]ができた！\n"
+"\n"
+"\\>\\N[78]\\N[79]を手に入れた！"
+msgstr ""
+
+#. ID 1, Page 1, Line 1084, Pos (1,1)
+#. ID 1, Page 2, Line 210, Pos (1,1)
+msgid ""
+"\\>\\N[75]\\N[98]で\n"
+"\\>\\N[78]\\N[79]ができた！\n"
+"\n"
+"\\>\\N[78]\\N[79]を手に入れた！"
+msgstr ""
+
+#. ID 1, Page 2, Line 4, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "殺人パン"
+msgstr ""
+
+#. ID 1, Page 2, Line 22, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "地獄焼き"
+msgstr ""
+
+#. ID 1, Page 2, Line 40, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "暗黒鍋"
+msgstr ""
+
+#. ID 1, Page 2, Line 58, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "バイオケーキ"
+msgstr ""
+
+#. ID 1, Page 2, Line 76, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "ブラック"
+msgstr ""
+
+#. ID 1, Page 2, Line 111, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "マッド"
+msgstr ""
+
+#. ID 1, Page 2, Line 112, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "シチュー"
+msgstr ""
+
+#. ID 1, Page 2, Line 125, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "焦げた石"
+msgstr ""
+
+#. ID 1, Page 3, Line 6, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "マヨケーキ"
+msgstr ""
+
+#. ID 1, Page 3, Line 23, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "魚のマヨ焼き"
+msgstr ""
+
+#. ID 1, Page 3, Line 40, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "鳥のマヨ焼き"
+msgstr ""
+
+#. ID 1, Page 3, Line 58, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "マヨ刺身"
+msgstr ""
+
+#. ID 1, Page 3, Line 75, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "肉のマヨ焼き"
+msgstr ""
+
+#. ID 1, Page 3, Line 92, Pos (1,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "肉のプディン"
+msgstr ""
+
+#. ID 1, Page 3, Line 93, Pos (1,1)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "グ"
+msgstr ""
+
+#. ID 2, Page 1, Line 2, Pos (2,1)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]料理をやめますか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 3, Pos (2,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]はい\n"
+"\\N[27]いいえ"
+msgstr ""
+
+#. ID 4, Page 1, Line 12, Pos (0,1)
+#. Choice (3 options)
+msgid ""
+"\\N[27]調理開始\n"
+"\\N[27]素材をリセット\n"
+"\\N[27]料理をやめる"
+msgstr ""
+
+#. ID 4, Page 1, Line 77, Pos (0,1)
+#. ID 4, Page 1, Line 88, Pos (0,1)
+msgid "\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 6, Pos (19,14)
+#. Choice (3 options)
+msgid ""
+"素材をリセット\n"
+"作成開始\n"
+"作成中止"
+msgstr ""
+
+#. ID 8, Page 1, Line 4, Pos (1,2)
+#. ChangeHeroName (Actor 75)
+#. ID 8, Page 1, Line 21, Pos (1,2)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "小麦粉"
+msgstr ""
+
+#. ID 8, Page 1, Line 5, Pos (1,2)
+#. ID 9, Page 1, Line 5, Pos (1,3)
+#. ID 10, Page 1, Line 5, Pos (1,4)
+#. ID 11, Page 1, Line 5, Pos (1,5)
+#. ID 12, Page 1, Line 5, Pos (1,6)
+#. ID 13, Page 1, Line 5, Pos (1,7)
+#. ID 14, Page 1, Line 5, Pos (1,8)
+#. ID 15, Page 1, Line 5, Pos (10,2)
+#. ID 16, Page 1, Line 5, Pos (10,3)
+#. ID 17, Page 1, Line 5, Pos (10,4)
+#. ID 18, Page 1, Line 5, Pos (10,5)
+#. ID 19, Page 1, Line 5, Pos (10,6)
+#. ID 21, Page 1, Line 6, Pos (10,7)
+msgid ""
+"\\>\\N[75]\\N[98]　　残り所持数\\V[161]個\n"
+"\\>を素材1に選んだ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 14, Pos (1,2)
+#. ID 9, Page 1, Line 14, Pos (1,3)
+#. ID 10, Page 1, Line 14, Pos (1,4)
+#. ID 11, Page 1, Line 14, Pos (1,5)
+#. ID 12, Page 1, Line 14, Pos (1,6)
+#. ID 13, Page 1, Line 14, Pos (1,7)
+#. ID 14, Page 1, Line 14, Pos (1,8)
+#. ID 15, Page 1, Line 14, Pos (10,2)
+#. ID 16, Page 1, Line 14, Pos (10,3)
+#. ID 17, Page 1, Line 14, Pos (10,4)
+#. ID 18, Page 1, Line 14, Pos (10,5)
+#. ID 19, Page 1, Line 14, Pos (10,6)
+#. ID 21, Page 1, Line 15, Pos (10,7)
+msgid "\\>材料が足りない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 22, Pos (1,2)
+#. ID 9, Page 1, Line 22, Pos (1,3)
+#. ID 10, Page 1, Line 22, Pos (1,4)
+#. ID 11, Page 1, Line 22, Pos (1,5)
+#. ID 12, Page 1, Line 22, Pos (1,6)
+#. ID 13, Page 1, Line 22, Pos (1,7)
+#. ID 14, Page 1, Line 22, Pos (1,8)
+#. ID 15, Page 1, Line 22, Pos (10,2)
+#. ID 16, Page 1, Line 22, Pos (10,3)
+#. ID 17, Page 1, Line 22, Pos (10,4)
+#. ID 18, Page 1, Line 22, Pos (10,5)
+#. ID 19, Page 1, Line 22, Pos (10,6)
+#. ID 21, Page 1, Line 24, Pos (10,7)
+msgid ""
+"\\>\\N[76]\\N[99]　　残り所持数\\V[161]個\n"
+"\\>を素材2に選んだ。"
+msgstr ""
+
+#. ID 8, Page 1, Line 26, Pos (1,2)
+#. ID 9, Page 1, Line 26, Pos (1,3)
+#. ID 10, Page 1, Line 26, Pos (1,4)
+#. ID 11, Page 1, Line 26, Pos (1,5)
+#. ID 12, Page 1, Line 26, Pos (1,6)
+#. ID 13, Page 1, Line 26, Pos (1,7)
+#. ID 14, Page 1, Line 26, Pos (1,8)
+#. ID 15, Page 1, Line 26, Pos (10,2)
+#. ID 16, Page 1, Line 26, Pos (10,3)
+#. ID 17, Page 1, Line 26, Pos (10,4)
+#. ID 18, Page 1, Line 26, Pos (10,5)
+#. ID 19, Page 1, Line 26, Pos (10,6)
+#. ID 21, Page 1, Line 28, Pos (10,7)
+msgid "\\>これ以上は素材を使えない。"
+msgstr ""
+
+#. ID 8, Page 1, Line 35, Pos (1,2)
+#. Choice (2 options)
+#. ID 9, Page 1, Line 35, Pos (1,3)
+#. Choice (2 options)
+#. ID 10, Page 1, Line 35, Pos (1,4)
+#. Choice (2 options)
+#. ID 11, Page 1, Line 35, Pos (1,5)
+#. Choice (2 options)
+#. ID 12, Page 1, Line 35, Pos (1,6)
+#. Choice (2 options)
+#. ID 13, Page 1, Line 35, Pos (1,7)
+#. Choice (2 options)
+#. ID 14, Page 1, Line 35, Pos (1,8)
+#. Choice (2 options)
+#. ID 15, Page 1, Line 35, Pos (10,2)
+#. Choice (2 options)
+#. ID 16, Page 1, Line 35, Pos (10,3)
+#. Choice (2 options)
+#. ID 17, Page 1, Line 35, Pos (10,4)
+#. Choice (2 options)
+#. ID 18, Page 1, Line 35, Pos (10,5)
+#. Choice (2 options)
+#. ID 19, Page 1, Line 35, Pos (10,6)
+#. Choice (2 options)
+#. ID 20, Page 1, Line 34, Pos (15,8)
+#. Choice (2 options)
+#. ID 21, Page 1, Line 37, Pos (10,7)
+#. Choice (2 options)
+msgid ""
+"調理開始\n"
+"やめる"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (1,4)
+#. ChangeHeroName (Actor 75)
+#. ID 10, Page 1, Line 21, Pos (1,4)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "魚"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (1,5)
+#. ChangeHeroName (Actor 75)
+#. ID 11, Page 1, Line 21, Pos (1,5)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "生肉"
+msgstr ""
+
+#. ID 12, Page 1, Line 4, Pos (1,6)
+#. ChangeHeroName (Actor 75)
+#. ID 12, Page 1, Line 21, Pos (1,6)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "鳥肉"
+msgstr ""
+
+#. ID 13, Page 1, Line 4, Pos (1,7)
+#. ChangeHeroName (Actor 75)
+#. ID 13, Page 1, Line 21, Pos (1,7)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "野菜"
+msgstr ""
+
+#. ID 14, Page 1, Line 4, Pos (1,8)
+#. ChangeHeroName (Actor 75)
+#. ID 14, Page 1, Line 21, Pos (1,8)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "卵"
+msgstr ""
+
+#. ID 15, Page 1, Line 4, Pos (10,2)
+#. ChangeHeroName (Actor 75)
+#. ID 15, Page 1, Line 21, Pos (10,2)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "果物"
+msgstr ""
+
+#. ID 17, Page 1, Line 4, Pos (10,4)
+#. ChangeHeroName (Actor 75)
+#. ID 17, Page 1, Line 21, Pos (10,4)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "虹色魚"
+msgstr ""
+
+#. ID 18, Page 1, Line 4, Pos (10,5)
+#. ChangeHeroName (Actor 75)
+#. ID 18, Page 1, Line 21, Pos (10,5)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "竜の肉"
+msgstr ""
+
+#. ID 19, Page 1, Line 4, Pos (10,6)
+#. ChangeHeroName (Actor 75)
+#. ID 19, Page 1, Line 21, Pos (10,6)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "べとべと"
+msgstr ""
+
+#. ID 20, Page 1, Line 4, Pos (15,8)
+#. ChangeHeroName (Actor 75)
+#. ID 20, Page 1, Line 21, Pos (15,8)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "マヨネーズ"
+msgstr ""
+
+#. ID 20, Page 1, Line 5, Pos (15,8)
+msgid ""
+"\\N[75]\\N[98]　　残り所持数\\V[161]個\n"
+"を素材1に選んだ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 14, Pos (15,8)
+msgid "材料が足りない。"
+msgstr ""
+
+#. ID 20, Page 1, Line 22, Pos (15,8)
+msgid ""
+"\\N[76]\\N[99]　　残り所持数\\V[161]個\n"
+"を素材2に選んだ。"
+msgstr ""
+
+#. ID 20, Page 1, Line 26, Pos (15,8)
+msgid "これ以上は素材を使えない。"
+msgstr ""
+
+#. ID 21, Page 1, Line 4, Pos (10,7)
+#. ChangeHeroName (Actor 75)
+#. ID 21, Page 1, Line 22, Pos (10,7)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "不思議な"
+msgstr ""
+
+#. ID 21, Page 1, Line 5, Pos (10,7)
+#. ChangeHeroName (Actor 98)
+#. ID 21, Page 1, Line 23, Pos (10,7)
+#. ChangeHeroName (Actor 99)
+msgctxt "actors.name"
+msgid "保存塩"
+msgstr ""
+
+#. ID 113, Page 1, Line 1, Pos (3,1)
+msgid ""
+"\\N[27]※料理は他の調合とは違い、選択した素材の\n"
+"\\N[27]　組み合わせでアイテムを作成します。\n"
+"\\N[27]※素材を1～2個選択してから、調理開始を選ぶか\n"
+"\\N[27]　OKアイコンを押すと料理を作れます。"
+msgstr ""
+
+#. ID 113, Page 1, Line 5, Pos (3,1)
+msgid ""
+"\\N[27]※キャンセルボタンを少し押し続けると\n"
+"\\N[27]　「調理開始」「素材のキャンセル」「料理をやめる」\n"
+"\\N[27]　などのメニューが出ます。"
+msgstr ""
+
+#. ID 113, Page 1, Line 8, Pos (3,1)
+msgid ""
+"\\N[27]※料理に失敗すると、たまに特別な失敗料理が\n"
+"\\N[27]　できることがあります。\n"
+"\\N[27]　失敗料理のできる確率は、キャラによって違います。"
+msgstr ""
+

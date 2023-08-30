@@ -1,0 +1,1734 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 2, Line 160, Pos (0,0)
+msgid ""
+"\\N[27]※在上一周目获得的一部分贵重品和附葬品，\n"
+"\\N[27]　可以在这里重新取得。\n"
+""
+msgstr ""
+
+#. ID 1, Page 2, Line 164, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"收取贵重品\n"
+"不收取"
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (12,2)
+msgid ""
+"\\N[27]――你走下台阶，踏足黑暗当中。\n"
+"\\N[27]这片通道全部由暗色的石材构成，\n"
+"\\N[27]笔触原始的壁画被刻在墙壁上面。"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (12,2)
+msgid ""
+"\\N[27]每当奇异的野兽和鬼面的图画，一个接一个从黑暗中\n"
+"\\N[27]浮现出的时候，你的内心中就会涌起一种莫名的感情。\n"
+"\\N[27]简直就像鬼魅在无意之间潜入了你脑海的深处……"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (12,5)
+msgid ""
+"\\N[27]通道的尽头是一座小型石室，\n"
+"\\N[27]厚重的青石版堵塞着通向内部的道路，\n"
+"\\N[27]青石的表面深邃而通透，一边映射出\n"
+"\\N[27]太古之海的光景，一边如咏唱般振动。"
+msgstr ""
+
+#. ID 4, Page 1, Line 6, Pos (12,5)
+msgid ""
+"\\N[27]在青石所映射的原始深海之底，可以看到\n"
+"\\N[27]属于异形进化系统树内的生物在蠢蠢骚动。\n"
+"\\N[27]这座石门由异次元的物质构成，\n"
+"\\N[27]想用寻常方法打开是不可能的。"
+msgstr ""
+
+#. ID 4, Page 1, Line 14, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]――但是，青金石费阿却振动了起来。\n"
+""
+msgstr ""
+
+#. ID 4, Page 1, Line 16, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"把青金石费阿贴近门扉\n"
+"离开"
+msgstr ""
+
+#. ID 4, Page 1, Line 19, Pos (12,5)
+msgid ""
+"\\N[27]镶嵌在首饰当中的青金石与青石之门\n"
+"\\N[27]共鸣起来，唱出了高亢的歌声。\n"
+"\\N[27]眼看共鸣越演越烈――"
+msgstr ""
+
+#. ID 4, Page 1, Line 26, Pos (12,5)
+msgid "\\N[27]石门就像玻璃一样粉碎四散了……"
+msgstr ""
+
+#. ID 5, Page 1, Line 2, Pos (12,6)
+msgid ""
+"\\N[27]第二座石室的深处，被厚重的绿石版堵塞着。\n"
+"\\N[27]翡翠色的通透石版在其表面映射着原始密林，\n"
+"\\N[27]如歌唱般振动不停。"
+msgstr ""
+
+#. ID 5, Page 1, Line 5, Pos (12,6)
+msgid ""
+"\\N[27]在高耸的原生林那直上云霄的树梢之上，\n"
+"\\N[27]能看到要说是鸟就显得过于原始的生物，\n"
+"\\N[27]还有完全未知的物种，在云端交错飞翔。\n"
+"\\N[27]这道门也无法以寻常方法打开。"
+msgstr ""
+
+#. ID 5, Page 1, Line 13, Pos (12,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]――但是，翡翠石席尔巴却振动了起来。"
+msgstr ""
+
+#. ID 5, Page 1, Line 14, Pos (12,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"将翡翠石席尔巴贴近门扉\n"
+"离开"
+msgstr ""
+
+#. ID 5, Page 1, Line 17, Pos (12,6)
+msgid ""
+"\\N[27]镶嵌在头饰当中的翡翠石与绿石之门\n"
+"\\N[27]共鸣起来，唱出了高亢的歌声。\n"
+"\\N[27]眼看共鸣越演越烈――"
+msgstr ""
+
+#. ID 5, Page 1, Line 24, Pos (12,6)
+msgid "\\N[27]石门就化作成千上万的碎片破裂开来。"
+msgstr ""
+
+#. ID 6, Page 1, Line 2, Pos (12,7)
+msgid ""
+"\\N[27]第三座石室当中，有一扇赤石之门。\n"
+"\\N[27]在鲜红而通透的赤石当中，能够看到\n"
+"\\N[27]在漆黑的夜空中熊熊燃烧的恒星之姿。"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (12,7)
+msgid ""
+"\\N[27]日珥如火龙般腾跃而起，描绘着赤红的光环。\n"
+"\\N[27]在白炽的金属之海当中，没有肉身的物种们\n"
+"\\N[27]正与星辰万象共歌而游。\n"
+"\\N[27]这扇门也由异世界的物质构成。"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (12,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]――柘榴石尼鲁萨振动了起来。\n"
+""
+msgstr ""
+
+#. ID 6, Page 1, Line 15, Pos (12,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"将柘榴石尼鲁萨贴近门扉\n"
+"离开"
+msgstr ""
+
+#. ID 6, Page 1, Line 18, Pos (12,7)
+msgid ""
+"\\N[27]镶嵌在戒指当中的柘榴石与赤石之门\n"
+"\\N[27]共鸣起来，唱出了高亢的歌声。\n"
+"\\N[27]眼看共鸣越演越烈――"
+msgstr ""
+
+#. ID 6, Page 1, Line 25, Pos (12,7)
+msgid "\\N[27]石门就像玻璃一般破裂四散了……"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (12,8)
+msgid ""
+"\\N[27]第四扇门由金石打造而成。\n"
+"\\N[27]金石当中封印着从高处俯望的，\n"
+"\\N[27]没有丝毫生命气息的荒野光景。\n"
+"\\N[27]只有覆于大地的砂石涌动如浪。"
+msgstr ""
+
+#. ID 7, Page 1, Line 6, Pos (12,8)
+msgid ""
+"\\N[27]本应是长达数亿年时间的地壳运动过程，\n"
+"\\N[27]如今却被凝缩为在眼前反复展现的刹那。\n"
+"\\N[27]地层歪斜，高耸而起，形成高山之后又\n"
+"\\N[27]被渐渐侵蚀成谷，如此过程反复持续着。"
+msgstr ""
+
+#. ID 7, Page 1, Line 14, Pos (12,8)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]――琥珀石艾尔雅振动了起来。"
+msgstr ""
+
+#. ID 7, Page 1, Line 15, Pos (12,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"将琥珀石艾尔贴近门扉\n"
+"离开"
+msgstr ""
+
+#. ID 7, Page 1, Line 18, Pos (12,8)
+msgid ""
+"\\N[27]镶嵌在手镯当中的琥珀石与金石之门\n"
+"\\N[27]共鸣起来，唱起了高亢的歌声。\n"
+"\\N[27]眼看共鸣越演越烈――"
+msgstr ""
+
+#. ID 7, Page 1, Line 25, Pos (12,8)
+msgid "\\N[27]石门化作成千上万的碎片破裂开来。"
+msgstr ""
+
+#. ID 7, Page 1, Line 30, Pos (12,8)
+msgid ""
+"\\N[27]畅通的前路漂出了干涸的恶臭。\n"
+"\\N[27]那便是死灰之味。\n"
+""
+msgstr ""
+
+#. ID 7, Page 1, Line 33, Pos (12,8)
+msgid ""
+"\\N[27]在重现于世的陵墓深处――\n"
+"\\N[27]收纳棺材的墓室之底，螺旋迷宫的尽头――\n"
+"\\N[27]那些侍于死去皇帝的守墓者们重新觉醒了……"
+msgstr ""
+
+#. ID 7, Page 1, Line 36, Pos (12,8)
+msgid ""
+"\\N[27]与其他场所有别，这个遗迹中，\n"
+"\\N[27]仅仅是出入房间就会遭遇敌人。\n"
+"\\N[27]必须慎重地前进。"
+msgstr ""
+
+#. ID 9, Page 1, Line 2, Pos (12,10)
+msgid "\\N[27]先把镇里的事情处理完，再继续前行吧。"
+msgstr ""
+
+#. ID 15, Page 1, Line 10, Pos (14,7)
+msgid ""
+"\\N[27]通往墓室深处的道路渐渐变为了旋涡状的迷宫，\n"
+"\\N[27]沿狭窄的阶梯行上行下之际，你渐渐迷失方向，\n"
+"\\N[27]心中的不安感也越发剧烈……"
+msgstr ""
+
+#. ID 15, Page 1, Line 13, Pos (14,7)
+msgid ""
+"\\N[27]……是在中途选错了路吗，\n"
+"\\N[27]你走进了一条死胡同。\n"
+"\\N[27]不过，行止之处的墙壁上\n"
+"\\N[27]刻有挠痕般的古代语文章。"
+msgstr ""
+
+#. ID 15, Page 1, Line 18, Pos (14,7)
+#. Choice (2 options)
+#. ID 28, Page 1, Line 17, Pos (14,17)
+#. Choice (2 options)
+msgid ""
+"解读\n"
+"离开"
+msgstr ""
+
+#. ID 15, Page 1, Line 22, Pos (14,7)
+#. ID 28, Page 1, Line 21, Pos (14,17)
+msgid "\\N[27]文章的内容如下。"
+msgstr ""
+
+#. ID 15, Page 1, Line 23, Pos (14,7)
+msgid ""
+"\\N[27]『  历代皇帝仅是在棺中长眠\n"
+"\\N[27]　  已不允许与生者再有关联\n"
+"\\N[27]　  仅仅是与财宝静静共眠着  』"
+msgstr ""
+
+#. ID 15, Page 1, Line 26, Pos (14,7)
+msgid ""
+"\\N[27]『  鲜有幸运儿能找出财宝\n"
+"\\N[27]　  而直到始皇帝自身毁灭\n"
+"\\N[27]　  众皇才会迎来真正死期  』"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (15,15)
+msgid ""
+"\\N[27]一扇石门挡住了去路。\n"
+"\\N[27]虽然有类似锁孔之处，但开锁看似十分困难。"
+msgstr ""
+
+#. ID 26, Page 1, Line 2, Pos (12,16)
+#. ID 26, Page 3, Line 7, Pos (12,16)
+msgid ""
+"\\N[27]你一边沿阶梯降下，一边在长长的螺旋通道中前行。\n"
+"\\N[27]随着你越降越深，天花板也越来越高，简直就像是\n"
+"\\N[27]在大地的缝隙之底漫步一样。\n"
+"\\N[27]终于，你走尽了道路，抵达了一座列柱环绕的大厅。"
+msgstr ""
+
+#. ID 26, Page 1, Line 6, Pos (12,16)
+#. ID 26, Page 3, Line 11, Pos (12,16)
+msgid ""
+"\\N[27]天花板遥遥高耸着，消失在上空的黑暗中。\n"
+"\n"
+"\\N[27]大厅北侧有座异常高大的门扉，\n"
+"\\N[27]上面装饰着八瓣之花的纹章。"
+msgstr ""
+
+#. ID 26, Page 1, Line 10, Pos (12,16)
+msgid ""
+"\\N[27]――这扇门的对面，有着比迄今为止 \n"
+"\\N[27]遭遇过的任何事物都更加强大的存在。\n"
+"\n"
+"\\N[27]做好准备了吗？"
+msgstr ""
+
+#. ID 26, Page 1, Line 15, Pos (12,16)
+#. Choice (2 options)
+msgid ""
+"开门\n"
+"返回"
+msgstr ""
+
+#. ID 26, Page 1, Line 29, Pos (12,16)
+#. ID 26, Page 3, Line 20, Pos (12,16)
+msgid ""
+"\\N[27]门的对面，是一片广阔的立方体空间。\n"
+"\\N[27]墙壁是完全的平面，上面饰有几何花纹。\n"
+"\\N[27]地板上则置有棱框，里面摆放的盆景\n"
+"\\N[27]构成了迷你版的世界地图。"
+msgstr ""
+
+#. ID 26, Page 1, Line 33, Pos (12,16)
+msgid ""
+"\\N[27]这一切一切都过于精致，以至反令人心生恐惧。\n"
+"\\N[27]玛瑙制成的山脉、流动着水晶的川海、\n"
+"\\N[27]银织细制的森林、金雕细凿的都市等。\n"
+"\\N[27]如此附葬品，只为压倒性的权势而做。"
+msgstr ""
+
+#. ID 26, Page 1, Line 37, Pos (12,16)
+msgid ""
+"\\N[27]空间的中心，是放置墓室主人棺材之处。\n"
+"\\N[27]棺材以石而制，用金银珠宝装饰点缀着。\n"
+"\n"
+"\\N[27]你接近棺材，将手放上了棺盖。"
+msgstr ""
+
+#. ID 26, Page 1, Line 41, Pos (12,16)
+msgid ""
+"\\N[27]――但是，棺中却空空如也。\n"
+"\\N[27]只在一隅残留着些微的尘土。"
+msgstr ""
+
+#. ID 26, Page 1, Line 48, Pos (12,16)
+msgid "\\N[27]　　　　　『――苏醒之刻，已至――』"
+msgstr ""
+
+#. ID 26, Page 1, Line 50, Pos (12,16)
+msgid ""
+"\\N[27]什么人的声音响起。\n"
+"\\N[27]你回过神来，发现墓室的四角涌出了团团黑暗。\n"
+""
+msgstr ""
+
+#. ID 26, Page 1, Line 55, Pos (12,16)
+msgid ""
+"\\N[27]『　  试炼不只一回，候补亦不止一人。\n"
+"\\N[27]　　  然而，能抵达此地者却独汝一人。\n"
+"\\N[27]　　  便向汝致以祝贺吧，余之爱子哟。　　』"
+msgstr ""
+
+#. ID 26, Page 1, Line 58, Pos (12,16)
+msgid ""
+"\\N[27]『　　　　汝之苦难、汝之牺牲，\n"
+"\\N[27]　　    皆为余选别肉体之仪式尔。\n"
+"\\N[27]\n"
+"\\N[27]　　　余名为迪多斯，乃统治世界之人。　　　』"
+msgstr ""
+
+#. ID 26, Page 1, Line 62, Pos (12,16)
+msgid ""
+"\\N[27]『   余将复苏，再次阔步于大地之上，\n"
+"\\N[27]　   余将行善，亦将行恶，余欲毁灭旧世界与诸神。\n"
+"\\N[27]　   余必会作为王者凯旋，成就再建帝都之预言。 』"
+msgstr ""
+
+#. ID 26, Page 1, Line 65, Pos (12,16)
+msgid ""
+"\n"
+"\\N[27]『 ――接受余吧，余许汝以力量与荣光！ 』"
+msgstr ""
+
+#. ID 26, Page 1, Line 69, Pos (12,16)
+#. Choice (3 options)
+msgid ""
+"拒绝\n"
+"直接开战\n"
+"接受黑暗"
+msgstr ""
+
+#. ID 26, Page 1, Line 71, Pos (12,16)
+msgid ""
+"\\N[27]绝对不能让他实现自己的野心。\n"
+"\\N[27]你断然拒绝了。"
+msgstr ""
+
+#. ID 26, Page 1, Line 76, Pos (12,16)
+msgid ""
+"\\N[27]『　　　　　　　　　愚不可及。\n"
+"\\N[27]　　　　　     帝国既已在地上复活。　　　　』"
+msgstr ""
+
+#. ID 26, Page 1, Line 78, Pos (12,16)
+msgid ""
+"\\N[27]『　 余帝国之记忆，便是经汝等之手运于地上。\n"
+"\\N[27]　　　　 发掘遗物，将其暴露于光天化日之下。\n"
+"\\N[27]　   令弑神的思想复古，令统一之梦被人忆起  』"
+msgstr ""
+
+#. ID 26, Page 1, Line 81, Pos (12,16)
+msgid ""
+"\\N[27]『   国度并非有形之物，而是建自民之认知。\n"
+"\\N[27]　　　　  当地上之民追忆起古帝之梦，\n"
+"\\N[27]　　　     余之帝国便已在地上苏醒！ 　　　 』"
+msgstr ""
+
+#. ID 26, Page 1, Line 93, Pos (12,16)
+msgid ""
+"\\N[27]『　　　　　　　　 如此便好。\n"
+"\\N[27]　　　　　　　　 将一切委任于吾，\n"
+"\\N[27]　　　　　　　 世界便是汝囊中之物……　　　　 』"
+msgstr ""
+
+#. ID 26, Page 1, Line 101, Pos (12,16)
+msgid ""
+"\\N[27]你听到了同伴们阻止自己的呼喊声。\n"
+"\n"
+"\\N[27]但是连那声音，也渐渐消失在深远的黑暗中……"
+msgstr ""
+
+#. ID 26, Page 1, Line 106, Pos (12,16)
+msgid "\\N[27]一切尽被黑暗吞没……"
+msgstr ""
+
+#. ID 26, Page 1, Line 114, Pos (12,16)
+msgid ""
+"\\N[27]不知何时，黑暗已经逼近眼前，\n"
+"\\N[27]将周围堵了个风水不泄。\n"
+""
+msgstr ""
+
+#. ID 26, Page 1, Line 119, Pos (12,16)
+msgid ""
+"\\N[27]『　　　　谷物结实便难逃被摘取之命运，\n"
+"\\N[27]　　　　　　抗拒收获之麦穗永不存在。\n"
+"\\N[27]　　　　    逃避宿命，亦是绝无可能。　　　』"
+msgstr ""
+
+#. ID 26, Page 1, Line 153, Pos (12,16)
+msgid ""
+"\\N[27]　　　　　　　　 将一切委任于吾，\n"
+"\\N[27]　　　　　　　 世界便是汝囊中之物……　　　　 』"
+msgstr ""
+
+#. ID 26, Page 1, Line 168, Pos (12,16)
+msgid ""
+"\n"
+"\\N[27]『　　　 竟能从余手中溜走，着实令人赞叹。\n"
+"\\N[27]　　　　 汝便比余自身，更接近于余之核心！　　　　 』"
+msgstr ""
+
+#. ID 26, Page 1, Line 171, Pos (12,16)
+msgid ""
+"\\N[27]『　　　　　　既是如此，余便无须焦急。\n"
+"\\N[27]　　　　      余便在旁守望汝之一生吧。　　　』\n"
+""
+msgstr ""
+
+#. ID 26, Page 1, Line 174, Pos (12,16)
+msgid ""
+"\\N[27]『　　汝便继续遵从本心，纵容欲望而生吧。\n"
+"\n"
+"\\N[27]　    务要忘记，余将时刻伴随于汝之左右…… 』"
+msgstr ""
+
+#. ID 26, Page 1, Line 179, Pos (12,16)
+msgid ""
+"\\N[27]于是皇帝的身影消失了。\n"
+"\\N[27]但是，周围的黑暗却越发浓郁。\n"
+""
+msgstr ""
+
+#. ID 26, Page 1, Line 182, Pos (12,16)
+msgid ""
+"\\N[27]你从墓室中走出，带着对自己心中\n"
+"\\N[27]觉醒的，某种落叶生根之物的疑惑，\n"
+"\\N[27]开始返回地面……"
+msgstr ""
+
+#. ID 26, Page 1, Line 189, Pos (12,16)
+msgid ""
+"\\N[27]『　　　 竟能从余手中溜走，着实令人赞叹。\n"
+"\\N[27]　　　　　　　　　　然而――　　　　　　　　　』\n"
+""
+msgstr ""
+
+#. ID 26, Page 1, Line 194, Pos (12,16)
+msgid ""
+"\\N[27]『　　　　　无稽之事竟真的发生了。\n"
+"\\N[27]　　　　 能从余手中溜走，着实令人赞叹。\n"
+"\\N[27]　　　　　　　　　　然而――　　　　　　　　　』"
+msgstr ""
+
+#. ID 26, Page 1, Line 203, Pos (12,16)
+msgid ""
+"\\N[27]『　　　  余从被设好的命运中逃离了吗……\n"
+"\\N[27]　　　　　　　　　　但是――　　　　　　　　』"
+msgstr ""
+
+#. ID 26, Page 1, Line 207, Pos (12,16)
+msgid ""
+"\\N[27]『　　     余准备的手段亦不止这一种。\n"
+"\\N[27]　　　　　　　汝便前来荣光之都吧。\n"
+"\\N[27]　　   余将不再为影，而是以实体令汝折服。　　 』\n"
+"　 "
+msgstr ""
+
+#. ID 26, Page 1, Line 212, Pos (12,16)
+msgid ""
+"\\N[27]你感到黑暗渐渐远去。\n"
+"\n"
+"\\N[27]远去到……地面之上。"
+msgstr ""
+
+#. ID 26, Page 1, Line 218, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「喂，请等一下……\n"
+"\\N[27]　等一等啊！」"
+msgstr ""
+
+#. ID 26, Page 1, Line 222, Pos (12,16)
+msgid "\\N[27]但突然间，\\N[9]呼唤了那黑暗。"
+msgstr ""
+
+#. ID 26, Page 1, Line 224, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「请给我力量吧。\n"
+"\\N[27]　请把你的知识，传授给我吧！」"
+msgstr ""
+
+#. ID 26, Page 1, Line 227, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「作为代价我愿做你的手足，\n"
+"\\N[27]　请把我一起带走吧。\n"
+"\\N[27]　既然\\N[\\V[2]]不行就用我吧！」"
+msgstr ""
+
+#. ID 26, Page 1, Line 232, Pos (12,16)
+msgid "\\N[27]黑暗笑了。"
+msgstr ""
+
+#. ID 26, Page 1, Line 235, Pos (12,16)
+msgid ""
+"\\N[27]『　　　　　　 汝对力量的那份渴望。\n"
+"\\N[27]　　　       与余年少无知之时甚为相似。\n"
+"\\N[27]　　　       那便跟来吧。余便赐汝力量。　　』"
+msgstr ""
+
+#. ID 26, Page 1, Line 240, Pos (12,16)
+#. Choice (2 options)
+msgid ""
+"制止\\N[9]\n"
+"默默旁观"
+msgstr ""
+
+#. ID 26, Page 1, Line 242, Pos (12,16)
+msgid ""
+"\\N[27]你抓住了想要走向黑暗的\\N[9]的手腕。\n"
+""
+msgstr ""
+
+#. ID 26, Page 1, Line 246, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「……放手啊」"
+msgstr ""
+
+#. ID 26, Page 1, Line 248, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「搞什么啊，混球。\n"
+"\\N[27]　你到底想搞什么啊！」"
+msgstr ""
+
+#. ID 26, Page 1, Line 254, Pos (12,16)
+msgid "\\N[27]『　　　　 ……心怀迷茫之辈对余无用。　　　　 』"
+msgstr ""
+
+#. ID 26, Page 1, Line 256, Pos (12,16)
+msgid "在沉默之中，黑暗的气息消散而去。"
+msgstr ""
+
+#. ID 26, Page 1, Line 258, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「喂、等等、请等等啊……」"
+msgstr ""
+
+#. ID 26, Page 1, Line 260, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「混账！　给我放手！\n"
+"\\N[27]　……我明明只为获得力量，\n"
+"\\N[27]　才走到这一步的……混账……」"
+msgstr ""
+
+#. ID 26, Page 1, Line 265, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]把你的手挥开后，\n"
+"\\N[27]就无力地跪倒在地面上……"
+msgstr ""
+
+#. ID 26, Page 1, Line 270, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「别碰我，放手！」"
+msgstr ""
+
+#. ID 26, Page 1, Line 273, Pos (12,16)
+msgid ""
+"\\N[27]\\N[9]把你的手挥开之后，\n"
+"\\N[27]就猛地冲了出去。"
+msgstr ""
+
+#. ID 26, Page 1, Line 281, Pos (12,16)
+msgid ""
+"\\N[27]突然间黑影席卷而起，遮蔽了\\N[9]的身姿。\n"
+"\\N[27]当黑暗消散之后，\\N[9]的身影也一同消失……"
+msgstr ""
+
+#. ID 26, Page 1, Line 293, Pos (12,16)
+msgid ""
+"\\N[27]获得了始皇帝战衣！\n"
+"\\N[27]获得了熟练之证！"
+msgstr ""
+
+#. ID 26, Page 1, Line 301, Pos (12,16)
+msgid ""
+"\\N[27]5日以内通过了关键地点！\n"
+"\\N[27]获得8点奖励SP！"
+msgstr ""
+
+#. ID 26, Page 1, Line 306, Pos (12,16)
+msgid ""
+"\\N[27]通过了关键地点！\n"
+"\\N[27]获得5点SP！"
+msgstr ""
+
+#. ID 26, Page 1, Line 338, Pos (12,16)
+msgid ""
+"\\S[4]涅斯公国与席瓦尔、神殿军交战之际，\n"
+"　　 有一个活跃的新势力登上了历史舞台。\n"
+"　　　　　  尽管其摩下势单力薄，\n"
+"　   却又能巧妙介入战争，不断扩张领土。"
+msgstr ""
+
+#. ID 26, Page 1, Line 342, Pos (12,16)
+msgid ""
+"　\\S[4]在战乱越演越烈，连异教徒也爆发了侵略的乱世中，\n"
+"　     他们高唱着古帝国的再兴，聚集起多数人众的支持。\n"
+"　　　 他们的指导者名为\\N[\\V[2]]。\n"
+"　　　 是不久之后，将被人们称呼为霸王的人物。"
+msgstr ""
+
+#. ID 26, Page 1, Line 347, Pos (12,16)
+msgid ""
+"　　　　　　　　　Ｒ ｕ ｉ ｎ ａ\n"
+"　　　　　　　　　　 废都物语\n"
+"\n"
+"　　　　　　　　　　～Ｆｉｎ～　　　　　　\\|　　"
+msgstr ""
+
+#. ID 26, Page 1, Line 361, Pos (12,16)
+#. Choice (2 options)
+msgid ""
+"观看提示\n"
+"返回标题画面"
+msgstr ""
+
+#. ID 26, Page 1, Line 367, Pos (12,16)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「安咧安咧。\n"
+"\\N[27]　冒昧问候一声日安。\n"
+"\\N[27]　我是商人皮特」"
+msgstr ""
+
+#. ID 26, Page 1, Line 371, Pos (12,16)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「好像把四块石头丢到什么地方就行了哦。\n"
+"\\N[27]　稍微回头四处调查一下呗」"
+msgstr ""
+
+#. ID 26, Page 1, Line 374, Pos (12,16)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「马上就能通关啦。\n"
+"\\N[27]　请再加把劲吧！」"
+msgstr ""
+
+#. ID 26, Page 2, Line 5, Pos (12,16)
+msgid ""
+"長い渦巻状の通路を、階段を降りながら進んだ。\n"
+"下るごとに天井は高くなり、大地の切れ目の底を\n"
+"歩いているかのようだ。\n"
+"そして歩き続けた果てに、列柱の広間に辿り着いた。"
+msgstr ""
+
+#. ID 26, Page 2, Line 9, Pos (12,16)
+msgid ""
+"天井ははるかに高く、闇の中にあって見えない。\n"
+"\n"
+"広間の北側には、八葉の花弁の紋章で飾られた、\n"
+"異様に背の高い大門があった。"
+msgstr ""
+
+#. ID 26, Page 2, Line 13, Pos (12,16)
+msgid ""
+"――この門の向こう側には、これまで遭遇した\n"
+"いかなる者よりも強力な存在がいる。\n"
+"\n"
+"準備はできているだろうか？"
+msgstr ""
+
+#. ID 26, Page 2, Line 17, Pos (12,16)
+#. Choice (2 options)
+msgid ""
+"門を開いて進む\n"
+"引き返す"
+msgstr ""
+
+#. ID 26, Page 2, Line 30, Pos (12,16)
+msgid ""
+"門の向こうには、広大な立方体の空間が広がっていた。\n"
+"四辺の壁は完全な平面で、幾何学紋様で飾られている。\n"
+"そして床に置かれた枠の内側には箱庭があり、\n"
+"ミニチュアの世界地図が作られていた。"
+msgstr ""
+
+#. ID 26, Page 2, Line 34, Pos (12,16)
+msgid ""
+"すべてが、空恐ろしいほど精緻に作られていた。\n"
+"瑪瑙で作られた山脈。水晶の流れる川と海。\n"
+"銀細工の森。金細工で作られた都市。\n"
+"圧倒的な権力が、この副葬品を作らせたのだ。"
+msgstr ""
+
+#. ID 26, Page 2, Line 38, Pos (12,16)
+msgid ""
+"部屋の中心には、墓所の主の棺があった。\n"
+"石で作られ、金と宝玉で飾られている。\n"
+"\n"
+"近づき、蓋に手をかけた。"
+msgstr ""
+
+#. ID 26, Page 2, Line 42, Pos (12,16)
+msgid ""
+"――だが、棺の中は空っぽだった。\n"
+"わずかな塵が隅に残っているのみ。"
+msgstr ""
+
+#. ID 26, Page 2, Line 48, Pos (12,16)
+#. Choice (2 options)
+msgid ""
+"偮偯偒\n"
+"愭偵僕儍儞僾"
+msgstr ""
+
+#. ID 26, Page 2, Line 59, Pos (12,16)
+msgid "　　　　　『――蘇りの時、来たれり――』"
+msgstr ""
+
+#. ID 26, Page 2, Line 61, Pos (12,16)
+msgid ""
+"何者かの声がした。\n"
+"気が付くと、玄室の四つの角に暗闇が湧き出している。"
+msgstr ""
+
+#. ID 26, Page 2, Line 65, Pos (12,16)
+msgid ""
+"『試みは一度ではなく、候補者も一人ではなかった。\n"
+"　　　　だが、ここまで来たのはそなたのみ。\n"
+"　　　　　余はそなたを言祝ぐ、愛し子よ。　　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 68, Pos (12,16)
+msgid ""
+"『　　　　そなたの苦難、犠牲のすべては、\n"
+"　　　 我が後継者を選ぶための儀式であった。\n"
+"\n"
+"　　　　我が名はタイタス。世界を統べる者。　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 72, Pos (12,16)
+msgid ""
+"『　余は再び大地を闊歩し、善と悪とを為すだろう。\n"
+"　　　　 そして旧世界と神々を滅ぼすだろう。\n"
+"　かくして王は帰還し、帝都再建の予言は成就する。\n"
+"　　 余を受け入れよ。力と栄光とを約束しよう。　 』"
+msgstr ""
+
+#. ID 26, Page 2, Line 77, Pos (12,16)
+#. Choice (4 options)
+msgid ""
+"「そんな真似はさせない」\n"
+"「なぜそんな事をする？」\n"
+"　戦いを挑む\n"
+"　闇を受け入れる"
+msgstr ""
+
+#. ID 26, Page 2, Line 83, Pos (12,16)
+msgid ""
+"『　　愚かなり。既に帝国は地上に復活している。\n"
+"　　 そなたらは地上に、我が帝国の記憶を運\んだ。\n"
+"　　　　　 遺物を発掘し、日の下に晒した。\n"
+"　神殺しの思想を復古させ、統一の夢を思い出させた』"
+msgstr ""
+
+#. ID 26, Page 2, Line 87, Pos (12,16)
+msgid ""
+"『国は形あるものに非ず。民の認識の中に建てられる。\n"
+"　 地上の民が、古き帝国を夢見た時、そこに帝都は\n"
+"　　　　　　　　　蘇っている！　　　　　　　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 94, Pos (12,16)
+#. Choice (3 options)
+msgid ""
+"「なぜそんな事をする？」\n"
+"　戦いを挑む\n"
+"　闇を受け入れる"
+msgstr ""
+
+#. ID 26, Page 2, Line 112, Pos (12,16)
+msgid "『　　　　 何故？　余に、何故かと問うか。　　　 』"
+msgstr ""
+
+#. ID 26, Page 2, Line 113, Pos (12,16)
+msgid ""
+"『　塔を築いては崩し、平和のために野と邑を焼き、\n"
+"　 幸いを求めて破滅し、善きことのために悪を為す。\n"
+"　　　　　　　　　それが、余だ。\n"
+"　　それが、黒\き神に創られた我ら人族のさだめだ。』"
+msgstr ""
+
+#. ID 26, Page 2, Line 121, Pos (12,16)
+#. Choice (3 options)
+msgid ""
+"「そんな真似はさせない」\n"
+"　戦いを挑む\n"
+"　闇を受け入れる"
+msgstr ""
+
+#. ID 26, Page 2, Line 141, Pos (12,16)
+msgid ""
+"『　　　　　　　　 それで良い。\n"
+"　　　　　　　　 すべてをゆだねよ。\n"
+"　　　　　　　 世界はお前のもの……。　　　　　 』"
+msgstr ""
+
+#. ID 26, Page 2, Line 149, Pos (12,16)
+msgid ""
+"あなたを止めようとする仲間たちの声が聞こえる。\n"
+"\n"
+"だがそれも、遠い闇の中に消えてゆく。"
+msgstr ""
+
+#. ID 26, Page 2, Line 154, Pos (12,16)
+msgid "すべてが闇に消えてゆく……。"
+msgstr ""
+
+#. ID 26, Page 2, Line 163, Pos (12,16)
+msgid ""
+"いつの間にか、闇がすぐ近くまで迫り\n"
+"周囲を取り囲んでいる。"
+msgstr ""
+
+#. ID 26, Page 2, Line 167, Pos (12,16)
+msgid ""
+"『　　　　実る葡萄は摘み取られるが運\命。\n"
+"　　　　　　 収穫を拒む麦は存在せぬ。\n"
+"　　　　さだめから逃れることは、できぬぞ。　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 220, Pos (12,16)
+msgid ""
+"『　　　　　　　 すべてをゆだねよ。\n"
+"　　　　　　　 世界はお前のもの……。　　　　　 』"
+msgstr ""
+
+#. ID 26, Page 2, Line 234, Pos (12,16)
+msgid ""
+"『　　　 我が手をすり抜けるとは見事なり。\n"
+"　　　　　　　 なんと愉快なことよ。\n"
+"　　　　　 そなたは余よりも、余に近い！　　　　 』"
+msgstr ""
+
+#. ID 26, Page 2, Line 237, Pos (12,16)
+msgid ""
+"『　　　　　　ならば急く必要もない。\n"
+"　　　　そなたの生、見届けることとしよう。　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 239, Pos (12,16)
+msgid ""
+"『　　　 思うがままに生き、欲望を満たせ。\n"
+"\n"
+"　 忘れるな。余はいつでもそなたの側にいる……。 』"
+msgstr ""
+
+#. ID 26, Page 2, Line 244, Pos (12,16)
+msgid ""
+"そして皇帝の姿は消えた。\n"
+"だが、周囲の闇はいっそう濃くなったかのようだ。"
+msgstr ""
+
+#. ID 26, Page 2, Line 246, Pos (12,16)
+msgid ""
+"あなたは玄室を出て、地上を目指した。\n"
+"自分自身の中で目覚め、巣くい始めたものに\n"
+"戸惑いながら……。"
+msgstr ""
+
+#. ID 26, Page 2, Line 253, Pos (12,16)
+msgid ""
+"『　　　　　　　なんと愉快なこと。\n"
+"　 そなたの友という不確定因子を見逃していたか。\n"
+"　　　　 我が手をすり抜けるとは見事なり。\n"
+"　　　　　　　　　　だが――。　　　　　　　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 259, Pos (12,16)
+msgid ""
+"『　　　　　　有り得ぬことが起きた。\n"
+"　　　　 我が手をすり抜けるとは見事なり。\n"
+"　　　　　　　　　　だが――。　　　　　　　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 268, Pos (12,16)
+msgid ""
+"『　　　 余が与えた運\命から逃れたか……。\n"
+"　　　自ら力を捨てるとは、なんという愚かな。\n"
+"　　　　　　　　　　だが――。　　　　　　　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 273, Pos (12,16)
+msgid ""
+"『　　　余が用意した手立ては一つではない。\n"
+"　　　帝国の蘇りを夢見る者も数少なくはない。\n"
+"　　　　　ならば余は、他の肉体を選び出し\n"
+"　　　　幻の帝都において世界に君臨しよう。　　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 278, Pos (12,16)
+msgid ""
+"闇が遠くへと去ってゆく気配がある。\n"
+"\n"
+"遠くへ……地上へと。"
+msgstr ""
+
+#. ID 26, Page 2, Line 284, Pos (12,16)
+msgid ""
+"\\N[9]\n"
+"乽偍偄丄懸偭偰偔傟乧乧丅\n"
+"丂懸偰傛両乿"
+msgstr ""
+
+#. ID 26, Page 2, Line 288, Pos (12,16)
+msgid "だが突然、\\N[9]が闇に呼びかけた。"
+msgstr ""
+
+#. ID 26, Page 2, Line 290, Pos (12,16)
+msgid ""
+"\\N[9]\n"
+"「僕に力をくれ。\n"
+"　お前の魔術を、僕に教えてくれ！」"
+msgstr ""
+
+#. ID 26, Page 2, Line 293, Pos (12,16)
+msgid ""
+"\\N[9]\n"
+"乽偦偺戙傢傝偵偍慜偵庤傪戄偡丅\n"
+"丂堦弿偵楢傟偰偄偭偰偔傟丅\n"
+"丂\\N[\\V[2]]偑懯栚側傜杔傪巊偊両乿"
+msgstr ""
+
+#. ID 26, Page 2, Line 298, Pos (12,16)
+msgid "闇が笑った。"
+msgstr ""
+
+#. ID 26, Page 2, Line 301, Pos (12,16)
+msgid ""
+"『　　　　　　 力に対するその渇望。\n"
+"　　　 余が小さく愚かであった頃に似ている。\n"
+"　　　ならば来い。そなたに力をくれてやろう。　　』"
+msgstr ""
+
+#. ID 26, Page 2, Line 305, Pos (12,16)
+#. Choice (2 options)
+msgid ""
+"\\N[9]傪巭傔傞\n"
+"栙偭偰尒偰偄傞"
+msgstr ""
+
+#. ID 26, Page 2, Line 309, Pos (12,16)
+msgid ""
+"\\N[\\V[2]]\n"
+"乽乧乧両乿"
+msgstr ""
+
+#. ID 26, Page 2, Line 312, Pos (12,16)
+msgid "闇に歩み寄ろうとしている\\N[9]の腕を掴んだ。"
+msgstr ""
+
+#. ID 26, Page 2, Line 315, Pos (12,16)
+msgid ""
+"\\N[9]\n"
+"「……手を放せよ」\n"
+""
+msgstr ""
+
+#. ID 26, Page 2, Line 318, Pos (12,16)
+msgid ""
+"\\N[9]\n"
+"乽側傫偩傛丄僋僜\偭丅\n"
+"丂偦傫側栚偱杔傪尒傞側傛両乿"
+msgstr ""
+
+#. ID 26, Page 2, Line 322, Pos (12,16)
+msgid ""
+"沈黙の中、遠くから声が聞こえた。\n"
+""
+msgstr ""
+
+#. ID 26, Page 2, Line 326, Pos (12,16)
+msgid "『　　　　 ……迷いのある者に用はない。　　　　 』"
+msgstr ""
+
+#. ID 26, Page 2, Line 328, Pos (12,16)
+msgid "それきり、闇の気配は消え去った。"
+msgstr ""
+
+#. ID 26, Page 2, Line 330, Pos (12,16)
+msgid ""
+"\\N[9]\n"
+"「おい、待て、待ってくれ……」"
+msgstr ""
+
+#. ID 26, Page 2, Line 332, Pos (12,16)
+msgid ""
+"\\N[9]\n"
+"乽抺惗両丂庤傪曻偣両\n"
+"丂乧乧椡傪庤偵擖傟傞偨傔偩偗偵丄\n"
+"丂偙偙傑偱棃偨偺偵乧乧抺惗乧乧乿"
+msgstr ""
+
+#. ID 26, Page 2, Line 337, Pos (12,16)
+msgid ""
+"\\N[9]はあなたの手を振り払うと、\n"
+"その場に膝をついてうつむいた……。"
+msgstr ""
+
+#. ID 26, Page 2, Line 342, Pos (12,16)
+msgid ""
+"\\N[9]\n"
+"乽偝傢傞側丄庤傪曻偣両乿"
+msgstr ""
+
+#. ID 26, Page 2, Line 345, Pos (12,16)
+msgid ""
+"\\N[9]はあなたの手を振りほどくと、\n"
+"駆け出す。\n"
+""
+msgstr ""
+
+#. ID 26, Page 2, Line 354, Pos (12,16)
+msgid ""
+"不意に影が渦巻き、\\N[9]を覆い隠した。\n"
+"そして闇が去った後には、\\N[9]の姿も\n"
+"消えていた……。"
+msgstr ""
+
+#. ID 26, Page 2, Line 381, Pos (12,16)
+msgid ""
+"\\S[4]ネスとシーウァ?大河神殿軍の間で起きた戦いに乗\じて\n"
+"新たに歴史の表舞台に躍り出た勢力があった。\n"
+"率いる手勢の数はわずかながら、巧みに戦いに介入\n"
+"することで立場を得て、支配地域を広げた。"
+msgstr ""
+
+#. ID 26, Page 2, Line 385, Pos (12,16)
+msgid ""
+"\\S[4]広がる戦乱、それに乗\じて遊牧民の侵攻が起きる中、\n"
+"彼らは古帝国の再興を唱えて人々の支持を集めた。\n"
+"その指導者の名は\\N[\\V[2]]。\n"
+"のちに覇王と呼ばれる人物である。"
+msgstr ""
+
+#. ID 26, Page 2, Line 390, Pos (12,16)
+msgid ""
+"　　　　　　　　　　 廃都物語\n"
+"　　　　Fairy Tale of the Forgotten Ruins\n"
+"\n"
+"　　　　　　　　　　～Ｆｉｎ～　　　　　　\\|　　"
+msgstr ""
+
+#. ID 26, Page 3, Line 16, Pos (12,16)
+#. Choice (2 options)
+msgid ""
+"\\N[27]开门\n"
+"\\N[27]返回"
+msgstr ""
+
+#. ID 26, Page 3, Line 24, Pos (12,16)
+msgid ""
+"\\N[27]但是盆景已经被一场激烈的战斗破坏怠尽了。\n"
+"\\N[27]这番光景就如同在暗示着未来地面上的形势。"
+msgstr ""
+
+#. ID 27, Page 1, Line 2, Pos (20,3)
+#. ID 32, Page 1, Line 2, Pos (16,6)
+#. ID 33, Page 1, Line 2, Pos (8,6)
+#. ID 34, Page 1, Line 2, Pos (19,11)
+#. ID 35, Page 1, Line 2, Pos (21,8)
+#. ID 36, Page 1, Line 2, Pos (5,11)
+#. ID 37, Page 1, Line 2, Pos (3,8)
+#. ID 38, Page 1, Line 5, Pos (18,18)
+#. ID 39, Page 1, Line 2, Pos (6,18)
+#. ID 40, Page 1, Line 2, Pos (18,15)
+#. ID 41, Page 1, Line 2, Pos (17,21)
+#. ID 42, Page 1, Line 2, Pos (6,15)
+#. ID 43, Page 1, Line 2, Pos (7,21)
+msgid ""
+"\\N[27]墓室的门上挂着一把金锁。\n"
+"\\N[27]门的上方雕刻着八瓣之花的纹章。"
+msgstr ""
+
+#. ID 27, Page 2, Line 2, Pos (20,3)
+#. ID 29, Page 2, Line 2, Pos (12,20)
+#. ID 29, Page 3, Line 2, Pos (12,20)
+#. ID 32, Page 2, Line 2, Pos (16,6)
+#. ID 32, Page 3, Line 2, Pos (16,6)
+#. ID 33, Page 2, Line 2, Pos (8,6)
+#. ID 33, Page 3, Line 2, Pos (8,6)
+#. ID 34, Page 2, Line 2, Pos (19,11)
+#. ID 34, Page 3, Line 2, Pos (19,11)
+#. ID 35, Page 2, Line 2, Pos (21,8)
+#. ID 35, Page 3, Line 2, Pos (21,8)
+#. ID 36, Page 2, Line 2, Pos (5,11)
+#. ID 36, Page 3, Line 2, Pos (5,11)
+#. ID 37, Page 2, Line 2, Pos (3,8)
+#. ID 38, Page 2, Line 2, Pos (18,18)
+#. ID 38, Page 3, Line 2, Pos (18,18)
+#. ID 39, Page 2, Line 2, Pos (6,18)
+#. ID 39, Page 3, Line 2, Pos (6,18)
+#. ID 40, Page 2, Line 2, Pos (18,15)
+#. ID 40, Page 3, Line 2, Pos (18,15)
+#. ID 41, Page 2, Line 2, Pos (17,21)
+#. ID 41, Page 3, Line 2, Pos (17,21)
+#. ID 42, Page 2, Line 2, Pos (6,15)
+#. ID 42, Page 3, Line 2, Pos (6,15)
+#. ID 43, Page 2, Line 2, Pos (7,21)
+#. ID 43, Page 3, Line 2, Pos (7,21)
+msgid "\\N[27]你踏入了墓室当中。"
+msgstr ""
+
+#. ID 27, Page 2, Line 4, Pos (20,3)
+#. ID 27, Page 3, Line 4, Pos (20,3)
+#. ID 29, Page 2, Line 4, Pos (12,20)
+#. ID 29, Page 3, Line 3, Pos (12,20)
+#. ID 32, Page 2, Line 4, Pos (16,6)
+#. ID 32, Page 3, Line 3, Pos (16,6)
+#. ID 33, Page 2, Line 4, Pos (8,6)
+#. ID 33, Page 3, Line 3, Pos (8,6)
+#. ID 34, Page 2, Line 4, Pos (19,11)
+#. ID 34, Page 3, Line 3, Pos (19,11)
+#. ID 35, Page 2, Line 4, Pos (21,8)
+#. ID 35, Page 3, Line 3, Pos (21,8)
+#. ID 36, Page 2, Line 4, Pos (5,11)
+#. ID 36, Page 3, Line 3, Pos (5,11)
+#. ID 38, Page 2, Line 4, Pos (18,18)
+#. ID 38, Page 3, Line 3, Pos (18,18)
+#. ID 39, Page 2, Line 4, Pos (6,18)
+#. ID 39, Page 3, Line 3, Pos (6,18)
+#. ID 40, Page 2, Line 4, Pos (18,15)
+#. ID 40, Page 3, Line 3, Pos (18,15)
+#. ID 41, Page 2, Line 4, Pos (17,21)
+#. ID 41, Page 3, Line 3, Pos (17,21)
+#. ID 42, Page 3, Line 3, Pos (6,15)
+#. ID 43, Page 3, Line 3, Pos (7,21)
+msgid ""
+"\\N[27]墓室内堆积着腐朽怠尽的附葬品，\n"
+"\\N[27]以及不知从何处而来的微微灰尘。"
+msgstr ""
+
+#. ID 27, Page 2, Line 8, Pos (20,3)
+#. ID 33, Page 2, Line 8, Pos (8,6)
+#. ID 34, Page 2, Line 8, Pos (19,11)
+#. ID 42, Page 2, Line 9, Pos (6,15)
+msgid ""
+"\\N[27]这瞬间，置于深处的棺木之盖开始渐渐开启……\n"
+""
+msgstr ""
+
+#. ID 27, Page 2, Line 10, Pos (20,3)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『汝无须思考……\n"
+"\\N[27]　即便汝能有所成就，\n"
+"\\N[27]　一切也终将化为乌有』"
+msgstr ""
+
+#. ID 27, Page 2, Line 22, Pos (20,3)
+msgid ""
+"\\N[27]获得了神帝记 2！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 27, Page 2, Line 34, Pos (20,3)
+msgid ""
+"\\N[27]获得了几何纹样镜！\n"
+""
+msgstr ""
+
+#. ID 27, Page 3, Line 2, Pos (20,3)
+msgid ""
+"\\N[27]你踏入了墓室当中。\n"
+""
+msgstr ""
+
+#. ID 28, Page 1, Line 10, Pos (14,17)
+msgid ""
+"\\N[27]沿狭窄阶梯而降的通道，\n"
+"\\N[27]在前方被瘴气堵住了去路。\n"
+""
+msgstr ""
+
+#. ID 28, Page 1, Line 14, Pos (14,17)
+msgid ""
+"\\N[27]周围的墙壁上写着古代语的文章。\n"
+"\\N[27]似乎是用尖锐的刃物刻在上面的。\n"
+""
+msgstr ""
+
+#. ID 28, Page 1, Line 22, Pos (14,17)
+msgid ""
+"\\N[27]『    第一块石中是毁灭 第二块石中是变异\n"
+"\\N[27]      第三块石中是永恒 第四块石中是轮回\n"
+"\\N[27]　    而第五块石中寄宿着全知之能            』"
+msgstr ""
+
+#. ID 28, Page 1, Line 25, Pos (14,17)
+msgid ""
+"\\N[27]『    第五块秘石有着幻视过去和未来的力量\n"
+"\\N[27]      始祖将其留在手中 秘藏于庭院之内\n"
+"\\N[27]　    你应该已经见过它才对\n"
+"\\N[27]　    \\C[5]＊＊＊　快想起来　＊＊＊\\C[0]　　　　 』"
+msgstr ""
+
+#. ID 28, Page 1, Line 40, Pos (14,17)
+msgid ""
+"\\N[27]……此外，在这墙壁的对面，\n"
+"\\N[27]似乎还别有洞天。\n"
+"\\N[27]或许还有别的出入口。"
+msgstr ""
+
+#. ID 29, Page 1, Line 2, Pos (12,20)
+msgid ""
+"\\N[27]这道门的上半部分，雕刻着八瓣之花的纹章。\n"
+"\\N[27]门的下半部分刻有若干文字，文字下面还有\n"
+"\\N[27]一个用来输入数字的轮盘。"
+msgstr ""
+
+#. ID 29, Page 1, Line 7, Pos (12,20)
+msgid ""
+"\\N[27]刻在门上的文字如下。\n"
+"\n"
+"\\N[27]\\C[5]『目、死、国、门、道、年』\\C[0]"
+msgstr ""
+
+#. ID 29, Page 1, Line 13, Pos (12,20)
+msgid ""
+"\\N[27]刻在门上的文字如下。\n"
+"\n"
+"\\N[27]\\C[5]『道、国、人、死、年、门』\\C[0]"
+msgstr ""
+
+#. ID 29, Page 1, Line 18, Pos (12,20)
+msgid ""
+"\\N[27]刻在门上的文字如下。\n"
+"\n"
+"\\N[27]\\C[5]『死、人、国、道、门、目』\\C[0]"
+msgstr ""
+
+#. ID 29, Page 1, Line 26, Pos (12,20)
+#. Choice (2 options)
+#. ID 30, Page 1, Line 9, Pos (4,3)
+#. Choice (2 options)
+msgid ""
+"输入数值\n"
+"离开"
+msgstr ""
+
+#. ID 29, Page 1, Line 31, Pos (12,20)
+msgid ""
+"\\N[27]\\C[5]『目、死、国、门、道、年』\\C[0]\n"
+"\\N[27]※请输入数值。"
+msgstr ""
+
+#. ID 29, Page 1, Line 39, Pos (12,20)
+#. ID 30, Page 1, Line 20, Pos (4,3)
+msgid ""
+"\\N[27]一个落穴突然被打开了！\n"
+"\n"
+"\\N[27]你一头栽进了无尽的黑暗之中！"
+msgstr ""
+
+#. ID 29, Page 1, Line 51, Pos (12,20)
+msgid "\\N[27]门被打开了！"
+msgstr ""
+
+#. ID 29, Page 1, Line 61, Pos (12,20)
+#. Contains choice at line 2 (2 options)
+#. ID 30, Page 1, Line 45, Pos (4,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]什么也没有发生。"
+msgstr ""
+
+#. ID 29, Page 1, Line 62, Pos (12,20)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 1, Line 46, Pos (4,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"再输入一次\n"
+"离开"
+msgstr ""
+
+#. ID 29, Page 1, Line 76, Pos (12,20)
+msgid ""
+"\\N[27]\\C[5]『道、国、人、死、年、门』\\C[0]\n"
+"\\N[27]※请输入数值。\n"
+""
+msgstr ""
+
+#. ID 29, Page 1, Line 94, Pos (12,20)
+msgid ""
+"\\N[27]\\C[5]『死、人、国、道、门、目』\\C[0]\n"
+"\\N[27]※请输入数值。"
+msgstr ""
+
+#. ID 29, Page 2, Line 8, Pos (12,20)
+msgid ""
+"\\N[27]这瞬间，置于深处的棺木之盖开始渐渐开启……\n"
+"\n"
+""
+msgstr ""
+
+#. ID 29, Page 2, Line 11, Pos (12,20)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『咕噜噜噜……』"
+msgstr ""
+
+#. ID 29, Page 2, Line 21, Pos (12,20)
+msgid ""
+"\\N[27]获得了『神帝记14』！\n"
+"\\N[27]获得了『神帝记15』！\n"
+"\\N[27]获得了「天体运行」！\n"
+"\\N[27]获得了恩伯的长袍！"
+msgstr ""
+
+#. ID 29, Page 2, Line 25, Pos (12,20)
+msgid ""
+"\\N[27]获得了生锈的武器×2！\n"
+"\\N[27]获得了生锈的防具×2！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 29, Page 2, Line 56, Pos (12,20)
+msgid "\\N[27]获得了金刻雷文黑铁斧！"
+msgstr ""
+
+#. ID 30, Page 1, Line 2, Pos (4,3)
+msgid ""
+"\\N[27]这道门的上方刻着螺旋状的图形，\n"
+"\\N[27]图形下面成列地写着奇妙的数字。\n"
+"\\N[27]门上的数字如下\n"
+"\\N[27]\\C[5]『1 2 3 5 8 ?? 21 ?? 5? ?9 144 233 377』\\C[0]"
+msgstr ""
+
+#. ID 30, Page 1, Line 6, Pos (4,3)
+msgid ""
+"\\N[27]门旁还有座像台子一样四四方方的物体，\n"
+"\\N[27]上面放着若干类似算盘的小石子。\n"
+"\\N[27]用这东西似乎可以表示至多六位的数字。"
+msgstr ""
+
+#. ID 30, Page 1, Line 13, Pos (4,3)
+msgid ""
+"\\N[27]\\C[5]『1 2 3 5 8 ?? 21 ?? 5? ?9 144 233 377』\\C[0]\n"
+"\\N[27]※请输入数值。"
+msgstr ""
+
+#. ID 30, Page 1, Line 34, Pos (4,3)
+msgid ""
+"\\N[27]门被打开了！\n"
+""
+msgstr ""
+
+#. ID 30, Page 2, Line 2, Pos (4,3)
+msgid "\\N[27]你踏入了墓室中。"
+msgstr ""
+
+#. ID 30, Page 2, Line 3, Pos (4,3)
+msgid ""
+"\\N[27]室内堆积着各种各样的附葬品和石板。\n"
+"\\N[27]看样子这里是个宝库。"
+msgstr ""
+
+#. ID 30, Page 2, Line 7, Pos (4,3)
+msgid ""
+"\\N[27]获得了环冠！\n"
+"\\N[27]获得了古代祭器！\n"
+"\\N[27]获得了被封印的小箱！"
+msgstr ""
+
+#. ID 30, Page 2, Line 26, Pos (4,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]在房间深处，摆满了装有各种杂货的壶罐。\n"
+""
+msgstr ""
+
+#. ID 30, Page 2, Line 28, Pos (4,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]调查壶罐\n"
+"\\N[27]返回"
+msgstr ""
+
+#. ID 30, Page 2, Line 30, Pos (4,3)
+msgid ""
+"\\N[27]若想寻找有价值的物品，\n"
+"\\N[27]必须具备古代的知识。\n"
+""
+msgstr ""
+
+#. ID 30, Page 2, Line 37, Pos (4,3)
+msgid "\\N[27]没人懂得古代知识。"
+msgstr ""
+
+#. ID 30, Page 2, Line 42, Pos (4,3)
+msgid "\\N[27]开始调查壶罐了……"
+msgstr ""
+
+#. ID 30, Page 2, Line 51, Pos (4,3)
+msgid "获得了「死者之书　下」！"
+msgstr ""
+
+#. ID 30, Page 2, Line 57, Pos (4,3)
+msgid ""
+"\\N[27]发现了保存完好的文献。\n"
+""
+msgstr ""
+
+#. ID 30, Page 2, Line 69, Pos (4,3)
+#. ID 30, Page 2, Line 97, Pos (4,3)
+msgid "\\N[27]没找到什么特别的东西。"
+msgstr ""
+
+#. ID 30, Page 2, Line 74, Pos (4,3)
+msgid "\\N[27]发现了保存完好的文献。"
+msgstr ""
+
+#. ID 30, Page 2, Line 75, Pos (4,3)
+msgid ""
+"\\N[27]获得了古代文献！\n"
+""
+msgstr ""
+
+#. ID 30, Page 2, Line 86, Pos (4,3)
+#. ID 30, Page 2, Line 111, Pos (4,3)
+#. ID 30, Page 2, Line 128, Pos (4,3)
+msgid "\\N[27]但是，并没有找到特别的东西。"
+msgstr ""
+
+#. ID 30, Page 2, Line 101, Pos (4,3)
+#. ID 30, Page 2, Line 120, Pos (4,3)
+msgid "\\N[27]发现了看似有价值的物品。"
+msgstr ""
+
+#. ID 30, Page 2, Line 103, Pos (4,3)
+msgid "\\N[27]获得了古代祭器！"
+msgstr ""
+
+#. ID 30, Page 2, Line 122, Pos (4,3)
+msgid "获得了古代宝饰！"
+msgstr ""
+
+#. ID 30, Page 2, Line 136, Pos (4,3)
+#. Choice (2 options)
+msgid ""
+"\\N[27]继续调查\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 32, Page 2, Line 8, Pos (16,6)
+#. ID 35, Page 2, Line 8, Pos (21,8)
+#. ID 36, Page 2, Line 8, Pos (5,11)
+#. ID 38, Page 2, Line 8, Pos (18,18)
+#. ID 39, Page 2, Line 8, Pos (6,18)
+#. ID 40, Page 2, Line 8, Pos (18,15)
+#. ID 41, Page 2, Line 8, Pos (17,21)
+#. ID 43, Page 2, Line 9, Pos (7,21)
+msgid "\\N[27]这瞬间，置于深处的棺木之盖开始渐渐开启……"
+msgstr ""
+
+#. ID 32, Page 2, Line 9, Pos (16,6)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『这份感情究竟是何物。\n"
+"\\N[27]　为何妾身在殒命之后，\n"
+"\\N[27]　也依旧如此悲伤难耐……』"
+msgstr ""
+
+#. ID 32, Page 2, Line 21, Pos (16,6)
+msgid ""
+"\\N[27]获得了神帝记13！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 32, Page 2, Line 32, Pos (16,6)
+msgid "\\N[27]获得了蛇鳞八条鞭！"
+msgstr ""
+
+#. ID 33, Page 2, Line 10, Pos (8,6)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『好高兴……\n"
+"\\N[27]　未想可以再用这双手，\n"
+"\\N[27]　饱尝生者滋润的鲜血！』"
+msgstr ""
+
+#. ID 33, Page 2, Line 22, Pos (8,6)
+msgid ""
+"\\N[27]获得了神帝记 5！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 33, Page 2, Line 33, Pos (8,6)
+msgid "\\N[27]获得了龙骨线刻螺钿剑！"
+msgstr ""
+
+#. ID 34, Page 2, Line 10, Pos (19,11)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『――叛乱者们，做好觉悟吧。\n"
+"\\N[27]　汝辈之名，将不得在史上留存半字』"
+msgstr ""
+
+#. ID 34, Page 2, Line 21, Pos (19,11)
+msgid ""
+"\\N[27]获得了神帝记 9！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 34, Page 2, Line 32, Pos (19,11)
+msgid "\\N[27]获得了金丝缀龙鳞甲胄！"
+msgstr ""
+
+#. ID 35, Page 2, Line 9, Pos (21,8)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『忘却吧……\n"
+"\\N[27]　吾的事情也好，\n"
+"\\N[27]　吾犯下的罪过也罢，统统忘却吧！』"
+msgstr ""
+
+#. ID 35, Page 2, Line 21, Pos (21,8)
+msgid ""
+"\\N[27]获得了神帝记 6！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 35, Page 2, Line 32, Pos (21,8)
+msgid "\\N[27]获得了朱雀纹柄奉神刀！"
+msgstr ""
+
+#. ID 36, Page 2, Line 9, Pos (5,11)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『有人来了哦，姐姐』\n"
+"\\N[27]『是呢，有人来了呢』\n"
+"\\N[27]『得陪客人玩玩才行』"
+msgstr ""
+
+#. ID 36, Page 2, Line 21, Pos (5,11)
+msgid ""
+"\\N[27]获得了神帝记 7！\n"
+"\\N[27]获得了皇女宽袍！"
+msgstr ""
+
+#. ID 36, Page 2, Line 32, Pos (5,11)
+msgid "\\N[27]获得了星护符文小太刀！"
+msgstr ""
+
+#. ID 36, Page 2, Line 43, Pos (5,11)
+msgid "\\N[27]获得了纯银翼状饰冠！"
+msgstr ""
+
+#. ID 37, Page 2, Line 3, Pos (3,8)
+msgid "\\N[27]……然而，室内却空无一物。"
+msgstr ""
+
+#. ID 38, Page 2, Line 9, Pos (18,18)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『……HUIMIE……！\n"
+"\\N[27]　……HUIMIE……！\n"
+"\\N[27]　……HUIMIE　YIQIE……！』"
+msgstr ""
+
+#. ID 38, Page 2, Line 21, Pos (18,18)
+msgid ""
+"\\N[27]获得了神帝记10！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 38, Page 2, Line 32, Pos (18,18)
+msgid "\\N[27]获得了灵树精工琴型弓！"
+msgstr ""
+
+#. ID 38, Page 2, Line 41, Pos (18,18)
+msgid ""
+"\\N[27]远处传来了门被打开的声音……\n"
+""
+msgstr ""
+
+#. ID 39, Page 2, Line 9, Pos (6,18)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『妾身孕育之物\n"
+"\\N[27]  遍及大地、与时共存。\n"
+"\\N[27]　换句话说，妾身便是帝国本身』"
+msgstr ""
+
+#. ID 39, Page 2, Line 21, Pos (6,18)
+msgid ""
+"\\N[27]获得了神帝记 3！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 39, Page 2, Line 32, Pos (6,18)
+msgid "\\N[27]获得了银丝叶文黑纱衣！"
+msgstr ""
+
+#. ID 40, Page 2, Line 9, Pos (18,15)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『拜服于吾！　\n"
+"\\N[27]　吾乃神明！\n"
+"\\N[27]　吾乃永恒！』"
+msgstr ""
+
+#. ID 40, Page 2, Line 21, Pos (18,15)
+msgid ""
+"\\N[27]获得了神帝记 4！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 40, Page 2, Line 32, Pos (18,15)
+msgid "\\N[27]获得了白金月桂树文冠！"
+msgstr ""
+
+#. ID 41, Page 2, Line 9, Pos (17,21)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『生即为恶。\n"
+"\\N[27]　人仅仅是为生，\n"
+"\\N[27]　便要蚕食他者』"
+msgstr ""
+
+#. ID 41, Page 2, Line 21, Pos (17,21)
+msgid ""
+"\\N[27]获得了神帝记11！\n"
+"\\N[27]获得了古代宝饰！\n"
+""
+msgstr ""
+
+#. ID 41, Page 2, Line 33, Pos (17,21)
+msgid ""
+"\\N[27]获得了翡翠饰树枝型杖！\n"
+""
+msgstr ""
+
+#. ID 42, Page 2, Line 4, Pos (6,15)
+#. ID 43, Page 2, Line 4, Pos (7,21)
+msgid ""
+"\\N[27]墓室内堆积着腐朽怠尽的附葬品，\n"
+"\\N[27]以及不知从何处而来的微微灰尘。\n"
+""
+msgstr ""
+
+#. ID 42, Page 2, Line 11, Pos (6,15)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『――即便超脱生死，脱离劫难，\n"
+"\\N[27]　唯时光有限，终难抵全知全能――』"
+msgstr ""
+
+#. ID 42, Page 2, Line 22, Pos (6,15)
+msgid ""
+"\\N[27]获得了神帝记 1！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 42, Page 2, Line 33, Pos (6,15)
+msgid "\\N[27]获得了真银四神兽文槌！"
+msgstr ""
+
+#. ID 43, Page 2, Line 10, Pos (7,21)
+msgid ""
+"\\N[27]死者\n"
+"\\N[27]『来人，呼唤余之名……！　\n"
+"\\N[27]　余不叫什么迪多斯！』"
+msgstr ""
+
+#. ID 43, Page 2, Line 21, Pos (7,21)
+msgid ""
+"\\N[27]获得了神帝记 8！\n"
+"\\N[27]获得了古代宝饰！"
+msgstr ""
+
+#. ID 43, Page 2, Line 32, Pos (7,21)
+msgid ""
+"\\N[27]获得了白翼饰缨太穗枪！\n"
+""
+msgstr ""
+

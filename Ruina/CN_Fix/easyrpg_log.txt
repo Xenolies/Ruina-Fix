@@ -1,0 +1,73 @@
+[2023-08-29 18:14:16] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-08-29 18:14:16] Debug: =======================================
+[2023-08-29 18:14:16] Debug: CLI: 
+[2023-08-29 18:14:16] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-08-29 18:14:16] Debug: Seeded the RNG with 1693304056.
+[2023-08-29 18:14:16] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-08-29 18:14:16] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-08-29 18:14:16] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-08-29 18:14:16] Debug: Detected encoding: windows-936-2000
+[2023-08-29 18:14:16] Debug: Game and Save Directory:
+[2023-08-29 18:14:16] Debug: 1: [Native] 
+[2023-08-29 18:14:16] Debug: Loading game Ruina　废都物语　ver1.21
+[2023-08-29 18:14:16] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-08-29 18:14:16] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-08-29 18:14:16] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2023-08-29 18:14:16] Debug: ExFont loaded from RPG_RT
+[2023-08-29 18:14:16] Debug: EXEReader: VERSIONINFO not found
+[2023-08-29 18:14:16] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2023-08-29 18:14:16] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2023-08-29 18:14:16] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-08-29 18:14:16] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-29 18:14:16] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-29 18:14:16] Debug: Cannot find: Font/Font
+[2023-08-29 18:14:16] Debug: Cannot find: Font/Font2
+[2023-08-29 18:14:18] Debug: Resolution changed to 320x240
+[2023-08-29 18:14:23] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-29 18:14:23] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 13:45:55] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-08-30 13:45:55] Debug: =======================================
+[2023-08-30 13:45:55] Debug: CLI: 
+[2023-08-30 13:45:55] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-08-30 13:45:55] Debug: Seeded the RNG with 1693374354.
+[2023-08-30 13:45:55] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-08-30 13:45:55] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-08-30 13:45:55] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-08-30 13:45:55] Debug: Detected encoding: windows-936-2000. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: UTF-16BE. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: UTF-16LE. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: Big5. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: ibm-5347_P100-1998. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: ibm-5348_P100-1997. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Bad encoding: KOI8-R. Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: ibm-5346_P100-1998. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: ibm-5349_P100-1998. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Bad encoding: IBM420_ltr. Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: ibm-5347_P100-1998. Files not found (0/3). Trying next.
+[2023-08-30 13:45:55] Debug: Detected encoding: windows-936-2000
+[2023-08-30 13:45:55] Debug: Game and Save Directory:
+[2023-08-30 13:45:55] Debug: 1: [Native] 
+[2023-08-30 13:45:55] Debug: Loading game Ruina　废都物语　ver1.21
+[2023-08-30 13:45:55] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-08-30 13:45:55] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-08-30 13:45:55] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2023-08-30 13:45:55] Debug: ExFont loaded from RPG_RT
+[2023-08-30 13:45:55] Debug: EXEReader: VERSIONINFO not found
+[2023-08-30 13:45:55] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2023-08-30 13:45:55] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2023-08-30 13:45:55] Debug: Adding D:\RPG20002003RTP\rtp2000\RTP to RTP path
+[2023-08-30 13:45:55] Debug: RTP is "Official Japanese" (465/465)
+[2023-08-30 13:45:55] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-08-30 13:45:55] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 13:45:55] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 13:45:55] Debug: Cannot find: System/攑搒僔僗僥儉
+[2023-08-30 13:45:55] Warning: Image not found: System/攑搒僔僗僥儉
+[2023-08-30 13:45:55] Debug: Cannot find: Font/Font
+[2023-08-30 13:45:55] Debug: Cannot find: Font/Font2
+[2023-08-30 13:45:56] Debug: Resolution changed to 320x240
+[2023-08-30 13:45:56] Debug: Cannot find: Title/攑搒僞僀僩儖2
+[2023-08-30 13:45:56] Warning: Image not found: Title/攑搒僞僀僩儖2
+[2023-08-30 13:45:59] Debug: Cannot find: Sound/僇乕僜儖1
+[2023-08-30 13:45:59] Debug: Sound not found: 僇乕僜儖1
+[2023-08-30 13:46:03] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-30 13:46:03] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)

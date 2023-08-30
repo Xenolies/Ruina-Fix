@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+#. ID 1, Page 1, Line 266, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+#. ID 1, Page 1, Line 290, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+msgctxt "actors.name"
+msgid "普通"
+msgstr ""
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid "\\N[27]※主人公の生まれを決めてください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"\\N[27]賢者の弟子\n"
+"\\N[27]騎士の嫡子\n"
+"\\N[27]罪人の遺児\n"
+"\\N[27]神殿に拾われた孤児"
+msgstr ""
+
+#. ID 1, Page 1, Line 59, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※主人公の性別を決めてください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]男\n"
+"\\N[27]女"
+msgstr ""
+
+#. ID 1, Page 1, Line 63, Pos (0,0)
+#. ChangeHeroName (Actor 71)
+msgctxt "actors.name"
+msgid "兄さん"
+msgstr ""
+
+#. ID 1, Page 1, Line 64, Pos (0,0)
+#. ChangeHeroName (Actor 72)
+msgctxt "actors.name"
+msgid "彼"
+msgstr ""
+
+#. ID 1, Page 1, Line 68, Pos (0,0)
+#. ChangeHeroName (Actor 71)
+msgctxt "actors.name"
+msgid "姉さん"
+msgstr ""
+
+#. ID 1, Page 1, Line 69, Pos (0,0)
+#. ChangeHeroName (Actor 72)
+msgctxt "actors.name"
+msgid "彼女"
+msgstr ""
+
+#. ID 1, Page 1, Line 78, Pos (0,0)
+#. ID 1, Page 1, Line 116, Pos (0,0)
+msgid "\\N[27]※主人公の顔を選択して下さい。"
+msgstr ""
+
+#. ID 1, Page 1, Line 80, Pos (0,0)
+#. Choice (4 options)
+#. ID 1, Page 1, Line 118, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"\\N[27]絵１\n"
+"\\N[27]絵２\n"
+"\\N[27]絵３\n"
+"\\N[27]絵４"
+msgstr ""
+
+#. ID 1, Page 1, Line 157, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※この顔で良いですか？"
+msgstr ""
+
+#. ID 1, Page 1, Line 158, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]はい\n"
+"\\N[27]いいえ"
+msgstr ""
+
+#. ID 1, Page 1, Line 174, Pos (0,0)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "騎士見習い"
+msgstr ""
+
+#. ID 1, Page 1, Line 175, Pos (0,0)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "キャシアス"
+msgstr ""
+
+#. ID 1, Page 1, Line 179, Pos (0,0)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "領主の娘"
+msgstr ""
+
+#. ID 1, Page 1, Line 180, Pos (0,0)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ウェンドリン"
+msgstr ""
+
+#. ID 1, Page 1, Line 184, Pos (0,0)
+#. ID 1, Page 1, Line 204, Pos (0,0)
+#. ID 1, Page 1, Line 224, Pos (0,0)
+#. ID 1, Page 1, Line 243, Pos (0,0)
+msgid "\\N[27]※主人公の名前を決めてください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 194, Pos (0,0)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "町のチンピラ"
+msgstr ""
+
+#. ID 1, Page 1, Line 195, Pos (0,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴァン"
+msgstr ""
+
+#. ID 1, Page 1, Line 199, Pos (0,0)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "踊り子"
+msgstr ""
+
+#. ID 1, Page 1, Line 200, Pos (0,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "アイリ"
+msgstr ""
+
+#. ID 1, Page 1, Line 214, Pos (0,0)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "まじない師"
+msgstr ""
+
+#. ID 1, Page 1, Line 215, Pos (0,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "アベリオン"
+msgstr ""
+
+#. ID 1, Page 1, Line 219, Pos (0,0)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "魔女"
+msgstr ""
+
+#. ID 1, Page 1, Line 220, Pos (0,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "フィー"
+msgstr ""
+
+#. ID 1, Page 1, Line 233, Pos (0,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "学僧"
+msgstr ""
+
+#. ID 1, Page 1, Line 234, Pos (0,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "エメク"
+msgstr ""
+
+#. ID 1, Page 1, Line 238, Pos (0,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "大河の巫女"
+msgstr ""
+
+#. ID 1, Page 1, Line 239, Pos (0,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "マナ"
+msgstr ""
+
+#. ID 1, Page 1, Line 255, Pos (0,0)
+#. Choice (3 options)
+msgid ""
+"\\N[27]物語を始める\n"
+"\\N[27]難易度の変更　現在：\\N[28]\n"
+"\\N[27]最初からやり直す"
+msgstr ""
+
+#. ID 1, Page 1, Line 261, Pos (0,0)
+#. Contains choice at line 2 (3 options)
+#. ID 1, Page 1, Line 285, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※難易度を選択して下さい。"
+msgstr ""
+
+#. ID 1, Page 1, Line 262, Pos (0,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\N[27]普通\n"
+"\\N[27]易しい　EXP×1.5\n"
+"\\N[27]難しい　EXP×0.7"
+msgstr ""
+
+#. ID 1, Page 1, Line 264, Pos (0,0)
+#. ID 1, Page 1, Line 288, Pos (0,0)
+msgid "\\N[27]※通常通りの難易度になります。"
+msgstr ""
+
+#. ID 1, Page 1, Line 269, Pos (0,0)
+#. ID 1, Page 1, Line 293, Pos (0,0)
+msgid ""
+"\\N[27]※イベントで得られる経験点が\n"
+"\\N[27]　通常の1.5倍になります。"
+msgstr ""
+
+#. ID 1, Page 1, Line 272, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+#. ID 1, Page 1, Line 296, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+msgctxt "actors.name"
+msgid "易しい"
+msgstr ""
+
+#. ID 1, Page 1, Line 275, Pos (0,0)
+msgid ""
+"\\N[27]※イベントで得られる経験点が\n"
+"\\N[27]　通常の0.7倍になります。"
+msgstr ""
+
+#. ID 1, Page 1, Line 278, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+msgctxt "actors.name"
+msgid "難しい"
+msgstr ""
+
+#. ID 1, Page 1, Line 286, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]普通\n"
+"\\N[27]易しい　EXP×1.5"
+msgstr ""
+
+#. ID 1, Page 1, Line 336, Pos (0,0)
+msgid ""
+"\n"
+"\\N[27]　誰かに呼ばれた気がして、町はずれの森を歩いた。"
+msgstr ""
+
+#. ID 1, Page 1, Line 338, Pos (0,0)
+msgid ""
+"\\N[27]　　　　　　夜明け前の空は、まだ暗い。\n"
+"\n"
+"\\N[27]薄闇の中を歩いているうちに、洞窟の入口を見つけた。"
+msgstr ""
+
+#. ID 1, Page 1, Line 341, Pos (0,0)
+msgid ""
+"\\N[27]　　　　　数日前の落雷で燃えた樹の下に、\n"
+"\\N[27]　　　　　　地中への入口が開いている。\n"
+"\\N[27]　　　　　　　内部は暗く、奥は深い。"
+msgstr ""
+
+#. ID 1, Page 1, Line 344, Pos (0,0)
+msgid ""
+"\\N[27]　　　　　　　　……胸騒ぎがした。\n"
+"\n"
+"\\N[27]　　　　　この洞窟は、あなたを招いている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 347, Pos (0,0)
+msgid ""
+"\n"
+"\\N[27]　　　　　あなたは、中へ入っていった……。"
+msgstr ""
+
+#. ID 1, Page 1, Line 410, Pos (0,0)
+msgid ""
+"\\N[27]※右下で点滅しているポイントにカーソ\ルを合わせて、\n"
+"\\N[27]　決定キーを押してください。"
+msgstr ""
+

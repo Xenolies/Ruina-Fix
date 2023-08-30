@@ -1,0 +1,1574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 2, Line 3, Pos (0,0)
+msgid ""
+"\\>仙女\n"
+"\\>「……私は、この森から出られない。\n"
+"\\>　森から出るなら、ここでお別れ」"
+msgstr ""
+
+#. ID 1, Page 2, Line 8, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"\\>仙女と別れる\n"
+"\\>引き返す"
+msgstr ""
+
+#. ID 1, Page 2, Line 11, Pos (0,0)
+msgid ""
+"\\>仙女\n"
+"\\>「さよなら……」"
+msgstr ""
+
+#. ID 1, Page 3, Line 7, Pos (0,0)
+msgid "\\N[27]人魚を釣り上げた！"
+msgstr ""
+
+#. ID 1, Page 3, Line 10, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「イヤーン～～！\n"
+"\\N[27]　エッチぃ～～～～～$g」"
+msgstr ""
+
+#. ID 1, Page 3, Line 13, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「捕まっちゃった\\.\\.\n"
+"\\N[27]　　ワ・\\.\\.タ・\\.\\.シ$g」"
+msgstr ""
+
+#. ID 1, Page 3, Line 17, Pos (0,0)
+msgid "\\N[27]変態だ。"
+msgstr ""
+
+#. ID 1, Page 3, Line 19, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「おねがい見逃して！\n"
+"\\N[27]　そうしたら、いいものをアゲル♪」"
+msgstr ""
+
+#. ID 1, Page 3, Line 24, Pos (0,0)
+#. Choice (3 options)
+msgid ""
+"\\N[27]リリースする\n"
+"\\N[27]攻撃する\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 1, Page 3, Line 27, Pos (0,0)
+msgid "\\N[27]あなたは怪人を放してやった。"
+msgstr ""
+
+#. ID 1, Page 3, Line 29, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「キャッ♪　ありがと☆\n"
+"\\N[27]　お礼にいいものをプレゼント♪」"
+msgstr ""
+
+#. ID 1, Page 3, Line 32, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「それはワタシの……\\.\\.\n"
+"\\N[27]　ハ\\.\\.ァ\\.\\.ト$g」"
+msgstr ""
+
+#. ID 1, Page 3, Line 37, Pos (0,0)
+msgid "\\N[27]怪人は投げキッスをしてから、姿を消した……。"
+msgstr ""
+
+#. ID 1, Page 3, Line 43, Pos (0,0)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「死ねえぇえええええええええ！！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 49, Pos (0,0)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「世界のためにあなたを倒す！\n"
+"\\N[27]　闇に還れ！！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 56, Pos (0,0)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「よし殺しましょう。\n"
+"\\N[27]　これは正義よね」"
+msgstr ""
+
+#. ID 1, Page 3, Line 63, Pos (0,0)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「滅びろ大魔王！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 69, Pos (0,0)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「汝は邪悪なり！\n"
+"\\N[27]　ここで滅ぼす！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 76, Pos (0,0)
+msgid ""
+"\\N[27]\\N[13]\n"
+"\\N[27]「変態！\n"
+"\\N[27]　変態です！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 83, Pos (0,0)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「俺の命にかえても、\n"
+"\\N[27]　貴様を倒す！\n"
+"\\N[27]　世界を救うために！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 91, Pos (0,0)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「これはまさに聖戦……。\n"
+"\\N[27]　容赦無用！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 98, Pos (0,0)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「死ね、諸悪の根源！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 104, Pos (0,0)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「死ぬがよい」"
+msgstr ""
+
+#. ID 1, Page 3, Line 129, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「えっ\n"
+"\\N[27]　ちょっ、まっ」"
+msgstr ""
+
+#. ID 1, Page 3, Line 145, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「もう終わりなの？\n"
+"\\N[27]　カモーン！　もっと来て！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 150, Pos (0,0)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「うるせー馬鹿死ね！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 156, Pos (0,0)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「もう嫌だ。\n"
+"\\N[27]　死にたい」"
+msgstr ""
+
+#. ID 1, Page 3, Line 163, Pos (0,0)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「もうやだ！\n"
+"\\N[27]　帰ゆ！　おうち帰ゆー！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 170, Pos (0,0)
+msgid ""
+"\\N[27]\\N[13]\n"
+"\\N[27]「ううっ……。\n"
+"\\N[27]　変態に負けた……」"
+msgstr ""
+
+#. ID 1, Page 3, Line 177, Pos (0,0)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「ひいいい～～」"
+msgstr ""
+
+#. ID 1, Page 3, Line 183, Pos (0,0)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「やべえ、逃げろ。\n"
+"\\N[27]　変態を伝染される」"
+msgstr ""
+
+#. ID 1, Page 3, Line 190, Pos (0,0)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「トホホ」"
+msgstr ""
+
+#. ID 1, Page 3, Line 196, Pos (0,0)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「あらら」"
+msgstr ""
+
+#. ID 1, Page 3, Line 202, Pos (0,0)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「悪に敗れるなんて……！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 208, Pos (0,0)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「なんて屈辱感……」"
+msgstr ""
+
+#. ID 1, Page 3, Line 233, Pos (0,0)
+msgid "\\N[27]あなたは逃げ出した……。"
+msgstr ""
+
+#. ID 1, Page 3, Line 240, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「……マジすんません。\n"
+"\\N[27]　勘弁してつかあさい。\n"
+"\\N[27]　これを差し上げますから……」"
+msgstr ""
+
+#. ID 1, Page 3, Line 246, Pos (0,0)
+msgid ""
+"\\N[27]ピチピチタイツを手に入れた！\n"
+"\\N[27]妖精族のメモを手に入れた！"
+msgstr ""
+
+#. ID 1, Page 3, Line 257, Pos (0,0)
+msgid "\\N[27]その隙に怪人は逃げ出した！"
+msgstr ""
+
+#. ID 1, Page 3, Line 259, Pos (0,0)
+msgid ""
+"\\N[27]夜種マーメイド\n"
+"\\N[27]「ちくしょう覚えてろ！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 265, Pos (0,0)
+msgid ""
+"\\N[27]あなたは無言でこの場を去った。\n"
+"\n"
+"\\N[27]何も見なかったことにしよう。"
+msgstr ""
+
+#. ID 3, Page 1, Line 4, Pos (11,26)
+msgid ""
+"\\N[27]長い廊下を歩き続けた果てに、\n"
+"\\N[27]新たな領域に辿り着いた。"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (11,26)
+msgid ""
+"\\N[27]―\―\視界が白く閉ざされている。\n"
+"\\N[27]行く手には濃密な霧が渦巻いていた。\n"
+"\\N[27]冷たく湿った空気の中に、爽やかな香りが混じる。"
+msgstr ""
+
+#. ID 3, Page 1, Line 9, Pos (11,26)
+msgid ""
+"\\N[27]周囲の壁を確かめようとして、気付いた。\n"
+"\\N[27]ここは……森の中だ。\n"
+"\\N[27]石壁の代わりに、入り組んだ木々が通路を作っている。\n"
+"\\N[27]霧が薄くなった時には、頭上に夜空さえ見えた……。"
+msgstr ""
+
+#. ID 28, Page 1, Line 2, Pos (14,1)
+msgid ""
+"\\N[27]道は太い根のようなものの間を縫いながら、\n"
+"\\N[27]上り坂になって続いていた。\n"
+"\n"
+"\\N[27]かなり高い場所にまで登ってから、後ろを振り返る。"
+msgstr ""
+
+#. ID 28, Page 1, Line 11, Pos (14,1)
+msgid ""
+"\\N[27]見下ろすと、霧が晴れつつあった。\n"
+"\\N[27]森の全容を一望できる。\n"
+"\n"
+"\\N[27]夜空には満天の星がまたたいている―\―\。"
+msgstr ""
+
+#. ID 28, Page 1, Line 19, Pos (14,1)
+msgid ""
+"\\N[27]3日以内にチェックポイント間をクリア！\n"
+"\\N[27]ボーナスSPを3点獲得！"
+msgstr ""
+
+#. ID 28, Page 1, Line 24, Pos (14,1)
+msgid ""
+"\\N[27]チェックポイントをクリア！\n"
+"\\N[27]SPを2点獲得！"
+msgstr ""
+
+#. ID 29, Page 1, Line 2, Pos (14,21)
+msgid ""
+"\\N[27]……霧の中を迷っているうちに、\n"
+"\\N[27]また同じ場所に戻ってきてしまった。"
+msgstr ""
+
+#. ID 29, Page 1, Line 4, Pos (14,21)
+msgid ""
+"\\N[27]この森は一体どうなっているのだろうか？\n"
+"\\N[27]少し疲れてしまった。\n"
+"\\N[27]ちょうど良いことに、分かれ道のところに、\n"
+"\\N[27]一休みするのにうってつけの大木が生えている。"
+msgstr ""
+
+#. ID 29, Page 1, Line 8, Pos (14,21)
+#. Choice (2 options)
+msgid ""
+"休憩する\n"
+"立ち去る"
+msgstr ""
+
+#. ID 29, Page 1, Line 10, Pos (14,21)
+msgid "\\N[27]大木の根元に腰を下ろし、一休みすることにした。"
+msgstr ""
+
+#. ID 29, Page 1, Line 11, Pos (14,21)
+msgid ""
+"\\N[27]休んでいるうちに、だんだん眠くなってきて、\n"
+"\\N[27]まぶたが重くなる……。"
+msgstr ""
+
+#. ID 29, Page 1, Line 15, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「…………おい」"
+msgstr ""
+
+#. ID 29, Page 1, Line 17, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「おい、起きろ、若いの」"
+msgstr ""
+
+#. ID 29, Page 1, Line 20, Pos (14,21)
+msgid "\\N[27]声に起こされて目を開けたが、誰もいない。"
+msgstr ""
+
+#. ID 29, Page 1, Line 21, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「ここだ。お前の後ろだ」"
+msgstr ""
+
+#. ID 29, Page 1, Line 23, Pos (14,21)
+msgid ""
+"\\N[27]振り向いても、そこにあるのは大木だけだ。\n"
+"\n"
+"\\N[27]……木だ。\n"
+"\\N[27]喋っていたのは、この大木だ！"
+msgstr ""
+
+#. ID 29, Page 1, Line 27, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「そうだ、儂だ」"
+msgstr ""
+
+#. ID 29, Page 1, Line 29, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「道に迷っているようだが、\n"
+"\\N[27]　この霧は旅人を迷わせる魔法の霧。\n"
+"\\N[27]　道を知らなければ先へ進めんぞ」"
+msgstr ""
+
+#. ID 29, Page 1, Line 33, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「正しい道を知りたければ、\n"
+"\\N[27]　四人の小妖精に聞くことだ」"
+msgstr ""
+
+#. ID 29, Page 1, Line 36, Pos (14,21)
+#. ID 29, Page 2, Line 5, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「だが、四人の小妖精のうち\n"
+"\\N[27]　常に正しい事を言う正直者は一人だけ。\n"
+"\\N[27]　他は嘘つきで、逆の事しか言わない」"
+msgstr ""
+
+#. ID 29, Page 1, Line 40, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「いいか、正直者は一人だけ。\n"
+"\\N[27]　残りはみんな嘘つきだぞ！」"
+msgstr ""
+
+#. ID 29, Page 1, Line 43, Pos (14,21)
+msgid "\\N[27]言いたいことを言い終わると、大木はまた沈黙した。"
+msgstr ""
+
+#. ID 29, Page 2, Line 2, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「正しい道を知りたければ、四人の小妖精\n"
+"\\N[27]　を探して聞き出すことだ」"
+msgstr ""
+
+#. ID 29, Page 2, Line 9, Pos (14,21)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]「正直者は一人だけ。\n"
+"\\N[27]　残りはみんな嘘つき。\n"
+"\\N[27]　よく覚えておけ！」"
+msgstr ""
+
+#. ID 30, Page 1, Line 2, Pos (20,24)
+msgid ""
+"\\N[27]畑だ。\n"
+"\\N[27]何の変哲もない、普通の畑だ。\n"
+"\\N[27]異常といえば、こんな怪しい森の中に\n"
+"\\N[27]ある点くらいだろうか。"
+msgstr ""
+
+#. ID 30, Page 1, Line 8, Pos (20,24)
+#. Choice (2 options)
+msgid ""
+"畑の中に入る\n"
+"立ち去る"
+msgstr ""
+
+#. ID 30, Page 1, Line 10, Pos (20,24)
+msgid ""
+"\\N[27]怪しい森の中にある畑は、やはり怪しい畑だった。\n"
+"\n"
+"\\N[27]足を踏み入れた瞬間、畑の野菜たちが\n"
+"\\N[27]一斉に牙をむいた！"
+msgstr ""
+
+#. ID 30, Page 1, Line 23, Pos (20,24)
+msgid "\\N[27]野菜×8を手に入れた！"
+msgstr ""
+
+#. ID 30, Page 1, Line 25, Pos (20,24)
+msgid ""
+"\\N[27]野菜たちをぎたぎたにした。\n"
+"\\N[27]おかげで野菜を大量に手に入れることができた。\n"
+"\\N[27]大収穫だ。"
+msgstr ""
+
+#. ID 30, Page 2, Line 3, Pos (20,24)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]危険な野菜怪物たちが栽培されている畑だ。"
+msgstr ""
+
+#. ID 30, Page 2, Line 4, Pos (20,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"野菜を収穫する\n"
+"立ち去る"
+msgstr ""
+
+#. ID 30, Page 2, Line 7, Pos (20,24)
+msgid ""
+"\\N[27]畑に足を踏み入れた瞬間、野菜たちが\n"
+"\\N[27]一斉に牙をむいた！"
+msgstr ""
+
+#. ID 30, Page 2, Line 18, Pos (20,24)
+msgid "\\N[27]野菜を手に入れた！"
+msgstr ""
+
+#. ID 30, Page 2, Line 23, Pos (20,24)
+msgid ""
+"\\N[27]だが、畑の野菜はほとんど無くなっている。\n"
+"\\N[27]誰かに採り尽くされた後のようだ。"
+msgstr ""
+
+#. ID 31, Page 1, Line 3, Pos (19,16)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 2, Line 2, Pos (19,16)
+#. ID 31, Page 3, Line 3, Pos (19,16)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 4, Line 2, Pos (19,16)
+#. ID 31, Page 5, Line 2, Pos (19,16)
+msgid ""
+"\\N[27]森の中に泉が湧いていた。\n"
+"\\N[27]崖から清らかな水が流れ出て、池に注いでいる。"
+msgstr ""
+
+#. ID 31, Page 1, Line 5, Pos (19,16)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 3, Line 5, Pos (19,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"池を覗きこむ\n"
+"立ち去る"
+msgstr ""
+
+#. ID 31, Page 1, Line 7, Pos (19,16)
+#. ID 31, Page 3, Line 7, Pos (19,16)
+msgid "\\N[27]池の底を見ようと、身を乗り出して覗き込んだ。"
+msgstr ""
+
+#. ID 31, Page 1, Line 12, Pos (19,16)
+msgid ""
+"\\N[27]その拍子に、長剣を池の中に落としてしまった！\n"
+"\n"
+"\\N[27]すると……。"
+msgstr ""
+
+#. ID 31, Page 1, Line 19, Pos (19,16)
+#. ID 31, Page 3, Line 19, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 31, Page 1, Line 22, Pos (19,16)
+msgid ""
+"\\N[27]池の中から、美しい女性が姿をあらわした！\n"
+"\\N[27]彼女は、右手には長剣を、\n"
+"\\N[27]左手には銀の剣を持っていた。"
+msgstr ""
+
+#. ID 31, Page 1, Line 26, Pos (19,16)
+#. ID 31, Page 3, Line 26, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「……あなたが落としたのは、\n"
+"\\N[27]　どちら？」"
+msgstr ""
+
+#. ID 31, Page 1, Line 31, Pos (19,16)
+#. Choice (2 options)
+msgid ""
+"長剣\n"
+"銀の剣"
+msgstr ""
+
+#. ID 31, Page 1, Line 34, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「…………えらい」"
+msgstr ""
+
+#. ID 31, Page 1, Line 38, Pos (19,16)
+msgid ""
+"\\N[27]女性はうなずくと、長剣と銀の剣の両方を\n"
+"\\N[27]あなたに手渡した。\n"
+"\n"
+"\\N[27]銀の剣を手に入れた！"
+msgstr ""
+
+#. ID 31, Page 1, Line 43, Pos (19,16)
+msgid "\\N[27]気が付くと、女性は姿を消していた。"
+msgstr ""
+
+#. ID 31, Page 1, Line 50, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「……うそつき」"
+msgstr ""
+
+#. ID 31, Page 1, Line 53, Pos (19,16)
+msgid ""
+"\\N[27]女性はそう言うと、泉の中に姿を消した。\n"
+"\n"
+"\\N[27]長剣を失ってしまった……。"
+msgstr ""
+
+#. ID 31, Page 1, Line 61, Pos (19,16)
+#. ID 31, Page 3, Line 77, Pos (19,16)
+msgid "\\N[27]だが、特に何も見つからなかった。"
+msgstr ""
+
+#. ID 31, Page 3, Line 12, Pos (19,16)
+msgid ""
+"\\N[27]その拍子に、銀の剣を池の中に落としてしまった！\n"
+"\n"
+"\\N[27]すると……。"
+msgstr ""
+
+#. ID 31, Page 3, Line 22, Pos (19,16)
+msgid ""
+"\\N[27]池の中から、美しい女性が姿をあらわした！\n"
+"\\N[27]彼女は、右手には変わった形の突剣を、\n"
+"\\N[27]左手には、なぜかチクワを持っていた。"
+msgstr ""
+
+#. ID 31, Page 3, Line 31, Pos (19,16)
+#. Choice (3 options)
+msgid ""
+"銀の剣\n"
+"変わった形の突剣\n"
+"ちくわ"
+msgstr ""
+
+#. ID 31, Page 3, Line 34, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「……つまらない……」"
+msgstr ""
+
+#. ID 31, Page 3, Line 37, Pos (19,16)
+msgid ""
+"\\N[27]女性はそう言うと、銀の剣をあなたに返してから、\n"
+"\\N[27]泉の中に姿を消してしまった。"
+msgstr ""
+
+#. ID 31, Page 3, Line 42, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「そう…………」"
+msgstr ""
+
+#. ID 31, Page 3, Line 46, Pos (19,16)
+msgid ""
+"\\N[27]女性はうなずくと、変わった形の剣を\n"
+"\\N[27]あなたに手渡した。\n"
+"\n"
+"\\N[27]一角獣の剣を手に入れた！"
+msgstr ""
+
+#. ID 31, Page 3, Line 52, Pos (19,16)
+#. ID 31, Page 3, Line 69, Pos (19,16)
+msgid ""
+"\\N[27]気が付くと、女性は姿を消していた。\n"
+"\n"
+"\\N[27]銀の剣は失ってしまった。"
+msgstr ""
+
+#. ID 31, Page 3, Line 59, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「……腐らせないように気を付けて。\n"
+"\\N[27]　装備していないと、腐るから……」"
+msgstr ""
+
+#. ID 31, Page 3, Line 64, Pos (19,16)
+msgid ""
+"\\N[27]女性はそう言うと、チクワをあなたに手渡した。\n"
+"\n"
+"\\N[27]ちくわ×3を手に入れた！"
+msgstr ""
+
+#. ID 31, Page 6, Line 26, Pos (19,16)
+msgid "\\N[27]仙女を釣り上げた！"
+msgstr ""
+
+#. ID 31, Page 6, Line 28, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「…………釣られてしまった」"
+msgstr ""
+
+#. ID 31, Page 6, Line 30, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「仕方ないので、300Ｇで手助けします。\n"
+"\\N[27]　ただし、私はこの森から出られないから\n"
+"\\N[27]　気を付けて……」"
+msgstr ""
+
+#. ID 31, Page 6, Line 36, Pos (19,16)
+#. Choice (2 options)
+msgid ""
+"\\$仙女を雇う　300Ｇ\n"
+"断る"
+msgstr ""
+
+#. ID 31, Page 6, Line 44, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「……もう別の人が仲間になってる」"
+msgstr ""
+
+#. ID 31, Page 6, Line 53, Pos (19,16)
+msgid "\\N[27]\\$\\N[18]が仲間になった！"
+msgstr ""
+
+#. ID 31, Page 6, Line 58, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「……お金が足りない」"
+msgstr ""
+
+#. ID 31, Page 6, Line 66, Pos (19,16)
+msgid ""
+"\\N[27]仙女\n"
+"\\N[27]「そう……」"
+msgstr ""
+
+#. ID 31, Page 6, Line 69, Pos (19,16)
+msgid "\\N[27]仙女はずぶずぶと泉に戻っていった。"
+msgstr ""
+
+#. ID 32, Page 1, Line 2, Pos (4,20)
+msgid ""
+"\\N[27]森の中を小川がさらさらと流れていた。\n"
+"\\N[27]その脇には、小石だらけの河原が続いている。\n"
+"\n"
+"\\N[27]夜闇の中で水面が光っていた。"
+msgstr ""
+
+#. ID 32, Page 1, Line 6, Pos (4,20)
+msgid ""
+"\\N[27]河原を歩いていると、前方の薄暗がりの中に\n"
+"\\N[27]白い人影がいくつか見えた。\n"
+"\\N[27]馬に乗った若者たちだ。\n"
+"\\N[27]長身だが華奢で、長髪を風になびかせている。"
+msgstr ""
+
+#. ID 32, Page 1, Line 10, Pos (4,20)
+msgid ""
+"\\N[27]不思議な若者たちは、温かそうな衣類とマントで\n"
+"\\N[27]身を包んでいて、その全身がぼんやりと輝いていた。\n"
+"\\N[27]彼らはほがらかに談笑しながら馬を進めていたが、\n"
+"\\N[27]こちらに気付くと挨拶してきた。"
+msgstr ""
+
+#. ID 32, Page 1, Line 14, Pos (4,20)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「やあ。ごきげんよう、旅の方々！\n"
+"\\N[27]　それとも、ようこそお客人と言った方が\n"
+"\\N[27]　いいのかな？」"
+msgstr ""
+
+#. ID 32, Page 1, Line 19, Pos (4,20)
+#. Choice (3 options)
+msgid ""
+"挨拶を返す\n"
+"攻撃する\n"
+"逃げ出す"
+msgstr ""
+
+#. ID 32, Page 1, Line 21, Pos (4,20)
+msgid ""
+"\\N[27]あなたも挨拶をした。\n"
+"\\N[27]すると彼らは陽気に話をしてくる。"
+msgstr ""
+
+#. ID 32, Page 1, Line 23, Pos (4,20)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「こんな場所に、外の人間が来るように\n"
+"\\N[27]　なったのは久しぶりだよ。\n"
+"\\N[27]　数百年ぶりかな！」"
+msgstr ""
+
+#. ID 32, Page 1, Line 27, Pos (4,20)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「もし正しい道を知りたければ、\n"
+"\\N[27]　四人の小妖精から聞き出すといいよ」"
+msgstr ""
+
+#. ID 32, Page 1, Line 30, Pos (4,20)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「でも、四人の小妖精のうち\n"
+"\\N[27]　常に正しい事を言う正直者は一人だけ。\n"
+"\\N[27]　他のは嘘つきで、逆の事しか言わない」"
+msgstr ""
+
+#. ID 32, Page 1, Line 34, Pos (4,20)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「正直者は一人だけ。\n"
+"\\N[27]　残りはみんな嘘つき。\n"
+"\\N[27]　よく覚えておいて！」"
+msgstr ""
+
+#. ID 32, Page 1, Line 38, Pos (4,20)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「それと、城へ行くための橋は\n"
+"\\N[27]　堅物が守ってるから気を付けてね」"
+msgstr ""
+
+#. ID 32, Page 1, Line 41, Pos (4,20)
+msgid ""
+"\\N[27]それから、不思議な若者たちはあなたに別れを告げ、\n"
+"\\N[27]立ち去っていった。"
+msgstr ""
+
+#. ID 32, Page 1, Line 49, Pos (4,20)
+msgid ""
+"\\N[27]不思議な若者たちに攻撃した！\n"
+"\\N[27]すると……。"
+msgstr ""
+
+#. ID 32, Page 1, Line 51, Pos (4,20)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「乱暴\だな、君たちは！\n"
+"\\N[27]　さよなら！」"
+msgstr ""
+
+#. ID 32, Page 1, Line 56, Pos (4,20)
+msgid ""
+"\\N[27]一陣の風が吹き荒れる！\n"
+"\n"
+"\\N[27]風がやむと、すでに若者たちの姿はなかった……。"
+msgstr ""
+
+#. ID 32, Page 1, Line 63, Pos (4,20)
+msgid ""
+"\\N[27]若者たちに背を向けて、全速力で逃げ出した！\n"
+"\n"
+"\\N[27]彼らは追って来ないようだ。\n"
+"\\N[27]無事に逃げることができた。"
+msgstr ""
+
+#. ID 32, Page 2, Line 7, Pos (4,20)
+msgid ""
+"\\N[27]森の中を小川がさらさらと流れていた。\n"
+"\\N[27]その脇には、小石だらけの河原が続いている。\n"
+"\\N[27]夜闇の中で水面が光っていた。\n"
+"\\N[27]今はもう人影は見えない。"
+msgstr ""
+
+#. ID 33, Page 1, Line 2, Pos (8,18)
+msgid ""
+"\\N[27]木々の合間に広場があり、石の柱が輪を描く形で\n"
+"\\N[27]立てられていた。\n"
+"\n"
+"\\N[27]―\―\環状列石の内側では、小さな光が飛び回っている。"
+msgstr ""
+
+#. ID 33, Page 1, Line 9, Pos (8,18)
+msgid ""
+"\\N[27]近付いてみると、光っているのは、背に羽根の生えた\n"
+"\\N[27]小妖精たちだった。\n"
+"\\N[27]彼らは陽気に歌いながら、空中ではしゃぎ回っている。\n"
+"\\N[27]その人数は四人。"
+msgstr ""
+
+#. ID 33, Page 1, Line 13, Pos (8,18)
+msgid ""
+"\\N[27]パック\n"
+"\\N[27]「おや？　人間だ！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 15, Pos (8,18)
+msgid ""
+"\\N[27]プック\n"
+"\\N[27]「なにしに来たんだい？\n"
+"\\N[27]　道を聞きたいのかい？」"
+msgstr ""
+
+#. ID 33, Page 1, Line 18, Pos (8,18)
+msgid ""
+"\\N[27]ペック\n"
+"\\N[27]「僕なら正しい道を教えられるよ！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 20, Pos (8,18)
+msgid ""
+"\\N[27]ピック\n"
+"\\N[27]「違うよ、正しい道を教えられるのは\n"
+"\\N[27]　僕だよ！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 24, Pos (8,18)
+msgid "\\N[27]以前、不思議な木に聞いた話を思い出した。"
+msgstr ""
+
+#. ID 33, Page 1, Line 25, Pos (8,18)
+msgid ""
+"\\N[27]カシの木おやじ\n"
+"\\N[27]『いいか、正直者は一人だけ。\n"
+"\\N[27]　残りはみんな嘘つきだぞ！』"
+msgstr ""
+
+#. ID 33, Page 1, Line 31, Pos (8,18)
+msgid "\\N[27]以前、不思議な若者たちに聞いた話を思い出した。"
+msgstr ""
+
+#. ID 33, Page 1, Line 32, Pos (8,18)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]『正直者は一人だけ。\n"
+"\\N[27]　残りはみんな嘘つき。\n"
+"\\N[27]　よく覚えておいて！』"
+msgstr ""
+
+#. ID 33, Page 1, Line 43, Pos (8,18)
+#. Choice (4 options)
+msgid ""
+"「正直者は誰？」\n"
+"「森を抜ける道を教えて」\n"
+"　正直者を当てる\n"
+"　立ち去る"
+msgstr ""
+
+#. ID 33, Page 1, Line 45, Pos (8,18)
+#. ID 33, Page 1, Line 172, Pos (8,18)
+msgid ""
+"\\N[27]パック「僕は正直者だよ」\n"
+"\\N[27]プック「ピックは正直者だよ」\n"
+"\\N[27]ペック「プックは嘘つきだよ」\n"
+"\\N[27]ピック「ペックは嘘つきだよ」"
+msgstr ""
+
+#. ID 33, Page 1, Line 49, Pos (8,18)
+#. ID 33, Page 1, Line 57, Pos (8,18)
+msgid "\\N[27]正直者は一人だけだそうだが……？"
+msgstr ""
+
+#. ID 33, Page 1, Line 53, Pos (8,18)
+#. ID 33, Page 1, Line 179, Pos (8,18)
+msgid ""
+"\\N[27]パック「森に入って最初の分かれ道を左に行くんだ」\n"
+"\\N[27]プック「次は右に三回曲がって」\n"
+"\\N[27]ペック「そして右に三回曲がって」\n"
+"\\N[27]ピック「最後は右に行くんだ！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 62, Pos (8,18)
+msgid "\\N[27]正直者当てに挑戦できるのは一度だけだ。"
+msgstr ""
+
+#. ID 33, Page 1, Line 66, Pos (8,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]正直者当てに挑戦できるのは一度だけだ。\n"
+"\\N[27]それでも挑戦するか？"
+msgstr ""
+
+#. ID 33, Page 1, Line 68, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"挑戦する\n"
+"やめる"
+msgstr ""
+
+#. ID 33, Page 1, Line 70, Pos (8,18)
+msgid "\\N[27]四人の小妖精のうち、誰が正直者？"
+msgstr ""
+
+#. ID 33, Page 1, Line 72, Pos (8,18)
+#. Choice (4 options)
+msgid ""
+"パック\n"
+"プック\n"
+"ペック\n"
+"ピック"
+msgstr ""
+
+#. ID 33, Page 1, Line 76, Pos (8,18)
+#. ID 33, Page 1, Line 89, Pos (8,18)
+#. ID 33, Page 1, Line 122, Pos (8,18)
+msgid ""
+"\\N[27]小妖精\n"
+"\\N[27]「はずれー！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 78, Pos (8,18)
+msgid ""
+"\\N[27]小妖精\n"
+"\\N[27]「罰として、今から君は\\C[5]ちくわ人間\\C[0]だ！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 80, Pos (8,18)
+#. ChangeHeroTitle (Actor 1)
+#. ID 33, Page 1, Line 81, Pos (8,18)
+#. ChangeHeroTitle (Actor 2)
+#. ID 33, Page 1, Line 82, Pos (8,18)
+#. ChangeHeroTitle (Actor 3)
+#. ID 33, Page 1, Line 83, Pos (8,18)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "ちくわ人間"
+msgstr ""
+
+#. ID 33, Page 1, Line 84, Pos (8,18)
+msgid "\\N[27]\\N[\\V[2]]は\\C[5]ちくわ人間\\C[0]になってしまった！"
+msgstr ""
+
+#. ID 33, Page 1, Line 91, Pos (8,18)
+msgid ""
+"\\N[27]小妖精\n"
+"\\N[27]「罰として、今から君は\n"
+"\\N[27]　\\C[5]うおのめ戦士\\C[0]だ！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 94, Pos (8,18)
+#. ChangeHeroTitle (Actor 1)
+#. ID 33, Page 1, Line 95, Pos (8,18)
+#. ChangeHeroTitle (Actor 2)
+#. ID 33, Page 1, Line 96, Pos (8,18)
+#. ChangeHeroTitle (Actor 3)
+#. ID 33, Page 1, Line 97, Pos (8,18)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "うおのめ戦士"
+msgstr ""
+
+#. ID 33, Page 1, Line 98, Pos (8,18)
+msgid "\\N[27]\\N[\\V[2]]は\\C[5]うおのめ戦士\\C[0]になってしまった！"
+msgstr ""
+
+#. ID 33, Page 1, Line 103, Pos (8,18)
+msgid ""
+"\\N[27]ペック\n"
+"\\N[27]「あたり！　あたりだよ！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 107, Pos (8,18)
+msgid "SPを2点獲得！"
+msgstr ""
+
+#. ID 33, Page 1, Line 109, Pos (8,18)
+msgid ""
+"\\N[27]ペック\n"
+"\\N[27]「ご褒美にいいこと教えてあげる！\n"
+"\\N[27]　仙女の泉で釣りをしてごらん！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 112, Pos (8,18)
+msgid ""
+"\\N[27]そう言い残すと、小妖精たちは\n"
+"\\N[27]笑いながら飛び去っていった。"
+msgstr ""
+
+#. ID 33, Page 1, Line 124, Pos (8,18)
+msgid ""
+"\\N[27]小妖精\n"
+"\\N[27]「罰として、今から君は\n"
+"\\N[27]　\\C[5]ラブラブプリンセス\\C[0]だ！」"
+msgstr ""
+
+#. ID 33, Page 1, Line 127, Pos (8,18)
+#. ChangeHeroTitle (Actor 1)
+#. ID 33, Page 1, Line 128, Pos (8,18)
+#. ChangeHeroTitle (Actor 2)
+#. ID 33, Page 1, Line 129, Pos (8,18)
+#. ChangeHeroTitle (Actor 3)
+#. ID 33, Page 1, Line 130, Pos (8,18)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "ﾗﾌﾞﾗﾌﾞﾌﾟﾘﾝｾｽ"
+msgstr ""
+
+#. ID 33, Page 1, Line 131, Pos (8,18)
+msgid ""
+"\\N[27]\\N[\\V[2]]は\\C[5]ラブラブプリンセス\\C[0]に\n"
+"\\N[27]なってしまった！"
+msgstr ""
+
+#. ID 33, Page 1, Line 135, Pos (8,18)
+msgid "\\N[27]挑戦をやめた。"
+msgstr ""
+
+#. ID 33, Page 1, Line 139, Pos (8,18)
+msgid "\\N[27]小妖精たちは、笑いながら飛び去っていった。"
+msgstr ""
+
+#. ID 33, Page 1, Line 170, Pos (8,18)
+#. Choice (3 options)
+msgid ""
+"「正直者は誰？」\n"
+"「森を抜ける道を教えて」\n"
+"　立ち去る"
+msgstr ""
+
+#. ID 33, Page 2, Line 6, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "\\>環状列石の中心で光がゆらめいている。"
+msgstr ""
+
+#. ID 33, Page 2, Line 7, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>光の中に入る\n"
+"\\>引き返す"
+msgstr ""
+
+#. ID 34, Page 1, Line 2, Pos (4,7)
+msgid ""
+"\\N[27]分かれ道のところに、人の形をした何かが立っていた。\n"
+"\n"
+"\\N[27]全身泥まみれで、ぴくりとも動かず、\n"
+"\\N[27]ただの人間ではないようだが……。"
+msgstr ""
+
+#. ID 34, Page 1, Line 8, Pos (4,7)
+#. Choice (3 options)
+msgid ""
+"話しかける\n"
+"攻撃する\n"
+"引き返す"
+msgstr ""
+
+#. ID 34, Page 1, Line 10, Pos (4,7)
+msgid ""
+"\\N[27]話しかけると、人影は急にこちらに向き直り、\n"
+"\\N[27]問答無用で襲いかかってきた！"
+msgstr ""
+
+#. ID 34, Page 1, Line 23, Pos (4,7)
+msgid "\\N[27]おかしな人影に先制攻撃を仕掛けた！"
+msgstr ""
+
+#. ID 34, Page 1, Line 38, Pos (4,7)
+msgid ""
+"\\N[27]泥人間を倒した。\n"
+"\\N[27]これで先に進むことができる。"
+msgstr ""
+
+#. ID 34, Page 1, Line 41, Pos (4,7)
+msgid ""
+"\\N[27]魔法の鍵を手に入れた！\n"
+"\\N[27]頑健の秘薬を手に入れた！"
+msgstr ""
+
+#. ID 34, Page 2, Line 7, Pos (4,7)
+msgid ""
+"\\N[27]道は、森の途中で左右に分かれていた。\n"
+"\\N[27]周囲は泥でぬかるんでいる。"
+msgstr ""
+
+#. ID 35, Page 1, Line 3, Pos (6,11)
+msgid "\\N[27]小屋に近付くと、中から怪物たちが飛び出してきた！"
+msgstr ""
+
+#. ID 35, Page 1, Line 4, Pos (6,11)
+msgid ""
+"\\N[27]老婆\n"
+"\\N[27]「のこのこと、また来おったかあ！！」"
+msgstr ""
+
+#. ID 35, Page 1, Line 11, Pos (6,11)
+#. ID 35, Page 1, Line 88, Pos (6,11)
+#. ID 35, Page 1, Line 110, Pos (6,11)
+msgid ""
+"\\N[27]小屋から逃げ出した！\n"
+"\\N[27]背後から怪物たちの怒りの声が聞こえる……。"
+msgstr ""
+
+#. ID 35, Page 1, Line 20, Pos (6,11)
+msgid ""
+"\\N[27]木々の合間に光が見えた。\n"
+"\\N[27]近付いてみると、小屋が一軒建っているのを見つけた。\n"
+"\\N[27]窓から光が漏れている。"
+msgstr ""
+
+#. ID 35, Page 1, Line 25, Pos (6,11)
+#. Choice (3 options)
+msgid ""
+"扉を叩く\n"
+"窓から覗く\n"
+"立ち去る"
+msgstr ""
+
+#. ID 35, Page 1, Line 27, Pos (6,11)
+msgid ""
+"\\N[27]扉をノックすると、中から\n"
+"\\N[27]「は～～～い」としわがれ声が聞こえた。"
+msgstr ""
+
+#. ID 35, Page 1, Line 29, Pos (6,11)
+msgid ""
+"\\N[27]……しばらく待つと、扉が開いて、\n"
+"\\N[27]やけに大柄な老婆が姿を見せる。"
+msgstr ""
+
+#. ID 35, Page 1, Line 31, Pos (6,11)
+msgid ""
+"\\N[27]老婆\n"
+"\\N[27]「あらあらまあ、ようこそいらっしゃい。\n"
+"\\N[27]　お客様じゃな！」"
+msgstr ""
+
+#. ID 35, Page 1, Line 34, Pos (6,11)
+msgid ""
+"\\N[27]老婆\n"
+"\\N[27]「こんな森の中、道に迷って困るじゃろ。\n"
+"\\N[27]　うちに泊まってらっしゃいな！\n"
+"\\N[27]　ゆっくり休めば体力回復ですわい！」"
+msgstr ""
+
+#. ID 35, Page 1, Line 40, Pos (6,11)
+#. Choice (3 options)
+msgid ""
+"泊めてもらう\n"
+"断って立ち去る\n"
+"攻撃する"
+msgstr ""
+
+#. ID 35, Page 1, Line 42, Pos (6,11)
+msgid ""
+"\\N[27]老婆\n"
+"\\N[27]「喜んで歓迎しますわよ！\n"
+"\\N[27]　さあさあ、中へ中へ！」"
+msgstr ""
+
+#. ID 35, Page 1, Line 46, Pos (6,11)
+msgid ""
+"\\N[27]小屋の中で、老婆の歓待を受けた。\n"
+"\\N[27]ふるまわれた薬草入りの温かいシチューを食べてから、\n"
+"\\N[27]ゆっくり休息して傷の手当てをする。"
+msgstr ""
+
+#. ID 35, Page 1, Line 49, Pos (6,11)
+msgid ""
+"\\N[27]それから、老婆が小屋の奥に用意してくれた寝床で\n"
+"\\N[27]寝ることにした。\n"
+"\n"
+"\\N[27]目を閉じて、眠りにつく―\―\。"
+msgstr ""
+
+#. ID 35, Page 1, Line 61, Pos (6,11)
+msgid ""
+"\\N[27]―\―\嫌な気配を感じて、飛び起きた。\n"
+"\n"
+"\\N[27]寝床のそばに、老婆が包丁をぶら下げて立っている。"
+msgstr ""
+
+#. ID 35, Page 1, Line 67, Pos (6,11)
+msgid "\\N[27]眠っているあなたに、大きな影が包丁を振り下ろした！"
+msgstr ""
+
+#. ID 35, Page 1, Line 74, Pos (6,11)
+msgid ""
+"\\N[27]しかし急所は外れ、すぐに目を覚ましたあなたは、\n"
+"\\N[27]影を蹴り飛ばして寝床から転がり出る。"
+msgstr ""
+
+#. ID 35, Page 1, Line 78, Pos (6,11)
+msgid ""
+"\\N[27]老婆\n"
+"\\N[27]「……おやまあ。眠ったままでいれば、\n"
+"\\N[27]　楽に死なせてやったものを。\n"
+"\\N[27]　悪い子だね！」"
+msgstr ""
+
+#. ID 35, Page 1, Line 98, Pos (6,11)
+msgid "\\N[27]老婆に別れを告げ、この場を去った。"
+msgstr ""
+
+#. ID 35, Page 1, Line 103, Pos (6,11)
+msgid ""
+"\\N[27]老婆\n"
+"\\N[27]「儂の正体、見破られたかい！」"
+msgstr ""
+
+#. ID 35, Page 1, Line 122, Pos (6,11)
+msgid ""
+"\\N[27]窓から中を覗くと……。\n"
+"\n"
+"\\N[27]醜い、巨体の怪物が、にたにた笑いながら\n"
+"\\N[27]大きな包丁を研いでいた。"
+msgstr ""
+
+#. ID 35, Page 1, Line 139, Pos (6,11)
+msgid ""
+"\\N[27]老婆に化けていた怪物を倒した。\n"
+"\n"
+"\\N[27]小屋の中を調べると、いくつかの品物を発見できた。"
+msgstr ""
+
+#. ID 35, Page 1, Line 143, Pos (6,11)
+msgid ""
+"\\N[27]厚手のカウルを手に入れた！\n"
+"\\N[27]毛皮の帽子を手に入れた！\n"
+"\\N[27]魚介鍋を手に入れた！\n"
+"\\N[27]聖木を手に入れた！"
+msgstr ""
+
+#. ID 35, Page 2, Line 7, Pos (6,11)
+msgid ""
+"\\N[27]小屋が一軒建っている。\n"
+"\\N[27]内部は戦いの跡で荒れ果てていた。"
+msgstr ""
+
+#. ID 36, Page 1, Line 3, Pos (20,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]道の真ん中に、獣の足跡が残っているのを見つけた。\n"
+"\\N[27]狩猟の技術があれば後を追うことができるだろう。"
+msgstr ""
+
+#. ID 36, Page 1, Line 5, Pos (20,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"足跡を追跡する\n"
+"立ち去る"
+msgstr ""
+
+#. ID 36, Page 1, Line 9, Pos (20,11)
+msgid "\\N[27]獣の足跡は、北西へと続いている……。"
+msgstr ""
+
+#. ID 36, Page 1, Line 13, Pos (20,11)
+msgid "\\N[27]足跡を途中で見失ってしまった……。"
+msgstr ""
+
+#. ID 36, Page 2, Line 7, Pos (20,11)
+msgid ""
+"\\N[27]森の中の小道だ。\n"
+"\n"
+"\\N[27]白い生き物が木々の間に見えた気がしたが、\n"
+"\\N[27]もう何もいない。"
+msgstr ""
+
+#. ID 37, Page 1, Line 2, Pos (12,10)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]霧の中を流れる渓流の上に、吊り橋がかかっている。"
+msgstr ""
+
+#. ID 37, Page 1, Line 5, Pos (12,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]橋を渡る\n"
+"\\N[27]引き返す"
+msgstr ""
+
+#. ID 37, Page 1, Line 11, Pos (12,10)
+msgid ""
+"\\N[27]橋を渡ろうとすると、目の前の地面に\n"
+"\\N[27]矢が突き刺さった！"
+msgstr ""
+
+#. ID 37, Page 1, Line 13, Pos (12,10)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「……ここより先は妖精王の領土。\n"
+"\\N[27]　先に進むことは許さぬ」"
+msgstr ""
+
+#. ID 37, Page 1, Line 16, Pos (12,10)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「もし一歩でも進めば、\n"
+"\\N[27]　そなたの眉間を狙い撃つ。\n"
+"\\N[27]　立ち去れ、人間！」"
+msgstr ""
+
+#. ID 37, Page 1, Line 20, Pos (12,10)
+msgid ""
+"\\N[27]美しい声が、前方の霧の中から聞こえてくる。\n"
+"\\N[27]どうやら対岸から狙われているようだ。\n"
+"\\N[27]橋を渡ろうとすれば、矢を浴びせられるだろう。\n"
+"\\N[27]動きが素早ければ回避できるだろうが……。"
+msgstr ""
+
+#. ID 37, Page 1, Line 25, Pos (12,10)
+#. Choice (2 options)
+msgid ""
+"走って橋を渡る\n"
+"引き返す"
+msgstr ""
+
+#. ID 37, Page 1, Line 27, Pos (12,10)
+msgid ""
+"\\N[27]全速力で橋を渡る！\n"
+"\n"
+"\\N[27]矢が飛んできた！"
+msgstr ""
+
+#. ID 37, Page 1, Line 39, Pos (12,10)
+msgid "\\N[27]橋を渡りきり、待ちかまえていた妖精族に攻撃した！"
+msgstr ""
+
+#. ID 37, Page 1, Line 51, Pos (12,10)
+msgid ""
+"\\N[27]負傷した妖精族たちは、それでも抗おうとする。\n"
+"\n"
+"\\N[27]だが、遠くから風と共に鳥の声のような音が\n"
+"\\N[27]届くと、妖精族たちは顔色を変えた。"
+msgstr ""
+
+#. ID 37, Page 1, Line 55, Pos (12,10)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「なんと。\n"
+"\\N[27]　この者たちを通せと―\―\？」"
+msgstr ""
+
+#. ID 37, Page 1, Line 58, Pos (12,10)
+msgid ""
+"\\N[27]妖精族\n"
+"\\N[27]「くっ―\―\」"
+msgstr ""
+
+#. ID 37, Page 1, Line 60, Pos (12,10)
+msgid "\\N[27]口惜しそうな様子で、彼らは霧の中に姿を消した。"
+msgstr ""
+
+#. ID 37, Page 1, Line 62, Pos (12,10)
+msgid ""
+"\\N[27]妖精の弓を手に入れた！\n"
+"\\N[27]特上の傷薬を手に入れた！\n"
+"\\N[27]妖精の薄焼菓子×3を手に入れた！"
+msgstr ""
+
+#. ID 37, Page 2, Line 7, Pos (12,10)
+msgid "\\N[27]音をたてて流れる渓流に、吊り橋がかかっている。"
+msgstr ""
+
+#. ID 38, Page 1, Line 2, Pos (6,3)
+msgid ""
+"\\N[27]木々をかき分けて森の中に踏み入ると、\n"
+"\\N[27]開けた場所に白い大鹿が立っていて、\n"
+"\\N[27]こちらを見つめていた。"
+msgstr ""
+
+#. ID 38, Page 1, Line 6, Pos (6,3)
+#. Choice (3 options)
+msgid ""
+"攻撃する\n"
+"近付く\n"
+"引き返す"
+msgstr ""
+
+#. ID 38, Page 1, Line 21, Pos (6,3)
+msgid "\\N[27]白い大鹿は逃げ去っていった……。"
+msgstr ""
+
+#. ID 38, Page 1, Line 25, Pos (6,3)
+msgid "\\N[27]白い毛皮を手に入れた！"
+msgstr ""
+
+#. ID 38, Page 1, Line 36, Pos (6,3)
+msgid ""
+"\\N[27]近付くと、白い大鹿は飛び跳ねながら\n"
+"\\N[27]逃げ去っていった……。"
+msgstr ""
+
+#. ID 39, Page 1, Line 3, Pos (15,23)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]手ごろな太さの木々が生えている。\n"
+"\\N[27]森の奥に入れば薬草が採れそうだ。"
+msgstr ""
+
+#. ID 39, Page 1, Line 5, Pos (15,23)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]森で採取する\n"
+"\\N[27]木を伐採する"
+msgstr ""
+
+#. ID 39, Page 1, Line 7, Pos (15,23)
+msgid "\\N[27]採取するには\\C[6]生存術\\C[0]のスキルが必要だ。"
+msgstr ""
+
+#. ID 39, Page 1, Line 11, Pos (15,23)
+msgid "\\N[27]採取を始めた……。"
+msgstr ""
+
+#. ID 39, Page 1, Line 17, Pos (15,23)
+msgid "\\N[27]カブラ苔を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 23, Pos (15,23)
+msgid "\\N[27]クルカの葉を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 29, Pos (15,23)
+msgid "\\N[27]緑光黴を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 35, Pos (15,23)
+msgid "\\N[27]ムシクサダケを手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 41, Pos (15,23)
+msgid "\\N[27]トルキタの花を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 47, Pos (15,23)
+msgid "\\N[27]アセラスの葉を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 53, Pos (15,23)
+msgid "\\N[27]トカゲの糞を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 59, Pos (15,23)
+msgid "\\N[27]毒腺を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 65, Pos (15,23)
+msgid "\\N[27]燃える羽根を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 90, Pos (15,23)
+msgid "\\N[27]何も見つからなかった。"
+msgstr ""
+
+#. ID 39, Page 1, Line 94, Pos (15,23)
+#. Choice (2 options)
+msgid ""
+"\\N[27]もう一度採取する\n"
+"\\N[27]やめる"
+msgstr ""
+
+#. ID 39, Page 1, Line 103, Pos (15,23)
+msgid "\\N[27]必要なスキルを持つ者がいない。"
+msgstr ""
+
+#. ID 39, Page 1, Line 111, Pos (15,23)
+msgid "\\N[27]伐採を始めた。"
+msgstr ""
+
+#. ID 39, Page 1, Line 120, Pos (15,23)
+msgid "\\N[27]木材を手に入れた！"
+msgstr ""
+
+#. ID 39, Page 1, Line 125, Pos (15,23)
+msgid "\\N[27]うまく伐採できなかった。"
+msgstr ""
+
+#. ID 39, Page 1, Line 129, Pos (15,23)
+#. Choice (2 options)
+msgid ""
+"\\N[27]もう一度伐採する\n"
+"\\N[27]やめる"
+msgstr ""
+
+#. ID 39, Page 1, Line 138, Pos (15,23)
+msgid ""
+"\\N[27]木の伐採をするには、\n"
+"\\N[27]\\C[6]腕力\\C[0]か\\C[6]生存術\\C[0]のスキルを持つ者と\n"
+"\\N[27]\\C[6]斧類\\C[0]が必要だ。"
+msgstr ""
+
+#. ID 40, Page 1, Line 8, Pos (14,18)
+msgid ""
+"\\N[27]木の根元を掘ると、金貨の袋が出てきた！\n"
+"\\N[27]15000Ｇを手に入れた！"
+msgstr ""
+
+#. ID 40, Page 1, Line 10, Pos (14,18)
+msgid ""
+"\\N[27]生命の秘薬を手に入れた！\n"
+"\\N[27]精神の秘薬を手に入れた！\n"
+"\\N[27]敏捷の秘薬を手に入れた！"
+msgstr ""
+
+#. ID 42, Page 1, Line 3, Pos (12,20)
+msgid "\\N[27]木の幹に数字が刻まれていた。"
+msgstr ""
+
+#. ID 42, Page 1, Line 4, Pos (12,20)
+msgid ""
+"\\N[27]　　　\\C[6]『？１６\\C[0]\n"
+"\\N[27]　　　\\C[6]　３５？\\C[0]\n"
+"\\N[27]　　　\\C[6]　？？？』\\C[0]"
+msgstr ""
+

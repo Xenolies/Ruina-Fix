@@ -1,0 +1,1779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 15, Pos (0,1)
+#. ID 2, Page 1, Line 204, Pos (0,1)
+#. ID 2, Page 1, Line 210, Pos (0,1)
+#. ID 2, Page 1, Line 253, Pos (0,1)
+#. ID 2, Page 1, Line 259, Pos (0,1)
+msgid ""
+"\\N[27]街路が延々と続いている……。\n"
+"\n"
+"\\N[27]特に何も無いようだ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 23, Pos (0,1)
+msgid "\\N[27]……運悪く、崩れやすい場所を通ってしまったようだ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 28, Pos (0,1)
+msgid "\\N[27]落盤だ！"
+msgstr ""
+
+#. ID 2, Page 1, Line 32, Pos (0,1)
+msgid "\\N[27]足元の瓦礫が崩れ去った！"
+msgstr ""
+
+#. ID 2, Page 1, Line 35, Pos (0,1)
+msgid "\\N[27]まわりの壁が倒れてきた！"
+msgstr ""
+
+#. ID 2, Page 1, Line 55, Pos (0,1)
+msgid "\\N[27]廃墟の中を調べた。"
+msgstr ""
+
+#. ID 2, Page 1, Line 63, Pos (0,1)
+msgid "\\N[27]宝箱を見つけた！"
+msgstr ""
+
+#. ID 2, Page 1, Line 82, Pos (0,1)
+msgid "\\N[27]宝箱をあきらめた。"
+msgstr ""
+
+#. ID 2, Page 1, Line 87, Pos (0,1)
+#. ID 2, Page 1, Line 154, Pos (0,1)
+msgid "\\N[27]だが、何も見つからなかった。"
+msgstr ""
+
+#. ID 2, Page 1, Line 102, Pos (0,1)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]大きな瓦礫の下に、何かが埋まっているのが見える。"
+msgstr ""
+
+#. ID 2, Page 1, Line 103, Pos (0,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"瓦礫をどける\n"
+"立ち去る"
+msgstr ""
+
+#. ID 2, Page 1, Line 114, Pos (0,1)
+msgid "\\N[27]瓦礫をどかすことはできなかった。"
+msgstr ""
+
+#. ID 2, Page 1, Line 123, Pos (0,1)
+msgid ""
+"\\N[27]瓦礫だらけの空洞を歩き続けた。\n"
+"\n"
+"\\N[27]特に何も無いようだ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 133, Pos (0,1)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]遠くで光がまたたいている。"
+msgstr ""
+
+#. ID 2, Page 1, Line 134, Pos (0,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"光に近付く\n"
+"立ち去る"
+msgstr ""
+
+#. ID 2, Page 1, Line 139, Pos (0,1)
+msgid ""
+"\\N[27]廃墟の中に幽霊が立っていて、\n"
+"\\N[27]瓦礫の一箇所を指し示している。\n"
+"\\N[27]幽霊はすぐに、ふっと消えた。"
+msgstr ""
+
+#. ID 2, Page 1, Line 142, Pos (0,1)
+#. Choice (2 options)
+msgid ""
+"幽霊が指さした場所を調べる\n"
+"立ち去る"
+msgstr ""
+
+#. ID 2, Page 1, Line 144, Pos (0,1)
+msgid "\\N[27]瓦礫の中を調べた。"
+msgstr ""
+
+#. ID 2, Page 1, Line 165, Pos (0,1)
+#. ID 2, Page 1, Line 187, Pos (0,1)
+msgid ""
+"\\N[27]光り輝く虫や魚のようなものが、\n"
+"\\N[27]空中を飛び回っている。\n"
+"\\N[27]特に害はなさそうだ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 170, Pos (0,1)
+msgid "\\N[27]気が付くと、周囲を鬼火に取り囲まれていた！"
+msgstr ""
+
+#. ID 2, Page 1, Line 215, Pos (0,1)
+#. Contains choice at line 2 (2 options)
+#. ID 2, Page 1, Line 264, Pos (0,1)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]廃墟の奥で、地下への入り口を見つけた。"
+msgstr ""
+
+#. ID 2, Page 1, Line 217, Pos (0,1)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 266, Pos (0,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"中に入る\n"
+"立ち去る"
+msgstr ""
+
+#. ID 3, Page 1, Line 4, Pos (16,5)
+msgid ""
+"\\N[27]門から外に出ると、再び空気が一変した。\n"
+"\\N[27]目の前の広々とした洞窟は、生命の気配が希薄だ。\n"
+"\\N[27]物音ひとつしない。\n"
+"\\N[27]ただ足音だけが響く……。"
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (16,7)
+msgid ""
+"\\N[27]門に似たアーチをくぐると、不思議な大空洞に出た。\n"
+"\\N[27]壁は人口のもので、窓や戸口のような穴が開いている。\n"
+"\\N[27]しかし天井は岩盤で塞がれているらしく、\n"
+"\\N[27]頭上にはごつごつとした岩肌が見える。"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (16,7)
+msgid ""
+"\\N[27]それに規模が違う。今までも大きな広間や洞窟を\n"
+"\\N[27]通って来たが、目の前の空間はそれよりも広い。\n"
+"\\N[27]まるで地中に堕とされた都市であるかのようだ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 11, Pos (16,7)
+msgid "\\N[27]地底の街路は複雑に枝分かれして、東西へ延びていた。"
+msgstr ""
+
+#. ID 4, Page 2, Line 9, Pos (16,7)
+msgid ""
+"\\N[27]廃墟と化した地下都市が広がっている。\n"
+"\n"
+"\\N[27]大きな広場の東西に、街路が続いていた。"
+msgstr ""
+
+#. ID 4, Page 3, Line 5, Pos (16,7)
+#. Contains choice at line 2 (2 options)
+msgid "\\>広場の中心で、光がゆらめいている。"
+msgstr ""
+
+#. ID 4, Page 3, Line 6, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>光の中に入る\n"
+"\\>引き返す"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (9,10)
+msgid ""
+"\\N[27]地下の街路を進むうちに、開けた場所に出た。\n"
+"\\N[27]複数の道の交差点に位置する広場のような場所だ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 4, Pos (9,10)
+msgid ""
+"\\N[27]この広場の中心には、黒い石柱が立てられていた。\n"
+"\\N[27]先端が四角錐状になった柱―\―\オベリスクだ。"
+msgstr ""
+
+#. ID 7, Page 1, Line 9, Pos (9,10)
+msgid ""
+"\\N[27]オベリスクの根元が、すみれ色に輝いている。\n"
+"\n"
+"\\N[27]石柱の基部が内側からの光で透けていて、\n"
+"\\N[27]その中に小さな人影が閉じ込められているのが見える。"
+msgstr ""
+
+#. ID 7, Page 1, Line 13, Pos (9,10)
+msgid ""
+"\\N[27]近付いて良く見てみると、子供の彫像だ。\n"
+"\\N[27]幼い少年をかたどった像が、輝く石の中に\n"
+"\\N[27]封じられている。"
+msgstr ""
+
+#. ID 7, Page 1, Line 17, Pos (9,10)
+#. Choice (2 options)
+msgid ""
+"オベリスクに触れる\n"
+"引き返す"
+msgstr ""
+
+#. ID 7, Page 1, Line 20, Pos (9,10)
+msgid "\\N[27]この先へ進む前に、一度町に戻って休むことにしよう。"
+msgstr ""
+
+#. ID 7, Page 1, Line 26, Pos (9,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]※この先に進むと、当分のあいだ\n"
+"\\N[27]　町に戻ることができなくなります。"
+msgstr ""
+
+#. ID 7, Page 1, Line 28, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"　先へ進む\n"
+"　引き返す"
+msgstr ""
+
+#. ID 7, Page 1, Line 30, Pos (9,10)
+msgid ""
+"\\N[27]引き寄せられるように、オベリスクの表\面に\n"
+"\\N[27]手を触れた。"
+msgstr ""
+
+#. ID 7, Page 1, Line 32, Pos (9,10)
+msgid ""
+"\\N[27]なんの抵抗もなく、手が石の内部に吸い込まれる！\n"
+"\n"
+"\\N[27]景色が暗転する……。"
+msgstr ""
+
+#. ID 7, Page 1, Line 68, Pos (9,10)
+msgid ""
+"\n"
+"\\N[27]　　　　　　\\S[7]ここは……どこだ…………？"
+msgstr ""
+
+#. ID 7, Page 1, Line 86, Pos (9,10)
+msgid ""
+"\\N[27]気が付くと見知らぬ街角に立っていた。\n"
+"\n"
+"\\N[27]広場を行き交う人々の姿、話し声、走る荷馬車……。\n"
+"\\N[27]街は賑わっていた。空は青く、日射しが強い。"
+msgstr ""
+
+#. ID 7, Page 1, Line 90, Pos (9,10)
+msgid ""
+"\\N[27]なぜだろう？\n"
+"\\N[27]始めて見た街のはずなのに、\n"
+"\\N[27]懐かしさが胸から溢れ出る。\n"
+"\\N[27]まるで故郷に帰ってきたかのような―\―\。"
+msgstr ""
+
+#. ID 7, Page 1, Line 96, Pos (9,10)
+msgid ""
+"\\N[27]少年\n"
+"\\N[27]「っと！？」"
+msgstr ""
+
+#. ID 7, Page 1, Line 99, Pos (9,10)
+msgid ""
+"\\N[27]誰かとぶつかった。\n"
+"\n"
+"\\N[27]あの、石の中に封じられた像と同じ顔をした少年が、\n"
+"\\N[27]驚きの表\情であなたを見上げていた。"
+msgstr ""
+
+#. ID 7, Page 1, Line 103, Pos (9,10)
+msgid ""
+"\\N[27]少年の服装は、簡素なシャツと帯を\n"
+"\\N[27]組み合わせただけの軽装で、独特なものだった。\n"
+"\\N[27]よく見れば、周囲の人々も同じような服を着ている。\n"
+"\\N[27]見慣れぬ習俗だ。ここは、どこの土地なのだろうか？"
+msgstr ""
+
+#. ID 7, Page 1, Line 108, Pos (9,10)
+msgid ""
+"\\N[27]市民兵\n"
+"\\N[27]「いたぞ！」"
+msgstr ""
+
+#. ID 7, Page 1, Line 111, Pos (9,10)
+msgid ""
+"\\N[27]市民兵\n"
+"\\N[27]「大人しくしろ、この小僧っ」"
+msgstr ""
+
+#. ID 7, Page 1, Line 114, Pos (9,10)
+msgid ""
+"\\N[27]その時、数人の武装した兵士たちがやって来て、\n"
+"\\N[27]少年を捕らえようとした。"
+msgstr ""
+
+#. ID 7, Page 1, Line 117, Pos (9,10)
+msgid ""
+"\\N[27]だが少年は、手を伸ばしてくる兵士たちから\n"
+"\\N[27]素早く逃れて、近くの路地に飛び込んだ。\n"
+"\\N[27]兵士らがその後を追う。\n"
+"\\N[27]そのまま姿が見えなくなった……。"
+msgstr ""
+
+#. ID 7, Page 1, Line 122, Pos (9,10)
+msgid ""
+"\\N[27]※地上に戻るまでの間は、この都市でセーブや回復を\n"
+"\\N[27]　行うことができます。"
+msgstr ""
+
+#. ID 7, Page 2, Line 6, Pos (9,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]オベリスクの基部がすみれ色に輝いている。\n"
+"\\N[27]その内部には幼い少年の像が封じられていた。"
+msgstr ""
+
+#. ID 7, Page 2, Line 8, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 10, Pos (20,21)
+#. Choice (2 options)
+#. ID 29, Page 1, Line 9, Pos (1,16)
+#. Choice (2 options)
+msgid ""
+"\\N[27]オベリスクに触れる\n"
+"\\N[27]引き返す"
+msgstr ""
+
+#. ID 9, Page 1, Line 2, Pos (6,11)
+msgid ""
+"\\N[27]……目が覚めると、また見知らぬ場所にいた。\n"
+"\\N[27]瓦礫と土砂の隙間にできた空洞だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (6,11)
+msgid ""
+"\\N[27]眠ってる間に、何があったのだろう？\n"
+"\\N[27]まるで埋葬されたような気分だ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (6,11)
+msgid ""
+"\\N[27]幸運なことに、閉じ込められたわけではないようで、\n"
+"\\N[27]別の場所への通路を見つけることができた。"
+msgstr ""
+
+#. ID 9, Page 2, Line 7, Pos (6,11)
+msgid ""
+"\\N[27]瓦礫が幾重にも積み重なり、その隙間に\n"
+"\\N[27]狭い通路が開いている。\n"
+"\\N[27]ここは袋小路になっていて、先へは進めないようだ。"
+msgstr ""
+
+#. ID 10, Page 1, Line 2, Pos (12,21)
+msgid ""
+"\\N[27]洞窟は途中で急な下り坂になり、そこを降りると、\n"
+"\\N[27]広大な空洞に出た。\n"
+"\\N[27]地面は砂漠のように平坦に広がっている。"
+msgstr ""
+
+#. ID 10, Page 1, Line 5, Pos (12,21)
+msgid ""
+"\\N[27]―\―\平らな砂地に、奇怪な生き物が蠢いていた。\n"
+"\\N[27]混沌の中から生まれ出たかのような、未分化な姿。\n"
+"\\N[27]太古の海に棲む生物のように、幾本もの手足で\n"
+"\\N[27]ゆっくり蠕動しながら移動している。"
+msgstr ""
+
+#. ID 10, Page 1, Line 11, Pos (12,21)
+#. Choice (2 options)
+msgid ""
+"怪生物に近付く\n"
+"引き返す"
+msgstr ""
+
+#. ID 10, Page 1, Line 13, Pos (12,21)
+msgid ""
+"\\N[27]生き物に近付くと、向こうもあなたを察知したようだ。\n"
+"\\N[27]でたらめに生えた手足をざわめかせ、速度を上げて\n"
+"\\N[27]こちらに這い寄ってきた！"
+msgstr ""
+
+#. ID 10, Page 1, Line 31, Pos (12,21)
+msgid ""
+"\\N[27]異貌の兜を手に入れた！\n"
+"\\N[27]血染めの木片を手に入れた！\n"
+"\\N[27]古代の銅貨×3を手に入れた！"
+msgstr ""
+
+#. ID 10, Page 1, Line 38, Pos (12,21)
+#. ID 18, Page 1, Line 46, Pos (19,19)
+msgid "\\N[27]ツルハシを手に入れた！"
+msgstr ""
+
+#. ID 10, Page 1, Line 46, Pos (12,21)
+msgid ""
+"\\N[27]奇怪な生物を倒した。\n"
+"\\N[27]怪生物は、いくつもの小生物に分裂しながら\n"
+"\\N[27]散り散りに逃げていった。"
+msgstr ""
+
+#. ID 10, Page 1, Line 51, Pos (12,21)
+msgid ""
+"\\N[27]その後、砂地を調べると、あの怪生物が\n"
+"\\N[27]這いずってきた痕跡を見つけた。\n"
+"\\N[27]それを辿って南東に進むと、行く手は崖に\n"
+"\\N[27]遮られていた。"
+msgstr ""
+
+#. ID 10, Page 1, Line 55, Pos (12,21)
+msgid ""
+"\\N[27]下方の暗闇から、轟々と水の流れる音が聞こえる。\n"
+"\\N[27]対岸は見えない。\n"
+"\\N[27]この崖の向こうに行くのは無理のようだ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 2, Pos (12,21)
+msgid ""
+"\\N[27]平らな砂地を進むと、行く手を崖に遮られた。\n"
+"\\N[27]下方の暗闇から、轟々と水の流れる音が聞こえる。\n"
+"\\N[27]対岸は見えない。\n"
+"\\N[27]この崖の向こうに行くのは無理のようだ。"
+msgstr ""
+
+#. ID 10, Page 2, Line 9, Pos (12,21)
+msgid ""
+"\\N[27]……崖の下の暗闇を覗き込んでいると、奇怪な生物が\n"
+"\\N[27]闇から這い上がってきた！"
+msgstr ""
+
+#. ID 10, Page 3, Line 21, Pos (12,21)
+#. ID 18, Page 3, Line 22, Pos (19,19)
+msgid "\\N[27]何も釣れなかった。"
+msgstr ""
+
+#. ID 10, Page 3, Line 24, Pos (12,21)
+#. ID 18, Page 3, Line 25, Pos (19,19)
+msgid "\\N[27]異形の怪物が釣れてしまった！"
+msgstr ""
+
+#. ID 11, Page 1, Line 8, Pos (15,17)
+msgid ""
+"\\N[27]階段状の登り斜面を上へと進んだ。\n"
+"\\N[27]洞窟の天井は低く、しゃがまなければ\n"
+"\\N[27]歩くことができないほどだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 11, Pos (15,17)
+msgid ""
+"\\N[27]斜面を登り終えると、広い洞窟に出た。\n"
+"\\N[27]円柱の列が天井の岩盤を支えている。\n"
+"\\N[27]古代の神殿跡のようだ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 17, Pos (15,17)
+msgid ""
+"\\N[27]―\―\神殿跡の中心には、石で作られた大きな水盤が\n"
+"\\N[27]残っている。聖なる場所だ。"
+msgstr ""
+
+#. ID 11, Page 1, Line 23, Pos (15,17)
+#. Choice (2 options)
+msgid ""
+"\\N[27]称号のレベルアップをする\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 11, Page 1, Line 33, Pos (15,17)
+#. Choice (4 options)
+msgid ""
+"\\N[27]休息する\n"
+"\\N[27]セーブする\n"
+"\\N[27]称号のレベルアップをする\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 11, Page 1, Line 36, Pos (15,17)
+msgid "\\N[27]神殿跡にキャンプを張った。"
+msgstr ""
+
+#. ID 11, Page 1, Line 44, Pos (15,17)
+msgid "\\>\\V[31]日目　王国歴???年　??月　??日\\<"
+msgstr ""
+
+#. ID 11, Page 1, Line 47, Pos (15,17)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※大事なデータに上書きしないよう注意して下さい。"
+msgstr ""
+
+#. ID 11, Page 1, Line 48, Pos (15,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]　キャンセル\n"
+"\\N[27]　セーブする"
+msgstr ""
+
+#. ID 11, Page 2, Line 10, Pos (15,17)
+#. ID 11, Page 3, Line 9, Pos (15,17)
+msgid ""
+"階段状の登り斜面を上へと進んだ。\n"
+"洞窟の天井は低く、しゃがまなければ\n"
+"歩くことができないほどだ。"
+msgstr ""
+
+#. ID 11, Page 2, Line 13, Pos (15,17)
+#. ID 11, Page 3, Line 12, Pos (15,17)
+msgid ""
+"斜面を登り終えると、広い洞窟に出た。\n"
+"円柱の列が天井の岩盤を支えている。\n"
+"どうやらこの空間は古代の神殿跡のようだ。"
+msgstr ""
+
+#. ID 11, Page 2, Line 19, Pos (15,17)
+msgid ""
+"―\―\神殿跡の中心には、石で作られた大きな水盤が\n"
+"残っていて、清らかな水で満ちている。\n"
+"ここは聖なる場所のようだ。\n"
+"もし望むなら安全に休息と記録をすることができる。"
+msgstr ""
+
+#. ID 11, Page 2, Line 24, Pos (15,17)
+#. Choice (2 options)
+msgid ""
+"休息する\n"
+"立ち去る"
+msgstr ""
+
+#. ID 11, Page 2, Line 32, Pos (15,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\V[31]日目　王国歴???年　??月　??日\\<\n"
+"※記録しますか？（上書き非推奨）"
+msgstr ""
+
+#. ID 11, Page 2, Line 34, Pos (15,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"　記録する\n"
+"　立ち去る"
+msgstr ""
+
+#. ID 11, Page 2, Line 43, Pos (15,17)
+msgid "\\>\\V[31]日目　王国歴\\V[32]年　\\V[33]月　\\V[34]日\\<"
+msgstr ""
+
+#. ID 11, Page 3, Line 18, Pos (15,17)
+msgid ""
+"神殿跡の中心には、二つに割れた石の水盤が\n"
+"転がっている。\n"
+"正体の知れない誰かが、この神殿跡を\n"
+"荒らしていったらしい。"
+msgstr ""
+
+#. ID 11, Page 3, Line 22, Pos (15,17)
+msgid "もうここで休息することはできそうにない。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (15,15)
+msgid ""
+"\\N[27]東西に延びる通路を進んだ。\n"
+"\\N[27]道は途中で北へ分岐し、その先は幅の広い\n"
+"\\N[27]登り階段になっている。"
+msgstr ""
+
+#. ID 12, Page 1, Line 10, Pos (15,15)
+msgid ""
+"\\N[27]だが、階段は途中で土砂に塞がれていた。\n"
+"\\N[27]このまま東西の通路を進むしかないようだ。"
+msgstr ""
+
+#. ID 12, Page 2, Line 7, Pos (15,15)
+msgid ""
+"\\N[27]通路が東西に延びている。\n"
+"\\N[27]道は途中で北へ分岐し、その先は幅の広い\n"
+"\\N[27]登り階段になっているが、そちらは途中で\n"
+"\\N[27]土砂に塞がれていた。"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (22,10)
+msgid ""
+"\\N[27]道を進むうちに広場に出た。\n"
+"\\N[27]周囲には開口部がいくつも開いてるが、壁はほぼ直線で\n"
+"\\N[27]広場全体の形は方形に近い。\n"
+"\\N[27]そして広場の南側には、黒いオベリスクが立っている。"
+msgstr ""
+
+#. ID 13, Page 1, Line 13, Pos (22,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]黒いオベリスクの根元が、すみれ色の光を放っている。\n"
+"\\N[27]透ける石の内部には幼い少女の像が封じられていた。"
+msgstr ""
+
+#. ID 13, Page 1, Line 15, Pos (22,10)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 10, Pos (27,5)
+#. Choice (2 options)
+#. ID 27, Page 1, Line 14, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]オベリスクに触れる\n"
+"\\N[27]別の場所へ行く"
+msgstr ""
+
+#. ID 13, Page 1, Line 41, Pos (22,10)
+msgid ""
+"\\N[27]目が覚めると、再び見知らぬ都市の街角にいた。\n"
+"\\N[27]四角い広場の真ん中だった。"
+msgstr ""
+
+#. ID 13, Page 1, Line 43, Pos (22,10)
+msgid ""
+"\\N[27]広場の南側には黒いオベリスクがあり、\n"
+"\\N[27]人だかりができているようだが……。"
+msgstr ""
+
+#. ID 14, Page 1, Line 4, Pos (24,9)
+msgid "\\N[27]楕円形の広場には、今は誰もいない……。"
+msgstr ""
+
+#. ID 14, Page 1, Line 9, Pos (24,9)
+msgid ""
+"\\N[27]楕円形の広場の中心で、亡霊の戦士が\n"
+"\\N[27]待ちかまえている。"
+msgstr ""
+
+#. ID 14, Page 1, Line 15, Pos (24,9)
+msgid ""
+"\\N[27]通路や小部屋の続く場所を抜けると、\n"
+"\\N[27]楕円形の広場に出た。\n"
+"\n"
+"\\N[27]―\―\広場の中心に、人影が二つ踊っている。"
+msgstr ""
+
+#. ID 14, Page 1, Line 19, Pos (24,9)
+msgid ""
+"\\N[27]亡霊の戦士が二人、真剣試合を繰り広げているのだ。\n"
+"\\N[27]だが、音は一切聞こえない。\n"
+"\\N[27]見ているうちに、片方が胸を刃で貫かれ、\n"
+"\\N[27]口を絶叫の形に開いて消えた。"
+msgstr ""
+
+#. ID 14, Page 1, Line 23, Pos (24,9)
+msgid ""
+"\\N[27]勝った側の戦士が、こちらに向き直った。\n"
+"\\N[27]指でちょいちょいと招くような仕草をして、\n"
+"\\N[27]挑発している。"
+msgstr ""
+
+#. ID 14, Page 1, Line 29, Pos (24,9)
+#. Choice (2 options)
+msgid ""
+"戦う\n"
+"引き返す"
+msgstr ""
+
+#. ID 15, Page 1, Line 2, Pos (24,6)
+msgid ""
+"\\N[27]道を横切って地下の河川が流れている。\n"
+"\\N[27]水量が多く、流れも速い激流だ。\n"
+"\\N[27]ロープを固定できそうな場所もなく、\n"
+"\\N[27]とても渡れそうにない。"
+msgstr ""
+
+#. ID 16, Page 1, Line 2, Pos (19,10)
+msgid ""
+"\\N[27]通路の奥の方で、何人かの探索者たちが\n"
+"\\N[27]ツルハシを振るっている。"
+msgstr ""
+
+#. ID 16, Page 1, Line 5, Pos (19,10)
+msgid ""
+"\\N[27]ヘロデン教授\n"
+"\\N[27]「さあ掘れ！\n"
+"\\N[27]　掘り抜け！」"
+msgstr ""
+
+#. ID 16, Page 1, Line 8, Pos (19,10)
+msgid ""
+"\\N[27]ヘロデン教授\n"
+"\\N[27]「吾輩の直観的地相考古学によれば\n"
+"\\N[27]　このすぐ先に街の南側への\n"
+"\\N[27]　通路があるのである！」"
+msgstr ""
+
+#. ID 16, Page 1, Line 13, Pos (19,10)
+msgid ""
+"\\N[27]探索者\n"
+"\\N[27]「爺さん、命令ばっかしてないで\n"
+"\\N[27]　あんたも掘れよ！」"
+msgstr ""
+
+#. ID 16, Page 1, Line 17, Pos (19,10)
+msgid ""
+"\\N[27]ヘロデン教授\n"
+"\\N[27]「文句言う暇があったら\n"
+"\\N[27]　さっさと掘れい！」"
+msgstr ""
+
+#. ID 16, Page 1, Line 27, Pos (19,10)
+msgid ""
+"\\N[27]―\―\そうこうしているうちに、壁が崩れた！\n"
+"\n"
+"\\N[27]向こう側に行く通路が開き、\n"
+"\\N[27]探索者たちは歓声を上げて南へと駆けていった。"
+msgstr ""
+
+#. ID 16, Page 1, Line 32, Pos (19,10)
+msgid ""
+"\\N[27]ヘロデン教授\n"
+"\\N[27]「コラ、吾輩を置いて行くなー！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 2, Pos (20,16)
+msgid ""
+"\\N[27]……目が覚めると、再び廃墟の中にいた。\n"
+"\n"
+"\\N[27]あの異郷の都と、この大廃墟は、\n"
+"\\N[27]オベリスクと眠りによって行き来できるようだ。"
+msgstr ""
+
+#. ID 17, Page 1, Line 6, Pos (20,16)
+msgid ""
+"\\N[27]今いるのは大きな部屋がいくつも並ぶ区画だ。\n"
+"\n"
+"\\N[27]部屋の外に出ると、南側に広大な空間が\n"
+"\\N[27]広がっているのが見える。"
+msgstr ""
+
+#. ID 17, Page 2, Line 7, Pos (20,16)
+msgid ""
+"\\N[27]今いるのは、大きな部屋がいくつも並ぶ区画だ。\n"
+"\n"
+"\\N[27]部屋の外に出ると、南側に広大な空間が\n"
+"\\N[27]広がっているのが見える。"
+msgstr ""
+
+#. ID 18, Page 1, Line 2, Pos (19,19)
+msgid ""
+"\\N[27]―\―\河が流れている。\n"
+"\\N[27]地下水脈の黒い濁流が、ざわざわと\n"
+"\\N[27]波音を立てて目の前を横切っていた。"
+msgstr ""
+
+#. ID 18, Page 1, Line 5, Pos (19,19)
+msgid ""
+"\\N[27]対岸は見えないが、すみれ色の光が\n"
+"\\N[27]遠くでかすかにまたたいていた。\n"
+"\n"
+"\\N[27]この河の向こうに何かあるのだろうか。"
+msgstr ""
+
+#. ID 18, Page 1, Line 11, Pos (19,19)
+#. Choice (3 options)
+msgid ""
+"河を泳いで渡る\n"
+"周囲を調べる\n"
+"引き返す"
+msgstr ""
+
+#. ID 18, Page 1, Line 14, Pos (19,19)
+#. ID 18, Page 1, Line 37, Pos (19,19)
+msgid ""
+"\\N[27]地下水脈に足を踏み入れ、すみれ色の光を目指して\n"
+"\\N[27]泳ごうとした。"
+msgstr ""
+
+#. ID 18, Page 1, Line 16, Pos (19,19)
+#. ID 18, Page 2, Line 10, Pos (19,19)
+msgid ""
+"\\N[27]だが水中には、異形の生物が大量に潜んでいた！\n"
+"\\N[27]歪んだ手足が水面に突き出し、波を立てている。\n"
+"\n"
+"\\N[27]慌てて岸に這い戻った。"
+msgstr ""
+
+#. ID 18, Page 1, Line 20, Pos (19,19)
+#. ID 18, Page 1, Line 58, Pos (19,19)
+msgid ""
+"\\N[27]これでは泳いで渡ることは不可能\だ。\n"
+"\\N[27]別の方法を考えることにしよう。"
+msgstr ""
+
+#. ID 18, Page 1, Line 27, Pos (19,19)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 2, Line 19, Pos (19,19)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]水の中に、何か蠢くものが見えた。"
+msgstr ""
+
+#. ID 18, Page 1, Line 28, Pos (19,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"それでも泳ぐ\n"
+"別の方法を考える"
+msgstr ""
+
+#. ID 18, Page 1, Line 39, Pos (19,19)
+#. ID 18, Page 2, Line 31, Pos (19,19)
+msgid "\\N[27]次の瞬間、水中から異形の影が襲いかかってきた！"
+msgstr ""
+
+#. ID 18, Page 1, Line 54, Pos (19,19)
+msgid ""
+"\\N[27]水中には、異形の生物が大量に潜んでいる！\n"
+"\\N[27]歪んだ手足が水面に突き出し、波を立てていた。\n"
+"\n"
+"\\N[27]慌てて岸に這い戻った。"
+msgstr ""
+
+#. ID 18, Page 1, Line 65, Pos (19,19)
+msgid ""
+"\\N[27]河の縁に沿って少し歩いてみた。\n"
+"\\N[27]すると、遠くにかすかな光が見えた。\n"
+"\n"
+"\\N[27]水面を滑るようにして、灯火が近付いてくる。"
+msgstr ""
+
+#. ID 18, Page 1, Line 69, Pos (19,19)
+msgid ""
+"\\N[27]舳先にランタンをぶら下げて、渡し船がやって来た。\n"
+"\\N[27]渡し守は体全体を灰色の衣で包んでいて、\n"
+"\\N[27]顔も見えない。"
+msgstr ""
+
+#. ID 18, Page 1, Line 72, Pos (19,19)
+msgid ""
+"\\N[27]渡し守\n"
+"\\N[27]「……銅貨、６枚……」"
+msgstr ""
+
+#. ID 18, Page 1, Line 74, Pos (19,19)
+msgid ""
+"\\N[27]渡し賃が必要ということらしい。\n"
+"\\N[27]しかし、持っている金を渡そうとしても受け取らない。\n"
+"\\N[27]特別な硬貨が必要のようだ。"
+msgstr ""
+
+#. ID 18, Page 1, Line 81, Pos (19,19)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]所持金：古代の金貨\\V[161]　銀貨\\V[162]　銅貨\\V[163]\n"
+"\\N[27]価格：銅貨６枚？"
+msgstr ""
+
+#. ID 18, Page 1, Line 83, Pos (19,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"支払う\n"
+"別の手段を考える"
+msgstr ""
+
+#. ID 18, Page 1, Line 91, Pos (19,19)
+msgid ""
+"\\N[27]古代の硬貨を支払った！\n"
+"\n"
+"\\N[27]残り：古代の金貨\\V[161]　銀貨\\V[162]　銅貨\\V[163]"
+msgstr ""
+
+#. ID 18, Page 1, Line 94, Pos (19,19)
+#. ID 18, Page 1, Line 113, Pos (19,19)
+#. ID 18, Page 1, Line 123, Pos (19,19)
+msgid ""
+"\\N[27]渡し守\n"
+"\\N[27]「………………」"
+msgstr ""
+
+#. ID 18, Page 1, Line 96, Pos (19,19)
+msgid ""
+"\\N[27]あなたが渡し船に乗り込むと、すぐに船は動き出した。\n"
+"\n"
+"\\N[27]異形の生物たちは、この船には近付けないようだ。\n"
+"\\N[27]漆黒の水面を、音も立てずに船は進む―\―\。"
+msgstr ""
+
+#. ID 18, Page 1, Line 105, Pos (19,19)
+msgid ""
+"\\N[27]向こう岸にたどり着いた。\n"
+"\n"
+"\\N[27]あなたたちが降りた後も、渡し船は待ってくれている。\n"
+"\\N[27]この後は自由に河を渡ることができる。"
+msgstr ""
+
+#. ID 18, Page 1, Line 115, Pos (19,19)
+msgid ""
+"\\N[27]硬貨が足りなかったようだ。\n"
+"\n"
+"\\N[27]渡し船は去ってしまった……。"
+msgstr ""
+
+#. ID 18, Page 1, Line 125, Pos (19,19)
+msgid "\\N[27]考えているうちに、渡し船は去ってしまった……。"
+msgstr ""
+
+#. ID 18, Page 2, Line 2, Pos (19,19)
+msgid ""
+"\\N[27]―\―\河が流れている。\n"
+"\\N[27]地下水脈の黒い流れが、ざわざわと\n"
+"\\N[27]波音を立てて目の前を横切っていた。"
+msgstr ""
+
+#. ID 18, Page 2, Line 6, Pos (19,19)
+#. Choice (2 options)
+msgid ""
+"河の中を調べる\n"
+"引き返す"
+msgstr ""
+
+#. ID 18, Page 2, Line 9, Pos (19,19)
+#. ID 18, Page 2, Line 30, Pos (19,19)
+msgid "\\N[27]地下水脈に足を踏み入れ、泳ごうとした。"
+msgstr ""
+
+#. ID 18, Page 2, Line 20, Pos (19,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"それでも泳ぐ\n"
+"立ち去る"
+msgstr ""
+
+#. ID 18, Page 2, Line 41, Pos (19,19)
+msgid ""
+"\\N[27]水中には異形の生物が大量に潜んでいる！\n"
+"\\N[27]歪んだ手足が水面に突き出し、波を立てていた。\n"
+"\n"
+"\\N[27]慌てて岸に這い戻った。"
+msgstr ""
+
+#. ID 19, Page 1, Line 5, Pos (20,21)
+msgid ""
+"\\N[27]斜面を登った先の高台には、渦巻く地下水脈を\n"
+"\\N[27]見下ろすようにして黒いオベリスクが立っていた。\n"
+"\\N[27]その基部は、すみれ色の光を放っていて、\n"
+"\\N[27]内部に乳児の像を封じているのが透けて見えた。"
+msgstr ""
+
+#. ID 20, Page 1, Line 2, Pos (24,20)
+msgid ""
+"\\N[27]何かを守るかのように、幾重にも煉瓦の壁が立って\n"
+"\\N[27]いたが、すべて穴だらけで用をなしていない。"
+msgstr ""
+
+#. ID 20, Page 1, Line 4, Pos (24,20)
+msgid "\\N[27]さらに奥へと進む……。"
+msgstr ""
+
+#. ID 21, Page 1, Line 5, Pos (27,5)
+msgid ""
+"\\N[27]大きめの洞窟の中心に、黒いオベリスクが立っている。\n"
+"\\N[27]その基部はすみれ色に輝いていて、内部に少女の像を\n"
+"\\N[27]封じ込めているのが透けて見えた。"
+msgstr ""
+
+#. ID 22, Page 1, Line 7, Pos (28,8)
+msgid ""
+"\\N[27]この周辺の廃墟は、大きめの部屋が連続している。\n"
+"\n"
+"\\N[27]特に何も無いようだ。"
+msgstr ""
+
+#. ID 23, Page 1, Line 2, Pos (24,2)
+msgid ""
+"\\N[27]通路は細くなり、先へ先へと続いている。\n"
+"\n"
+"\\N[27]歩き続けると、曲がり角の向こうにパッ、パッと\n"
+"\\N[27]赤い光がまたたくのが見えた。何だろう？"
+msgstr ""
+
+#. ID 23, Page 1, Line 8, Pos (24,2)
+msgid "\\N[27]どうも嫌な予\感がするが……。"
+msgstr ""
+
+#. ID 23, Page 1, Line 12, Pos (24,2)
+#. Choice (2 options)
+msgid ""
+"先へ進む\n"
+"引き返す"
+msgstr ""
+
+#. ID 23, Page 1, Line 14, Pos (24,2)
+msgid ""
+"\\N[27]さらに進むと、洞窟は急に広くなった。\n"
+"\n"
+"\\N[27]折れた柱や瓦礫が折り重なった空間に、\n"
+"\\N[27]巨大な生き物が一匹うずくまっている。"
+msgstr ""
+
+#. ID 23, Page 1, Line 18, Pos (24,2)
+msgid ""
+"\\N[27]あれは……竜？\n"
+"\\N[27]漆黒の鱗を持った巨大生物が、洞窟をふさいでいる。"
+msgstr ""
+
+#. ID 23, Page 1, Line 22, Pos (24,2)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「あいつ、\\N[12]とおなじ\n"
+"\\N[27]　ニオイがするぞ？」"
+msgstr ""
+
+#. ID 23, Page 1, Line 28, Pos (24,2)
+msgid "\\N[27]黒い竜はこちらに気付くと、その口を開いた！"
+msgstr ""
+
+#. ID 23, Page 1, Line 41, Pos (24,2)
+msgid ""
+"\\N[27]黒竜石を手に入れた！\n"
+"\\N[27]「聖域について」を手に入れた！\n"
+"\\N[27]『アルケア年代記　下』を手に入れた！\n"
+"\\N[27]竜鋼を手に入れた！"
+msgstr ""
+
+#. ID 23, Page 1, Line 62, Pos (24,2)
+msgid ""
+"\\N[27]黒い竜を倒した。\n"
+"\n"
+"\\N[27]通路は、さらに先へと続いている。"
+msgstr ""
+
+#. ID 23, Page 2, Line 7, Pos (24,2)
+msgid ""
+"\\N[27]細い通路を進むうちに、大きな空洞に出た。\n"
+"\n"
+"\\N[27]道はまた狭くなり、先へと続いている。"
+msgstr ""
+
+#. ID 24, Page 1, Line 3, Pos (19,2)
+msgid ""
+"\\N[27]大ホールの周囲の壁は書架に埋め尽くされ、\n"
+"\\N[27]羊皮紙の巻物や粘土板が並んでいる。\n"
+"\\N[27]階段で繋がった他の階にも、書架の列が見えた。\n"
+"\\N[27]ここは古代帝国の大図書館跡のようだ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 9, Pos (19,2)
+msgid ""
+"\\N[27]広い空洞を通り抜け、奥へと進んだ。\n"
+"\n"
+"\\N[27]柱の建ち並ぶ空間を通ると、大きな建物の内部に出た。"
+msgstr ""
+
+#. ID 24, Page 1, Line 12, Pos (19,2)
+msgid ""
+"\\N[27]大ホールの周囲の壁は書架に埋め尽くされ、\n"
+"\\N[27]羊皮紙の巻物や粘土板が並んでいる。\n"
+"\\N[27]階段で繋がった他の階にも、書架の列が見えた。\n"
+"\\N[27]あなたは古代帝国の大図書館を発見したのだ！"
+msgstr ""
+
+#. ID 24, Page 1, Line 23, Pos (19,2)
+#. Choice (2 options)
+msgid ""
+"\\N[27]書物を探す\n"
+"\\N[27]引き返す"
+msgstr ""
+
+#. ID 24, Page 1, Line 25, Pos (19,2)
+msgid ""
+"\\N[27]価値のある文書を探すには、\n"
+"\\N[27]古代語の知識が必要だ。"
+msgstr ""
+
+#. ID 24, Page 1, Line 31, Pos (19,2)
+msgid "\\N[27]古代語を読める者がいない。"
+msgstr ""
+
+#. ID 24, Page 1, Line 36, Pos (19,2)
+msgid "\\N[27]書架を調べ始めた……。"
+msgstr ""
+
+#. ID 24, Page 1, Line 47, Pos (19,2)
+msgid "\\N[27]「死者の書　中」を手に入れた！"
+msgstr ""
+
+#. ID 24, Page 1, Line 62, Pos (19,2)
+msgid "\\N[27]「建築」を手に入れた！"
+msgstr ""
+
+#. ID 24, Page 1, Line 77, Pos (19,2)
+msgid "\\N[27]「賛歌」を手に入れた！"
+msgstr ""
+
+#. ID 24, Page 1, Line 99, Pos (19,2)
+msgid "\\N[27]特に何も見つからなかった。"
+msgstr ""
+
+#. ID 24, Page 1, Line 104, Pos (19,2)
+msgid "\\N[27]古代の文書を手に入れた！"
+msgstr ""
+
+#. ID 24, Page 1, Line 120, Pos (19,2)
+#. ID 24, Page 1, Line 174, Pos (19,2)
+msgid "\\N[27]特に重要そうなものは見つからなかった。"
+msgstr ""
+
+#. ID 24, Page 1, Line 129, Pos (19,2)
+msgid ""
+"\\N[27]調べているうちに、図書館の守護者と\n"
+"\\N[27]遭遇してしまった！"
+msgstr ""
+
+#. ID 24, Page 1, Line 182, Pos (19,2)
+#. Choice (2 options)
+msgid ""
+"\\N[27]もっと調べる\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 25, Page 1, Line 2, Pos (25,6)
+msgid ""
+"\\N[27]地底の川が轟々と音を立てて流れ、道を遮っている。\n"
+"\\N[27]川の手前には\\C[6]ロープ\\C[0]を固定できそうな岩がある。"
+msgstr ""
+
+#. ID 25, Page 2, Line 4, Pos (25,6)
+msgid ""
+"\\N[27]川にロープを渡した！\n"
+"\\N[27]向こう岸に渡れるようになった！"
+msgstr ""
+
+#. ID 25, Page 3, Line 2, Pos (25,6)
+msgid ""
+"\\N[27]地底の川が轟々と音を立てて流れている。\n"
+"\\N[27]対岸との間にはロープが渡されていた。"
+msgstr ""
+
+#. ID 27, Page 1, Line 6, Pos (3,6)
+msgid ""
+"\\N[27]瓦礫に埋もれた空洞に出た。\n"
+"\\N[27]その中心には、天井を支えるような形で\n"
+"\\N[27]黒いオベリスクが立っている。"
+msgstr ""
+
+#. ID 27, Page 1, Line 12, Pos (3,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]黒いオベリスクの根元は、すみれ色の光を放っていた。\n"
+"\\N[27]透ける石の内部には若い娘の像が封じられている。"
+msgstr ""
+
+#. ID 28, Page 1, Line 7, Pos (1,13)
+msgid ""
+"\\N[27]ここは荒れ果てた小部屋だ。\n"
+"\\N[27]南北には、狭い洞窟が延々と続いている。"
+msgstr ""
+
+#. ID 29, Page 1, Line 5, Pos (1,16)
+msgid ""
+"\\N[27]広い洞窟の端の方に、黒いオベリスクが立っていた。\n"
+"\\N[27]その基部はすみれ色の光を放っている。\n"
+"\\N[27]内部には若者の像が透けて見えた。"
+msgstr ""
+
+#. ID 29, Page 1, Line 46, Pos (1,16)
+msgid "\\N[27]……気が付くと、再び異郷の都に出現していた。"
+msgstr ""
+
+#. ID 30, Page 1, Line 7, Pos (1,20)
+msgid ""
+"\\N[27]ここは、東西に続く石造りの廃墟の\n"
+"\\N[27]西の外れだ。\n"
+"\\N[27]特に何も無いようだ。"
+msgstr ""
+
+#. ID 31, Page 1, Line 2, Pos (5,19)
+msgid ""
+"\\N[27]煉瓦の壁が崩れて、先へ進めるようになっていた。\n"
+"\n"
+"\\N[27]行く手から風が吹いてくる……。"
+msgstr ""
+
+#. ID 32, Page 1, Line 7, Pos (15,9)
+msgid ""
+"\\N[27]洞窟の中に、崩れ去った神殿の跡が残っている。\n"
+"\\N[27]彫刻の施された柱や調度が、泥の中に埋まっていた。"
+msgstr ""
+
+#. ID 33, Page 1, Line 2, Pos (15,11)
+msgid ""
+"\\N[27]階段を下ったところに、通路の入口を見つけた。\n"
+"\\N[27]その中には柱の立ち並ぶ回廊があり、さらに奥には\n"
+"\\N[27]金属製の大扉があった。"
+msgstr ""
+
+#. ID 33, Page 1, Line 5, Pos (15,11)
+msgid ""
+"\\N[27]扉を塞いでいた鉛の封印は、歳月に敗れて劣化し、\n"
+"\\N[27]大きく亀裂が入っていた。\n"
+"\\N[27]真っ暗な隙間が開いている……。"
+msgstr ""
+
+#. ID 34, Page 1, Line 2, Pos (22,14)
+#. ID 35, Page 1, Line 2, Pos (6,9)
+#. ID 36, Page 1, Line 2, Pos (2,9)
+#. ID 37, Page 1, Line 2, Pos (2,19)
+msgid ""
+"\\N[27]壁にひびが入っている。\n"
+"\\N[27]\\C[6]ツルハシ\\C[0]を使えば、崩すことができそうだ。"
+msgstr ""
+
+#. ID 34, Page 2, Line 9, Pos (22,14)
+#. ID 35, Page 2, Line 9, Pos (6,9)
+#. ID 36, Page 2, Line 9, Pos (2,9)
+#. ID 37, Page 2, Line 9, Pos (2,19)
+#. ID 38, Page 2, Line 9, Pos (16,12)
+#. ID 46, Page 2, Line 9, Pos (13,11)
+msgid ""
+"\\N[27]壁が崩れた！\n"
+"\\N[27]向こう側に行く通路が開いた。"
+msgstr ""
+
+#. ID 38, Page 1, Line 2, Pos (16,12)
+msgid ""
+"\\N[27]壁にひびが入っている。\n"
+"\\N[27]\\C[6]ツルハシ\\C[0]を使えば崩すことができそうだ。"
+msgstr ""
+
+#. ID 39, Page 1, Line 7, Pos (7,6)
+msgid ""
+"\\N[27]細い通路が入り組んで、交差している。\n"
+"\\N[27]道は南西に向かって伸びているようだ。"
+msgstr ""
+
+#. ID 45, Page 1, Line 2, Pos (22,8)
+msgid ""
+"\\N[27]どうやらここは店舗の跡らしい。\n"
+"\\N[27]入口から中に入ると、意外にも綺麗に整頓されている。\n"
+"\\N[27]壊れた格子のはまったカウンターの向こうでは、\n"
+"\\N[27]金色の猫があなたを待っていた。"
+msgstr ""
+
+#. ID 45, Page 1, Line 7, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「働けど働けど我が暮らし楽にならざり。\n"
+"\\N[27]　こんにちは、商人のピートです」"
+msgstr ""
+
+#. ID 45, Page 1, Line 13, Pos (22,8)
+#. Choice (3 options)
+msgid ""
+"\\N[27]情報を聞く⇔\n"
+"\\N[27]アイテムを売買する\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 45, Page 1, Line 16, Pos (22,8)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]\\$「情報料は50Ｇです」"
+msgstr ""
+
+#. ID 45, Page 1, Line 17, Pos (22,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]情報を聞く\n"
+"\\N[27]やめる"
+msgstr ""
+
+#. ID 45, Page 1, Line 23, Pos (22,8)
+msgid ""
+"\\N[27]\\$金色猫\n"
+"\\N[27]「お金が足りませんよ？」"
+msgstr ""
+
+#. ID 45, Page 1, Line 39, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「地上に戻らずに称号を\n"
+"\\N[27]　成長させたければ、\n"
+"\\N[27]　神殿跡を探すといいです」"
+msgstr ""
+
+#. ID 45, Page 1, Line 43, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「神殿跡は、大廃墟の南の方にあります。\n"
+"\\N[27]　ここから道を戻ったところですよ」"
+msgstr ""
+
+#. ID 45, Page 1, Line 49, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「幻の都の出口は三つ。\n"
+"\\N[27]　南東か、南西か、真ん中か」"
+msgstr ""
+
+#. ID 45, Page 1, Line 52, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「南東(右下)が一番楽ですよ。\n"
+"\\N[27]　ゆらめく光を探しましょう」"
+msgstr ""
+
+#. ID 45, Page 1, Line 58, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「この遺跡は広いですから、\n"
+"\\N[27]　ところどころに何が見つかるか\n"
+"\\N[27]　分からないポイントがあります」"
+msgstr ""
+
+#. ID 45, Page 1, Line 62, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「そういう場所は、一度調べ終わっても\n"
+"\\N[27]　少し時間が経てばまた探索できますよ」"
+msgstr ""
+
+#. ID 45, Page 1, Line 68, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「銭湯でゆったり湯に浸かると\n"
+"\\N[27]　一日に一回だけMPを回復させられます」"
+msgstr ""
+
+#. ID 45, Page 1, Line 71, Pos (22,8)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「お湯に浸かるのが気持ちいいなんて\n"
+"\\N[27]　人間は不思議ですね」"
+msgstr ""
+
+#. ID 46, Page 1, Line 2, Pos (13,11)
+msgid ""
+"\\N[27]岩の間に開いた、曲がりくねったひび割れのような\n"
+"\\N[27]通路を進むと、行き止まりになっていた。"
+msgstr ""
+
+#. ID 46, Page 1, Line 4, Pos (13,11)
+msgid ""
+"\\N[27]だが、壁にひびが入っている。\n"
+"\\N[27]\\C[6]ツルハシ\\C[0]を使えば崩すことができそうだ。"
+msgstr ""
+
+#. ID 48, Page 1, Line 8, Pos (16,18)
+msgid "\\N[27]横穴の奥に、宝の箱が隠されていた！"
+msgstr ""
+
+#. ID 48, Page 1, Line 10, Pos (16,18)
+msgid ""
+"\\N[27]20000Ｇを手に入れた！\n"
+"\\N[27]義人の杖を手に入れた！\n"
+"\\N[27]『ヴァラメアの魔女』を手に入れた！\n"
+"\\N[27]「薬草と祈祷」を手に入れた！"
+msgstr ""
+
+#. ID 49, Page 1, Line 2, Pos (26,8)
+#. ID 49, Page 2, Line 7, Pos (26,8)
+msgid ""
+"\\N[27]道の途中で、横の壁に狭い通路を見つけた。\n"
+"\\N[27]積み重なった瓦礫の間に、人が一人通れそうな\n"
+"\\N[27]隙間が開いている。"
+msgstr ""
+
+#. ID 49, Page 1, Line 7, Pos (26,8)
+msgid ""
+"\\N[27]隙間の奥からは、魚が腐ったような生臭い匂いが\n"
+"\\N[27]漂ってきている。"
+msgstr ""
+
+#. ID 49, Page 1, Line 11, Pos (26,8)
+#. Choice (2 options)
+msgid ""
+"隙間の中を調べる\n"
+"立ち去る"
+msgstr ""
+
+#. ID 49, Page 1, Line 13, Pos (26,8)
+msgid "\\N[27]狭い隙間に体を押し込み、中へと進んだ。"
+msgstr ""
+
+#. ID 49, Page 1, Line 14, Pos (26,8)
+msgid ""
+"\\N[27]……やがて空間が開けた。\n"
+"\\N[27]真っ暗な、やや広い空洞になっているようだ。\n"
+"\\N[27]歩くと足元で水の音がする。"
+msgstr ""
+
+#. ID 49, Page 1, Line 17, Pos (26,8)
+msgid ""
+"\\N[27]その時、闇の奥から軟体動物の触腕のようなものが\n"
+"\\N[27]飛び出し、あなたに襲いかかった！"
+msgstr ""
+
+#. ID 49, Page 1, Line 20, Pos (26,8)
+msgid ""
+"\\N[27]巨大な軟体生物を倒してから、\n"
+"\\N[27]改めてこの空洞を調べた。"
+msgstr ""
+
+#. ID 49, Page 1, Line 23, Pos (26,8)
+msgid "『廃都物語 5』を手に入れた！"
+msgstr ""
+
+#. ID 49, Page 2, Line 10, Pos (26,8)
+msgid ""
+"\\N[27]この奥には巨大な軟体生物の巣があったが、\n"
+"\\N[27]既に倒してしまったため今では何もない。"
+msgstr ""
+
+#. ID 50, Page 1, Line 2, Pos (18,1)
+msgid ""
+"\\N[27]大図書館の奥へ奥へと進むごとに、手元にある\n"
+"\\N[27]『鍵の書』がかすかな熱を帯び始めた。\n"
+"\\N[27]間違いない。\n"
+"\\N[27]この先に『鍵の書』の欠けた断片が眠っている。"
+msgstr ""
+
+#. ID 50, Page 1, Line 6, Pos (18,1)
+msgid ""
+"\\N[27]……やがて、崩れた書架の背後にある壁に、\n"
+"\\N[27]石材の怪しげなずれを見つけた。\n"
+"\\N[27]『鍵の書』をそこに近づけると、自然に\n"
+"\\N[27]隠し扉が開いた。"
+msgstr ""
+
+#. ID 50, Page 1, Line 10, Pos (18,1)
+msgid ""
+"\\N[27]奥には正四角形の小部屋があり、中央の台の上に\n"
+"\\N[27]水晶板で挟まれた紙束が安置されていた。\n"
+"\\N[27]これが、『鍵の書』の後半部分だ。"
+msgstr ""
+
+#. ID 50, Page 1, Line 13, Pos (18,1)
+msgid ""
+"\\N[27]水晶の板を外して『鍵の書』の後ろ半分に\n"
+"\\N[27]紙束を挟み込むと、自然に頁がつながって、\n"
+"\\N[27]本来の一冊の本に戻った。"
+msgstr ""
+
+#. ID 50, Page 1, Line 17, Pos (18,1)
+msgid "\\N[27]『鍵の書 下』を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 1, Line 4, Pos (10,12)
+msgid "\\N[27]今日はもう売り切れのようだ。"
+msgstr ""
+
+#. ID 51, Page 1, Line 14, Pos (10,12)
+#. Choice (4 options)
+msgid ""
+"\\$\\>カブラ苔　　　\\V[165]Ｇ\n"
+"\\>クルカの葉　　\\V[166]Ｇ\n"
+"\\>緑光黴　　　　\\V[167]Ｇ\n"
+"\\>アセラスの葉　\\V[168]Ｇ"
+msgstr ""
+
+#. ID 51, Page 1, Line 20, Pos (10,12)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "カブラ苔"
+msgstr ""
+
+#. ID 51, Page 1, Line 28, Pos (10,12)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "クルカの葉"
+msgstr ""
+
+#. ID 51, Page 1, Line 36, Pos (10,12)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "緑光黴"
+msgstr ""
+
+#. ID 51, Page 1, Line 44, Pos (10,12)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "アセラスの葉"
+msgstr ""
+
+#. ID 51, Page 1, Line 62, Pos (10,12)
+msgid "\\N[27]\\$\\N[78]を購入しました。"
+msgstr ""
+
+#. ID 51, Page 1, Line 66, Pos (10,12)
+msgid "\\N[27]\\$\\N[78]は\\V[177]個までしか購入できません。"
+msgstr ""
+
+#. ID 51, Page 1, Line 71, Pos (10,12)
+msgid "\\N[27]\\$所持金が足りません。"
+msgstr ""
+
+#. ID 51, Page 2, Line 4, Pos (10,12)
+msgid ""
+"\\N[27]廃墟の奥に光が見える。\n"
+"\\N[27]近付いてみると、小さなテントがあった。\n"
+"\\N[27]その周囲には古代文字で円が描かれ、\n"
+"\\N[27]魔物を寄せ付けない結界になっている。"
+msgstr ""
+
+#. ID 51, Page 2, Line 9, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「誰だ……？\n"
+"\n"
+"\\N[27]　おや。お前たちか」"
+msgstr ""
+
+#. ID 51, Page 2, Line 16, Pos (10,12)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「\\N[19]先生！\n"
+"\\N[27]　生きてたんですか？」"
+msgstr ""
+
+#. ID 51, Page 2, Line 22, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「神殿軍に庵を焼かれてしまってな。\n"
+"\\N[27]　遺跡の中に隠れ住んでいたのだ」"
+msgstr ""
+
+#. ID 51, Page 2, Line 25, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「地上の情勢は不穏続きのようだし、\n"
+"\\N[27]　当分はここにいる予\定だ。\n"
+"\\N[27]　ちょうど遺跡内で調べる事もあるし」"
+msgstr ""
+
+#. ID 51, Page 2, Line 35, Pos (10,12)
+#. Choice (3 options)
+msgid ""
+"\\N[27]話を聞く⇔\n"
+"\\N[27]薬の素材を買う\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 51, Page 2, Line 43, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「実を言うとな、我々古い系統の\n"
+"\\N[27]　魔術師たちは、この遺跡の存在を\n"
+"\\N[27]　以前から知っていた」"
+msgstr ""
+
+#. ID 51, Page 2, Line 47, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「遺跡から漏れ出る古代の知恵を\n"
+"\\N[27]　収集しつつ、遺跡の底に眠る魔性への\n"
+"\\N[27]　対抗手段を探していたのだ」"
+msgstr ""
+
+#. ID 51, Page 2, Line 51, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「だが我々の調査では成果がなかった。\n"
+"\\N[27]　何らかの資格を持つ者でなければ、\n"
+"\\N[27]　この遺跡の秘密に近づけぬのだ」"
+msgstr ""
+
+#. ID 51, Page 2, Line 58, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「ここが古代アルケアの遺跡ならば、\n"
+"\\N[27]　都の中心には皇帝の墓所があるはず」"
+msgstr ""
+
+#. ID 51, Page 2, Line 61, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「墓所の最深部には、初代皇帝の棺と、\n"
+"\\N[27]　女神アークフィアの宿る聖なる泉が\n"
+"\\N[27]　隠されているはずだ」"
+msgstr ""
+
+#. ID 51, Page 2, Line 66, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「聖なる泉に辿り着けば、なんらかの\n"
+"\\N[27]　助力が得られるかもしれぬ」"
+msgstr ""
+
+#. ID 51, Page 2, Line 71, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「だがそこまで辿り着くには、\n"
+"\\N[27]　四つの秘石を手に入れ、四つの封印を\n"
+"\\N[27]　破る必要があるらしい」"
+msgstr ""
+
+#. ID 51, Page 2, Line 80, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「この地には古くから、妖精郷の英雄と\n"
+"\\N[27]　呼ばれる者たちの言い伝えがある」"
+msgstr ""
+
+#. ID 51, Page 2, Line 83, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「時代の節目に、大河の岸辺に流れ着き、\n"
+"\\N[27]　英雄的な行為を行って、いずこかへと\n"
+"\\N[27]　去ってゆく者たちの伝説だ」"
+msgstr ""
+
+#. ID 51, Page 2, Line 87, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「儂の推測が正しければ……。\n"
+"\\N[27]　妖精郷の英雄たちは、\n"
+"\\N[27]　この遺跡の奥から現れ出たのだ」"
+msgstr ""
+
+#. ID 51, Page 2, Line 94, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「もし、十\分な知恵と力と正しい心を\n"
+"\\N[27]　兼ね備えた者が現れ、遺跡に宿る\n"
+"\\N[27]　魔性の呪縛を克服すれば……」"
+msgstr ""
+
+#. ID 51, Page 2, Line 98, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「かつて人類が犯した過ちを正して、\n"
+"\\N[27]　世界に新たな時代をもたらす―\―\」"
+msgstr ""
+
+#. ID 51, Page 2, Line 101, Pos (10,12)
+msgid ""
+"\\N[27]デネロス\n"
+"\\N[27]「キール山の学院に住む大賢者たちは、\n"
+"\\N[27]　こう考えているらしい。\n"
+"\\N[27]　それが正しいのかは、儂にはわからぬ」"
+msgstr ""
+
+#. ID 51, Page 3, Line 11, Pos (10,12)
+msgid ""
+"\\N[27]廃墟の奥に光が見える。\n"
+"\\N[27]近付いてみると、燐光を放つキノコや植物が\n"
+"\\N[27]群生していた。"
+msgstr ""
+
+#. ID 51, Page 3, Line 16, Pos (10,12)
+#. Choice (2 options)
+msgid ""
+"\\N[27]薬の材料を探す\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 51, Page 3, Line 18, Pos (10,12)
+msgid "\\N[27]採取を始めた……。"
+msgstr ""
+
+#. ID 51, Page 3, Line 24, Pos (10,12)
+msgid "\\N[27]カブラ苔を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 30, Pos (10,12)
+msgid "\\N[27]クルカの葉を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 36, Pos (10,12)
+msgid "\\N[27]緑光黴を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 42, Pos (10,12)
+msgid "\\N[27]ムシクサダケを手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 48, Pos (10,12)
+msgid "\\N[27]トルキタの花を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 54, Pos (10,12)
+msgid "\\N[27]アセラスの葉を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 60, Pos (10,12)
+msgid "\\N[27]トカゲの糞を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 66, Pos (10,12)
+msgid "\\N[27]毒腺を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 72, Pos (10,12)
+msgid "\\N[27]燃える羽根を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 78, Pos (10,12)
+msgid "\\N[27]聖なる骨を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 84, Pos (10,12)
+msgid "\\N[27]竜の血を手に入れた！"
+msgstr ""
+
+#. ID 51, Page 3, Line 113, Pos (10,12)
+msgid "\\N[27]何も見つからなかった。"
+msgstr ""
+
+#. ID 52, Page 1, Line 2, Pos (14,10)
+msgid "\\N[27]廃墟の隅に金色の猫がいた。"
+msgstr ""
+
+#. ID 52, Page 1, Line 4, Pos (14,10)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「あれ？\n"
+"\\N[27]　あれあれあれ？」"
+msgstr ""
+
+#. ID 52, Page 1, Line 7, Pos (14,10)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「ひょっとしてツルハシを\n"
+"\\N[27]　持ってないんですか？」"
+msgstr ""
+
+#. ID 52, Page 1, Line 11, Pos (14,10)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「なんでしたら、\n"
+"\\N[27]　\\C[5]50000Ｇ\\C[0]と引き替えに\n"
+"\\N[27]　ツルハシを売ってさしあげますよ」"
+msgstr ""
+
+#. ID 52, Page 1, Line 16, Pos (14,10)
+#. Contains choice at line 3 (2 options)
+#. ID 52, Page 1, Line 36, Pos (14,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]……見られている……。\n"
+"\\N[27]足元を見られている…………ッ！！"
+msgstr ""
+
+#. ID 52, Page 1, Line 19, Pos (14,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\$ツルハシを買う　50000Ｇ\n"
+"やめる"
+msgstr ""
+
+#. ID 52, Page 1, Line 22, Pos (14,10)
+#. ID 52, Page 1, Line 42, Pos (14,10)
+msgid "\\N[27]ツルハシを買った！"
+msgstr ""
+
+#. ID 52, Page 1, Line 31, Pos (14,10)
+msgid ""
+"\\N[27]金色猫\n"
+"\\N[27]「なんでしたら、\n"
+"\\N[27]　\\C[5]全所持金\\C[0]と引き替えに\n"
+"\\N[27]　ツルハシを売ってさしあげますよ」"
+msgstr ""
+
+#. ID 52, Page 1, Line 39, Pos (14,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\$全所持金でツルハシを買う\n"
+"やめる"
+msgstr ""
+
+#. ID 53, Page 1, Line 5, Pos (29,23)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「むー」"
+msgstr ""
+
+#. ID 53, Page 1, Line 8, Pos (29,23)
+msgid "\\N[27]\\N[12]が嫌がって先へ進もうとしない。"
+msgstr ""
+

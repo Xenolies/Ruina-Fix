@@ -1,0 +1,1875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 2, Pos (10,27)
+msgid ""
+"\\N[27]――你的视线脱离了身体，\n"
+"\\N[27]然后向上，不断地攀升向上。\n"
+""
+msgstr ""
+
+#. ID 5, Page 1, Line 5, Pos (10,27)
+msgid ""
+"\\N[27]地面远在脚下，仅仅一望就能将\n"
+"\\N[27]大地与海洋描绘的图样尽收眼底。\n"
+"\\N[27]眼前则是漆黑的苍穹和无数星群。"
+msgstr ""
+
+#. ID 5, Page 1, Line 8, Pos (10,27)
+msgid ""
+"\\N[27]将灵体从肉体中切离，作为独立存在\n"
+"\\N[27]送至群星的世界――\n"
+"\\N[27]这就是魔术『键之书』的真面目。"
+msgstr ""
+
+#. ID 5, Page 1, Line 11, Pos (10,27)
+msgid ""
+"\\N[27]因为灵体可以脱离物理法则而行动，\n"
+"\\N[27]所以既能在真空呼吸，也能够瞬息千里。\n"
+"\\N[27]但只有在周围杂灵影响极少的宇宙空间，\n"
+"\\N[27]才能轻松维持这种身姿。"
+msgstr ""
+
+#. ID 5, Page 1, Line 16, Pos (10,27)
+msgid ""
+"\\N[27]你对今后该如何是好很是迷茫，\n"
+"\\N[27]不过，一轮巨大的白月就浮在身旁，\n"
+"\\N[27]你决定先到那里去看看。"
+msgstr ""
+
+#. ID 5, Page 2, Line 2, Pos (10,27)
+msgid ""
+"\\N[27]在遥远下方，飘浮着一颗染满了\n"
+"\\N[27]青、白、绿等不同颜色的球体。\n"
+"\\N[27]那就是至今为止生你养你的世界。"
+msgstr ""
+
+#. ID 5, Page 2, Line 5, Pos (10,27)
+msgid ""
+"\\N[27]但是，现在要回去还太早。\n"
+"\\N[27]你还有要做的事情。"
+msgstr ""
+
+#. ID 6, Page 1, Line 2, Pos (10,24)
+#. ID 6, Page 2, Line 2, Pos (10,24)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　 ～月天～"
+msgstr ""
+
+#. ID 6, Page 1, Line 4, Pos (10,24)
+msgid ""
+"\\N[27]你融身黑暗，朝着在星空中发出淡淡白光的月亮飞去。\n"
+"\\N[27]随着你逐渐接近，视野中的月亮也渐渐增大，\n"
+"\\N[27]终于，月亮那仅由光影而得形的地表也在眼前一清二楚。"
+msgstr ""
+
+#. ID 6, Page 1, Line 7, Pos (10,24)
+msgid ""
+"\\N[27]不久后，你在月面上降落了。\n"
+"\\N[27]放眼望去，四面八方都是灰色的地平线。\n"
+"\\N[27]完全没有能作为路标的东西。"
+msgstr ""
+
+#. ID 6, Page 1, Line 10, Pos (10,24)
+msgid ""
+"\\N[27]但就这么站着也不是办法，\n"
+"\\N[27]你迈开双腿在月面上走了一阵，\n"
+"\\N[27]就看到前方有些白色的小物体在运动着。"
+msgstr ""
+
+#. ID 6, Page 1, Line 14, Pos (10,24)
+#. Choice (2 options)
+msgid ""
+"接近\n"
+"离开"
+msgstr ""
+
+#. ID 6, Page 1, Line 16, Pos (10,24)
+msgid ""
+"\\N[27]你靠近一看，原来那是一群白兔。\n"
+"\\N[27]它们在沙地上奔腾跳跃，玩得好不开心。"
+msgstr ""
+
+#. ID 6, Page 1, Line 18, Pos (10,24)
+msgid ""
+"\\N[27]月亮上住着兔子的传说原来是真的吗。\n"
+"\\N[27]在你为之叹服的时候，兔子们注意到你，\n"
+"\\N[27]就猛地一跃跳了过来！"
+msgstr ""
+
+#. ID 6, Page 1, Line 29, Pos (10,24)
+msgid ""
+"\\N[27]被打倒的兔子们扭成不似生物的形状，\n"
+"\\N[27]东倒西歪地逃了出去。"
+msgstr ""
+
+#. ID 6, Page 1, Line 31, Pos (10,24)
+msgid ""
+"\\N[27]你在它们后面一路追赶着，\n"
+"\\N[27]抵达了一座闪耀着白光的神殿。\n"
+"\\N[27]登上那半透明的水晶阶梯之后，\n"
+"\\N[27]一个不可思议的人物迎接了你。"
+msgstr ""
+
+#. ID 6, Page 1, Line 36, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「咚咚啪啪ー……」"
+msgstr ""
+
+#. ID 6, Page 1, Line 38, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「您被选为星之门的挑战者了。\n"
+"\\N[27]　恭喜恭喜。鼓掌鼓掌鼓掌……」"
+msgstr ""
+
+#. ID 6, Page 1, Line 42, Pos (10,24)
+msgid "\\N[27]……总觉得在哪里见过她似的。"
+msgstr ""
+
+#. ID 6, Page 1, Line 44, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「……没有那回事。\n"
+"\\N[27]　是初次见面、初次见面……」"
+msgstr ""
+
+#. ID 6, Page 1, Line 47, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「咳，你现在所处的这个世界，\n"
+"\\N[27]　是和物质世界的相位稍稍\n"
+"\\N[27]　相异的灵体世界……」"
+msgstr ""
+
+#. ID 6, Page 1, Line 51, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「你必须到这个世界的顶峰，\n"
+"\\N[27]　又或者说是星系的最外侧，\n"
+"\\N[27]　去那里学到些什么才行」"
+msgstr ""
+
+#. ID 6, Page 1, Line 55, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「但为了达成这个目的，\n"
+"\\N[27]　你必须一边跨越众行星的阻力\n"
+"\\N[27]　一边前进……」"
+msgstr ""
+
+#. ID 6, Page 1, Line 59, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「在各行星之间，有以重力和以太流\n"
+"\\N[27]　搭成的道路，你就沿着它们前进吧ー……」"
+msgstr ""
+
+#. ID 6, Page 1, Line 62, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「……另外，在这里可以至多\n"
+"\\N[27]　进行五次完全恢复。\n"
+"\\N[27]　有需要的话就过来吧」"
+msgstr ""
+
+#. ID 6, Page 1, Line 67, Pos (10,24)
+msgid ""
+"\\N[27]……似乎就是这样。\n"
+"\\N[27]你向月之神殿的主人道过谢，离开了这里。"
+msgstr ""
+
+#. ID 6, Page 2, Line 4, Pos (10,24)
+msgid "\\N[27]你来到月之神殿，殿主出面迎接了你。"
+msgstr ""
+
+#. ID 6, Page 2, Line 6, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「嗯，你ー好ー……」"
+msgstr ""
+
+#. ID 6, Page 2, Line 10, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「……啊、已经不能回复了。\n"
+"\\N[27]　十分遗憾ー……」"
+msgstr ""
+
+#. ID 6, Page 2, Line 19, Pos (10,24)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「……还剩下\\V[100]回的样子。\n"
+"\\N[27]　要回复吗？」"
+msgstr ""
+
+#. ID 6, Page 2, Line 24, Pos (10,24)
+#. Choice (2 options)
+msgid ""
+"回复(※TTEXP会被结算)\n"
+"算了"
+msgstr ""
+
+#. ID 6, Page 2, Line 38, Pos (10,24)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]月之精\n"
+"\\N[27]「要顺便存档吗？　不要太沉迷游戏哦ー」"
+msgstr ""
+
+#. ID 6, Page 2, Line 40, Pos (10,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"存档(覆盖时请小心)\n"
+"不存档"
+msgstr ""
+
+#. ID 6, Page 2, Line 48, Pos (10,24)
+msgid "\\N[27]你向月之神殿的主人道过谢，离开了这里。"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (4,21)
+#. ID 7, Page 2, Line 7, Pos (4,21)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～水星天～"
+msgstr ""
+
+#. ID 7, Page 1, Line 4, Pos (4,21)
+msgid ""
+"\\N[27]你穿过宇宙空间，落到了这个行星的夜面。\n"
+"\n"
+"\\N[27]金属和水晶的山脉覆盖在地表上，\n"
+"\\N[27]反射着星光发出了耀眼的光辉。"
+msgstr ""
+
+#. ID 7, Page 1, Line 8, Pos (4,21)
+msgid ""
+"\\N[27]在极寒的大气当中，你穿过水晶溪谷，\n"
+"\\N[27]来到了一片镜之平原。\n"
+"\\N[27]在这里你发现了一座巨塔般的水晶。"
+msgstr ""
+
+#. ID 7, Page 1, Line 11, Pos (4,21)
+msgid ""
+"\\N[27]它的内部十分通透，你向里窥去，\n"
+"\\N[27]看到了一个模糊的巨影。\n"
+"\\N[27]水晶里面关着的，似乎是持有数条\n"
+"\\N[27]触手的巨型远古生物。"
+msgstr ""
+
+#. ID 7, Page 1, Line 17, Pos (4,21)
+msgid "\\N[27]……你感那怪物的眼睛似乎抽动了一下。"
+msgstr ""
+
+#. ID 7, Page 1, Line 20, Pos (4,21)
+msgid ""
+"\\N[27]……就在你眺望怪物的时候，\n"
+"\\N[27]黎明渐渐来临。\n"
+"\\N[27]天边开始露出鱼肚白了。"
+msgstr ""
+
+#. ID 7, Page 1, Line 24, Pos (4,21)
+#. Choice (2 options)
+msgid ""
+"再稍微调查一下\n"
+"离开"
+msgstr ""
+
+#. ID 7, Page 1, Line 26, Pos (4,21)
+#. ID 7, Page 1, Line 55, Pos (4,21)
+msgid ""
+"\\N[27]反射着日出的光辉，金属山脉也开始徐徐发亮。\n"
+"\\N[27]巨大的太阳炙烤着大地，令气温急剧上升。\n"
+"\\N[27]转眼之间，地表已经是一片炽热。"
+msgstr ""
+
+#. ID 7, Page 1, Line 29, Pos (4,21)
+#. ID 7, Page 1, Line 58, Pos (4,21)
+msgid ""
+"\\N[27]过酷的高热不一会就超越了金属大地\n"
+"\\N[27]的熔点，地面开始融化了起来――\n"
+"\\N[27]万幸的是你现在的身体可以忍耐高热，\n"
+"\\N[27]但由岩浆构成的怒涛你仍然无法承受。"
+msgstr ""
+
+#. ID 7, Page 1, Line 37, Pos (4,21)
+#. ID 7, Page 1, Line 66, Pos (4,21)
+msgid ""
+"\\N[27]就在你慌忙想要离开的时候，\n"
+"\\N[27]一只巨大的触手排开岩浆之海，向你袭来！"
+msgstr ""
+
+#. ID 7, Page 1, Line 42, Pos (4,21)
+msgid "\\N[27]获得了环冠！"
+msgstr ""
+
+#. ID 7, Page 1, Line 52, Pos (4,21)
+msgid "\\N[27]你从太古怪兽的触手中逃离，飞上了空中。"
+msgstr ""
+
+#. ID 7, Page 1, Line 68, Pos (4,21)
+msgid ""
+"\\N[27]不过，你在千钧一发之际避开触手，\n"
+"\\N[27]逃到了上空。"
+msgstr ""
+
+#. ID 7, Page 1, Line 74, Pos (4,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「那是在群星间的邪神眷属当中，\n"
+"\\N[27]　属于最下等的一种杂鱼啊ー」"
+msgstr ""
+
+#. ID 7, Page 1, Line 82, Pos (4,21)
+msgid ""
+"\\N[27]你向下看去，只见行星表面已经是\n"
+"\\N[27]滚滚沸腾的岩浆汪洋了。\n"
+"\\N[27]许多巨大的生物在当中蠢蠢蠕动着……"
+msgstr ""
+
+#. ID 7, Page 2, Line 9, Pos (4,21)
+msgid ""
+"\\N[27]这个行星的昼面覆盖着灼热的岩浆之海，\n"
+"\\N[27]冻结的夜面则遍布着金属和水晶的山脉。"
+msgstr ""
+
+#. ID 7, Page 2, Line 11, Pos (4,21)
+msgid ""
+"\\N[27]行星上栖息着形似头足纲的巨型怪物，\n"
+"\\N[27]并不是适合随便接近的地方。"
+msgstr ""
+
+#. ID 8, Page 1, Line 2, Pos (16,21)
+#. ID 8, Page 2, Line 7, Pos (16,21)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～金星天～"
+msgstr ""
+
+#. ID 8, Page 1, Line 4, Pos (16,21)
+#. ID 8, Page 2, Line 9, Pos (16,21)
+msgid ""
+"\\N[27]你穿过厚厚的云层，降到了星球的地表之上。\n"
+"\\N[27]似水非水的怪雨从天而降，浇得身上闷热异常。"
+msgstr ""
+
+#. ID 8, Page 1, Line 6, Pos (16,21)
+#. ID 8, Page 2, Line 11, Pos (16,21)
+msgid ""
+"\\N[27]你发现了一条河川，就沿河边漫步而行。\n"
+"\\N[27]不久你陷入茂密的森林，在遮天蔽日的\n"
+"\\N[27]蘑菇植被和岩石树丛中迷了路。\n"
+"\\N[27]青蛙似的生物从林中出现，呱呱叫个不停。"
+msgstr ""
+
+#. ID 8, Page 1, Line 10, Pos (16,21)
+msgid "\\N[27]在你徘徊往还之际，奇怪的光景从眼前出现。"
+msgstr ""
+
+#. ID 8, Page 1, Line 12, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「help meー！\n"
+"\\N[27]　救命、救命啊ー！」"
+msgstr ""
+
+#. ID 8, Page 1, Line 16, Pos (16,21)
+msgid ""
+"\\N[27]一只身上长着触手的不明正体、莫名其妙的生物，\n"
+"\\N[27]正在被飞行的紫色水晶群追赶着。"
+msgstr ""
+
+#. ID 8, Page 1, Line 18, Pos (16,21)
+msgid ""
+"\\N[27]而且那不明生物还说着人话向你求救。\n"
+"\\N[27]真不愧是宇宙，在这里连怪物都能讲话啊。"
+msgstr ""
+
+#. ID 8, Page 1, Line 21, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「别在一旁袖手旁观啦，\n"
+"\\N[27]　快来help meー！」"
+msgstr ""
+
+#. ID 8, Page 1, Line 26, Pos (16,21)
+#. Choice (2 options)
+msgid ""
+"出手相助\n"
+"置之不理"
+msgstr ""
+
+#. ID 8, Page 1, Line 28, Pos (16,21)
+msgid "\\N[27]无可奈何之下，你挺身拦住了紫色水晶群。"
+msgstr ""
+
+#. ID 8, Page 1, Line 30, Pos (16,21)
+msgid "\\N[27]被打倒后，紫色水晶群就散成沙粒消失掉了。"
+msgstr ""
+
+#. ID 8, Page 1, Line 32, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「好ー的，谢谢你哈ー！」"
+msgstr ""
+
+#. ID 8, Page 1, Line 35, Pos (16,21)
+msgid ""
+"\\N[27]明明是只怪物还这么活泼……\n"
+"\\N[27]这生物的身体是个彩虹色的巨大圆锥，\n"
+"\\N[27]圆锥的表面还生长着四只触手。"
+msgstr ""
+
+#. ID 8, Page 1, Line 39, Pos (16,21)
+#. Choice (2 options)
+msgid ""
+"询问详情\n"
+"准备离去"
+msgstr ""
+
+#. ID 8, Page 1, Line 44, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「啊，请等一ー下」"
+msgstr ""
+
+#. ID 8, Page 1, Line 51, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「吾是从遥远星系来到\n"
+"\\N[27]　这个世界进行调查的。\n"
+"\\N[27]　请多多指教ー啊」"
+msgstr ""
+
+#. ID 8, Page 1, Line 56, Pos (16,21)
+msgid "\\N[27]你也作了自我介绍，并说明了自己一路到此的经历。"
+msgstr ""
+
+#. ID 8, Page 1, Line 58, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「哇ー哦，你是用魔术飞来宇宙的吗。\n"
+"\\N[27]　也就是说，你是\\C[5]宇宙魔道士\\C[0]喽ー」"
+msgstr ""
+
+#. ID 8, Page 1, Line 62, Pos (16,21)
+msgid "\\N[27]总觉得这种称呼很丢脸。"
+msgstr ""
+
+#. ID 8, Page 1, Line 64, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「刚才的那个，是专门寄生在\n"
+"\\N[27]　智能生物身上的矿物生命体。\n"
+"\\N[27]　在这个星间世界里很常见的ー说」"
+msgstr ""
+
+#. ID 8, Page 1, Line 68, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「那种矿物生命体会让宿主陷入迷梦，\n"
+"\\N[27]　一边将宿主的精神活动作为能量源，\n"
+"\\N[27]　一边在其体内进行繁殖的ー说」"
+msgstr ""
+
+#. ID 8, Page 1, Line 72, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「有实体的生物只会因此陷入假死状态，\n"
+"\\N[27]　但像吾这样的精神生命体就会被直接\n"
+"\\N[27]　消灭掉ー喽」"
+msgstr ""
+
+#. ID 8, Page 1, Line 77, Pos (16,21)
+msgid ""
+"\\N[27]经它这么一说，你才意识到\n"
+"\\N[27]这怪物的身体也和你一样是灵体。"
+msgstr ""
+
+#. ID 8, Page 1, Line 80, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「吾等的\\C[5]兴趣\\C[0]是通过将精神体送入\n"
+"\\N[27]　其他时空，来收集异世界的知识」"
+msgstr ""
+
+#. ID 8, Page 1, Line 83, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「但是吾在中途，却被这个星系中\n"
+"\\N[27]　各行星发出的非物理性立场所拘束。\n"
+"\\N[27]　变得无法返回原本世界了」"
+msgstr ""
+
+#. ID 8, Page 1, Line 92, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「如果你是要去这星系外侧的话，\n"
+"\\N[27]　就请把吾也一起带去吧ー」"
+msgstr ""
+
+#. ID 8, Page 1, Line 97, Pos (16,21)
+#. Choice (2 options)
+msgid ""
+"带上这怪物\n"
+"还是算了吧"
+msgstr ""
+
+#. ID 8, Page 1, Line 100, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「谢谢你ー喽！\n"
+"\\N[27]　这段时间里就请多关照ー啦」"
+msgstr ""
+
+#. ID 8, Page 1, Line 105, Pos (16,21)
+msgid "\\N[27]\\N[16]加入了队伍！"
+msgstr ""
+
+#. ID 8, Page 1, Line 112, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「灰心丧ー气」"
+msgstr ""
+
+#. ID 8, Page 1, Line 115, Pos (16,21)
+msgid ""
+"\\N[27]奇怪的生物离去了……\n"
+""
+msgstr ""
+
+#. ID 8, Page 1, Line 122, Pos (16,21)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「啊啊，太无情了ー！」"
+msgstr ""
+
+#. ID 8, Page 1, Line 125, Pos (16,21)
+msgid "\\N[27]奇怪的生物和水晶群就这么飞走了……"
+msgstr ""
+
+#. ID 8, Page 2, Line 15, Pos (16,21)
+msgid ""
+"\\N[27]在这里已经没什么重要事情了。\n"
+"\\N[27]还是到别的地方去吧。"
+msgstr ""
+
+#. ID 9, Page 1, Line 2, Pos (10,14)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～太阳天～\n"
+""
+msgstr ""
+
+#. ID 9, Page 1, Line 5, Pos (10,14)
+msgid ""
+"\\N[27]一个闪耀着强烈光芒的圆盘，在前方充斥着你的视野。\n"
+"\\N[27]你现在面对的正是太阳。"
+msgstr ""
+
+#. ID 9, Page 1, Line 7, Pos (10,14)
+msgid ""
+"\\N[27]太阳在释放强大灵能引力的同时，还从它的表面\n"
+"\\N[27]吹出了具有物理、魔法双重性质，伴有压力的风。\n"
+"\\N[27]你如今面对的风中，极为恐怖的引拉二力正处于\n"
+"\\N[27]微妙的平衡，稍一大意就可能被风吹得魂飞魄散。"
+msgstr ""
+
+#. ID 9, Page 1, Line 12, Pos (10,14)
+#. Choice (2 options)
+msgid ""
+"继续前行\n"
+"返回"
+msgstr ""
+
+#. ID 9, Page 1, Line 14, Pos (10,14)
+msgid ""
+"\\N[27]根据『键之书』前半部分的说明所述，\n"
+"\\N[27]似乎可以利用太阳的引力和风力，\n"
+"\\N[27]来提高在星之轨迹上行进的速度。\n"
+"\\N[27]于是你朝太阳一路冲去。"
+msgstr ""
+
+#. ID 9, Page 1, Line 19, Pos (10,14)
+msgid ""
+"\\N[27]――不久后轨道开始在太阳表面盘旋，\n"
+"\\N[27]在沸腾而起的炎轮内侧穿行。\n"
+"\\N[27]你不断落于重力之底，被疯狂肆虐的\n"
+"\\N[27]能量反复摧残。"
+msgstr ""
+
+#. ID 9, Page 1, Line 23, Pos (10,14)
+msgid "\\N[27]这时候，你感到太阳内部传来了强烈的感情。"
+msgstr ""
+
+#. ID 9, Page 1, Line 26, Pos (10,14)
+msgid "\\N[27]『……………………………………………………………』"
+msgstr ""
+
+#. ID 9, Page 1, Line 27, Pos (10,14)
+msgid "\\N[27]『…………不许……从吾的世界逃脱………』"
+msgstr ""
+
+#. ID 9, Page 1, Line 29, Pos (10,14)
+msgid ""
+"\\N[27]察觉到你的意志想要越过太阳的影响圈后，\n"
+"\\N[27]恒星内部的某种远超人智的存在醒了过来。"
+msgstr ""
+
+#. ID 9, Page 1, Line 35, Pos (10,14)
+msgid ""
+"\\N[27]紧接着太阳表面发生爆破，引得能量四溅。\n"
+"\\N[27]一只似龙非龙的存在从中飞出，向你袭来。"
+msgstr ""
+
+#. ID 9, Page 1, Line 49, Pos (10,14)
+msgid "\\N[27]你从太阳龙的爪牙之下逃脱了。"
+msgstr ""
+
+#. ID 9, Page 1, Line 50, Pos (10,14)
+msgid ""
+"\\N[27]你用后背承受着太阳风，转借速度之势，\n"
+"\\N[27]向着遥远的宇宙彼方飞奔而去……"
+msgstr ""
+
+#. ID 9, Page 2, Line 7, Pos (10,14)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～太阳天～"
+msgstr ""
+
+#. ID 9, Page 2, Line 9, Pos (10,14)
+msgid ""
+"\\N[27]你回首眺望后方，只见太阳已变得十分渺小。\n"
+"\\N[27]如今，你已离开了自出生以来一直习如往常\n"
+"\\N[27]的太阳之光，向陌生的群星彼方飞去……"
+msgstr ""
+
+#. ID 10, Page 1, Line 2, Pos (4,13)
+#. ID 10, Page 2, Line 7, Pos (4,13)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～火星天～"
+msgstr ""
+
+#. ID 10, Page 1, Line 4, Pos (4,13)
+#. ID 10, Page 2, Line 9, Pos (4,13)
+msgid ""
+"\\N[27]陆地上遍布着赤砂和岩之荒漠，\n"
+"\\N[27]干旱的海面上长满了赤色苔藓。\n"
+"\\N[27]在这般赤色世界当中，都城散布各地，\n"
+"\\N[27]皆以发源于极点的运河维系着生命线。"
+msgstr ""
+
+#. ID 10, Page 1, Line 8, Pos (4,13)
+msgid ""
+"\\N[27]这个星球上是有着文明的。\n"
+"\n"
+"\\N[27]你在枯竭之海的海岸线边发现了一座城市，\n"
+"\\N[27]就从那附近降落了。"
+msgstr ""
+
+#. ID 10, Page 1, Line 12, Pos (4,13)
+msgid "\\N[27]然后，你突然遭遇了这星球住民之间的战争。"
+msgstr ""
+
+#. ID 10, Page 1, Line 15, Pos (4,13)
+msgid ""
+"\\N[27]绿肌族\n"
+"\\N[27]「突击，攻破城门！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 19, Pos (4,13)
+msgid ""
+"\\N[27]赤肌族\n"
+"\\N[27]「休想！给我死守住！」\n"
+""
+msgstr ""
+
+#. ID 10, Page 1, Line 24, Pos (4,13)
+#. ID 10, Page 2, Line 25, Pos (4,13)
+msgid ""
+"\\N[27]章鱼族\n"
+"\\N[27]「噜ー」"
+msgstr ""
+
+#. ID 10, Page 1, Line 28, Pos (4,13)
+msgid ""
+"\\N[27]青肌族\n"
+"\\N[27]「德玛西亚啊啊啊！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 32, Pos (4,13)
+msgid ""
+"\\N[27]橙肌族\n"
+"\\N[27]「去死吧啊啊啊！」\n"
+""
+msgstr ""
+
+#. ID 10, Page 1, Line 37, Pos (4,13)
+msgid ""
+"\\N[27]章鱼族\n"
+"\\N[27]「噜ー、噜ー噜ー」\n"
+""
+msgstr ""
+
+#. ID 10, Page 1, Line 40, Pos (4,13)
+msgid ""
+"\\N[27]……虽然不太明白它们在做什么，\n"
+"\\N[27]但真是场壮烈的战斗。\n"
+"\\N[27]各式各样的火星种族们混战一团，\n"
+"\\N[27]直杀得战场上鬼哭狼嚎。"
+msgstr ""
+
+#. ID 10, Page 1, Line 47, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「战斗是我等的宿命……」"
+msgstr ""
+
+#. ID 10, Page 1, Line 49, Pos (4,13)
+msgid ""
+"\\N[27]背后传来了一个声音。\n"
+"\\N[27]能令人联想起宇宙美人这个词语\n"
+"\\N[27]的女子站正在那里，对你姗姗道来。"
+msgstr ""
+
+#. ID 10, Page 1, Line 52, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「当野蛮的绿肌族为了毁灭我们\n"
+"\\N[27]　赤肌族的王国而挑起斗争之时，\n"
+"\\N[27]　一切战争的导火索都被点燃……」"
+msgstr ""
+
+#. ID 10, Page 1, Line 56, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「敌人与青肌族和蓝肌族组成了同盟，\n"
+"\\N[27]　但蓝肌族已经和橙肌组保持了长年\n"
+"\\N[27]　的友好关系」"
+msgstr ""
+
+#. ID 10, Page 1, Line 60, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「于是我们赤肌族利用这点，\n"
+"\\N[27]　通过联姻加深与橙肌族的关系，\n"
+"\\N[27]　把蓝肌族也拉进了我方阵营」"
+msgstr ""
+
+#. ID 10, Page 1, Line 64, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「但是绿肌组却通过密探察知了此事。\n"
+"\\N[27]　于是他们派遣密使，想把朱肌族、\n"
+"\\N[27]　浅葱肌族、鹤色肌族也卷入战事……」"
+msgstr ""
+
+#. ID 10, Page 1, Line 68, Pos (4,13)
+msgid ""
+"\\N[27]你在中途听得不胜厌烦，\n"
+"\\N[27]就催促王女长话短说。"
+msgstr ""
+
+#. ID 10, Page 1, Line 70, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「总而言之，引起战争的原因\n"
+"\\N[27]　就是因为\\C[5]煎蛋\\C[0]啊！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 73, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「煎蛋上是应该加酱油？\n"
+"\\N[27]　还是应该加辣酱？\n"
+"\\N[27]　又或者是番茄酱？」"
+msgstr ""
+
+#. ID 10, Page 1, Line 77, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「为了给这问题决出一个答案，\n"
+"\\N[27]　我们就不断斗争斗争再斗争！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 82, Pos (4,13)
+msgid ""
+"\\N[27]绿肌族\n"
+"\\N[27]「是辣酱！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 86, Pos (4,13)
+msgid ""
+"\\N[27]赤肌族\n"
+"\\N[27]「是酱油！\n"
+"\\N[27]　蛋黄要半熟的！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 91, Pos (4,13)
+msgid ""
+"\\N[27]蓝肌族\n"
+"\\N[27]「番茄酱有什么不好了！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 95, Pos (4,13)
+msgid ""
+"\\N[27]章鱼族\n"
+"\\N[27]「噜噜ー噜ー」"
+msgstr ""
+
+#. ID 10, Page 1, Line 97, Pos (4,13)
+msgid "\\N[27]简直蠢到家了。"
+msgstr ""
+
+#. ID 10, Page 1, Line 99, Pos (4,13)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]那么，你该怎么办？"
+msgstr ""
+
+#. ID 10, Page 1, Line 100, Pos (4,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"「蛋黄酱比较好」\n"
+"径直离开"
+msgstr ""
+
+#. ID 10, Page 1, Line 104, Pos (4,13)
+msgid "\\N[27]……不知从何时开始，战场上变得一片寂静。"
+msgstr ""
+
+#. ID 10, Page 1, Line 105, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「你居然说……蛋黄酱比较好？」"
+msgstr ""
+
+#. ID 10, Page 1, Line 107, Pos (4,13)
+msgid ""
+"\\N[27]你怕是说了什么不该说的事情吧，\n"
+"\\N[27]周围的空气已经紧张得一触即发了。"
+msgstr ""
+
+#. ID 10, Page 1, Line 109, Pos (4,13)
+msgid "\\N[27]――突然间，战士们纷纷发出了欢呼。"
+msgstr ""
+
+#. ID 10, Page 1, Line 113, Pos (4,13)
+msgid ""
+"\\N[27]绿肌族\n"
+"\\N[27]「对啊，蛋黄酱好啊！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 117, Pos (4,13)
+msgid ""
+"\\N[27]赤肌族\n"
+"\\N[27]「原来如此，是蛋黄酱吗！\n"
+"\\N[27]　不过还是要半熟的才行！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 122, Pos (4,13)
+msgid ""
+"\\N[27]蓝肌族\n"
+"\\N[27]「蛋黄酱万岁！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 126, Pos (4,13)
+msgid ""
+"\\N[27]章鱼族\n"
+"\\N[27]「噜ー、噜噜噜ー」"
+msgstr ""
+
+#. ID 10, Page 1, Line 128, Pos (4,13)
+msgid "\\N[27]……虽然莫名其妙，但他们好像很中意的样子。"
+msgstr ""
+
+#. ID 10, Page 1, Line 129, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「曾互相憎恨的火星民众们，\n"
+"\\N[27]　现在居然连成了一心……\n"
+"\\N[27]　啊啊……这真是奇迹啊」"
+msgstr ""
+
+#. ID 10, Page 1, Line 133, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「您是我们火星的大英雄。\n"
+"\\N[27]　请与我结婚，成为火星大元帅……\n"
+"\\N[27]　不，请您成为火星的大总统吧！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 138, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「让我们两人来一起产卵吧！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 142, Pos (4,13)
+msgid "\\N[27]但是，同为女性是不能结婚的。"
+msgstr ""
+
+#. ID 10, Page 1, Line 143, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「这种事情根本无所谓嘛。\n"
+"\\N[27]　让我们两人来一起产卵吧！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 148, Pos (4,13)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]她还是卵生的吗…………"
+msgstr ""
+
+#. ID 10, Page 1, Line 151, Pos (4,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"与王女结婚\n"
+"离开"
+msgstr ""
+
+#. ID 10, Page 1, Line 154, Pos (4,13)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]结了婚的话，就再不能离开这个星球了。"
+msgstr ""
+
+#. ID 10, Page 1, Line 155, Pos (4,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"即使这样也要结婚\n"
+"算了"
+msgstr ""
+
+#. ID 10, Page 1, Line 158, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「啊啊，我爱你！」"
+msgstr ""
+
+#. ID 10, Page 1, Line 167, Pos (4,13)
+msgid ""
+"\\N[27]　　　　　　　　就这样，\n"
+"\\N[27]　　　　　你作为火星大总统\\N[\\V[2]]\n"
+"\\N[27]　　　　　   幸福地生活了下去……"
+msgstr ""
+
+#. ID 10, Page 1, Line 171, Pos (4,13)
+msgid ""
+"　　　　　　　　　Ｒ ｕ ｉ ｎ ａ\n"
+"　　　　　　　　　　 废都物语\n"
+"\n"
+"　　　　　　　　　　～Ｆｉｎ～　　　　　　\\|　　"
+msgstr ""
+
+#. ID 10, Page 1, Line 187, Pos (4,13)
+msgid ""
+"\\N[27]王女\n"
+"\\N[27]「怎么会，好过分……」"
+msgstr ""
+
+#. ID 10, Page 1, Line 190, Pos (4,13)
+msgid "\\N[27]在被卷入更麻烦的事情之前，你决定立即离开。"
+msgstr ""
+
+#. ID 10, Page 1, Line 200, Pos (4,13)
+msgid ""
+"\\N[27]像这么白痴的战争，只是被卷进去也显得够白痴了。\n"
+"\\N[27]你唯恐避之不及，立即转身离去。"
+msgstr ""
+
+#. ID 10, Page 2, Line 13, Pos (4,13)
+msgid ""
+"\\N[27]你看到这个星球的住民们，\n"
+"\\N[27]正一起拌着蛋黄酱亲密地用着餐。"
+msgstr ""
+
+#. ID 10, Page 2, Line 16, Pos (4,13)
+msgid ""
+"\\N[27]绿肌族\n"
+"\\N[27]「蛋黄酱拌煎蛋」"
+msgstr ""
+
+#. ID 10, Page 2, Line 19, Pos (4,13)
+msgid ""
+"\\N[27]赤肌族\n"
+"\\N[27]「蛋黄酱拌纳豆」"
+msgstr ""
+
+#. ID 10, Page 2, Line 22, Pos (4,13)
+msgid ""
+"\\N[27]青肌族\n"
+"\\N[27]「蛋黄酱拌咖喱！」"
+msgstr ""
+
+#. ID 10, Page 2, Line 27, Pos (4,13)
+msgid "\\N[27]总觉得有些无法释怀……"
+msgstr ""
+
+#. ID 11, Page 1, Line 2, Pos (16,13)
+#. ID 11, Page 2, Line 7, Pos (16,13)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～木星天～"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (16,13)
+#. ID 11, Page 2, Line 9, Pos (16,13)
+msgid ""
+"\\N[27]这是颗即使被称为巨星也毫不为过的大型行星。\n"
+"\\N[27]在广大的行星表面，整整覆盖了一层乳白色的\n"
+"\\N[27]云雾，在空中描绘成条纹之状。"
+msgstr ""
+
+#. ID 11, Page 1, Line 8, Pos (16,13)
+#. Choice (2 options)
+msgid ""
+"降到行星上\n"
+"返回"
+msgstr ""
+
+#. ID 11, Page 1, Line 11, Pos (16,13)
+msgid "\\N[27]你绕着行星周围的轨道而降。"
+msgstr ""
+
+#. ID 11, Page 1, Line 13, Pos (16,13)
+msgid ""
+"\\N[27]你冲入云层准备降落，却久久未能发现地面。\n"
+"\\N[27]反倒在中途被猛吹而过的高速气流席卷，\n"
+"\\N[27]随波逐流地不知飘去了何方。"
+msgstr ""
+
+#. ID 11, Page 1, Line 16, Pos (16,13)
+msgid ""
+"\\N[27]你一路随风漂泊，眼前却始终是浓密的云层。\n"
+"\\N[27]期间冰雹骤起，雷光奔腾，\n"
+"\\N[27]比液体更为沉重的暴风经久不绝……"
+msgstr ""
+
+#. ID 11, Page 1, Line 19, Pos (16,13)
+msgid ""
+"\\N[27]……有只庞然大物从眼前一晃而过。\n"
+"\\N[27]那是只形似深海鱼的生物，它在云中\n"
+"\\N[27]游动着来到你身边，然后又渐渐远去。"
+msgstr ""
+
+#. ID 11, Page 1, Line 22, Pos (16,13)
+msgid ""
+"\\N[27]仔细一看，你发现云层当中有着众多生物。\n"
+"\\N[27]巨如小山、形似鲸鱼的影子在远方游动着，\n"
+"\\N[27]近处则有类似水母的球体生物在眼前漂浮。"
+msgstr ""
+
+#. ID 11, Page 1, Line 27, Pos (16,13)
+msgid "\\N[27]――巨大的雷鸣声从远方炸响。"
+msgstr ""
+
+#. ID 11, Page 1, Line 32, Pos (16,13)
+msgid ""
+"\\N[27]雷鸣声渐渐接近了。\n"
+"\\N[27]周围的生物纷纷畏惧而逃。"
+msgstr ""
+
+#. ID 11, Page 1, Line 45, Pos (16,13)
+msgid "\\N[27]――以雷光化形而成的巨人，从云层的彼端显露了身姿。"
+msgstr ""
+
+#. ID 11, Page 1, Line 51, Pos (16,13)
+msgid ""
+"\\N[27]『　　　　　可——恶——啊啊啊啊\n"
+"\\N[27]　　　　   还敢安安安再回来唉唉唉\n"
+"\\N[27]　　　　    你——这畜生恩恩恩！！　　　　　』"
+msgstr ""
+
+#. ID 11, Page 1, Line 54, Pos (16,13)
+msgid ""
+"\n"
+"\\N[27]『　　　非——教训——不可啊啊啊啊啊！！　　　』"
+msgstr ""
+
+#. ID 11, Page 1, Line 58, Pos (16,13)
+msgid ""
+"\\N[27]在你被轰鸣的怒吼震惊的当下，\n"
+"\\N[27]敌人已经在身边出现，向你袭来了！"
+msgstr ""
+
+#. ID 11, Page 1, Line 73, Pos (16,13)
+msgid ""
+"\n"
+"\\N[27]『　　　　　　　哎——呀啊啊啊？　　　　　　　』"
+msgstr ""
+
+#. ID 11, Page 1, Line 75, Pos (16,13)
+msgid ""
+"\\N[27]『　　　　　　仔细——一看暗暗暗暗 \n"
+"\\N[27]　　　　　你——不是——那家伙啊啊啊啊　　　　』\n"
+""
+msgstr ""
+
+#. ID 11, Page 1, Line 80, Pos (16,13)
+msgid "\\N[27]――你把敌人解决的时候，却听光之巨人如此嘟囔到。"
+msgstr ""
+
+#. ID 11, Page 1, Line 84, Pos (16,13)
+msgid ""
+"\n"
+"\\N[27]『　　　　抱歉抱歉我认错人啦啊啊啊啊啊　　　　』"
+msgstr ""
+
+#. ID 11, Page 1, Line 86, Pos (16,13)
+msgid ""
+"\\N[27]『　　   你——的灵魂和以前暗暗暗\n"
+"\\N[27]　　     从我这里偷——走不死之法啊啊啊\n"
+"\\N[27]　    的童恩恩恩子几——乎一模一样昂昂昂\n"
+"\\N[27]　     我一——不小心恩恩恩就搞混啦啊啊啊　　』"
+msgstr ""
+
+#. ID 11, Page 1, Line 90, Pos (16,13)
+msgid ""
+"\\N[27]『　　　作为误呜呜呜会的歉礼咿咿咿咿\n"
+"\\N[27]　　　　就把啊啊啊这个送给你吧啊啊啊　　　　』"
+msgstr ""
+
+#. ID 11, Page 1, Line 95, Pos (16,13)
+msgid "\\N[27]获得了「哈鲁教典 上」！"
+msgstr ""
+
+#. ID 11, Page 1, Line 100, Pos (16,13)
+msgid ""
+"\n"
+"\\N[27]『　　　　　你咿咿咿走吧啊啊啊啊　　　　　』"
+msgstr ""
+
+#. ID 11, Page 1, Line 109, Pos (16,13)
+msgid "\\N[27]巨人呼地吹了一口气，就把你吹到了大气层外……"
+msgstr ""
+
+#. ID 11, Page 2, Line 12, Pos (16,13)
+msgid ""
+"\\N[27]这个星球被闪闪发光的巨人支配着。\n"
+"\\N[27]虽然很在意他的身份，但现在还是先赶路吧。"
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (4,5)
+#. ID 12, Page 2, Line 7, Pos (4,5)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～土星天～"
+msgstr ""
+
+#. ID 12, Page 1, Line 4, Pos (4,5)
+#. ID 12, Page 2, Line 9, Pos (4,5)
+msgid ""
+"\\N[27]那究竟是帽子，还是所谓的星环呢？\n"
+"\\N[27]这颗行星被圈状的圆环环绕着，呈现出独特的形状。"
+msgstr ""
+
+#. ID 12, Page 1, Line 6, Pos (4,5)
+#. ID 12, Page 2, Line 11, Pos (4,5)
+msgid ""
+"\\N[27]为把握星球的整体情况，你沿圆环移动，\n"
+"\\N[27]却在行星的背面发现了一颗样子异常的卫星。"
+msgstr ""
+
+#. ID 12, Page 1, Line 8, Pos (4,5)
+msgid ""
+"\\N[27]卫星的地表上覆盖着呈现出金属光泽的外壳，\n"
+"\\N[27]隐约有不吉的赤色光芒从外壳的空隙间泄露而出。"
+msgstr ""
+
+#. ID 12, Page 1, Line 12, Pos (4,5)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「噢ー喔！\n"
+"\\N[27]　那是危险的星间种族\n"
+"\\N[27]　建造的前线基地ー！」"
+msgstr ""
+
+#. ID 12, Page 1, Line 20, Pos (4,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]――你还没来得及看个仔细，\n"
+"\\N[27]卫星中就涌出了大量的生物。"
+msgstr ""
+
+#. ID 12, Page 1, Line 22, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"突破\n"
+"逃跑"
+msgstr ""
+
+#. ID 12, Page 1, Line 24, Pos (4,5)
+msgid "\\N[27]你朝着未知生命体的大群冲了过去！"
+msgstr ""
+
+#. ID 12, Page 1, Line 37, Pos (4,5)
+msgid "\\N[27]你突破敌人集团的空隙，飞到了行星的对侧。"
+msgstr ""
+
+#. ID 12, Page 1, Line 38, Pos (4,5)
+msgid ""
+"\\N[27]回头一看，敌人依然咬在背后穷追不舍。\n"
+"\\N[27]还是快点穿过这片区域吧。"
+msgstr ""
+
+#. ID 12, Page 1, Line 48, Pos (4,5)
+msgid "\\N[27]你转过身去，背对着卫星逃走了。"
+msgstr ""
+
+#. ID 12, Page 2, Line 13, Pos (4,5)
+msgid ""
+"\\N[27]卫星的地表上覆盖着呈现出金属光泽的外壳，\n"
+"\\N[27]隐约有不吉的赤色光芒从外壳的空隙间泄露而出。\n"
+"\\N[27]这里是来自外宇宙的未知生物们建造的前线基地。"
+msgstr ""
+
+#. ID 12, Page 2, Line 16, Pos (4,5)
+msgid ""
+"\\N[27]接近那地方会很危险。\n"
+"\\N[27]还是赶快离开吧。"
+msgstr ""
+
+#. ID 13, Page 1, Line 2, Pos (16,5)
+#. ID 13, Page 2, Line 7, Pos (16,5)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～魔星天～"
+msgstr ""
+
+#. ID 13, Page 1, Line 4, Pos (16,5)
+msgid ""
+"\\N[27]以万丈银河为背景，一只巨大的黑色球体渐渐迫近，\n"
+"\\N[27]来到了你的身边。"
+msgstr ""
+
+#. ID 13, Page 1, Line 6, Pos (16,5)
+msgid ""
+"\\N[27]你接近黑色的天体，发现它的地表如同\n"
+"\\N[27]生物一般不停地蠕动着，几欲拔地而起。\n"
+"\\N[27]――这个行星是活物！"
+msgstr ""
+
+#. ID 13, Page 1, Line 11, Pos (16,5)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「这个ー，难道素ー！？」"
+msgstr ""
+
+#. ID 13, Page 1, Line 13, Pos (16,5)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「既是宇宙的初始也是终焉！\n"
+"\\N[27]　既是生命的起源也是死亡！\n"
+"\\N[27]　既是熵也是反熵ー！」"
+msgstr ""
+
+#. ID 13, Page 1, Line 17, Pos (16,5)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「它就是一切生命的天敌\n"
+"\\N[27]　——＜混沌＞的ー说！\n"
+"\\N[27]　大、大事不妙啊ー！！」"
+msgstr ""
+
+#. ID 13, Page 1, Line 21, Pos (16,5)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「＜混沌＞之门居然大到行星规模，\n"
+"\\N[27]　这东西实在是太dangerousー啦！\n"
+"\\N[27]　要是被它抓到就全完了的ー说！！」"
+msgstr ""
+
+#. ID 13, Page 1, Line 29, Pos (16,5)
+msgid ""
+"\\N[27]你是要穿过去，还是想逃走呢――\n"
+"\\N[27]现在必须作出选择了。\n"
+""
+msgstr ""
+
+#. ID 13, Page 1, Line 32, Pos (16,5)
+#. Choice (2 options)
+msgid ""
+"突破\n"
+"返回"
+msgstr ""
+
+#. ID 13, Page 1, Line 34, Pos (16,5)
+msgid ""
+"\\N[27]你在漆黑行星的卫星轨道上穿行着，\n"
+"\\N[27]朝行星的对面飞去――"
+msgstr ""
+
+#. ID 13, Page 1, Line 36, Pos (16,5)
+msgid ""
+"\\N[27]但与此同时，行星的地表上伸出了像\n"
+"\\N[27]异型生物一样的触手，向你袭了过来！"
+msgstr ""
+
+#. ID 13, Page 1, Line 50, Pos (16,5)
+msgid ""
+"\\N[27]你趁异形生物退缩的空隙，从它们\n"
+"\\N[27]的侧面突破，顺利飞到了行星对侧。\n"
+"\\N[27]还是早点脱离这片领域吧。"
+msgstr ""
+
+#. ID 13, Page 1, Line 61, Pos (16,5)
+msgid "\\N[27]你转过身去，背对着黑色行星逃走了。"
+msgstr ""
+
+#. ID 13, Page 2, Line 9, Pos (16,5)
+msgid ""
+"\\N[27]漆黑的行星犹如宇宙中的虫洞般悬浮于此。\n"
+"\\N[27]在它的地表上，异形的生物群一边进行着\n"
+"\\N[27]永无休止的突然变异，一边互相捕食着。"
+msgstr ""
+
+#. ID 13, Page 2, Line 12, Pos (16,5)
+msgid ""
+"\\N[27]已经没必要再靠近这颗行星了。\n"
+"\\N[27]还是快到别的地方去吧。"
+msgstr ""
+
+#. ID 14, Page 1, Line 2, Pos (10,1)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　　～至高天～"
+msgstr ""
+
+#. ID 14, Page 1, Line 4, Pos (10,1)
+msgid ""
+"\\N[27]――你远离生养自己的母星，\n"
+"\\N[27]不远万里地来到这里。\n"
+"\\N[27]回头望去，连太阳也变成了\n"
+"\\N[27]在彼方闪烁的一个微弱光点。"
+msgstr ""
+
+#. ID 14, Page 1, Line 10, Pos (10,1)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「来到这里的话，凭吾一己之力\n"
+"\\N[27]　也能从星系的力场当中脱离了」"
+msgstr ""
+
+#. ID 14, Page 1, Line 13, Pos (10,1)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「多亏你们，吾能返回故乡的时空了！\n"
+"\\N[27]　十分感谢」"
+msgstr ""
+
+#. ID 14, Page 1, Line 16, Pos (10,1)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「吾就把机能点数作为谢礼吧！」"
+msgstr ""
+
+#. ID 14, Page 1, Line 20, Pos (10,1)
+msgid "\\N[27]获得2点SP！"
+msgstr ""
+
+#. ID 14, Page 1, Line 23, Pos (10,1)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]「那么，咱们就后会有期了」"
+msgstr ""
+
+#. ID 14, Page 1, Line 28, Pos (10,1)
+msgid "\\N[27]异星人留下道道光痕，消失在虚空之中……"
+msgstr ""
+
+#. ID 14, Page 1, Line 37, Pos (10,1)
+msgid "\\N[27]……你继续向前走去。"
+msgstr ""
+
+#. ID 14, Page 1, Line 38, Pos (10,1)
+msgid ""
+"\\N[27]终于，你在前方看到了要称之为行星\n"
+"\\N[27]就显得过于渺小的矮星。\n"
+"\\N[27]它沐浴着远道而来的阳光，在一片黑\n"
+"\\N[27]暗中不起眼地漂浮着。"
+msgstr ""
+
+#. ID 14, Page 1, Line 42, Pos (10,1)
+msgid ""
+"\\N[27]一道人影耸立在白色地表之上，\n"
+"\\N[27]它迎接了你的到来。"
+msgstr ""
+
+#. ID 14, Page 1, Line 45, Pos (10,1)
+msgid ""
+"\\N[27]键之守护者\n"
+"\\N[27]「此处是世界尽头。\n"
+"\\N[27]　母星加护断绝之地」"
+msgstr ""
+
+#. ID 14, Page 1, Line 48, Pos (10,1)
+msgid ""
+"\\N[27]键之守护者\n"
+"\\N[27]「若想继续前行，\n"
+"\\N[27]　就必须先击败我」"
+msgstr ""
+
+#. ID 14, Page 1, Line 53, Pos (10,1)
+#. Choice (2 options)
+msgid ""
+"挑战\n"
+"返回"
+msgstr ""
+
+#. ID 14, Page 1, Line 74, Pos (10,1)
+msgid ""
+"\\N[27]键之守护者\n"
+"\\N[27]「……你获得资格了」"
+msgstr ""
+
+#. ID 14, Page 1, Line 76, Pos (10,1)
+msgid ""
+"\\N[27]键之守护者\n"
+"\\N[27]「过去曾有无数人通过此处。\n"
+"\\N[27]　但归来者却不及一手之数。\n"
+"\\N[27]　你又会否选择归还的道路？」"
+msgstr ""
+
+#. ID 14, Page 1, Line 80, Pos (10,1)
+msgid ""
+"\\N[27]键之守护者\n"
+"\\N[27]「来，尽管上路吧。\\N[\\V[2]]！」"
+msgstr ""
+
+#. ID 14, Page 1, Line 84, Pos (10,1)
+msgid ""
+"\\N[27]你抬头仰望，只见在天川之中――\n"
+"\\N[27]无数星群连成一线，形如大河。\n"
+"\\N[27]你从矮星的地表出发，向着银河中心漫行而去……"
+msgstr ""
+
+#. ID 14, Page 1, Line 91, Pos (10,1)
+msgid ""
+"\\N[27]――从太阳之中吹来的热风，守护了居住\n"
+"\\N[27]在行星上的生物，令它们免受外宇宙的影响。\n"
+"\\N[27]有害的力量和侵略者都被太阳风驱逐在外，\n"
+"\\N[27]要侵入星系中心并非易事。"
+msgstr ""
+
+#. ID 14, Page 1, Line 95, Pos (10,1)
+msgid ""
+"\\N[27]在行星表面初生的幼年文明，\n"
+"\\N[27]便在太阳的庇佑下渡过它的幼年期。\n"
+"\\N[27]但若是它想追求更高的目标，\n"
+"\\N[27]就必须从这庇佑中脱离而出。"
+msgstr ""
+
+#. ID 14, Page 1, Line 100, Pos (10,1)
+msgid ""
+"\\N[27]眼前的空间出现了一道石门，\n"
+"\\N[27]随即――"
+msgstr ""
+
+#. ID 14, Page 1, Line 154, Pos (10,1)
+msgid "\\N[27]――然后，你听到了歌声。"
+msgstr ""
+
+#. ID 14, Page 1, Line 158, Pos (10,1)
+msgid ""
+"\\N[27]从前被太阳风遮断，你没能听到的歌声，\n"
+"\\N[27]如今却清晰地从银河中心核的方向传来。\n"
+"\\N[27]那充满调和的音节，不断地咏颂着过去、\n"
+"\\N[27]未来所发生的一切事情。"
+msgstr ""
+
+#. ID 14, Page 1, Line 162, Pos (10,1)
+msgid ""
+"\\N[27]那是以太古种族之歌为始，即便跨越终末，\n"
+"\\N[27]也依旧无休无止的天球之曲。\n"
+"\\N[27]是以宇宙本身为乐器，由神秘音律而成型\n"
+"\\N[27]的永恒之伽蓝。"
+msgstr ""
+
+#. ID 14, Page 1, Line 166, Pos (10,1)
+msgid "\\N[27]在那音乐之中，一切皆为正确、皆为至福。"
+msgstr ""
+
+#. ID 14, Page 1, Line 167, Pos (10,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]只有具备资格者，才能听到这音乐，并参与其中。\n"
+"\\N[27]你也想加入歌中，伴随着音律永远随波逐流下去。"
+msgstr ""
+
+#. ID 14, Page 1, Line 170, Pos (10,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"回到故乡\n"
+"选择永恒"
+msgstr ""
+
+#. ID 14, Page 1, Line 172, Pos (10,1)
+msgid "\\N[27]……但是，你还有没完成的事情。"
+msgstr ""
+
+#. ID 14, Page 1, Line 173, Pos (10,1)
+msgid ""
+"\\N[27]你的内心从无限之光中剥离而出。\n"
+"\n"
+"\\N[27]但曾经触及永恒的记忆，却仍然残留在你的灵魂中。"
+msgstr ""
+
+#. ID 14, Page 1, Line 177, Pos (10,1)
+msgid "\\N[27]回去吧。"
+msgstr ""
+
+#. ID 14, Page 1, Line 187, Pos (10,1)
+msgid ""
+"\\N[27]在你这么想着的瞬间，一切都化为奔流消逝而去。\n"
+"\\N[27]瞬息之间你跨越无限距离，重新回到了肉体当中。\n"
+""
+msgstr ""
+
+#. ID 14, Page 1, Line 190, Pos (10,1)
+msgid ""
+"\\N[27]下坠感。\n"
+"\n"
+"\\N[27]以及初生之痛――"
+msgstr ""
+
+#. ID 14, Page 1, Line 212, Pos (10,1)
+msgid ""
+"\\N[27]……你回过神来的时候，\n"
+"\\N[27]发现同伴们正担心地注视着你。"
+msgstr ""
+
+#. ID 14, Page 1, Line 216, Pos (10,1)
+msgid ""
+"\\N[27]……你回过神来，\n"
+"\\N[27]发现自己回到了地面上。"
+msgstr ""
+
+#. ID 14, Page 1, Line 220, Pos (10,1)
+msgid ""
+"\\N[27]你的脸颊被泪水浸湿，\n"
+"\\N[27]丧失的悲痛令身体颤抖不已。\n"
+"\\N[27]在触及永恒的那一瞬，你本已获得全知全能。\n"
+"\\N[27]但如今那种感触却仅仅作为魔力残留了下来……"
+msgstr ""
+
+#. ID 14, Page 1, Line 225, Pos (10,1)
+msgid "\\N[27]获得了＜上灵＞！"
+msgstr ""
+
+#. ID 14, Page 1, Line 228, Pos (10,1)
+msgid "\\N[27]学会了伟大秘仪！"
+msgstr ""
+
+#. ID 14, Page 1, Line 231, Pos (10,1)
+msgid "\\N[27]获得4点SP！"
+msgstr ""
+
+#. ID 14, Page 1, Line 248, Pos (10,1)
+msgid ""
+"\\N[27]　　　　　　 在接触到这份至福后，\n"
+"\\N[27]　　　   地上的纷争已经变得毫无意义。"
+msgstr ""
+
+#. ID 14, Page 1, Line 250, Pos (10,1)
+msgid ""
+"\\N[27]　       你的自我溶入虚空，化为音节，\n"
+"\\N[27]　　　　 在永恒的调和之中成为了久远――"
+msgstr ""
+
+#. ID 14, Page 1, Line 261, Pos (10,1)
+msgid ""
+"\n"
+"\\N[27]『　　　　　　　　 ――不可！　　　　　　　　 』"
+msgstr ""
+
+#. ID 14, Page 1, Line 263, Pos (10,1)
+msgid ""
+"\n"
+"\\N[27]『    汝乃背负久远前世因果之身。\n"
+"\\N[27]    在往复于无限轮回、迎来宿命之时前，\n"
+"\\N[27]　　  汝之救赎将永不得如愿以偿！　　　』"
+msgstr ""
+
+#. ID 14, Page 1, Line 268, Pos (10,1)
+msgid ""
+"\\N[27]从内侧溢出的某个意志，\n"
+"\\N[27]却从无限之光中把你剥离了出来。"
+msgstr ""
+
+#. ID 14, Page 1, Line 270, Pos (10,1)
+msgid ""
+"\\N[27]――不要。\n"
+"\\N[27]不想回去。"
+msgstr ""
+
+#. ID 14, Page 2, Line 4, Pos (10,1)
+msgid ""
+"\n"
+"\\N[27]丂丂丂丂丂丂丂丂丂丂乣帄崅揤乣"
+msgstr ""
+
+#. ID 14, Page 2, Line 6, Pos (10,1)
+msgid ""
+"\\N[27]乗\乗\惗傑傟堢偭偨惎傪墦偔棧傟偰丄偼傞偽傞\n"
+"\\N[27]偙偙傑偱扝傝拝偄偨丅\n"
+"\\N[27]怳傝曉傟偽丄懢梲偼攚屻墦偔偵婸偔庛乆偟偄\n"
+"\\N[27]岝揰偵夁偓側偄丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 12, Pos (10,1)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]乽僐僐儅僨棃傟偽丄巹偺椡偱儌\n"
+"\\N[27]丂惎宯偺椡応偐傜棧傟傞偙偲偑\n"
+"\\N[27]丂僨僉儅乕僗乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 16, Pos (10,1)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]乽僆僇僎偱屘嫿偺帪嬻偵婣傟儅乕僗傛両\n"
+"\\N[27]丂僇儞僔儍姶幱僱乕乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 19, Pos (10,1)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]乽偍楃偵僗僥僉億僀儞僣傪\n"
+"\\N[27]丂僾儗僛儞僩偱乕僗両乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 24, Pos (10,1)
+msgid "\\N[27]儃乕僫僗SP傪2揰妉摼両"
+msgstr ""
+
+#. ID 14, Page 2, Line 27, Pos (10,1)
+msgid ""
+"\\N[27]\\N[16]\n"
+"\\N[27]乽儂僫丄僶僀側傜僨乕僗乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 32, Pos (10,1)
+msgid "\\N[27]堎惎恖偼岝偺嵀愓傪巆偟偰嫊嬻偵徚偊偨乧乧丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 41, Pos (10,1)
+msgid "\\N[27]乧乧偁側偨偼愭傊偲恑傒懕偗偨丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 42, Pos (10,1)
+msgid ""
+"\\N[27]傗偑偰慜曽偵丄榝惎偲屇傇偵偼偁傑傝偵彫偝偄\n"
+"\\N[27]徕惎偑尒偊偰偒偨丅\n"
+"\\N[27]墦偔偐傜偺梲岝傪梺傃偰丄庛乆偟偔埮偺拞偵\n"
+"\\N[27]晜偐傫偱偄傞丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 46, Pos (10,1)
+msgid ""
+"\\N[27]偦偺敀偄抧昞\偵偼恖暔偑堦恖棫偭偰偄偰丄\n"
+"\\N[27]偁側偨傪弌寎偊偨丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 49, Pos (10,1)
+msgid ""
+"\\N[27]尞偺庣岇幰\n"
+"\\N[27]乽偙偙偼悽奅偺壥偰丅\n"
+"\\N[27]丂曣側傞惎偺壛岇愨偊傞抧乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 52, Pos (10,1)
+msgid ""
+"\\N[27]尞偺庣岇幰\n"
+"\\N[27]乽偙偺愭傊偲峴偐傫偲偡傞側傜偽丄\n"
+"\\N[27]丂巹傪搢偝偹偽側傜側偄乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 56, Pos (10,1)
+#. Choice (2 options)
+msgid ""
+"愴偄傪挧傓\n"
+"堷偒曉偡"
+msgstr ""
+
+#. ID 14, Page 2, Line 77, Pos (10,1)
+msgid ""
+"\\N[27]尞偺庣岇幰\n"
+"\\N[27]乽乧乧偍庡偼帒奿傪摼偨乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 79, Pos (10,1)
+msgid ""
+"\\N[27]尞偺庣岇幰\n"
+"\\N[27]乽偐偮偰懡偔偺幰偑偙偺摴傪捠偭偨丅\n"
+"\\N[27]丂偩偑丄婣偭偰偒偨幰偼堦埇傝偩偗丅\n"
+"\\N[27]丂偍庡偼婣娨偺摴傪慖傋傞偩傠偆偐乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 83, Pos (10,1)
+msgid ""
+"\\N[27]尞偺庣岇幰\n"
+"\\N[27]乽偝偁丄峴偔偑偄偄丄\n"
+"\\N[27]丂\\N[\\V[2]]両乿"
+msgstr ""
+
+#. ID 14, Page 2, Line 88, Pos (10,1)
+msgid ""
+"\\N[27]尒忋偘傟偽丄揤偺愳偑乗\乗\戝壨偺傛偆偵楢側傞\n"
+"\\N[27]柍悢偺惎乆偑偁傞丅\n"
+"\\N[27]徕惎偺抧昞\偐傜椃棫偪丄嬧壨偺拞怱傊偲岦偐偆乧乧丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 95, Pos (10,1)
+msgid ""
+"\\N[27]乗\乗\懢梲偐傜棳傟弌傞晽偼丄榝惎偵廧傓\n"
+"\\N[27]惗偒暔偨偪傪奜塅拡偺塭嬁偐傜庣偭偰偄偨丅\n"
+"\\N[27]桳奞側椡傗怤棯幰偼懢梲偺晽偵墴偟棳偝傟丄\n"
+"\\N[27]梕堈偵偼惎宯偺拞怱晹偵擖傝崬傔側偄丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 99, Pos (10,1)
+msgid ""
+"\\N[27]榝惎偺昞\柺忋偵惗傑傟偨偽偐傝偺庒偄暥柧偼丄\n"
+"\\N[27]懢梲偺斴岇偺壓偦偺梒擭婜傪夁偛偟偰偄傞丅\n"
+"\\N[27]偩偑丄傛傝崅傒傪栚巜偦偆偲偡傞偺側傜丄\n"
+"\\N[27]偦偺斴岇偺奜偵弌側偗傟偽側傜側偄丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 104, Pos (10,1)
+msgid ""
+"\\N[27]栚偺慜偺嬻娫偵丄崟偄愇偱偱偒偨栧偑尰傟丄\n"
+"\\N[27]偦偟偰乗\乗\丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 158, Pos (10,1)
+msgid "\\N[27]乗\乗\偦偟偰丄壧偑暦偙偊傞丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 162, Pos (10,1)
+msgid ""
+"\\N[27]懢梲偐傜偺晽偵偝偊偓傜傟偰暦偙偊側偐偭偨壧偑丄\n"
+"\\N[27]嬧壨拞怱妀偺曽岦偐傜暦偙偊偰偔傞丅\n"
+"\\N[27]挷榓偵枮偪偨壒奒偑丄夁嫀偵婲偒偨慡偰偺偙偲偲\n"
+"\\N[27]枹棃偵婲偒傞慡偰偺偙偲傪岅傝懕偗偰偄傞丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 166, Pos (10,1)
+msgid ""
+"\\N[27]懢屆偺庬懓偑壧偄巒傔丄廔枛偺帪偝偊墇偊偰\n"
+"\\N[27]憈偱懕偗傜傟傞揤媴偺嬋丅\n"
+"\\N[27]塅拡偦偺傕偺傪妝婍偲偟偰丄恄旈偺壒棩偵傛偭偰\n"
+"\\N[27]宍嶌傜傟傞塱墦偺壘棔丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 170, Pos (10,1)
+msgid ""
+"\\N[27]偙偺壒妝偺拞偱偼丄壗傕偐傕偑惓偟偄丅\n"
+"\\N[27]岾暉偩偭偨丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 172, Pos (10,1)
+msgid ""
+"\\N[27]梡堄偺偱偒偰偄傞幰偩偗偑丄偙偺壒傪挳偒丄\n"
+"\\N[27]偦傟偵嶲壛偡傞偙偲偑偱偒傞丅\n"
+"\n"
+"\\N[27]偁偺壧偵榓偟偰壛傢傝丄塱墦偵棳傟懕偗偨偄偲巚偭偨丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 176, Pos (10,1)
+#. Choice (2 options)
+msgid ""
+"屘嫿偵婣傞\n"
+"塱墦傪慖傇"
+msgstr ""
+
+#. ID 14, Page 2, Line 178, Pos (10,1)
+msgid "\\N[27]乧乧偩偑丄傗傞傋偒帠偑偁傞丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 179, Pos (10,1)
+msgid ""
+"\\N[27]偁側偨偼柍尷偺岝偐傜怱傪堷偒攳偑偟偨丅\n"
+"\n"
+"\\N[27]偟偐偟塱墦偵怗傟偨婰壇偼嵃偵巆傝丄椡偵側偭偨丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 183, Pos (10,1)
+msgid "\\N[27]亙忋楈亜傪庤偵擖傟偨両"
+msgstr ""
+
+#. ID 14, Page 2, Line 186, Pos (10,1)
+msgid "\\N[27]戝偄側傞旈媀傪廗摼偟偨両"
+msgstr ""
+
+#. ID 14, Page 2, Line 189, Pos (10,1)
+msgid "\\N[27]婣傠偆丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 195, Pos (10,1)
+msgid ""
+"\\N[27]偦偆巚偭偨弖娫丄偡傋偰偑棳傟嫀傝丄徚偊偰備偔丅\n"
+"\\N[27]偼傞偐側嫍棧傪墇偊丄擏懱傊偲堷偒栠偝傟傞丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 197, Pos (10,1)
+msgid ""
+"\\N[27]棊壓姶丅\n"
+"\n"
+"\\N[27]偦偟偰抋惗偺弖娫偺捝傒乗\乗\丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 219, Pos (10,1)
+msgid ""
+"\\N[27]乧乧婥偑晅偔偲丄拠娫偑怱攝偦偆偵\n"
+"\\N[27]婄傪擿偒崬傫偱偄偨丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 223, Pos (10,1)
+msgid "\\N[27]乧乧婥偑晅偔偲丄堦恖抧忋偵栠偭偰偄偨丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 226, Pos (10,1)
+msgid ""
+"\\N[27]椳偑杍傪擥傜偡丅\n"
+"\\N[27]憆幐偺斶偟傒偱懱偑恔偊偨丅\n"
+"\\N[27]塱墦偵怗傟偨偁偺堦弖丄偡傋偰傪抦偭偨婥偑偟偨偺偵丄\n"
+"\\N[27]崱偱偼偦偺姶怗偑巆偭偰偄傞偩偗偩乧乧丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 231, Pos (10,1)
+msgid ""
+"\\N[27]僠僃僢僋億僀儞僩傪僋儕傾両\n"
+"\\N[27]SP傪4揰妉摼両"
+msgstr ""
+
+#. ID 14, Page 2, Line 271, Pos (10,1)
+msgid ""
+"\\N[27]丂丂丂丂丂丂 偙偺帄暉偵怗傟偨屻偱偼丄\n"
+"\\N[27]丂丂丂抧忋偺憟偄偵側傫偺堄枴傕尒偄偩偣側偄丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 273, Pos (10,1)
+msgid ""
+"\\N[27]丂 偁側偨偺帺変偼嫊嬻偵梟偗丄壒奒偺堦偮偵側傝丄\n"
+"\\N[27]丂丂丂丂丂 塱墦偺挷榓偺拞偱惗偒懕偗偨丅"
+msgstr ""
+
+#. ID 14, Page 2, Line 276, Pos (10,1)
+msgid ""
+"丂丂丂丂丂丂丂丂丂丂 攑搒暔岅\n"
+"丂丂丂丂Fairy Tale of the Forgotten Ruins\n"
+"\n"
+"丂丂丂丂丂丂丂丂丂丂乣俥倝値乣丂丂丂丂丂丂\\|丂丂"
+msgstr ""
+

@@ -1,0 +1,1210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 2, Line 20, Pos (0,12)
+msgid ""
+"\\N[27]――笼罩在河面上空的云层，\n"
+"\\N[27]被夕阳照映出梦幻般的绯红。"
+msgstr ""
+
+#. ID 1, Page 2, Line 22, Pos (0,12)
+msgid ""
+"\\N[27]一阵强风将高空的云层驱散\n"
+"\\N[27]背后的东西便显露出来――"
+msgstr ""
+
+#. ID 1, Page 2, Line 27, Pos (0,12)
+msgid ""
+"\\N[27]那是云层之间的空中都城，\n"
+"\\N[27]它的尖塔从高空遥指大地，\n"
+"\\N[27]它的古代神殿悬立于半空，\n"
+"\\N[27]它的建筑群浮游于夕阳中。"
+msgstr ""
+
+#. ID 1, Page 2, Line 31, Pos (0,12)
+msgid ""
+"\\N[27]而且，还能听到优美的歌声从天而降……\n"
+"\\N[27]那究竟是海市蜃楼，还是真正的实体？\n"
+"\\N[27]亦真亦幻，古代都市在紫罗兰色的沙砾\n"
+"\\N[27]之雨中飘忽不定。"
+msgstr ""
+
+#. ID 1, Page 2, Line 35, Pos (0,12)
+msgid ""
+"\\N[27]有些人觉得世界即将灭亡，胆怯不已。\n"
+"\\N[27]还有些人，相信这是光辉未来的预兆。\n"
+"\\N[27]仍被封在紫色水晶之中的人们也一样，\n"
+"\\N[27]在梦境当中望着那传说中永恒的帝国。"
+msgstr ""
+
+#. ID 1, Page 2, Line 39, Pos (0,12)
+msgid ""
+"\\N[27]他们望着，并且无一例外地相信着，\n"
+"\\N[27]相信着古阿尔凯亚帝国的再临，\n"
+"\\N[27]于是，空中都城的轮廓也变得分明……"
+msgstr ""
+
+#. ID 1, Page 2, Line 45, Pos (0,12)
+msgid ""
+"\\N[27]――但是，当你低下仰望的视线时，\n"
+"\\N[27]却在人群中间发现了同伴们的身影。\n"
+"\\N[27]他们，全都领悟了空中都城的真意。\n"
+"\\N[27]为了向其挑战，不约而同地聚集了。"
+msgstr ""
+
+#. ID 1, Page 2, Line 50, Pos (0,12)
+msgid ""
+"\\N[27]※在这个画面最多能组成四人的队伍。\n"
+"\\N[27]※想要重选队伍成员时，\n"
+"\\N[27]　请按右下的解散编队按钮。"
+msgstr ""
+
+#. ID 2, Page 1, Line 2, Pos (4,22)
+#. ID 2, Page 2, Line 4, Pos (4,22)
+#. ID 2, Page 4, Line 2, Pos (4,22)
+msgid ""
+"\\N[27]眼前流淌的大河据说是大河女神艾克薇尔\n"
+"\\N[27]的化身。大河有着名副其实的宽度，\n"
+"\\N[27]远方的对岸的视野中只呈现出一片朦胧。\n"
+"\\N[27]一座栈桥伸展在河流上方，是个钓鱼的好地方。"
+msgstr ""
+
+#. ID 2, Page 2, Line 15, Pos (4,22)
+#. ID 2, Page 2, Line 48, Pos (4,22)
+msgid "\\N[27]\\N[7]正在栈桥上垂钓着。"
+msgstr ""
+
+#. ID 2, Page 2, Line 17, Pos (4,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「想要钓鱼的话，就在看上去\n"
+"\\N[27]　有鱼的地方使用钓鱼竿试试吧」"
+msgstr ""
+
+#. ID 2, Page 2, Line 20, Pos (4,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「也有些地方不怎么钓得上鱼……\n"
+"\\N[27]　你就放宽心慢慢来吧」"
+msgstr ""
+
+#. ID 2, Page 2, Line 23, Pos (4,22)
+#. Choice (2 options)
+#. ID 23, Page 1, Line 40, Pos (14,22)
+#. Choice (2 options)
+#. ID 38, Page 1, Line 40, Pos (16,22)
+#. Choice (2 options)
+#. ID 40, Page 1, Line 40, Pos (15,23)
+#. Choice (2 options)
+#. ID 42, Page 1, Line 40, Pos (11,23)
+#. Choice (2 options)
+#. ID 44, Page 1, Line 40, Pos (17,23)
+#. Choice (2 options)
+#. ID 46, Page 1, Line 40, Pos (10,22)
+#. Choice (2 options)
+#. ID 50, Page 1, Line 40, Pos (9,23)
+#. Choice (2 options)
+#. ID 52, Page 1, Line 40, Pos (18,22)
+#. Choice (2 options)
+msgid ""
+"\\N[27]交谈\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 2, Page 2, Line 50, Pos (4,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「……哦，是你啊。\n"
+"\\N[27]　今天天气不错，是个钓鱼的好日子」"
+msgstr ""
+
+#. ID 2, Page 2, Line 53, Pos (4,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「你也来试试吗？」"
+msgstr ""
+
+#. ID 2, Page 2, Line 57, Pos (4,22)
+msgid "\\N[27]获得了钓鱼竿！"
+msgstr ""
+
+#. ID 2, Page 2, Line 59, Pos (4,22)
+msgid ""
+"\\N[27]※在用光标重合着这地点的状态下，\n"
+"\\N[27]　按下取消键打开菜单，再从道具\n"
+"\\N[27]　栏里选择\\C[5]钓鱼竿\\C[0]使用\n"
+"\\N[27]　就能进行钓鱼了。"
+msgstr ""
+
+#. ID 2, Page 5, Line 26, Pos (4,22)
+msgid ""
+"\\N[27]钓上了一支漂流瓶！\n"
+"\\N[27]获得了财宝备忘录１！"
+msgstr ""
+
+#. ID 3, Page 1, Line 10, Pos (17,22)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]「一共有\\V[161]个\\N[78]\\N[79]啊。\n"
+"\\N[27]　合起来卖\\V[169]Ｇ如何」"
+msgstr ""
+
+#. ID 3, Page 1, Line 12, Pos (17,22)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]卖\\$\n"
+"\\N[27]不卖"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (17,22)
+msgid ""
+"\\N[27]\\$店员\n"
+"\\N[27]「感谢您的惠顾ー」\n"
+"\n"
+"\\N[27]　获得了\\V[169]Ｇ！"
+msgstr ""
+
+#. ID 3, Page 2, Line 4, Pos (17,22)
+#. Choice (2 options)
+msgid ""
+"\\N[27]购买食料\n"
+"\\N[27]没事"
+msgstr ""
+
+#. ID 3, Page 2, Line 8, Pos (17,22)
+msgid "\\N[27]今天好象已经卖光了。"
+msgstr ""
+
+#. ID 3, Page 2, Line 17, Pos (17,22)
+#. Choice (2 options)
+msgid ""
+"\\>巧克力　　\\V[165]Ｇ\\$\n"
+"\\>不可思议的保存盐　\\V[166]Ｇ"
+msgstr ""
+
+#. ID 3, Page 2, Line 23, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "巧克力"
+msgstr ""
+
+#. ID 3, Page 2, Line 31, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "不可思议"
+msgstr ""
+
+#. ID 3, Page 2, Line 32, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "的保存盐"
+msgstr ""
+
+#. ID 3, Page 2, Line 54, Pos (17,22)
+msgid "\\N[27]购买了\\$\\N[78]\\N[79]。"
+msgstr ""
+
+#. ID 3, Page 2, Line 58, Pos (17,22)
+msgid "\\N[27]\\$\\N[78]\\N[79]最多只能持有\\V[177]个。"
+msgstr ""
+
+#. ID 3, Page 2, Line 63, Pos (17,22)
+msgid "\\N[27]\\$所持金不足。"
+msgstr ""
+
+#. ID 3, Page 3, Line 5, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「大好评营业中！\n"
+"\\N[27]　欢迎来到为大家服务的平戈商会ー！」\n"
+"\\N[27]"
+msgstr ""
+
+#. ID 3, Page 3, Line 12, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「即使贸易被禁止，\n"
+"\\N[27]　我们也会悄悄干，\n"
+"\\N[27]　欢迎来到平戈商会ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 18, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「欢迎光临ー\n"
+"\\N[27]　欢迎来到平戈商会ー」\n"
+"\\N[27]"
+msgstr ""
+
+#. ID 3, Page 3, Line 29, Pos (17,22)
+#. Choice (3 options)
+msgid ""
+"\\N[27]购买进口货\n"
+"\\N[27]变卖财物\n"
+"\\N[27]交谈"
+msgstr ""
+
+#. ID 3, Page 3, Line 86, Pos (17,22)
+msgid ""
+"\\N[27]\\$店员\n"
+"\\N[27]「您有用不上的古代美术品、\n"
+"\\N[27]　发掘品等等文化遗产吗？\n"
+"\\N[27]　我们这里无限量收购哦」"
+msgstr ""
+
+#. ID 3, Page 3, Line 96, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代铜币"
+msgstr ""
+
+#. ID 3, Page 3, Line 103, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代银币"
+msgstr ""
+
+#. ID 3, Page 3, Line 109, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代金币"
+msgstr ""
+
+#. ID 3, Page 3, Line 115, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代壁画"
+msgstr ""
+
+#. ID 3, Page 3, Line 121, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代雕像"
+msgstr ""
+
+#. ID 3, Page 3, Line 127, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代陶器"
+msgstr ""
+
+#. ID 3, Page 3, Line 133, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代宝饰"
+msgstr ""
+
+#. ID 3, Page 3, Line 139, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代祭器"
+msgstr ""
+
+#. ID 3, Page 3, Line 145, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "古代文献"
+msgstr ""
+
+#. ID 3, Page 3, Line 151, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "黄金魔神像"
+msgstr ""
+
+#. ID 3, Page 3, Line 157, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "100面骰子"
+msgstr ""
+
+#. ID 3, Page 3, Line 163, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+#. ID 3, Page 3, Line 170, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+#. ID 3, Page 3, Line 177, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+#. ID 3, Page 3, Line 184, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+#. ID 3, Page 3, Line 191, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『废都物语"
+msgstr ""
+
+#. ID 3, Page 3, Line 164, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid " 1』"
+msgstr ""
+
+#. ID 3, Page 3, Line 171, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid " 2』"
+msgstr ""
+
+#. ID 3, Page 3, Line 178, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid " 3』"
+msgstr ""
+
+#. ID 3, Page 3, Line 185, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid " 4』"
+msgstr ""
+
+#. ID 3, Page 3, Line 192, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid " 5』"
+msgstr ""
+
+#. ID 3, Page 3, Line 198, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 1』"
+msgstr ""
+
+#. ID 3, Page 3, Line 205, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 2』"
+msgstr ""
+
+#. ID 3, Page 3, Line 211, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 3』"
+msgstr ""
+
+#. ID 3, Page 3, Line 217, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 4』"
+msgstr ""
+
+#. ID 3, Page 3, Line 223, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 5』"
+msgstr ""
+
+#. ID 3, Page 3, Line 229, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 6』"
+msgstr ""
+
+#. ID 3, Page 3, Line 235, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 7』"
+msgstr ""
+
+#. ID 3, Page 3, Line 241, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 8』"
+msgstr ""
+
+#. ID 3, Page 3, Line 247, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记 9』"
+msgstr ""
+
+#. ID 3, Page 3, Line 253, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记10』"
+msgstr ""
+
+#. ID 3, Page 3, Line 259, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记11』"
+msgstr ""
+
+#. ID 3, Page 3, Line 265, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记12』"
+msgstr ""
+
+#. ID 3, Page 3, Line 271, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记13』"
+msgstr ""
+
+#. ID 3, Page 3, Line 277, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记14』"
+msgstr ""
+
+#. ID 3, Page 3, Line 283, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记15』"
+msgstr ""
+
+#. ID 3, Page 3, Line 289, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『神帝记16』"
+msgstr ""
+
+#. ID 3, Page 3, Line 295, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『纳里斯和"
+msgstr ""
+
+#. ID 3, Page 3, Line 296, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "纳姆里斯』"
+msgstr ""
+
+#. ID 3, Page 3, Line 302, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『拉格"
+msgstr ""
+
+#. ID 3, Page 3, Line 303, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "传』"
+msgstr ""
+
+#. ID 3, Page 3, Line 309, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『达玛迪"
+msgstr ""
+
+#. ID 3, Page 3, Line 310, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "乌斯传』"
+msgstr ""
+
+#. ID 3, Page 3, Line 316, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『伯兰梅亚"
+msgstr ""
+
+#. ID 3, Page 3, Line 317, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "的魔女』"
+msgstr ""
+
+#. ID 3, Page 3, Line 323, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『柯·罗·"
+msgstr ""
+
+#. ID 3, Page 3, Line 324, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "摩』"
+msgstr ""
+
+#. ID 3, Page 3, Line 330, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『塔之王国"
+msgstr ""
+
+#. ID 3, Page 3, Line 331, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "年鉴』"
+msgstr ""
+
+#. ID 3, Page 3, Line 337, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『霍尔姆"
+msgstr ""
+
+#. ID 3, Page 3, Line 338, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "的传说』"
+msgstr ""
+
+#. ID 3, Page 3, Line 344, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『河姑娘』"
+msgstr ""
+
+#. ID 3, Page 3, Line 351, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『无限宫的"
+msgstr ""
+
+#. ID 3, Page 3, Line 352, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "幻视者』"
+msgstr ""
+
+#. ID 3, Page 3, Line 358, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+#. ID 3, Page 3, Line 365, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『阿尔凯亚"
+msgstr ""
+
+#. ID 3, Page 3, Line 359, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+#. ID 3, Page 3, Line 366, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "编年史　上』"
+msgstr ""
+
+#. ID 3, Page 3, Line 372, Pos (17,22)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "『皇帝的"
+msgstr ""
+
+#. ID 3, Page 3, Line 373, Pos (17,22)
+#. ChangeHeroName (Actor 79)
+msgctxt "actors.name"
+msgid "笔记』"
+msgstr ""
+
+#. ID 3, Page 3, Line 378, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「哎呀？　您身上没有\n"
+"\\N[27]　我们收购的东西嘛ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 390, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「商会长又跑路啦ー\n"
+"\\N[27]　到底发生什么事了ー？」"
+msgstr ""
+
+#. ID 3, Page 3, Line 395, Pos (17,22)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 3, Page 3, Line 401, Pos (17,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「所谓好人不长命，祸害遗千年啊」"
+msgstr ""
+
+#. ID 3, Page 3, Line 408, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「商会长的话已经回来镇上了哦ー\n"
+"\\N[27]　好象又在和公子大人计划着什么\n"
+"\\N[27]　阴谋呢ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 415, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「商会长的话，早都\n"
+"\\N[27]　夹起尾巴逃得没影喽ー\n"
+"\\N[27]　又丢下我不管ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 422, Pos (17,22)
+#. ID 3, Page 3, Line 500, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「平戈商会在大河沿岸有店铺十四家，\n"
+"\\N[27]　陆路有三家。我们从邮差到巡礼旅\n"
+"\\N[27]　游都一手包办，与大家息息相关ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 430, Pos (17,22)
+msgid ""
+"\\N[27]平戈\n"
+"\\N[27]「哟。\n"
+"\\N[27]　过得还精神不？」"
+msgstr ""
+
+#. ID 3, Page 3, Line 433, Pos (17,22)
+msgid ""
+"\\N[27]平戈\n"
+"\\N[27]「托你们的福我也能闷声发大财啦。\n"
+"\\N[27]　哇哈哈哈哈」"
+msgstr ""
+
+#. ID 3, Page 3, Line 439, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「事情我从商会长那里听说了ー。\n"
+"\\N[27]　找到有价值的文物就请尽管\n"
+"\\N[27]　拿来店里卖吧ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 445, Pos (17,22)
+#. ID 3, Page 3, Line 506, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「从大都市的最新流行趋势，\n"
+"\\N[27]　到泛大陆的嗜好品ー\n"
+"\\N[27]　平戈商会丰富您的生活」"
+msgstr ""
+
+#. ID 3, Page 3, Line 464, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「我们高价收购沉睡在各位行囊中\n"
+"\\N[27]　的发掘品ー。聪明的顾客会同时\n"
+"\\N[27]　购买平戈商会便宜的新商品哦ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 472, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「『月刊古代文明』的新刊\n"
+"\\N[27]　暂时还无法进货ー\n"
+"\\N[27]　请您不要每次都来催了ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 478, Pos (17,22)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「哼」"
+msgstr ""
+
+#. ID 3, Page 3, Line 483, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「哎呀？　我失礼了。\n"
+"\\N[27]　我还以为\\N[10]大人\n"
+"\\N[27]　又来催货了ー」"
+msgstr ""
+
+#. ID 3, Page 3, Line 491, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「买卖交易、礼尚往来ー\n"
+"\\N[27]　请大家多多支持\n"
+"\\N[27]　我们平戈商会ー」"
+msgstr ""
+
+#. ID 3, Page 4, Line 3, Pos (17,22)
+msgid ""
+"\\N[27]店员\n"
+"\\N[27]「明明遗迹热潮才刚刚开始的说，\n"
+"\\N[27]　结果其他商会也见机纷纷插手，\n"
+"\\N[27]　于是我们的生意大不如前了ー」"
+msgstr ""
+
+#. ID 4, Page 2, Line 3, Pos (11,26)
+#. Contains choice at line 2 (2 options)
+msgid "\\>要结束队伍的编组，离开港口吗？"
+msgstr ""
+
+#. ID 4, Page 2, Line 4, Pos (11,26)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>是\n"
+"\\>否"
+msgstr ""
+
+#. ID 23, Page 1, Line 5, Pos (14,22)
+#. Choice (3 options)
+#. ID 38, Page 1, Line 5, Pos (16,22)
+#. Choice (3 options)
+#. ID 40, Page 1, Line 5, Pos (15,23)
+#. Choice (3 options)
+#. ID 42, Page 1, Line 5, Pos (11,23)
+#. Choice (3 options)
+#. ID 44, Page 1, Line 5, Pos (17,23)
+#. Choice (3 options)
+#. ID 46, Page 1, Line 5, Pos (10,22)
+#. Choice (3 options)
+#. ID 50, Page 1, Line 5, Pos (9,23)
+#. Choice (3 options)
+#. ID 52, Page 1, Line 5, Pos (18,22)
+#. Choice (3 options)
+msgid ""
+"\\>交谈\n"
+"\\>邀请\\N[\\V[81]]加入\n"
+"\\>查看属性"
+msgstr ""
+
+#. ID 23, Page 1, Line 13, Pos (14,22)
+#. ID 23, Page 1, Line 22, Pos (14,22)
+#. ID 36, Page 1, Line 13, Pos (10,24)
+#. ID 36, Page 1, Line 22, Pos (10,24)
+#. ID 38, Page 1, Line 13, Pos (16,22)
+#. ID 38, Page 1, Line 22, Pos (16,22)
+#. ID 40, Page 1, Line 13, Pos (15,23)
+#. ID 40, Page 1, Line 22, Pos (15,23)
+#. ID 42, Page 1, Line 13, Pos (11,23)
+#. ID 42, Page 1, Line 22, Pos (11,23)
+#. ID 44, Page 1, Line 13, Pos (17,23)
+#. ID 44, Page 1, Line 22, Pos (17,23)
+#. ID 46, Page 1, Line 13, Pos (10,22)
+#. ID 46, Page 1, Line 22, Pos (10,22)
+#. ID 48, Page 1, Line 13, Pos (14,24)
+#. ID 48, Page 1, Line 22, Pos (14,24)
+#. ID 50, Page 1, Line 13, Pos (9,23)
+#. ID 50, Page 1, Line 22, Pos (9,23)
+#. ID 52, Page 1, Line 13, Pos (18,22)
+#. ID 52, Page 1, Line 22, Pos (18,22)
+msgid "\\N[27]\\N[\\V[81]]加入了队伍。"
+msgstr ""
+
+#. ID 25, Page 3, Line 3, Pos (16,26)
+#. Choice (2 options)
+msgid ""
+"\\N[27]解散队伍\n"
+"\\N[27]解除待机中同伴的装备"
+msgstr ""
+
+#. ID 25, Page 3, Line 11, Pos (16,26)
+msgid "\\N[27]你和同伴们分别了。"
+msgstr ""
+
+#. ID 25, Page 3, Line 14, Pos (16,26)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※要解除不在队中的同伴的装备吗？"
+msgstr ""
+
+#. ID 25, Page 3, Line 15, Pos (16,26)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]解除\n"
+"\\N[27]算了"
+msgstr ""
+
+#. ID 25, Page 3, Line 108, Pos (16,26)
+msgid "\\N[27]※不在队中的同伴的装备全部被解除了。"
+msgstr ""
+
+#. ID 26, Page 3, Line 3, Pos (17,26)
+#. Choice (2 options)
+msgid ""
+"\\N[27]最终战的队伍组编\n"
+"\\N[27]返回"
+msgstr ""
+
+#. ID 26, Page 3, Line 5, Pos (17,26)
+msgid ""
+"\\N[27]※在编组画面中与人物交谈就可以让他们加入。\n"
+"\\N[27]※仅在这一次最多可以让三名同伴加入队伍。\n"
+"\\N[27]※想重新选择队员时，请按右下的解散队伍\n"
+"\\N[27]　按钮，重头开始进行选择。"
+msgstr ""
+
+#. ID 36, Page 1, Line 5, Pos (10,24)
+#. Choice (4 options)
+msgid ""
+"\\>交谈\n"
+"\\>邀请\\N[\\V[81]]加入\n"
+"\\>查看属性\n"
+"\\>委托制作道具"
+msgstr ""
+
+#. ID 36, Page 1, Line 43, Pos (10,24)
+#. Choice (3 options)
+msgid ""
+"\\N[27]交谈\n"
+"\\N[27]委托制作道具\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 36, Page 2, Line 2, Pos (10,24)
+msgid ""
+"\\>\\N[6]\n"
+"\\>「包在人家身上！」"
+msgstr ""
+
+#. ID 36, Page 2, Line 8, Pos (10,24)
+#. Choice (4 options)
+msgid ""
+"\\>料理\n"
+"\\>调合\n"
+"\\>制作武器\n"
+"\\>制作防具"
+msgstr ""
+
+#. ID 36, Page 2, Line 26, Pos (10,24)
+#. Choice (3 options)
+msgid ""
+"\\>料理\n"
+"\\>调合\n"
+"\\>制作武器"
+msgstr ""
+
+#. ID 36, Page 2, Line 44, Pos (10,24)
+#. Choice (3 options)
+msgid ""
+"\\>料理\n"
+"\\>调和\n"
+"\\>制作防具"
+msgstr ""
+
+#. ID 36, Page 2, Line 59, Pos (10,24)
+#. Choice (2 options)
+msgid ""
+"\\>料理\n"
+"\\>调和"
+msgstr ""
+
+#. ID 48, Page 1, Line 5, Pos (14,24)
+#. Choice (4 options)
+msgid ""
+"\\>交谈\n"
+"\\>邀请\\N[\\V[81]]加入\n"
+"\\>查看属性\n"
+"\\>喂她吃的"
+msgstr ""
+
+#. ID 48, Page 1, Line 48, Pos (14,24)
+#. Choice (3 options)
+msgid ""
+"\\N[27]交谈\n"
+"\\N[27]喂她吃的\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 55, Page 1, Line 2, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「我为了亲手研究出土文献，\n"
+"\\N[27]　而从遥远的艾鲁帕迪亚大学\n"
+"\\N[27]　赶来此地」"
+msgstr ""
+
+#. ID 55, Page 1, Line 6, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「在古代文献上，记载着\n"
+"\\N[27]　现代早已遗失的科学与\n"
+"\\N[27]　魔法知识」"
+msgstr ""
+
+#. ID 55, Page 1, Line 10, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「为了让现在被圣职者支配、\n"
+"\\N[27]　停滞不前的学会涣然一新，\n"
+"\\N[27]　必须要让古代的智慧重新复苏」"
+msgstr ""
+
+#. ID 55, Page 2, Line 2, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「\\N[130]公子的想法正是我等\n"
+"\\N[27]　思想观念在体制上的体现！\n"
+"\\N[27]　哦哦哦，那小子真是光彩照人啊！」"
+msgstr ""
+
+#. ID 55, Page 2, Line 6, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「让古代的智慧复苏吧！\n"
+"\\N[27]　彻底清洗这堆积已久的污垢吧！\n"
+"\\N[27]　野蛮与理性啊，于喜悦中融为一体吧！」"
+msgstr ""
+
+#. ID 55, Page 3, Line 2, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「回顾历史，曾统一大河流域\n"
+"\\N[27]　的国家共有三个」"
+msgstr ""
+
+#. ID 55, Page 3, Line 5, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「其一是大席瓦尔王国。\n"
+"\\N[27]　其二是魔国玛鲁迪利亚。\n"
+"\\N[27]　其三是原初的阿尔凯亚帝国」"
+msgstr ""
+
+#. ID 55, Page 3, Line 9, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「……我等虽然把国家分裂的现状\n"
+"\\N[27]　视为理所当然，但要知道，世界\n"
+"\\N[27]　本该统一而周全」"
+msgstr ""
+
+#. ID 55, Page 3, Line 13, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「只要人类的历史持续发展，\n"
+"\\N[27]　总有一天，人类必将建起超越\n"
+"\\N[27]　远古阿尔凯亚的伟大国度吧！」"
+msgstr ""
+
+#. ID 55, Page 4, Line 2, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「哦哦……\n"
+"\\N[27]　那究竟是梦还是幻，\n"
+"\\N[27]　是过去的残像，还是未来的预兆」"
+msgstr ""
+
+#. ID 55, Page 4, Line 6, Pos (7,23)
+msgid ""
+"\\N[27]学者\n"
+"\\N[27]「我能够明白。\n"
+"\\N[27]　那都城是来引导我等的！\n"
+"\\N[27]　我们必须将其实现于大地之上」"
+msgstr ""
+
+#. ID 57, Page 1, Line 2, Pos (12,23)
+msgid ""
+"\\N[27]观光客\n"
+"\\N[27]「嘿ー？这里就是『废都物语』\n"
+"\\N[27]　被发现的城镇吗ー\n"
+"\\N[27]　很有气氛很治愈～」"
+msgstr ""
+
+#. ID 57, Page 3, Line 2, Pos (12,23)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「我啊，是为了\n"
+"\\N[27]　被提拔为士兵\n"
+"\\N[27]　才来这里的啊」"
+msgstr ""
+
+#. ID 57, Page 3, Line 6, Pos (12,23)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「我要立身出世，\n"
+"\\N[27]　然后衣锦还乡」"
+msgstr ""
+
+#. ID 60, Page 1, Line 2, Pos (5,23)
+msgid ""
+"\\N[27]女性\n"
+"\\N[27]「那是什么！？\n"
+"\\N[27]　感觉好可怕……\n"
+"\\N[27]　简直就像世界末日来临了」"
+msgstr ""
+
+#. ID 62, Page 1, Line 2, Pos (3,22)
+msgid ""
+"\\N[27]探索者\n"
+"\\N[27]「这究竟是什么歌声？\n"
+"\\N[27]　让我想起了那早已忘记的\n"
+"\\N[27]　儿时的野心与梦想……」"
+msgstr ""
+
+#. ID 64, Page 1, Line 2, Pos (6,22)
+msgid ""
+"\\N[27]骑士\n"
+"\\N[27]「这是阿尔凯亚帝国的复苏……\n"
+"\\N[27]　阿格迪乌要降临了！\n"
+"\\N[27]　殿下的预言成真了！」"
+msgstr ""
+
+#. ID 67, Page 1, Line 3, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「哟。\n"
+"\\N[27]　刚刚，我正想去和你打声招呼呢」"
+msgstr ""
+
+#. ID 67, Page 1, Line 6, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「我差不多又该离开这个镇了」"
+msgstr ""
+
+#. ID 67, Page 1, Line 10, Pos (13,22)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「真，真突然啊」"
+msgstr ""
+
+#. ID 67, Page 1, Line 16, Pos (13,22)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「什么啊。\n"
+"\\N[27]　就不能多住几天吗」"
+msgstr ""
+
+#. ID 67, Page 1, Line 22, Pos (13,22)
+msgid "\\N[27]真是唐突的告别啊。"
+msgstr ""
+
+#. ID 67, Page 1, Line 28, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「这里已经没什么我能做的了，\n"
+"\\N[27]　所以我就要重新踏上旅程喽」"
+msgstr ""
+
+#. ID 67, Page 1, Line 36, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「这以后，战争和动乱吧想必也会\n"
+"\\N[27]　继续吧。但那些都是留给活在\n"
+"\\N[27]　世上之人的必要课题」"
+msgstr ""
+
+#. ID 67, Page 1, Line 40, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「而我还要不断旅行……\n"
+"\\N[27]　寻找魔王或近似魔王的存在，\n"
+"\\N[27]　为消灭它们而继续漂泊」"
+msgstr ""
+
+#. ID 67, Page 1, Line 46, Pos (13,22)
+#. Choice (2 options)
+msgid ""
+"跟\\N[7]一起走\n"
+"告别"
+msgstr ""
+
+#. ID 67, Page 1, Line 49, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「哦？你也想去旅行吗。\n"
+"\\N[27]　不错的想法」"
+msgstr ""
+
+#. ID 67, Page 1, Line 52, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「拥有特别力量的人……\n"
+"\\N[27]　尤其是你这样的英雄人物，\n"
+"\\N[27]　总会让周围的人变得懦弱」"
+msgstr ""
+
+#. ID 67, Page 1, Line 56, Pos (13,22)
+#. ID 67, Page 1, Line 85, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「大家都依赖于英雄的话，\n"
+"\\N[27]　就等同放弃了自力更生」"
+msgstr ""
+
+#. ID 67, Page 1, Line 59, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「所以身为英雄之人，要么成为王者，\n"
+"\\N[27]　将一切背负在身上；要么隐姓埋名，\n"
+"\\N[27]　直到被世人彻底遗忘」"
+msgstr ""
+
+#. ID 67, Page 1, Line 63, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「那么，既然你也打算旅行，\n"
+"\\N[27]　就先去做好旅途的准备吧。\n"
+"\\N[27]　我们就在明天出发」"
+msgstr ""
+
+#. ID 67, Page 1, Line 69, Pos (13,22)
+msgid "\\N[27]\\N[\\V[81]]成为了同伴！"
+msgstr ""
+
+#. ID 67, Page 1, Line 75, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「嗯嗯，那么真的要说再见了。\n"
+"\\N[27]　总有一天，我们还会再相遇吧」"
+msgstr ""
+
+#. ID 67, Page 1, Line 78, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「另外，我要稍微给你几句忠告。\n"
+"\\N[27]　你就当是老头子的牢骚吧」"
+msgstr ""
+
+#. ID 67, Page 1, Line 81, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「拥有特别力量的人……\n"
+"\\N[27]　尤其是你这样的英雄人物，\n"
+"\\N[27]　会让周围的人变得懦弱」"
+msgstr ""
+
+#. ID 67, Page 1, Line 88, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「所以，身为英雄者，要么成为王者，\n"
+"\\N[27]　将一切都背负身上；要么隐姓埋名，\n"
+"\\N[27]　直到被世人彻底遗忘」"
+msgstr ""
+
+#. ID 67, Page 1, Line 92, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「但是，如果为照顾他人而\n"
+"\\N[27]　背负起超越自己器量之事，\n"
+"\\N[27]　那不过只是本末倒置而已」"
+msgstr ""
+
+#. ID 67, Page 1, Line 96, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「就像那个迪多斯一样」"
+msgstr ""
+
+#. ID 67, Page 1, Line 98, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「所以啊，呃，怎么讲呢，你就在不\n"
+"\\N[27]　超过自己器量的程度上好好努力吧」"
+msgstr ""
+
+#. ID 67, Page 1, Line 101, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「那么，再会了」"
+msgstr ""
+
+#. ID 67, Page 1, Line 105, Pos (13,22)
+#. ID 67, Page 1, Line 120, Pos (13,22)
+msgid "\\N[27]\\N[7]留下这番话，就飘然离去了。"
+msgstr ""
+
+#. ID 67, Page 1, Line 111, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「今后你肯定也会遇上很多事的吧，\n"
+"\\N[27]　但无论如何，不要醉于他人之梦，\n"
+"\\N[27]　只朝自己的梦想笔直前进便可」"
+msgstr ""
+
+#. ID 67, Page 1, Line 115, Pos (13,22)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「那么，再会了\n"
+"\\N[27]　来日方长啊」"
+msgstr ""
+

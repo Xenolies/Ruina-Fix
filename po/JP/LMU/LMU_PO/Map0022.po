@@ -1,0 +1,2624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 7, Pos (1,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]所持SP\\V[26]／消費：SP\\V[99]＋熟練のしるし×1\n"
+"\\N[27]\\C[5]\\N[96]\\C[0]になりますか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 9, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 28, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 2, Line 9, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 2, Line 38, Pos (0,14)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 3, Line 40, Pos (0,14)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 4, Line 40, Pos (0,14)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 146, Pos (1,14)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 161, Pos (1,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+
+#. ID 2, Page 1, Line 15, Pos (1,0)
+#. ID 2, Page 1, Line 35, Pos (1,0)
+#. ID 2, Page 2, Line 17, Pos (1,0)
+msgid "\\N[27]SPが足りません。"
+msgstr ""
+
+#. ID 2, Page 1, Line 26, Pos (1,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]所持SP\\V[26]／消費：SP\\V[99]＋称号のしるし×1\n"
+"\\N[27]\\C[5]\\N[96]\\C[0]になりますか？"
+msgstr ""
+
+#. ID 2, Page 1, Line 48, Pos (1,0)
+msgid "\\N[\\V[2]]は、\\C[5]\\N[96]\\C[0]になった！"
+msgstr ""
+
+#. ID 2, Page 2, Line 2, Pos (1,0)
+msgid "\\N[27]この称号はすでに極めています。"
+msgstr ""
+
+#. ID 2, Page 2, Line 7, Pos (1,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]所持SP\\V[26]／\\N[96]レベル\\V[100]　　\n"
+"\\N[27]SPを\\V[99]点消費し、\\N[96]レベルを上げますか？"
+msgstr ""
+
+#. ID 2, Page 2, Line 32, Pos (1,0)
+#. ID 5, Page 2, Line 61, Pos (0,14)
+#. ID 5, Page 3, Line 63, Pos (0,14)
+#. ID 5, Page 4, Line 63, Pos (0,14)
+msgid "\\N[96]レベルが上がった！"
+msgstr ""
+
+#. ID 2, Page 3, Line 10, Pos (1,0)
+msgid ""
+"HP+4　MP+0\n"
+"攻撃力+2　防御力+0　魔力-6　速度+0"
+msgstr ""
+
+#. ID 2, Page 3, Line 12, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 13, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 14, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 15, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "戦士"
+msgstr ""
+
+#. ID 2, Page 3, Line 19, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"闘気を覚えた！\n"
+"強打を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 26, Pos (1,0)
+#. ID 5, Page 2, Line 161, Pos (0,14)
+#. ID 5, Page 4, Line 166, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"なぎ払いを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 33, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"ぶん殴りを覚えた！\n"
+"全力斬撃を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 40, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"身かわしを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 46, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"一刀両断を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 71, Pos (1,0)
+msgid ""
+"HP+4　MP+0\n"
+"攻撃力+0　防御力+2　魔力-3　速度-3"
+msgstr ""
+
+#. ID 2, Page 3, Line 73, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 74, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 75, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 76, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "騎士"
+msgstr ""
+
+#. ID 2, Page 3, Line 80, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"チャージを覚えた！\n"
+"堅固の構\えを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 87, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"二連突きを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 93, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"槍の間合いを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 99, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"受け流しを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 105, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"鉄壁を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 129, Pos (1,0)
+msgid ""
+"HP+0　MP+0\n"
+"攻撃力+1　防御力+0　魔力-4　速度+2"
+msgstr ""
+
+#. ID 2, Page 3, Line 131, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 132, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 133, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 134, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "夜盗"
+msgstr ""
+
+#. ID 2, Page 3, Line 138, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"奇襲を覚えた！\n"
+"目つぶしを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 145, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"ナイフ投げを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 151, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"二本牙を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 158, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"切り払いを覚えた！\n"
+"忍び足を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 166, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"死毒刃を覚えた！\n"
+"盗賊の技を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 191, Pos (1,0)
+msgid ""
+"HP+0　MP+0\n"
+"攻撃力+1　防御力-2　魔力+0　速度+2"
+msgstr ""
+
+#. ID 2, Page 3, Line 193, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 194, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 195, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 196, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "射手"
+msgstr ""
+
+#. ID 2, Page 3, Line 199, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"狙撃を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 206, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"毒の矢を覚えた！\n"
+"急所狙いを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 213, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"乱れ撃ちを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 219, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"連射を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 226, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"縫い止めを覚えた！\n"
+"紙一重を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 247, Pos (1,0)
+msgid ""
+"HP+0　MP+0\n"
+"攻撃力+0　防御力+0　魔力-2　速度+2"
+msgstr ""
+
+#. ID 2, Page 3, Line 249, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 250, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 251, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 252, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "遺跡荒らし"
+msgstr ""
+
+#. ID 2, Page 3, Line 255, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"ウォータートラップを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 262, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"武器落としを覚えた！\n"
+"足払いを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 269, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"捕縛術を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 276, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"オイルトラップを覚えた！\n"
+"危険感知を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 283, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"一回転を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 306, Pos (1,0)
+msgid ""
+"HP+0　MP+2\n"
+"攻撃力-2　防御力-2　魔力+4　速度+0"
+msgstr ""
+
+#. ID 2, Page 3, Line 308, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 309, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 310, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 311, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "魔術師"
+msgstr ""
+
+#. ID 2, Page 3, Line 315, Pos (1,0)
+#. ID 2, Page 3, Line 320, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"鬼火を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 325, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"鬼火を覚えた！\n"
+"螢火を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 337, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"爆炎の投射を覚えた！\n"
+"矢の呪文を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 344, Pos (1,0)
+#. ID 5, Page 3, Line 90, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"地霊の爪を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 351, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"くくりの呪文を覚えた！\n"
+"調合を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 358, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"白き槍の呪文を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 381, Pos (1,0)
+msgid ""
+"HP+0　MP+1\n"
+"攻撃力+0　防御力-2　魔力+4　速度-2"
+msgstr ""
+
+#. ID 2, Page 3, Line 383, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 384, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 385, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 386, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "妖術師"
+msgstr ""
+
+#. ID 2, Page 3, Line 390, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"稲妻を覚えた！\n"
+"詠唱を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 397, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"闇の投影を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 404, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"邪眼を覚えた！\n"
+"矢の呪文を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 411, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"腐敗の呪いを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 417, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"天雷陣を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 437, Pos (1,0)
+msgid ""
+"HP+0　MP+1\n"
+"攻撃力-1　防御力-1　魔力+0　速度+2"
+msgstr ""
+
+#. ID 2, Page 3, Line 439, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 440, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 441, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 442, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "吟遊詩人"
+msgstr ""
+
+#. ID 2, Page 3, Line 445, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"踊り歌を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 451, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"まどろみの歌を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 457, Pos (1,0)
+#. ID 5, Page 3, Line 188, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"風喚びの歌を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 464, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"いくさ歌を覚えた！\n"
+"幻影の呪文を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 472, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"惑乱の歌を覚えた！\n"
+"加速の呪文を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 495, Pos (1,0)
+msgid ""
+"HP+0　MP+1\n"
+"攻撃力-2　防御力+0　魔力+2　速度+0"
+msgstr ""
+
+#. ID 2, Page 3, Line 497, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 498, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 499, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 500, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "神官"
+msgstr ""
+
+#. ID 2, Page 3, Line 506, Pos (1,0)
+#. ID 2, Page 3, Line 513, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"応急手当を覚えた！\n"
+"螢火を忘れ、ともしびを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 518, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"応急手当を覚えた！\n"
+"ともしびを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 530, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"助力を覚えた！\n"
+"水妖の手を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 537, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"病祓いを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 544, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"聖雨を覚えた！\n"
+"憂い祓いを覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 551, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"治癒の力場を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 570, Pos (1,0)
+msgid ""
+"HP+0　MP+0\n"
+"攻撃力-2　防御力+1　魔力+2　速度+0"
+msgstr ""
+
+#. ID 2, Page 3, Line 572, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 3, Line 573, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 3, Line 574, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 3, Line 575, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "退魔師"
+msgstr ""
+
+#. ID 2, Page 3, Line 578, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"盾の呪文を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 585, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"魔物よけを覚えた！\n"
+"腕なえの言葉を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 593, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"結界の構\成を覚えた！\n"
+"破魔の理力を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 601, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"光の障壁を覚えた！\n"
+"封魔の呪文を覚えた！"
+msgstr ""
+
+#. ID 2, Page 3, Line 608, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"燔祭の火を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 12, Pos (1,0)
+msgid ""
+"HP+0　MP+0\n"
+"攻撃力+5　防御力-1　魔力-7　速度+7"
+msgstr ""
+
+#. ID 2, Page 4, Line 14, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 15, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 16, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 17, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "剣聖"
+msgstr ""
+
+#. ID 2, Page 4, Line 20, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"一閃を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 26, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"百人斬を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 32, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"斬鉄剣を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 38, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"見切りを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 44, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"八連剣陣を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 68, Pos (1,0)
+msgid ""
+"HP+4　MP+0\n"
+"攻撃力+1　防御力+5　魔力-3　速度-3"
+msgstr ""
+
+#. ID 2, Page 4, Line 70, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 71, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 72, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 73, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "君主"
+msgstr ""
+
+#. ID 2, Page 4, Line 76, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"防御陣形を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 83, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"風車砕きを覚えた！\n"
+"盾かざしを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 90, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"突撃命令を覚えた！\n"
+""
+msgstr ""
+
+#. ID 2, Page 4, Line 97, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"心臓刺しを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 103, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"一騎当千を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 126, Pos (1,0)
+msgid ""
+"HP+4　MP-2\n"
+"攻撃力+8　防御力+0　魔力-6　速度+0"
+msgstr ""
+
+#. ID 2, Page 4, Line 128, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 129, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 130, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 131, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "狂戦士"
+msgstr ""
+
+#. ID 2, Page 4, Line 134, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"ヨロイ割りを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 141, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"激怒を覚えた！\n"
+"腕力を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 148, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"めった打ちを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 154, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"不屈を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 161, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"城門落としを覚えた！\n"
+"バーサークを覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 184, Pos (1,0)
+msgid ""
+"HP+0　MP+0\n"
+"攻撃力+4　防御力+0　魔力-6　速度+6"
+msgstr ""
+
+#. ID 2, Page 4, Line 186, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 187, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 188, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 189, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "暗殺者"
+msgstr ""
+
+#. ID 2, Page 4, Line 192, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"影斬りを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 199, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"縮地を覚えた！\n"
+"機敏を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 206, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"斬首を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 212, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"ネックハングを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 218, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"死獄を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 238, Pos (1,0)
+msgid ""
+"HP+0　MP+1\n"
+"攻撃力+1　防御力+0　魔力+0　速度+4"
+msgstr ""
+
+#. ID 2, Page 4, Line 240, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 241, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 242, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 243, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "野伏"
+msgstr ""
+
+#. ID 2, Page 4, Line 247, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"ワイヤートラップを覚えた！\n"
+"調合を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 255, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"水と風の加護を覚えた！\n"
+"生存術を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 262, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"針穴通しを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 268, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"弱点看破を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 274, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"魔弾を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 297, Pos (1,0)
+msgid ""
+"HP+0　MP+9\n"
+"攻撃力-4　防御力-3　魔力+6　速度-2"
+msgstr ""
+
+#. ID 2, Page 4, Line 299, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 300, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 301, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 302, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "賢者"
+msgstr ""
+
+#. ID 2, Page 4, Line 306, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"治癒術を覚えた！\n"
+"禍祓いを覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 314, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"竜脈の解放を覚えた！\n"
+"古代知識を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 322, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"蘇生の秘儀を覚えた！\n"
+"魔力支配を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 329, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"神殿結界を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 335, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"風の十\二方位を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 359, Pos (1,0)
+msgid ""
+"HP-4　MP+2\n"
+"攻撃力+0　防御力-5　魔力+12　速度+4"
+msgstr ""
+
+#. ID 2, Page 4, Line 361, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 362, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 363, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 364, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "魔人"
+msgstr ""
+
+#. ID 2, Page 4, Line 367, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"死の指を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 373, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"死霊支配を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 379, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"雷の暴\君を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 386, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"瘴気を覚えた！\n"
+"無音詠唱を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 393, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"魔界門を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 415, Pos (1,0)
+msgid ""
+"HP+0　MP+4\n"
+"攻撃力-3　防御力+0　魔力+6　速度+0"
+msgstr ""
+
+#. ID 2, Page 4, Line 417, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 418, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 419, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 420, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "精霊術師"
+msgstr ""
+
+#. ID 2, Page 4, Line 424, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"精霊の召還を覚えた！\n"
+"樹縛を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 431, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"竜巻の呪文を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 437, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"炎魔界を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 443, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"凍土領域を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 449, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"劫火の王国を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 471, Pos (1,0)
+msgid ""
+"HP+0　MP+6\n"
+"攻撃力-5　防御力+0　魔力+6　速度+0"
+msgstr ""
+
+#. ID 2, Page 4, Line 473, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 474, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 475, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 476, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "使徒"
+msgstr ""
+
+#. ID 2, Page 4, Line 479, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"再生術を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 486, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"御使いの召喚を覚えた！\n"
+"神威を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 493, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"再生の力場を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 499, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"復活の秘儀を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 505, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"アークフィアの加護を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 528, Pos (1,0)
+msgid ""
+"HP+0　MP+0\n"
+"攻撃力+2　防御力+1　魔力+4　速度-2"
+msgstr ""
+
+#. ID 2, Page 4, Line 530, Pos (1,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 2, Page 4, Line 531, Pos (1,0)
+#. ChangeHeroTitle (Actor 2)
+#. ID 2, Page 4, Line 532, Pos (1,0)
+#. ChangeHeroTitle (Actor 3)
+#. ID 2, Page 4, Line 533, Pos (1,0)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "裁きの司"
+msgstr ""
+
+#. ID 2, Page 4, Line 536, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"裁きの雷を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 542, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"倍力を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 548, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"聖絶の剣を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 554, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"聖戦を覚えた！"
+msgstr ""
+
+#. ID 2, Page 4, Line 560, Pos (1,0)
+msgid ""
+"\\N[\\V[2]]は\n"
+"箱船の記憶を覚えた！\n"
+"この称号を極めた！"
+msgstr ""
+
+#. ID 4, Page 1, Line 2, Pos (2,1)
+#. Choice (2 options)
+msgid ""
+"\\N[27]称号について\n"
+"\\N[27]SPについて"
+msgstr ""
+
+#. ID 4, Page 1, Line 4, Pos (2,1)
+msgid ""
+"\\N[27]※\\C[5]称号のしるし\\C[0]等のアイテムと\n"
+"\\N[27]　\\C[5]規定のSP\\C[0]を消費することで\n"
+"\\N[27]　称号を得ることができます。"
+msgstr ""
+
+#. ID 4, Page 1, Line 7, Pos (2,1)
+msgid ""
+"\\N[27]※称号は、獲得時と同じSPを消費することで、\n"
+"\\N[27]　最大でレベル５まで成長させることができます。\n"
+"\\N[27]※称号が成長するとスキルが習得でき、\n"
+"\\N[27]　同時に能\力値が変動します。"
+msgstr ""
+
+#. ID 4, Page 1, Line 11, Pos (2,1)
+msgid ""
+"\\N[27]※適性のある称号はレベルアップに必要なSPが少なく、\n"
+"\\N[27]　適性が無い称号はその逆です。\n"
+"\\N[27]　最初は適性のある称号を中心に成長させることを\n"
+"\\N[27]　推奨します。"
+msgstr ""
+
+#. ID 4, Page 1, Line 17, Pos (2,1)
+msgid ""
+"\\N[27]※SP(スキルポイント)とは、称号の獲得とレベルアップ\n"
+"\\N[27]　をするために必要な数値です。"
+msgstr ""
+
+#. ID 4, Page 1, Line 19, Pos (2,1)
+msgid ""
+"\\N[27]※SPを入手するには、次のような方法があります。\n"
+"\\N[27]　・特定の場所(チェックポイント)まで辿り着く。\n"
+"\\N[27]　・町に戻るまでの間に、規定の数値以上の経験点\n"
+"\\N[27]　　(TTEXP)を獲得する。"
+msgstr ""
+
+#. ID 4, Page 1, Line 23, Pos (2,1)
+msgid ""
+"\\N[27]※他にも、特定のイベントのクリア等でも\n"
+"\\N[27]　入手できます。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (0,14)
+#. Choice (2 options)
+msgid ""
+"武術の修行\n"
+"用事はない"
+msgstr ""
+
+#. ID 5, Page 1, Line 10, Pos (0,14)
+msgid ""
+"カムール\n"
+"「よし！\n"
+"　さっそく鍛えてやろう」"
+msgstr ""
+
+#. ID 5, Page 1, Line 15, Pos (0,14)
+msgid ""
+"カムール\n"
+"「むむむ。\n"
+"　仕方ない、教えてやろう」"
+msgstr ""
+
+#. ID 5, Page 1, Line 25, Pos (0,14)
+msgid ""
+"カムール\n"
+"「フム……。\n"
+"　今のお前には、これ以上教えられる事は\n"
+"　無いようだな」"
+msgstr ""
+
+#. ID 5, Page 1, Line 29, Pos (0,14)
+msgid ""
+"カムール\n"
+"「だが慢心せず、高みを目指せ！\n"
+"　世界のどこかには、より高度な技を\n"
+"　教えられる者もいるだろう」"
+msgstr ""
+
+#. ID 5, Page 1, Line 39, Pos (0,14)
+msgid ""
+"カムール\n"
+"「お前はまだまだ未熟だ。\n"
+"　技を教える訳にはいかん」"
+msgstr ""
+
+#. ID 5, Page 1, Line 43, Pos (0,14)
+msgid ""
+"※特技を修得するには、\\C[6]称号\\C[0]を\n"
+"　得ておく必要があります。"
+msgstr ""
+
+#. ID 5, Page 1, Line 50, Pos (0,14)
+msgid ""
+"カムール\n"
+"「駄目だ。そなたに教えられる事は無い」"
+msgstr ""
+
+#. ID 5, Page 2, Line 3, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 18, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "剣士"
+msgstr ""
+
+#. ID 5, Page 2, Line 8, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 26, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+#. ID 7, Page 1, Line 24, Pos (1,3)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "騎士"
+msgstr ""
+
+#. ID 5, Page 2, Line 13, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 34, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "闘士"
+msgstr ""
+
+#. ID 5, Page 2, Line 25, Pos (0,14)
+msgid ""
+"カムール\n"
+"「……フム？　お前はどうやら、\n"
+"　この称号を極め終えたようだ」"
+msgstr ""
+
+#. ID 5, Page 2, Line 28, Pos (0,14)
+msgid ""
+"カムール\n"
+"「別の称号を得てから、また来なさい」"
+msgstr ""
+
+#. ID 5, Page 2, Line 36, Pos (0,14)
+#. Contains choice at line 3 (2 options)
+#. ID 5, Page 3, Line 38, Pos (0,14)
+#. Contains choice at line 3 (2 options)
+#. ID 5, Page 4, Line 38, Pos (0,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"現在の\\N[96]レベル\\V[100]　　所持SP \\V[26] 点\n"
+"SPを\\V[99]点消費し、\\N[96]レベルを上げますか？"
+msgstr ""
+
+#. ID 5, Page 2, Line 45, Pos (0,14)
+#. ID 5, Page 3, Line 47, Pos (0,14)
+#. ID 5, Page 4, Line 47, Pos (0,14)
+msgid "SPが足りません。"
+msgstr ""
+
+#. ID 5, Page 2, Line 68, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 187, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "剣士Lv2"
+msgstr ""
+
+#. ID 5, Page 2, Line 71, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"必中斬を覚えた！\n"
+"受け流しを覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 77, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 191, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "剣士Lv3"
+msgstr ""
+
+#. ID 5, Page 2, Line 79, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"武器落としを覚えた！\n"
+""
+msgstr ""
+
+#. ID 5, Page 2, Line 85, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 195, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "剣士Lv4"
+msgstr ""
+
+#. ID 5, Page 2, Line 87, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"居合いを覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 92, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 199, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "剣士Lv5"
+msgstr ""
+
+#. ID 5, Page 2, Line 94, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"三段斬りを覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 114, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 228, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "騎士Lv2"
+msgstr ""
+
+#. ID 5, Page 2, Line 116, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"チャージを覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 121, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 232, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "騎士Lv3"
+msgstr ""
+
+#. ID 5, Page 2, Line 124, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"二連突きを覚えた！\n"
+"紙一重を覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 130, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 236, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "騎士Lv4"
+msgstr ""
+
+#. ID 5, Page 2, Line 132, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"閃光突きを覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 137, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 240, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "騎士Lv5"
+msgstr ""
+
+#. ID 5, Page 2, Line 139, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"鉄壁を覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 159, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 269, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "闘士Lv2"
+msgstr ""
+
+#. ID 5, Page 2, Line 166, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 273, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "闘士Lv3"
+msgstr ""
+
+#. ID 5, Page 2, Line 168, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"構\え崩しを覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 173, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 277, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "闘士Lv4"
+msgstr ""
+
+#. ID 5, Page 2, Line 175, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"闘気を覚えた！"
+msgstr ""
+
+#. ID 5, Page 2, Line 180, Pos (0,14)
+#. ChangeHeroTitle (Actor 1)
+#. ID 6, Page 1, Line 281, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "闘士Lv5"
+msgstr ""
+
+#. ID 5, Page 2, Line 183, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"ヨロイ割りを覚えた！\n"
+"間合いを覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 3, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 81, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+#. ID 11, Page 1, Line 24, Pos (1,7)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "魔術師"
+msgstr ""
+
+#. ID 5, Page 3, Line 8, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 89, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+#. ID 13, Page 1, Line 24, Pos (1,8)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "妖術師"
+msgstr ""
+
+#. ID 5, Page 3, Line 13, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 98, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+#. ID 14, Page 1, Line 24, Pos (1,9)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "吟遊詩人"
+msgstr ""
+
+#. ID 5, Page 3, Line 25, Pos (0,14)
+msgid ""
+"デネロス\n"
+"「……む？\n"
+"　どうやらお前は、この称号を\n"
+"　極めてしまったらしい」"
+msgstr ""
+
+#. ID 5, Page 3, Line 29, Pos (0,14)
+msgid ""
+"デネロス\n"
+"「これ以上は成長できん。\n"
+"　別の称号を得てからまた来なさい」"
+msgstr ""
+
+#. ID 5, Page 3, Line 70, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 428, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "魔術師Lv2"
+msgstr ""
+
+#. ID 5, Page 3, Line 73, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"鬼火を覚えた！\n"
+"くくりの呪文を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 79, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 432, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "魔術師Lv3"
+msgstr ""
+
+#. ID 5, Page 3, Line 82, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"爆炎の投射を覚えた！\n"
+"氷華を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 88, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 436, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "魔術師Lv4"
+msgstr ""
+
+#. ID 5, Page 3, Line 95, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 440, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "魔術師Lv5"
+msgstr ""
+
+#. ID 5, Page 3, Line 98, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"魔力支配を覚えた！\n"
+"氷の槍を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 119, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 467, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "妖術師Lv2"
+msgstr ""
+
+#. ID 5, Page 3, Line 121, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"稲妻を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 126, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 471, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "妖術師Lv3"
+msgstr ""
+
+#. ID 5, Page 3, Line 129, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"邪眼を覚えた！\n"
+"闇の投影を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 135, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 475, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "妖術師Lv4"
+msgstr ""
+
+#. ID 5, Page 3, Line 138, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"腐敗の呪いを覚えた！\n"
+"死霊支配を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 144, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 479, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "妖術師Lv5"
+msgstr ""
+
+#. ID 5, Page 3, Line 147, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"吸血の呪文を覚えた！\n"
+"天雷陣を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 168, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 507, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "吟遊詩人Lv2"
+msgstr ""
+
+#. ID 5, Page 3, Line 171, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"まどろみの歌を覚えた！\n"
+"水妖の手を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 177, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 511, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "吟遊詩人Lv3"
+msgstr ""
+
+#. ID 5, Page 3, Line 180, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"いくさ歌を覚えた！\n"
+"錆の呪文を覚えた！"
+msgstr ""
+
+#. ID 5, Page 3, Line 186, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 515, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "吟遊詩人Lv4"
+msgstr ""
+
+#. ID 5, Page 3, Line 193, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+#. ID 6, Page 1, Line 519, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "吟遊詩人Lv5"
+msgstr ""
+
+#. ID 5, Page 3, Line 196, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"惑乱の歌を覚えた！\n"
+"呪縛の歌を覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 3, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 113, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+#. ID 15, Page 1, Line 24, Pos (1,10)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "神官"
+msgstr ""
+
+#. ID 5, Page 4, Line 8, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 121, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "守護者"
+msgstr ""
+
+#. ID 5, Page 4, Line 13, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+#. ID 6, Page 1, Line 129, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "武僧"
+msgstr ""
+
+#. ID 5, Page 4, Line 25, Pos (0,14)
+msgid ""
+"アダ\n"
+"「……おや？\n"
+"　お前は、この称号を極めたようじゃ。\n"
+"　おめでとさん」"
+msgstr ""
+
+#. ID 5, Page 4, Line 29, Pos (0,14)
+msgid ""
+"アダ\n"
+"「これ以上は成長できないから、\n"
+"　別の称号を得てからまたおいで」"
+msgstr ""
+
+#. ID 5, Page 4, Line 70, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 547, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "神官Lv2"
+msgstr ""
+
+#. ID 5, Page 4, Line 72, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"水妖の手を覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 77, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 551, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "神官Lv3"
+msgstr ""
+
+#. ID 5, Page 4, Line 79, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"浄化の香油を覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 84, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 555, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "神官Lv4"
+msgstr ""
+
+#. ID 5, Page 4, Line 86, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"聖雨を覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 91, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 559, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "神官Lv5"
+msgstr ""
+
+#. ID 5, Page 4, Line 93, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"治癒の祈りを覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 113, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 587, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "守護者Lv2"
+msgstr ""
+
+#. ID 5, Page 4, Line 117, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"四囲の聖別を覚えた！\n"
+"地霊の守護を覚えた！\n"
+"熱よけの鏡を覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 124, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 591, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "守護者Lv3"
+msgstr ""
+
+#. ID 5, Page 4, Line 127, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"追い風の加護を覚えた！\n"
+"水への守りを覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 133, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 595, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "守護者Lv4"
+msgstr ""
+
+#. ID 5, Page 4, Line 136, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"腕なえの言葉を覚えた！\n"
+"封魔の呪文を覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 142, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 599, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "守護者Lv5"
+msgstr ""
+
+#. ID 5, Page 4, Line 144, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"聖甲冑を覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 164, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 628, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "武僧Lv2"
+msgstr ""
+
+#. ID 5, Page 4, Line 171, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 632, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "武僧Lv3"
+msgstr ""
+
+#. ID 5, Page 4, Line 173, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"いくさ歌を覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 178, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 636, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "武僧Lv4"
+msgstr ""
+
+#. ID 5, Page 4, Line 180, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"小手打ちを覚えた！"
+msgstr ""
+
+#. ID 5, Page 4, Line 185, Pos (0,14)
+#. ChangeHeroTitle (Actor 4)
+#. ID 6, Page 1, Line 640, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "武僧Lv5"
+msgstr ""
+
+#. ID 5, Page 4, Line 187, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]は\n"
+"脳天打ちを覚えた！"
+msgstr ""
+
+#. ID 6, Page 1, Line 4, Pos (1,14)
+msgid ""
+"河岸には、大河の女神アークフィアに\n"
+"供物を捧げる至聖所があった。\n"
+"中に足を踏み入れると、不思議な気配が体を包む。"
+msgstr ""
+
+#. ID 6, Page 1, Line 7, Pos (1,14)
+msgid "―\―\体の中から、力が湧き上がってきた。"
+msgstr ""
+
+#. ID 6, Page 1, Line 8, Pos (1,14)
+msgid ""
+"※\\C[6]称号のオーブ\\C[0]と引き替えに\n"
+"　称号を得ることができます。\n"
+"　どの称号を手に入れますか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 13, Pos (1,14)
+#. Choice (4 options)
+msgid ""
+"剣士\n"
+"騎士\n"
+"闘士\n"
+"やめる"
+msgstr ""
+
+#. ID 6, Page 1, Line 15, Pos (1,14)
+msgid ""
+"\\C[5]剣士\\C[0]\n"
+"剣の技に優れた戦士。\n"
+"テクニカルな斬り技を得意とする。"
+msgstr ""
+
+#. ID 6, Page 1, Line 23, Pos (1,14)
+msgid ""
+"\\C[5]騎士\\C[0]\n"
+"名誉を重んじる戦士階級。\n"
+"突き技のほか、強力な防御技を覚える。"
+msgstr ""
+
+#. ID 6, Page 1, Line 31, Pos (1,14)
+msgid ""
+"\\C[5]闘士\\C[0]\n"
+"パワーに優れた戦士。\n"
+"重武器の扱いを得意としている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 44, Pos (1,14)
+#. Choice (4 options)
+msgid ""
+"夜盗\n"
+"射手\n"
+"探索者\n"
+"やめる"
+msgstr ""
+
+#. ID 6, Page 1, Line 46, Pos (1,14)
+msgid ""
+"\\C[5]夜盗\\C[0]\n"
+"夜闇に乗じて襲いかかる強奪者。\n"
+"奇襲攻撃の技を多く学ぶ。"
+msgstr ""
+
+#. ID 6, Page 1, Line 49, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+#. ID 8, Page 1, Line 24, Pos (1,4)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "夜盗"
+msgstr ""
+
+#. ID 6, Page 1, Line 54, Pos (1,14)
+msgid ""
+"\\C[5]射手\\C[0]\n"
+"弓矢の使い手。森の中では狩人、\n"
+"戦場では優れた兵士、町では暗殺者となる。\n"
+"射撃の技を習得する。"
+msgstr ""
+
+#. ID 6, Page 1, Line 58, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+#. ID 9, Page 1, Line 24, Pos (1,5)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "射手"
+msgstr ""
+
+#. ID 6, Page 1, Line 63, Pos (1,14)
+msgid ""
+"\\C[5]探索者\\C[0]\n"
+"遺跡などを探索するトレジャーハンター。\n"
+"鞭と罠の技を得意とする。"
+msgstr ""
+
+#. ID 6, Page 1, Line 66, Pos (1,14)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "探索者"
+msgstr ""
+
+#. ID 6, Page 1, Line 76, Pos (1,14)
+#. Choice (4 options)
+msgid ""
+"魔術師\n"
+"妖術師\n"
+"吟遊詩人\n"
+"やめる"
+msgstr ""
+
+#. ID 6, Page 1, Line 78, Pos (1,14)
+msgid ""
+"\\C[5]魔術師\\C[0]\n"
+"秘められた知識の力を探求する者。\n"
+"火と氷の術を得意とする。"
+msgstr ""
+
+#. ID 6, Page 1, Line 86, Pos (1,14)
+msgid ""
+"\\C[5]妖術師\\C[0]\n"
+"闇の力や、人の心の暗部の力を使う者。\n"
+"闇と雷の術を得意とする。"
+msgstr ""
+
+#. ID 6, Page 1, Line 94, Pos (1,14)
+msgid ""
+"\\C[5]吟遊詩人\\C[0]\n"
+"町から町へと旅をしつつ、自然の魔力を身に付けた者。\n"
+"状態変化をもたらす術を得意とし、\n"
+"風や水の術もわずかに覚える。"
+msgstr ""
+
+#. ID 6, Page 1, Line 108, Pos (1,14)
+#. Choice (4 options)
+msgid ""
+"神官\n"
+"守護者\n"
+"武僧\n"
+"やめる"
+msgstr ""
+
+#. ID 6, Page 1, Line 110, Pos (1,14)
+msgid ""
+"\\C[5]神官\\C[0]\n"
+"神々への祭儀を行う聖職者。\n"
+"治療と攻撃の呪文を使いこなす。"
+msgstr ""
+
+#. ID 6, Page 1, Line 118, Pos (1,14)
+msgid ""
+"\\C[5]守護者\\C[0]\n"
+"悪しきものから人々を守る聖職者。\n"
+"結界を張る術を多く使う。"
+msgstr ""
+
+#. ID 6, Page 1, Line 126, Pos (1,14)
+msgid ""
+"\\C[5]武僧\\C[0]\n"
+"打撃武器と重武器の技を使う戦闘神官。\n"
+"神々の兵士として戦う。"
+msgstr ""
+
+#. ID 6, Page 1, Line 145, Pos (1,14)
+#. Contains choice at line 2 (2 options)
+msgid "\\C[5]\\N[96]\\C[0]になりますか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 154, Pos (1,14)
+msgid "あなたは既に、この称号を得ています。"
+msgstr ""
+
+#. ID 6, Page 1, Line 159, Pos (1,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"今までの称号は失われます。\n"
+"構\いませんか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 173, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]剣士\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 177, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+0\n"
+"攻撃力+3　防御力+0\n"
+"魔力-10　速度+4"
+msgstr ""
+
+#. ID 6, Page 1, Line 183, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "剣士Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 213, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]騎士\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 218, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+0\n"
+"攻撃力+1　防御力+4\n"
+"魔力-8　速度-2"
+msgstr ""
+
+#. ID 6, Page 1, Line 224, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "騎士Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 254, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]闘士\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 259, Pos (1,14)
+msgid ""
+"HP+12\n"
+"MP+0\n"
+"攻撃力+4　防御力+0\n"
+"魔力-10　速度-4"
+msgstr ""
+
+#. ID 6, Page 1, Line 265, Pos (1,14)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "闘士Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 295, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]夜盗\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 298, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+0\n"
+"攻撃力+5　防御力+0\n"
+"魔力-10　速度+0"
+msgstr ""
+
+#. ID 6, Page 1, Line 304, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "夜盗Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 308, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "夜盗Lv2"
+msgstr ""
+
+#. ID 6, Page 1, Line 312, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "夜盗Lv3"
+msgstr ""
+
+#. ID 6, Page 1, Line 316, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "夜盗Lv4"
+msgstr ""
+
+#. ID 6, Page 1, Line 320, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "夜盗Lv5"
+msgstr ""
+
+#. ID 6, Page 1, Line 334, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]射手\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 338, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+0\n"
+"攻撃力+3　防御力-4\n"
+"魔力+0　速度+2"
+msgstr ""
+
+#. ID 6, Page 1, Line 344, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "射手Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 348, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "射手Lv2"
+msgstr ""
+
+#. ID 6, Page 1, Line 352, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "射手Lv3"
+msgstr ""
+
+#. ID 6, Page 1, Line 356, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "射手Lv4"
+msgstr ""
+
+#. ID 6, Page 1, Line 360, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "射手Lv5"
+msgstr ""
+
+#. ID 6, Page 1, Line 374, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]探索者\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 378, Pos (1,14)
+#. ID 6, Page 1, Line 497, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+0\n"
+"攻撃力-1　防御力-1\n"
+"魔力+0　速度+4"
+msgstr ""
+
+#. ID 6, Page 1, Line 384, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "探索者Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 388, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "探索者Lv2"
+msgstr ""
+
+#. ID 6, Page 1, Line 392, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "探索者Lv3"
+msgstr ""
+
+#. ID 6, Page 1, Line 396, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "探索者Lv4"
+msgstr ""
+
+#. ID 6, Page 1, Line 400, Pos (1,14)
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "探索者Lv5"
+msgstr ""
+
+#. ID 6, Page 1, Line 414, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]魔術師\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 418, Pos (1,14)
+#. ID 6, Page 1, Line 537, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+4\n"
+"攻撃力-5　防御力+0\n"
+"魔力+2　速度+0"
+msgstr ""
+
+#. ID 6, Page 1, Line 424, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "魔術師Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 454, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]妖術師\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 457, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+0\n"
+"攻撃力+0　防御力-3\n"
+"魔力+6　速度+0"
+msgstr ""
+
+#. ID 6, Page 1, Line 463, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "妖術師Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 493, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]吟遊詩人\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 503, Pos (1,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "吟遊詩人Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 533, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]神官\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 543, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "神官Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 573, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]守護者\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 577, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+0\n"
+"攻撃力-4　防御力+2\n"
+"魔力+0　速度+4"
+msgstr ""
+
+#. ID 6, Page 1, Line 583, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "守護者Lv1"
+msgstr ""
+
+#. ID 6, Page 1, Line 613, Pos (1,14)
+msgid "\\N[\\V[2]]は、\\C[5]武僧\\C[0]になった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 618, Pos (1,14)
+msgid ""
+"HP+0\n"
+"MP+0\n"
+"攻撃力+6　防御力+2\n"
+"魔力-8　速度-8"
+msgstr ""
+
+#. ID 6, Page 1, Line 624, Pos (1,14)
+#. ChangeHeroTitle (Actor 4)
+msgctxt "actors.title"
+msgid "武僧Lv1"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (1,3)
+#. ID 8, Page 1, Line 7, Pos (1,4)
+#. ID 9, Page 1, Line 7, Pos (1,5)
+#. ID 10, Page 1, Line 7, Pos (1,6)
+#. ID 11, Page 1, Line 12, Pos (1,7)
+#. ID 12, Page 1, Line 2, Pos (1,2)
+#. ID 13, Page 1, Line 12, Pos (1,8)
+#. ID 14, Page 1, Line 12, Pos (1,9)
+#. ID 15, Page 1, Line 16, Pos (1,10)
+#. ID 16, Page 1, Line 16, Pos (1,11)
+msgid "\\>適性：☆☆☆　レベルアップに必要なSP：2点"
+msgstr ""
+
+#. ID 7, Page 1, Line 7, Pos (1,3)
+#. ID 7, Page 1, Line 12, Pos (1,3)
+#. ID 9, Page 1, Line 12, Pos (1,5)
+#. ID 9, Page 1, Line 16, Pos (1,5)
+#. ID 10, Page 1, Line 2, Pos (1,6)
+#. ID 10, Page 1, Line 16, Pos (1,6)
+#. ID 11, Page 1, Line 2, Pos (1,7)
+#. ID 11, Page 1, Line 7, Pos (1,7)
+#. ID 13, Page 1, Line 7, Pos (1,8)
+#. ID 14, Page 1, Line 2, Pos (1,9)
+#. ID 15, Page 1, Line 7, Pos (1,10)
+#. ID 15, Page 1, Line 12, Pos (1,10)
+msgid "\\>適性：☆　レベルアップに必要なSP：6点"
+msgstr ""
+
+#. ID 7, Page 1, Line 16, Pos (1,3)
+#. ID 8, Page 1, Line 2, Pos (1,4)
+#. ID 8, Page 1, Line 12, Pos (1,4)
+#. ID 9, Page 1, Line 2, Pos (1,5)
+#. ID 10, Page 1, Line 12, Pos (1,6)
+#. ID 11, Page 1, Line 16, Pos (1,7)
+#. ID 12, Page 1, Line 7, Pos (1,2)
+#. ID 12, Page 1, Line 16, Pos (1,2)
+#. ID 13, Page 1, Line 16, Pos (1,8)
+#. ID 14, Page 1, Line 7, Pos (1,9)
+#. ID 14, Page 1, Line 16, Pos (1,9)
+#. ID 15, Page 1, Line 2, Pos (1,10)
+#. ID 16, Page 1, Line 2, Pos (1,11)
+#. ID 16, Page 1, Line 12, Pos (1,11)
+msgid "\\>適性：☆☆　レベルアップに必要なSP：4点"
+msgstr ""
+
+#. ID 7, Page 2, Line 2, Pos (1,3)
+msgid ""
+"\\>\\C[5]騎士\\C[0]\n"
+"\\>名誉を重んじる武人。\n"
+"\\>突き技のほか、強力な防御技を覚える。"
+msgstr ""
+
+#. ID 8, Page 1, Line 16, Pos (1,4)
+#. ID 12, Page 1, Line 12, Pos (1,2)
+#. ID 13, Page 1, Line 2, Pos (1,8)
+#. ID 16, Page 1, Line 7, Pos (1,11)
+msgid "\\>適性：×　レベルアップに必要なSP：8点"
+msgstr ""
+
+#. ID 8, Page 2, Line 2, Pos (1,4)
+msgid ""
+"\\>\\C[5]夜盗\\C[0]\n"
+"\\>夜闇に乗じて襲いかかる強奪者。\n"
+"\\>奇襲攻撃の技を多く学ぶ。"
+msgstr ""
+
+#. ID 9, Page 2, Line 2, Pos (1,5)
+msgid ""
+"\\>\\C[5]射手\\C[0]\n"
+"\\>弓矢の使い手。\n"
+"\\>射撃の技を習得する。"
+msgstr ""
+
+#. ID 10, Page 1, Line 24, Pos (1,6)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "遺跡荒らし"
+msgstr ""
+
+#. ID 10, Page 2, Line 2, Pos (1,6)
+msgid ""
+"\\>\\C[5]遺跡荒らし\\C[0]\n"
+"\\>遺跡などを探索するトレジャーハンター。\n"
+"\\>鞭と罠の技を得意とし、探索スキルを修得する。"
+msgstr ""
+
+#. ID 11, Page 2, Line 2, Pos (1,7)
+msgid ""
+"\\>\\C[5]魔術師\\C[0]\n"
+"\\>秘められた知識を探求する者。\n"
+"\\>主に火の術を得意とする。"
+msgstr ""
+
+#. ID 12, Page 1, Line 24, Pos (1,2)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "戦士"
+msgstr ""
+
+#. ID 12, Page 2, Line 2, Pos (1,2)
+msgid ""
+"\\>\\C[5]戦士\\C[0]\n"
+"\\>多様な武器の扱いに優れた攻撃型の武人。"
+msgstr ""
+
+#. ID 13, Page 2, Line 2, Pos (1,8)
+msgid ""
+"\\>\\C[5]妖術師\\C[0]\n"
+"\\>闇の力や、人の心の暗部の力を使う者。\n"
+"\\>闇と雷の術を得意とする。"
+msgstr ""
+
+#. ID 14, Page 2, Line 2, Pos (1,9)
+msgid ""
+"\\>\\C[5]吟遊詩人\\C[0]\n"
+"\\>町から町へと旅をしつつ、自然の魔力を身に付けた者。\n"
+"\\>状態変化をもたらす術を得意とする。"
+msgstr ""
+
+#. ID 15, Page 2, Line 2, Pos (1,10)
+msgid ""
+"\\>\\C[5]神官\\C[0]\n"
+"\\>神々への祭儀を行う聖職者。\n"
+"\\>治療と水の呪文を使う。"
+msgstr ""
+
+#. ID 16, Page 1, Line 24, Pos (1,11)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "退魔師"
+msgstr ""
+
+#. ID 16, Page 2, Line 2, Pos (1,11)
+msgid ""
+"\\>\\C[5]退魔師\\C[0]\n"
+"\\>悪しきものから人々を守る聖職者。\n"
+"\\>結界と攻撃の術を使う。"
+msgstr ""
+
+#. ID 17, Page 1, Line 2, Pos (10,2)
+#. ID 17, Page 1, Line 7, Pos (10,2)
+#. ID 18, Page 1, Line 2, Pos (10,3)
+#. ID 18, Page 1, Line 16, Pos (10,3)
+#. ID 19, Page 1, Line 2, Pos (10,4)
+#. ID 20, Page 1, Line 7, Pos (10,5)
+#. ID 21, Page 1, Line 7, Pos (10,6)
+#. ID 22, Page 1, Line 12, Pos (10,7)
+#. ID 22, Page 1, Line 16, Pos (10,7)
+#. ID 23, Page 1, Line 12, Pos (10,8)
+#. ID 24, Page 1, Line 12, Pos (10,9)
+#. ID 25, Page 1, Line 16, Pos (10,10)
+#. ID 26, Page 1, Line 16, Pos (10,11)
+msgid "\\>適性：☆☆☆　レベルアップに必要なSP：4点"
+msgstr ""
+
+#. ID 17, Page 1, Line 12, Pos (10,2)
+#. ID 18, Page 1, Line 12, Pos (10,3)
+#. ID 19, Page 1, Line 16, Pos (10,4)
+#. ID 20, Page 1, Line 12, Pos (10,5)
+#. ID 20, Page 1, Line 16, Pos (10,5)
+#. ID 22, Page 1, Line 7, Pos (10,7)
+#. ID 23, Page 1, Line 2, Pos (10,8)
+#. ID 23, Page 1, Line 7, Pos (10,8)
+#. ID 25, Page 1, Line 2, Pos (10,10)
+#. ID 25, Page 1, Line 12, Pos (10,10)
+msgid "\\>適性：☆　レベルアップに必要なSP：12点"
+msgstr ""
+
+#. ID 17, Page 1, Line 16, Pos (10,2)
+#. ID 18, Page 1, Line 7, Pos (10,3)
+#. ID 19, Page 1, Line 12, Pos (10,4)
+#. ID 21, Page 1, Line 16, Pos (10,6)
+#. ID 22, Page 1, Line 2, Pos (10,7)
+#. ID 24, Page 1, Line 2, Pos (10,9)
+#. ID 26, Page 1, Line 7, Pos (10,11)
+msgid "\\>適性：×　レベルアップに必要なSP：16点"
+msgstr ""
+
+#. ID 17, Page 1, Line 24, Pos (10,2)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "剣聖"
+msgstr ""
+
+#. ID 17, Page 2, Line 2, Pos (10,2)
+msgid ""
+"\\>\\C[5]剣聖\\C[0]\n"
+"\\>剣の達人。強力な斬り技を多く使う。"
+msgstr ""
+
+#. ID 18, Page 1, Line 24, Pos (10,3)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "君主"
+msgstr ""
+
+#. ID 18, Page 2, Line 2, Pos (10,3)
+msgid ""
+"\\>\\C[5]君主\\C[0]\n"
+"\\>一軍を率いることも可能\な力を持つ戦士。\n"
+"\\>強力な槍技を持つほか、仲間全体を強化できる。"
+msgstr ""
+
+#. ID 19, Page 1, Line 7, Pos (10,4)
+#. ID 20, Page 1, Line 2, Pos (10,5)
+#. ID 21, Page 1, Line 2, Pos (10,6)
+#. ID 21, Page 1, Line 12, Pos (10,6)
+#. ID 23, Page 1, Line 16, Pos (10,8)
+#. ID 24, Page 1, Line 7, Pos (10,9)
+#. ID 24, Page 1, Line 16, Pos (10,9)
+#. ID 25, Page 1, Line 7, Pos (10,10)
+#. ID 26, Page 1, Line 2, Pos (10,11)
+#. ID 26, Page 1, Line 12, Pos (10,11)
+msgid "\\>適性：☆☆　レベルアップに必要なSP：8点"
+msgstr ""
+
+#. ID 19, Page 1, Line 24, Pos (10,4)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "狂戦士"
+msgstr ""
+
+#. ID 19, Page 2, Line 2, Pos (10,4)
+msgid ""
+"\\>\\C[5]狂戦士\\C[0]\n"
+"\\>闘争本能\のままに戦う戦場の鬼神。\n"
+"\\>重打武器による攻撃と、能\力上昇技を使う。"
+msgstr ""
+
+#. ID 20, Page 1, Line 24, Pos (10,5)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "暗殺者"
+msgstr ""
+
+#. ID 20, Page 2, Line 2, Pos (10,5)
+msgid ""
+"\\>\\C[5]暗殺者\\C[0]\n"
+"\\>人知れず敵を葬り去る刺客。\n"
+"\\>暗殺武器や鞭での即死技を習得する。"
+msgstr ""
+
+#. ID 21, Page 1, Line 24, Pos (10,6)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "野伏"
+msgstr ""
+
+#. ID 21, Page 2, Line 2, Pos (10,6)
+msgid ""
+"\\>\\C[5]野伏\\C[0]\n"
+"\\>野に生きる戦士。\n"
+"\\>弓の技に加え、野外生活に必要な能\力を持つ。"
+msgstr ""
+
+#. ID 22, Page 1, Line 24, Pos (10,7)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "賢者"
+msgstr ""
+
+#. ID 22, Page 2, Line 2, Pos (10,7)
+msgid ""
+"\\>\\C[5]賢者\\C[0]\n"
+"\\>あらゆる知恵を極めようとしている者。\n"
+"\\>攻撃魔法と回復魔法を共に覚え、スキル数が多い。"
+msgstr ""
+
+#. ID 23, Page 1, Line 24, Pos (10,8)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "魔人"
+msgstr ""
+
+#. ID 23, Page 2, Line 2, Pos (10,8)
+msgid ""
+"\\>\\C[5]魔人\\C[0]\n"
+"\\>禁忌の術を追求する魔術師。\n"
+"\\>闇と死に属する術を修得する。"
+msgstr ""
+
+#. ID 24, Page 1, Line 24, Pos (10,9)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "精霊術師"
+msgstr ""
+
+#. ID 24, Page 2, Line 2, Pos (10,9)
+msgid ""
+"\\>\\C[5]精霊術師\\C[0]\n"
+"\\>火を中心として諸元素の力を操る魔術師。\n"
+"\\>精霊を召還し、使役できる。"
+msgstr ""
+
+#. ID 25, Page 1, Line 24, Pos (10,10)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "使徒"
+msgstr ""
+
+#. ID 25, Page 2, Line 2, Pos (10,10)
+msgid ""
+"\\>\\C[5]使徒\\C[0]\n"
+"\\>信仰と、人々への奉仕に身を捧げた聖職者。\n"
+"\\>強力な回復魔法を使える。"
+msgstr ""
+
+#. ID 26, Page 1, Line 24, Pos (10,11)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "裁きの司"
+msgstr ""
+
+#. ID 26, Page 2, Line 2, Pos (10,11)
+msgid ""
+"\\>\\C[5]裁きの司\\C[0]\n"
+"\\>神の敵と戦い、悪を裁く者。\n"
+"\\>聖属性の攻撃魔法を多く使う。"
+msgstr ""
+

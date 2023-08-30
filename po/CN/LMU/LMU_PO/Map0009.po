@@ -1,0 +1,1856 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (7,10)
+#. Choice (3 options)
+msgid ""
+"\\N[27]买卖道具\n"
+"\\N[27]购买药品\n"
+"\\N[27]委托制作道具"
+msgstr ""
+
+#. ID 1, Page 1, Line 15, Pos (7,10)
+msgid ""
+"\\>\\N[6]\n"
+"\\>「包在人家身上！」"
+msgstr ""
+
+#. ID 1, Page 1, Line 21, Pos (7,10)
+#. Choice (4 options)
+msgid ""
+"\\>料理\n"
+"\\>调合\n"
+"\\>制作武器\n"
+"\\>制作防具"
+msgstr ""
+
+#. ID 1, Page 1, Line 39, Pos (7,10)
+#. Choice (3 options)
+msgid ""
+"\\>料理\n"
+"\\>调合\n"
+"\\>制作武器"
+msgstr ""
+
+#. ID 1, Page 1, Line 57, Pos (7,10)
+#. Choice (3 options)
+msgid ""
+"\\>料理\n"
+"\\>调合\n"
+"\\>制作防具"
+msgstr ""
+
+#. ID 1, Page 1, Line 72, Pos (7,10)
+#. Choice (2 options)
+msgid ""
+"\\>料理\n"
+"\\>调合"
+msgstr ""
+
+#. ID 1, Page 1, Line 95, Pos (7,10)
+#. Choice (3 options)
+msgid ""
+"\\N[27]买卖道具\n"
+"\\N[27]购买药品\n"
+"\\N[27]没事"
+msgstr ""
+
+#. ID 1, Page 1, Line 130, Pos (7,10)
+#. ID 3, Page 1, Line 7, Pos (18,10)
+msgid "\\N[27]今天好象已经卖光了。"
+msgstr ""
+
+#. ID 1, Page 1, Line 138, Pos (7,10)
+#. Choice (3 options)
+msgid ""
+"\\$\\>伤药　　\\V[165]Ｇ HP小回复\n"
+"\\>治疗药　\\V[166]Ｇ 治肉体异常\n"
+"\\>算了"
+msgstr ""
+
+#. ID 1, Page 1, Line 144, Pos (7,10)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "伤药"
+msgstr ""
+
+#. ID 1, Page 1, Line 152, Pos (7,10)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "治疗药"
+msgstr ""
+
+#. ID 1, Page 1, Line 179, Pos (7,10)
+#. ID 3, Page 1, Line 59, Pos (18,10)
+msgid "\\N[27]购买了\\$\\N[78]。"
+msgstr ""
+
+#. ID 1, Page 1, Line 183, Pos (7,10)
+msgid "\\N[27]\\$\\N[78]最多只能购买\\V[177]个。"
+msgstr ""
+
+#. ID 1, Page 1, Line 188, Pos (7,10)
+#. ID 3, Page 1, Line 68, Pos (18,10)
+msgid "\\N[27]\\$所持金不足。"
+msgstr ""
+
+#. ID 1, Page 2, Line 5, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「喂，\\N[6]！\n"
+"\\N[27]　你跑到哪闲晃去了！」"
+msgstr ""
+
+#. ID 1, Page 2, Line 9, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「哼哼哼。妈妈，说这种话真的好吗？\n"
+"\\N[27]　你看，人家把客人带过来喽」"
+msgstr ""
+
+#. ID 1, Page 2, Line 14, Pos (7,10)
+#. ID 1, Page 2, Line 20, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「什么客人啊，\n"
+"\\N[27]　不就是\\N[\\V[2]]嘛……\n"
+"\\N[27]　那，今天想看看什么？」"
+msgstr ""
+
+#. ID 1, Page 2, Line 31, Pos (7,10)
+#. ID 1, Page 3, Line 11, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「啊，欢迎光临，\\N[\\V[2]]。\n"
+"\\N[27]　今天是人家看店的日子ー」"
+msgstr ""
+
+#. ID 1, Page 2, Line 40, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「来来，欢迎光临！　\n"
+"\\N[27]　…哎呀，这不是\\N[\\V[2]]大人嘛。\n"
+"\\N[27]　您今天有何贵干？」"
+msgstr ""
+
+#. ID 1, Page 2, Line 47, Pos (7,10)
+#. ID 1, Page 2, Line 53, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「来来，欢迎光临！　\n"
+"\\N[27]　…哎呀，这不是\\N[\\V[2]]嘛。\n"
+"\\N[27]　今天有什么事啊？」"
+msgstr ""
+
+#. ID 1, Page 3, Line 29, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「……那座空中都城\n"
+"\\N[27]　我有在梦里见过……」"
+msgstr ""
+
+#. ID 1, Page 3, Line 35, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「最近我经常做些奇怪的梦。\n"
+"\\N[27]　像是在镇上迷路一直走个不停，\n"
+"\\N[27]　是不是因为最近太过操劳的缘故？」"
+msgstr ""
+
+#. ID 1, Page 3, Line 42, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「原来\\N[130]大人也读过『废都物语』。\n"
+"\\N[27]　你看，阿尔凯亚帝国就是在那小\n"
+"\\N[27]　说里面出现过的国家吧？」"
+msgstr ""
+
+#. ID 1, Page 3, Line 49, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「哈啊……\n"
+"\\N[27]　虽然总算性命无忧，\n"
+"\\N[27]　店也算是保下来了……」"
+msgstr ""
+
+#. ID 1, Page 3, Line 53, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「但商品都被抢走，损失了一大笔呢。\n"
+"\\N[27]　而且镇上变成这样也做不了生意了……」"
+msgstr ""
+
+#. ID 1, Page 3, Line 59, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 1, Page 3, Line 61, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「哎呀，抱歉。\n"
+"\\N[27]　刚刚我在读『废都物语』这本小说呢」"
+msgstr ""
+
+#. ID 1, Page 3, Line 67, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「河岸边建起了好几座巨大的锻造工房。\n"
+"\\N[27]　这下河水肯定要被污染了」"
+msgstr ""
+
+#. ID 1, Page 3, Line 70, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「既然是\\N[130]大人的意思，\n"
+"\\N[27]　我们也就只能保持沉默了」"
+msgstr ""
+
+#. ID 1, Page 3, Line 78, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「妮露！\n"
+"\\N[27]　你还活着吗……！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 82, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「真、真夸张啊，妈妈。\n"
+"\\N[27]　别哭啊」"
+msgstr ""
+
+#. ID 1, Page 3, Line 88, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「\\N[\\V[2]]也在啊，\n"
+"\\N[27]　欢迎你们回来。\n"
+"\\N[27]　全都活得好好的呢」"
+msgstr ""
+
+#. ID 1, Page 3, Line 95, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「\\N[\\V[2]]，欢迎回来。\n"
+"\\N[27]　你能平安真是太好了\n"
+"\\N[27]　我女儿肯定也会高兴的」"
+msgstr ""
+
+#. ID 1, Page 3, Line 104, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「我从客人那听说，\n"
+"\\N[27]　好象有人在遗迹深处见过真正的妖精呢」"
+msgstr ""
+
+#. ID 1, Page 3, Line 110, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「听说都市里的王子大人\n"
+"\\N[27]　到领主大人那里来了。\n"
+"\\N[27]　人家也好想见他一面啊ー」"
+msgstr ""
+
+#. ID 1, Page 3, Line 116, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「也不想想自己多大岁数了」"
+msgstr ""
+
+#. ID 1, Page 3, Line 123, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「北边的森林好象出大事了呢。\n"
+"\\N[27]　想知道详情就去领主\n"
+"\\N[27]　大人那里打听一下吧」"
+msgstr ""
+
+#. ID 1, Page 3, Line 129, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「事情真的变得很严重了啊……　\n"
+"\\N[27]　我们今后会变成怎样呢」"
+msgstr ""
+
+#. ID 1, Page 4, Line 8, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「――啊，\\N[\\V[2]]。\n"
+"\\N[27]　欢迎光临。\n"
+"\\N[27]　今天有什么事吗」"
+msgstr ""
+
+#. ID 1, Page 4, Line 12, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「诶、人家？\n"
+"\\N[27]　人家如你所见，在看店啊。\n"
+"\\N[27]　还是老样子」"
+msgstr ""
+
+#. ID 1, Page 4, Line 16, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「不过话说回来，过上这样的日子后。\n"
+"\\N[27]　之前那段动乱简直就象梦一样呢。\n"
+"\\N[27]　现在都已经变得这么和平了」"
+msgstr ""
+
+#. ID 1, Page 4, Line 20, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「虽然，也有很多东西\n"
+"\\N[27]　再也无法变回原来的样子了……」"
+msgstr ""
+
+#. ID 1, Page 4, Line 23, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「……听说，因为觉得已经没什么好做，\n"
+"\\N[27]  有不少探险家都陆续离开了这里呢」"
+msgstr ""
+
+#. ID 1, Page 4, Line 26, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「虽然这也是理所当然，\n"
+"\\N[27]　但总觉的有些寂寞啊。\n"
+"\\N[27]　就好象节庆结束了似的」"
+msgstr ""
+
+#. ID 1, Page 4, Line 35, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「……我说啊」"
+msgstr ""
+
+#. ID 1, Page 4, Line 38, Pos (7,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「\\N[\\V[2]]是不会、离开这里的吧？」"
+msgstr ""
+
+#. ID 1, Page 4, Line 43, Pos (7,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"一直留在镇里\n"
+"计划要离开"
+msgstr ""
+
+#. ID 1, Page 4, Line 46, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「……是嘛。\n"
+"\\N[27]　太好了！果然是人家想多了」"
+msgstr ""
+
+#. ID 1, Page 4, Line 49, Pos (7,10)
+#. ID 1, Page 4, Line 67, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「人家啊，那个呢，不知为什么，\n"
+"\\N[27]　总是有种预感，觉得\\N[\\V[2]]\n"
+"\\N[27]　有一天会突然从人家眼前消失掉」"
+msgstr ""
+
+#. ID 1, Page 4, Line 53, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「这种预感人家从小就有了，\n"
+"\\N[27]　诶嘿嘿。这样怪怪的吧」"
+msgstr ""
+
+#. ID 1, Page 4, Line 56, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]　接下来嘛，\n"
+"\\N[27]　人家就陪你去散个步吧」"
+msgstr ""
+
+#. ID 1, Page 4, Line 59, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「诶，看店？\n"
+"\\N[27]　哎呀，那种事情无所谓啦」"
+msgstr ""
+
+#. ID 1, Page 4, Line 65, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「……果然啊」"
+msgstr ""
+
+#. ID 1, Page 4, Line 71, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「从还小的时候，就一直这么觉得……」"
+msgstr ""
+
+#. ID 1, Page 4, Line 73, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「……好，决定了」"
+msgstr ""
+
+#. ID 1, Page 4, Line 76, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「\\N[\\V[2]]要是想离开这个\n"
+"\\N[27]　城镇的话，人家也一起走」"
+msgstr ""
+
+#. ID 1, Page 4, Line 79, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「因为…………」"
+msgstr ""
+
+#. ID 1, Page 4, Line 81, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「因为，人家啊……\n"
+"\\N[27]　人家最喜欢、\\N[\\V[2]]了！」"
+msgstr ""
+
+#. ID 1, Page 4, Line 86, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「\\N[\\V[2]]要是想离开城镇的话，\n"
+"\\N[27]　人家也一起跟着去吧」"
+msgstr ""
+
+#. ID 1, Page 4, Line 89, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「毕竟，如果没人在旁边关照着的话，\n"
+"\\N[27]　以\\N[\\V[2]]你的性子，\n"
+"\\N[27]　肯定会自己蛮干的嘛」"
+msgstr ""
+
+#. ID 1, Page 4, Line 96, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「就算你说不愿意也没用，\n"
+"\\N[27]　人家就是要跟来！」"
+msgstr ""
+
+#. ID 1, Page 4, Line 104, Pos (7,10)
+#. ID 8, Page 7, Line 81, Pos (12,10)
+#. ID 28, Page 1, Line 213, Pos (9,11)
+#. ID 28, Page 1, Line 274, Pos (9,11)
+msgid "\\N[27]\\N[\\V[81]]成为了同伴！"
+msgstr ""
+
+#. ID 1, Page 4, Line 115, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「我说啊，\\N[6]。别总是\n"
+"\\N[27]　做些男孩子气的事情了，\n"
+"\\N[27]　差不多也考虑一下新娘修行的事吧」"
+msgstr ""
+
+#. ID 1, Page 4, Line 122, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「新娘～？\n"
+"\\N[27]　唔嗯ー……\n"
+"\\N[27]　人家啊……你看，有这东西嘛」"
+msgstr ""
+
+#. ID 1, Page 4, Line 127, Pos (7,10)
+msgid "\\N[27]\\N[6]用手指着你。"
+msgstr ""
+
+#. ID 1, Page 4, Line 130, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「是哦。\n"
+"\\N[27]　有这东西就没问题了」"
+msgstr ""
+
+#. ID 1, Page 4, Line 134, Pos (7,10)
+msgid "\\N[27]你被母女二人联合起来用东西称呼了。"
+msgstr ""
+
+#. ID 1, Page 4, Line 137, Pos (7,10)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「呜ー……」"
+msgstr ""
+
+#. ID 1, Page 4, Line 143, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「最近城镇总算是平静下来了」"
+msgstr ""
+
+#. ID 1, Page 4, Line 146, Pos (7,10)
+#. ID 1, Page 4, Line 151, Pos (7,10)
+msgid ""
+"\\N[27]杂货店主\n"
+"\\N[27]「听说这都是\\N[\\V[2]]你们的功劳呢，\n"
+"\\N[27]　是真的吗？」"
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (18,10)
+#. Choice (2 options)
+msgid ""
+"\\N[27]\\$购买食料\n"
+"\\N[27]没事"
+msgstr ""
+
+#. ID 3, Page 1, Line 15, Pos (18,10)
+#. Choice (3 options)
+msgid ""
+"\\$\\>水果　　　\\V[165]Ｇ\n"
+"\\>蔬菜　　　\\V[166]Ｇ\n"
+"\\>小麦粉　　\\V[167]Ｇ"
+msgstr ""
+
+#. ID 3, Page 1, Line 21, Pos (18,10)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "水果"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (18,10)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "蔬菜"
+msgstr ""
+
+#. ID 3, Page 1, Line 37, Pos (18,10)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "小麦粉"
+msgstr ""
+
+#. ID 3, Page 1, Line 63, Pos (18,10)
+msgid "\\N[27]\\$\\N[78]最多只能买\\V[177]个。"
+msgstr ""
+
+#. ID 3, Page 2, Line 3, Pos (18,10)
+msgid ""
+"\\N[27]果菜商\n"
+"\\N[27]「卖新鲜的蔬菜水果喽」"
+msgstr ""
+
+#. ID 6, Page 1, Line 2, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「春天快到了，\n"
+"\\N[27]　又要忙起田里的农活了」"
+msgstr ""
+
+#. ID 6, Page 2, Line 2, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「因为怪物在外面袭击农家，\n"
+"\\N[27]　食物的价格变得扶摇直上，\n"
+"\\N[27]　真是不得了啊」"
+msgstr ""
+
+#. ID 6, Page 3, Line 2, Pos (16,11)
+#. ID 6, Page 5, Line 2, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「你的活跃我听说了，\n"
+"\\N[27]　你很努力嘛！」"
+msgstr ""
+
+#. ID 6, Page 4, Line 2, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「大公家的年轻公子很快就\n"
+"\\N[27]　会率着骑士来保护我们的城镇了」"
+msgstr ""
+
+#. ID 6, Page 4, Line 5, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「这样镇上总算能安全些了吧？」"
+msgstr ""
+
+#. ID 6, Page 6, Line 2, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「我家把田地卖掉了一半，\n"
+"\\N[27]　用卖到的钱盖了一家旅店」"
+msgstr ""
+
+#. ID 6, Page 6, Line 5, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「现在比起种田，从骑士大人\n"
+"\\N[27]　和商人那里赚钱才比较划算」"
+msgstr ""
+
+#. ID 6, Page 7, Line 2, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「镇上被占领的时候，席瓦尔军\n"
+"\\N[27]　又是抢劫谷物又是洗劫家当的，\n"
+"\\N[27]　弄得我们民不聊生……」"
+msgstr ""
+
+#. ID 6, Page 7, Line 6, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「必须把那些坏家伙打倒才行，\n"
+"\\N[27]　希望\\N[130]大人能好好加油」"
+msgstr ""
+
+#. ID 6, Page 8, Line 2, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「我……我丈夫突然倒下，\n"
+"\\N[27]　然后就被封在石头里了。\n"
+"\\N[27]　到底发生什么了！？」"
+msgstr ""
+
+#. ID 6, Page 9, Line 2, Pos (16,11)
+msgid ""
+"\\N[27]农家女\n"
+"\\N[27]「丈夫能得救真是太好了……\n"
+"\\N[27]　这段日子虽然发生了不少事，\n"
+"\\N[27]　但果然能平平安安过日子才是最幸福的」"
+msgstr ""
+
+#. ID 8, Page 1, Line 4, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「你等等」"
+msgstr ""
+
+#. ID 8, Page 1, Line 7, Pos (12,10)
+msgid ""
+"\\N[27]一个在广场中心专心观察着\n"
+"\\N[27]方尖塔的女人叫住了你。"
+msgstr ""
+
+#. ID 8, Page 1, Line 10, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「你可知道这柱子的来历？」"
+msgstr ""
+
+#. ID 8, Page 1, Line 13, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「这是在古帝国时期到暗黑时期\n"
+"\\N[27]　之间的年代建造的一种纪念碑――\n"
+"\\N[27]　即是方尖塔的一种」"
+msgstr ""
+
+#. ID 8, Page 1, Line 17, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「看得出它曾经倒塌过一次，\n"
+"\\N[27]　后来又被发掘出来重新立起。\n"
+"\\N[27]　可谓是一桩风雅乐事」"
+msgstr ""
+
+#. ID 8, Page 1, Line 22, Pos (12,10)
+msgid "\\N[27]突然就开始解说起来了。"
+msgstr ""
+
+#. ID 8, Page 1, Line 24, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「那么，\n"
+"\\N[27]　让我做个自我介绍吧」"
+msgstr ""
+
+#. ID 8, Page 1, Line 27, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「我叫\\N[10]。\n"
+"\\N[27]　听说这里有新的遗迹出土，\n"
+"\\N[27]　就特意从西席瓦尔赶来进行调查」"
+msgstr ""
+
+#. ID 8, Page 1, Line 32, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「你们也同为探险家吧？\n"
+"\\N[27]　以后就请多多指教了」"
+msgstr ""
+
+#. ID 8, Page 1, Line 35, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「要是发现了什么考究物品，\n"
+"\\N[27]　请务必先拿来让我来调查一番，\n"
+"\\N[27]　因为无知之举只会损坏遗物的价值」"
+msgstr ""
+
+#. ID 8, Page 1, Line 42, Pos (12,10)
+msgid "\\N[27]单方面地说完这些，女人就离开了。"
+msgstr ""
+
+#. ID 8, Page 3, Line 5, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「差不多也该想办法平息镇上的混乱了，\n"
+"\\N[27]　否则都没办法静下心来研究遗迹」"
+msgstr ""
+
+#. ID 8, Page 3, Line 11, Pos (12,10)
+msgid "\\N[27]\\N[10]被男人纠缠上了。"
+msgstr ""
+
+#. ID 8, Page 3, Line 12, Pos (12,10)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「你是外来的吧。\n"
+"\\N[27]　到这个镇来干什么？」"
+msgstr ""
+
+#. ID 8, Page 3, Line 17, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「这个镇上的外来人口可是比\n"
+"\\N[27]　比牛毛还多，你不觉得一个个\n"
+"\\N[27]　去在意就没完没了了吗？」"
+msgstr ""
+
+#. ID 8, Page 3, Line 22, Pos (12,10)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「听你的口音是席瓦尔的吧，\n"
+"\\N[27]　你是神殿派来的密探吧？\n"
+"\\N[27]　对吧？」"
+msgstr ""
+
+#. ID 8, Page 3, Line 28, Pos (12,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「简直是对牛弹琴……」"
+msgstr ""
+
+#. ID 8, Page 3, Line 32, Pos (12,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"出面帮忙\n"
+"默默看着"
+msgstr ""
+
+#. ID 8, Page 3, Line 35, Pos (12,10)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「别来碍事。\n"
+"\\N[27]　你想包庇这女人吗？」"
+msgstr ""
+
+#. ID 8, Page 3, Line 38, Pos (12,10)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「……嗯？\n"
+"\\N[27]　仔细一看，你不是\\C[5]探索者领袖\\C[0]\n"
+"\\N[27]　\\N[\\V[2]]吗！」"
+msgstr ""
+
+#. ID 8, Page 3, Line 42, Pos (12,10)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「原来是是\\N[\\V[2]]的同伴啊。\n"
+"\\N[27]　是的话打一开始说出来不就好了……」"
+msgstr ""
+
+#. ID 8, Page 3, Line 45, Pos (12,10)
+msgid "\\N[27]男人总算找了个台阶下，说完就匆忙离开了。"
+msgstr ""
+
+#. ID 8, Page 3, Line 47, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「……你不用特意出面帮我的」"
+msgstr ""
+
+#. ID 8, Page 3, Line 49, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「不过，嗯，还是谢谢你了」"
+msgstr ""
+
+#. ID 8, Page 3, Line 54, Pos (12,10)
+msgid ""
+"\\N[27]你在旁边看着，男人吐出一堆威胁\n"
+"\\N[27]之语后，终于后满意地离开了。"
+msgstr ""
+
+#. ID 8, Page 3, Line 57, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「唉呀……\n"
+"\\N[27]　\\N[\\V[2]]，你也在啊。\n"
+"\\N[27]　这次让你看到难堪之处了」"
+msgstr ""
+
+#. ID 8, Page 3, Line 63, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「诶？哦，\n"
+"\\N[27]　刚才那种事我也不是第一次遇到了」"
+msgstr ""
+
+#. ID 8, Page 3, Line 67, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「谁让现在镇里这么混乱，\n"
+"\\N[27]　他们心里也都非常不安吧，\n"
+"\\N[27]　想找人发泄的心情也不是无法理解」"
+msgstr ""
+
+#. ID 8, Page 3, Line 72, Pos (12,10)
+msgid "\\N[27]说着\\N[10]耸了耸肩。"
+msgstr ""
+
+#. ID 8, Page 3, Line 79, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「偶尔在街上散个步也不错，\n"
+"\\N[27]　不过嘛，，最近这个镇里\n"
+"\\N[27]　稍微有点混乱就是了」"
+msgstr ""
+
+#. ID 8, Page 3, Line 85, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「这城镇真的很有趣耶。\n"
+"\\N[27]　如此贵重的文物居然\n"
+"\\N[27]　被漠不关心地丢在路边」"
+msgstr ""
+
+#. ID 8, Page 3, Line 94, Pos (12,10)
+#. Choice (2 options)
+msgid ""
+"\\N[27]交谈\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 8, Page 7, Line 5, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「口胡ー！！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 10, Pos (12,10)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「口古月！！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 13, Pos (12,10)
+msgid "\\N[27]两人在凶狠地互相瞪视着。"
+msgstr ""
+
+#. ID 8, Page 7, Line 18, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「迪多斯这罪魁终于灭亡，\n"
+"\\N[27]　骚乱也总算平安结束了，\n"
+"\\N[27]　不过对我而言，工作才刚要开始呢」"
+msgstr ""
+
+#. ID 8, Page 7, Line 22, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「既然没有别的事情烦扰，我也可以\n"
+"\\N[27]　专心进行遗迹的发掘与调查工作了」"
+msgstr ""
+
+#. ID 8, Page 7, Line 25, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「现在发现的不过是在千年前，\n"
+"\\N[27]　帝国最后期的遗迹罢了。\n"
+"\\N[27]　在下层应该还埋藏着更古老的遗迹」"
+msgstr ""
+
+#. ID 8, Page 7, Line 29, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「而且，也有必要解明地上的城市\n"
+"\\N[27]　原封不动移动到地底的构造方式」"
+msgstr ""
+
+#. ID 8, Page 7, Line 32, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「根据我的推测，这里本是\n"
+"\\N[27]　一片广阔的地底世界！\n"
+"\\N[27]　那都市是连同地盘一起陷了进去」"
+msgstr ""
+
+#. ID 8, Page 7, Line 41, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「于是，为了调查地底世界，\n"
+"\\N[27]　我想再次募集探险家们，\n"
+"\\N[27]　组成新的调查团队！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 45, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「而且，全是我自掏腰包！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 47, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「于是呢，那个……」"
+msgstr ""
+
+#. ID 8, Page 7, Line 49, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「我想让你担任我的左膀右臂，\n"
+"\\N[27]　统帅起整个调查团！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 53, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「我判断你有能力做到这点，\n"
+"\\N[27]　不如说，除你之外就没人能适任，\n"
+"\\N[27]　怎样？觉得光荣吧？」"
+msgstr ""
+
+#. ID 8, Page 7, Line 60, Pos (12,10)
+#. Choice (2 options)
+#. ID 28, Page 1, Line 94, Pos (9,11)
+#. Choice (2 options)
+msgid ""
+"是\n"
+"否"
+msgstr ""
+
+#. ID 8, Page 7, Line 63, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「嗯，是吧是吧。\n"
+"\\N[27]　我就知道你会答应的」"
+msgstr ""
+
+#. ID 8, Page 7, Line 67, Pos (12,10)
+#. ID 8, Page 7, Line 88, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「你稍微想象一下看看。\n"
+"\\N[27]　那潜藏在地底世界的未知生态\n"
+"\\N[27]　系统、神秘的古代生物和地底人……」"
+msgstr ""
+
+#. ID 8, Page 7, Line 72, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]岂只稍微想象，\n"
+"\\N[27]都已经快想入非非了。"
+msgstr ""
+
+#. ID 8, Page 7, Line 76, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「……这千古之谜就由\n"
+"\\N[27]　你我二人亲手解明！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 86, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「为什么啊！？」"
+msgstr ""
+
+#. ID 8, Page 7, Line 92, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「难道你不觉得热血澎湃吗！？」"
+msgstr ""
+
+#. ID 8, Page 7, Line 100, Pos (12,10)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「虽然不是很懂，好象很有趣啊。\n"
+"\\N[27]　既然这样，要不要协同我的计划\n"
+"\\N[27]　一起做啊？」"
+msgstr ""
+
+#. ID 8, Page 7, Line 105, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「计划？」"
+msgstr ""
+
+#. ID 8, Page 7, Line 108, Pos (12,10)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「对对。\n"
+"\\N[27]　通过如此如此这般这般，\n"
+"\\N[27]　把遗迹变成冒险观光的乐园」"
+msgstr ""
+
+#. ID 8, Page 7, Line 113, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「咯」"
+msgstr ""
+
+#. ID 8, Page 7, Line 116, Pos (12,10)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「革？」"
+msgstr ""
+
+#. ID 8, Page 7, Line 119, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「咯咯咯，咯咯咯咯」"
+msgstr ""
+
+#. ID 8, Page 7, Line 122, Pos (12,10)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「你在笑什么？」"
+msgstr ""
+
+#. ID 8, Page 7, Line 126, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「才没有在笑！\n"
+"\\N[27]　简直岂有此理！！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 129, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「你想把宝贵的遗迹\n"
+"\\N[27]　变成的小孩的游乐场吗！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 132, Pos (12,10)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「这种无聊计划就由我来粉碎！\n"
+"\\N[27]　体无完肤地粉碎口牙！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 136, Pos (12,10)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「你说啥。\n"
+"\\N[27]　真有趣，能办到的话就试试看啊！」"
+msgstr ""
+
+#. ID 8, Page 7, Line 144, Pos (12,10)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「还是这么有精神啊」"
+msgstr ""
+
+#. ID 10, Page 1, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「整天只能听着师傅的牢骚，\n"
+"\\N[27]　干着重复的无聊工作……\n"
+"\\N[27]　真想搬到大都市去啊」"
+msgstr ""
+
+#. ID 10, Page 3, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「这里的地下有遗迹吗……」"
+msgstr ""
+
+#. ID 10, Page 3, Line 4, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「要成为独当一面的工匠不知道\n"
+"\\N[27]　得花多少年呢，我干脆也去当\n"
+"\\N[27]　探险家发笔横财算了」"
+msgstr ""
+
+#. ID 10, Page 4, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「你稍微听我说说吧，\n"
+"\\N[27]　我啊，真的试着和外来的\n"
+"\\N[27]　探险家们一起潜入遗迹了」"
+msgstr ""
+
+#. ID 10, Page 4, Line 6, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「我在里面和他们一起打倒怪物，\n"
+"\\N[27]　那真的非常刺激，很有充实感呢。\n"
+"\\N[27]　男子汉大丈夫果然就该冒险一点啊」"
+msgstr ""
+
+#. ID 10, Page 4, Line 10, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「虽然没找到多少宝物，\n"
+"\\N[27]　分配到的报酬很少就是了……」"
+msgstr ""
+
+#. ID 10, Page 5, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「我从同伴那里听来了重要情报，\n"
+"\\N[27]　我就只在这里偷偷对你讲吧」"
+msgstr ""
+
+#. ID 10, Page 5, Line 5, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「遗迹的底层有个地下宫殿吧？\n"
+"\\N[27]　只要把那里的魔王打倒就能\n"
+"\\N[27]　制止这场灾祸了！」"
+msgstr ""
+
+#. ID 10, Page 5, Line 9, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「虽然我还不够成熟，\n"
+"\\N[27]　去不到那么深的地方……」"
+msgstr ""
+
+#. ID 10, Page 6, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「只要打倒魔王灾祸就会结束……\n"
+"\\N[27]　结果这消息是骗人的啊」"
+msgstr ""
+
+#. ID 10, Page 6, Line 5, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「到底是谁传播了这种不负责任的谣言？」"
+msgstr ""
+
+#. ID 10, Page 7, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「最近我开始卖起石头了。\n"
+"\\N[27]　在遗迹里随便拣点石块，\n"
+"\\N[27]　拿到商人那里也能卖钱」"
+msgstr ""
+
+#. ID 10, Page 7, Line 6, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「商人好象给石块起名叫古代石，\n"
+"\\N[27]　然后运到大都市里高价贩卖……\n"
+"\\N[27]　他们可真会盘算」"
+msgstr ""
+
+#. ID 10, Page 8, Line 3, Pos (4,11)
+msgid ""
+"\\N[27]僧兵\n"
+"\\N[27]「镇里有怪物入侵，\n"
+"\\N[27]　要是珍惜性命，\n"
+"\\N[27]　就老实待在自己家里」"
+msgstr ""
+
+#. ID 10, Page 8, Line 9, Pos (4,11)
+msgid ""
+"\\N[27]僧兵\n"
+"\\N[27]「听从我们的指示。\n"
+"\\N[27]　这也是为你们好」"
+msgstr ""
+
+#. ID 10, Page 8, Line 14, Pos (4,11)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 10, Page 9, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「你也看到了吧？\n"
+"\\N[27]　\\N[130]殿下的演说真是太棒了。\n"
+"\\N[27]　阿尔凯亚万岁！」"
+msgstr ""
+
+#. ID 10, Page 9, Line 6, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「我也向\\N[130]殿下的部队提交了入军志愿。\n"
+"\\N[27]　在帝国里即使身份低微，只要立下足够功劳\n"
+"\\N[27]　就能成为骑士！」"
+msgstr ""
+
+#. ID 10, Page 10, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「我们与席瓦尔和神殿的战争\n"
+"\\N[27]　好象取得大胜了啊。\n"
+"\\N[27]　那群家伙都被逼退西边去了」"
+msgstr ""
+
+#. ID 10, Page 10, Line 6, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「但是\\N[130]殿下如今\n"
+"\\N[27]　身在何处呢？\n"
+"\\N[27]　去问骑士他们也不告诉我」"
+msgstr ""
+
+#. ID 10, Page 10, Line 10, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「现在明明该庆祝战争的胜利，\n"
+"\\N[27]　好好狂欢一番才对啊」"
+msgstr ""
+
+#. ID 10, Page 11, Line 2, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「不好了，天要塌下来了……\n"
+"\\N[27]　那座城要是塌下来\n"
+"\\N[27]　我们大家都要被压扁了……」"
+msgstr ""
+
+#. ID 10, Page 12, Line 3, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「要是既轻松又有趣的话，\n"
+"\\N[27]　我就愿意来帮忙」"
+msgstr ""
+
+#. ID 10, Page 12, Line 8, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「哈啊……\n"
+"\\N[27]　灾祸这么快就结束了……」"
+msgstr ""
+
+#. ID 10, Page 12, Line 11, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「明明只要认真努力一点，\n"
+"\\N[27]　我也有机会成为英雄的。\n"
+"\\N[27]　太可惜了ー」"
+msgstr ""
+
+#. ID 10, Page 12, Line 18, Pos (4,11)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「……从以前开始我就这么觉得了，\n"
+"\\N[27]　你这家伙给我一种奇妙的亲近感啊」"
+msgstr ""
+
+#. ID 10, Page 12, Line 22, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「哈？」"
+msgstr ""
+
+#. ID 10, Page 12, Line 26, Pos (4,11)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「那啥，要不要和我一\n"
+"\\N[27]　起来做冒险岛计划？」"
+msgstr ""
+
+#. ID 10, Page 12, Line 30, Pos (4,11)
+msgid ""
+"\\N[27]工匠的弟子\n"
+"\\N[27]「……哦ー？\n"
+"\\N[27]　听起来很有趣！\n"
+"\\N[27]　我就来试试看吧」"
+msgstr ""
+
+#. ID 10, Page 12, Line 35, Pos (4,11)
+msgid ""
+"\\N[27]废柴人类的同伴增加了！\n"
+"\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|　"
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (11,9)
+msgid ""
+"\\N[27]『　\\C[5]布告\\C[0]\n"
+"\\N[27]　查出困扰公国异变原因之人，\n"
+"\\N[27]　可得奖赏一万克里米亚金币。　　　　　　　　』"
+msgstr ""
+
+#. ID 12, Page 1, Line 5, Pos (11,9)
+msgid ""
+"\\N[27]『解决全部异变之人，将获骑士头衔与领地，\n"
+"\\N[27]　以及符合英雄身份的一切荣誉。\n"
+"\n"
+"\\N[27]　　　　　　　　　　　　  涅斯大公劳伦　　　』"
+msgstr ""
+
+#. ID 12, Page 2, Line 2, Pos (11,9)
+msgid ""
+"\n"
+"\\N[27]\\C[5]『　阿   尔   凯   亚   万   岁！　』"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (15,11)
+msgid ""
+"\\N[27]席瓦尔兵\n"
+"\\N[27]「暴动之后又是怪物袭击。\n"
+"\\N[27]　这个国家到底怎么了」"
+msgstr ""
+
+#. ID 13, Page 1, Line 8, Pos (15,11)
+msgid ""
+"\\N[27]席瓦尔兵\n"
+"\\N[27]「都说禁止外出了。\n"
+"\\N[27]　快回去！」"
+msgstr ""
+
+#. ID 15, Page 1, Line 2, Pos (17,10)
+msgid "\\N[27]士兵正在与行商人交谈。"
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (17,10)
+msgid ""
+"\\N[27]席瓦尔兵\n"
+"\\N[27]「已经说过禁止在路边摆摊了吧。\n"
+"\\N[27]　明知故犯，你这是想坐牢吗？」"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (17,10)
+msgid ""
+"\\N[27]果菜商\n"
+"\\N[27]「怎么能这样，要是没有这份工作，\n"
+"\\N[27]　我该靠什么来养家啊！」"
+msgstr ""
+
+#. ID 17, Page 1, Line 2, Pos (1,10)
+msgid ""
+"\\N[27]骑士\n"
+"\\N[27]「喂，就是你。你也是探险家？\n"
+"\\N[27]　可别给镇上添麻烦啊」"
+msgstr ""
+
+#. ID 17, Page 3, Line 2, Pos (1,10)
+msgid ""
+"\\N[27]骑士\n"
+"\\N[27]「该死的领主，因为席瓦尔抢\n"
+"\\N[27]　走的领地不属于自己管辖，\n"
+"\\N[27]　就编些理由拒绝出兵吗」"
+msgstr ""
+
+#. ID 17, Page 3, Line 6, Pos (1,10)
+msgid ""
+"\\N[27]骑士\n"
+"\\N[27]「这种人有统治国家的资格吗？」"
+msgstr ""
+
+#. ID 17, Page 4, Line 3, Pos (1,10)
+#. ID 17, Page 4, Line 9, Pos (1,10)
+msgid ""
+"\\N[27]骑士\n"
+"\\N[27]「\\N[130]陛下去哪了？\n"
+"\\N[27]　我哪知道」"
+msgstr ""
+
+#. ID 17, Page 4, Line 14, Pos (1,10)
+msgid ""
+"\\N[27]骑士\n"
+"\\N[27]「我们的时代终于来临了！」"
+msgstr ""
+
+#. ID 17, Page 5, Line 2, Pos (1,10)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 19, Page 1, Line 2, Pos (11,10)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「这个国家必须由我们亲手守护。\n"
+"\\N[27]　遗迹也必须只允许涅斯人探索，\n"
+"\\N[27]　否则财宝就会被外国人带走了」"
+msgstr ""
+
+#. ID 19, Page 1, Line 6, Pos (11,10)
+msgid ""
+"\\N[27]男性\n"
+"\\N[27]「你可是我们镇上出身的英雄，\n"
+"\\N[27]　要加油啊！我支持你！」"
+msgstr ""
+
+#. ID 19, Page 3, Line 2, Pos (11,10)
+msgid ""
+"\\N[27]骑士\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 22, Page 1, Line 4, Pos (8,11)
+#. ID 22, Page 1, Line 19, Pos (8,11)
+msgid ""
+"\\N[27]老人\n"
+"\\N[27]「是末日啊！末日来临了！\n"
+"\\N[27]　准备迎接新时代吧！」"
+msgstr ""
+
+#. ID 22, Page 1, Line 7, Pos (8,11)
+msgid ""
+"\\N[27]老人一边大叫，一边配发着小册子。\n"
+"\\N[27]他的嘴角不停地滴落着紫罗兰色的沙砾。"
+msgstr ""
+
+#. ID 22, Page 1, Line 11, Pos (8,11)
+#. ID 22, Page 1, Line 24, Pos (8,11)
+msgid ""
+"\\N[27]老人\n"
+"\\N[27]「请尽管拿去看……」"
+msgstr ""
+
+#. ID 22, Page 1, Line 13, Pos (8,11)
+msgid "\\N[27]老人在对路人分发着小册子。"
+msgstr ""
+
+#. ID 22, Page 1, Line 28, Pos (8,11)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]老人在分发着像小册子一样的东西。"
+msgstr ""
+
+#. ID 22, Page 1, Line 30, Pos (8,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"接受\n"
+"拒绝"
+msgstr ""
+
+#. ID 22, Page 1, Line 33, Pos (8,11)
+msgid "\\N[27]获得了『大预言的恐怖』！"
+msgstr ""
+
+#. ID 27, Page 1, Line 2, Pos (10,9)
+msgid ""
+"\\N[27]『　\\C[5]布告\\C[0]\n"
+"\\N[27]　霍尔姆领内一律禁止私斗。\n"
+"\\N[27]　断固禁止一切对市民的违法行为。\n"
+"\\N[27]　违反者将被处以严惩。　　霍尔姆伯爵卡姆罗　』"
+msgstr ""
+
+#. ID 27, Page 2, Line 2, Pos (10,9)
+msgid ""
+"\\N[27]『　　　　　\\C[5]募集公国士兵\\C[0]\n"
+"\\N[27]　没有身份限制，只要年轻健壮即可参军！\n"
+"\\N[27]　年轻人不要错过这次机会！！　　』"
+msgstr ""
+
+#. ID 27, Page 3, Line 2, Pos (10,9)
+msgid ""
+"\\N[27]『　　　　　\\C[5]募集帝国士兵\\C[0]\n"
+"\\N[27]　没有身份限制，只要年轻健壮即可参军！\n"
+"\\N[27]　年轻人不要错过这次机会！！　　』"
+msgstr ""
+
+#. ID 28, Page 1, Line 14, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「哎呀……\n"
+"\\N[27]　还是遇上了啊」"
+msgstr ""
+
+#. ID 28, Page 1, Line 18, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「我本想悄悄离开呢」"
+msgstr ""
+
+#. ID 28, Page 1, Line 21, Pos (9,11)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]\\N[8]低声嘟囔着。"
+msgstr ""
+
+#. ID 28, Page 1, Line 24, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"追问\n"
+"告别"
+msgstr ""
+
+#. ID 28, Page 1, Line 27, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「什么嘛……\n"
+"\\N[27]　反正骚乱已经结束了，\n"
+"\\N[27]　我只不过是重新踏上旅程而已」"
+msgstr ""
+
+#. ID 28, Page 1, Line 32, Pos (9,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「我也没有义务特意对你告别吧？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 37, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"抱怨\n"
+"告别"
+msgstr ""
+
+#. ID 28, Page 1, Line 41, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「什么啊……\n"
+"\\N[27]　默默离开有那么不对吗？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 47, Pos (9,11)
+#. Choice (2 options)
+msgid ""
+"不对\n"
+"告别"
+msgstr ""
+
+#. ID 28, Page 1, Line 50, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「啊啊，真是的……\n"
+"\\N[27]　我就是因为讨厌这样，\n"
+"\\N[27]　才想要悄悄离开的……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 54, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「啊ー好好是是是，\n"
+"\\N[27]　连招呼都没打就离开是我不对！\n"
+"\\N[27]　我无情无义真是抱歉啦！」"
+msgstr ""
+
+#. ID 28, Page 1, Line 58, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「但如果碰到你，\n"
+"\\N[27]　我就会在有所留恋啊！\n"
+"\\N[27]　我旅行的决心就会被动摇啊！」"
+msgstr ""
+
+#. ID 28, Page 1, Line 62, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「所以我才想悄悄离开！\n"
+"\\N[27]　你有意见吗！？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 69, Pos (9,11)
+#. Choice (3 options)
+msgid ""
+"挽留\\N[8]\n"
+"与\\N[8]一起走\n"
+"告别"
+msgstr ""
+
+#. ID 28, Page 1, Line 73, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 28, Page 1, Line 75, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……就算我留下，\n"
+"\\N[27]　然后又能怎么样？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 79, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「说清楚点啊。\n"
+"\\N[27]　不然我没办法下定决心」"
+msgstr ""
+
+#. ID 28, Page 1, Line 85, Pos (9,11)
+#. Choice (3 options)
+msgid ""
+"一起生活吧\n"
+"告白心情\n"
+"没什么特别要讲的"
+msgstr ""
+
+#. ID 28, Page 1, Line 89, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……真的吗？\n"
+"\\N[27]　要和我一起？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 98, Pos (9,11)
+#. ID 28, Page 1, Line 140, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……啊～啊」"
+msgstr ""
+
+#. ID 28, Page 1, Line 100, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「看吧。\n"
+"\\N[27]　果然会动摇我的决心嘛」"
+msgstr ""
+
+#. ID 28, Page 1, Line 103, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「让我、变得这么软弱……\n"
+"\\N[27]　你要怎么赔我？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 106, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「你得、负起责任哦，\\N[\\V[2]]……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 118, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「\\N[\\V[2]]……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 121, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「真的吗？\n"
+"\\N[27]　再、再说一次」"
+msgstr ""
+
+#. ID 28, Page 1, Line 127, Pos (9,11)
+#. Choice (2 options)
+msgid ""
+"爱你\n"
+"重新考虑一下"
+msgstr ""
+
+#. ID 28, Page 1, Line 131, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……再来一遍」\n"
+""
+msgstr ""
+
+#. ID 28, Page 1, Line 136, Pos (9,11)
+#. Choice (2 options)
+msgid ""
+"喜欢你\n"
+"重新考虑一下"
+msgstr ""
+
+#. ID 28, Page 1, Line 142, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「好啦好啦。\n"
+"\\N[27]　我认输了」"
+msgstr ""
+
+#. ID 28, Page 1, Line 145, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「我、也喜欢你哦。\n"
+"\\N[27]　从很久以前开始」"
+msgstr ""
+
+#. ID 28, Page 1, Line 148, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「明明想把感情埋藏心底的……\n"
+"\\N[27]　都是因为\\N[\\V[2]]讲了那种话……\n"
+"\\N[27]　人家才会忍不住……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 152, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「啊ー啊、真是的……\n"
+"\\N[27]　拿你没办法啊」"
+msgstr ""
+
+#. ID 28, Page 1, Line 164, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……你、你这个优柔寡断男……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 172, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「等……等一下」"
+msgstr ""
+
+#. ID 28, Page 1, Line 175, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「女性之间说出那种话\n"
+"\\N[27]　可是要被误会的……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 181, Pos (9,11)
+#. Choice (2 options)
+msgid ""
+"并不是误会\n"
+"重新考虑一下"
+msgstr ""
+
+#. ID 28, Page 1, Line 185, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「呜呜…………」"
+msgstr ""
+
+#. ID 28, Page 1, Line 187, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「稍、稍微给我点时间考虑。\n"
+"\n"
+"\\N[27]　怎……怎么办啊……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 192, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「真的该怎么办啊！\n"
+"\\N[27]　我居然意外地不觉得讨厌……！？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 196, Pos (9,11)
+msgid "\\N[27]\\N[8]完全陷入了慌乱之中。"
+msgstr ""
+
+#. ID 28, Page 1, Line 220, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「你果然这么说了啊」"
+msgstr ""
+
+#. ID 28, Page 1, Line 222, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……我也很不舍得啊，\n"
+"\\N[27]　你能这么说我本该很高兴的……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 225, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「但踏上旅行的道路\n"
+"\\N[27]　是我们一族的义务……\n"
+"\\N[27]　我也没有办法啊」"
+msgstr ""
+
+#. ID 28, Page 1, Line 235, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「诶……？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 238, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……不行啊。\n"
+"\\N[27]　你光是守护这片土地\n"
+"\\N[27]　就已经分不开身了吧」"
+msgstr ""
+
+#. ID 28, Page 1, Line 244, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「你啊，是真心想邀\n"
+"\\N[27]　请我一起旅行吗？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 247, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「是在……开玩笑吧。\n"
+"\\N[27]　你光是守护这片土地\n"
+"\\N[27]　就已经分不开身了吧」"
+msgstr ""
+
+#. ID 28, Page 1, Line 254, Pos (9,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「你还有要做的事……还有重要的人们」"
+msgstr ""
+
+#. ID 28, Page 1, Line 259, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"与\\N[8]一起去\n"
+"告别"
+msgstr ""
+
+#. ID 28, Page 1, Line 262, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「…………\n"
+"\\N[27]　你是……认真的？」"
+msgstr ""
+
+#. ID 28, Page 1, Line 265, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「…………啊啊真是的！\n"
+"\\N[27]　我知道了啦！」"
+msgstr ""
+
+#. ID 28, Page 1, Line 269, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「要是想跟来的话，\n"
+"\\N[27]　就随你高兴吧！」"
+msgstr ""
+
+#. ID 28, Page 1, Line 303, Pos (9,11)
+#. Choice (2 options)
+msgid ""
+"真的就此告别\n"
+"重新考虑"
+msgstr ""
+
+#. ID 28, Page 1, Line 306, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「嗯嗯，是啊……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 309, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「那么，我们应该没机会再见了。\n"
+"\\N[27]　……别了……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 314, Pos (9,11)
+msgid "\\N[27]\\N[8]留下这番话，就毅然离开了城镇。"
+msgstr ""
+
+#. ID 28, Page 1, Line 323, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「我差不多也该出发了呢……」"
+msgstr ""
+
+#. ID 28, Page 1, Line 325, Pos (9,11)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「这里住起来意外地舒适，\n"
+"\\N[27]　要离开这里……会让人有些遗憾呢」"
+msgstr ""
+

@@ -1,0 +1,1603 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (0,1)
+msgid ""
+"\\N[27]虽然遭到师傅的劝阻……\n"
+"\\N[27]但是那洞穴还在不停呼唤着你。"
+msgstr ""
+
+#. ID 1, Page 1, Line 9, Pos (0,1)
+msgid "\\N[27]走出小屋时，你遇到了一位好友。"
+msgstr ""
+
+#. ID 1, Page 1, Line 11, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「呀嗬。你好啊，\\N[\\V[2]]」"
+msgstr ""
+
+#. ID 1, Page 1, Line 13, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「要出门吗？\n"
+"\\N[27]　人家本来打算找你一起去采药的」"
+msgstr ""
+
+#. ID 1, Page 1, Line 18, Pos (0,1)
+msgid ""
+"\\N[27]她是\\N[6]。\n"
+"\\N[27]是你的青梅竹马，杂货店主的女儿。\n"
+"\\N[27]经常来找狄尼洛斯学习药草知识。"
+msgstr ""
+
+#. ID 1, Page 1, Line 22, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「哼嗯ー？想去调查洞穴？」"
+msgstr ""
+
+#. ID 1, Page 1, Line 24, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「………………」"
+msgstr ""
+
+#. ID 1, Page 1, Line 26, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「那好，人家也要一起去。\n"
+"\\N[27]　洞穴这类地方经常会有\n"
+"\\N[27]　奇怪的药草生长嘛」"
+msgstr ""
+
+#. ID 1, Page 1, Line 30, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「而且，让你自己去实在太危险了……」"
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「我们先去\\C[5]云雀亭\\C[0]看看吧，\n"
+"\\N[27]　也许能在那里找到愿意帮忙的人呢。"
+msgstr ""
+
+#. ID 1, Page 1, Line 40, Pos (0,1)
+msgid "\\N[27]\\N[6]加入了队伍。"
+msgstr ""
+
+#. ID 1, Page 2, Line 20, Pos (0,1)
+msgid ""
+"\\N[27]在那一夜――\n"
+""
+msgstr ""
+
+#. ID 1, Page 2, Line 23, Pos (0,1)
+#. ID 9, Page 3, Line 19, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 1, Page 2, Line 25, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……这种气息是……」"
+msgstr ""
+
+#. ID 1, Page 2, Line 31, Pos (0,1)
+msgid ""
+"\\N[27]你醒来之后，发现师傅已经不知去向。\n"
+"\n"
+"\\N[27]而小屋外面一片嘈杂。"
+msgstr ""
+
+#. ID 1, Page 3, Line 7, Pos (0,1)
+msgid "\\N[27]小屋外面，你师傅正与怪物们战斗着！"
+msgstr ""
+
+#. ID 1, Page 3, Line 18, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「还没完呢！」"
+msgstr ""
+
+#. ID 1, Page 3, Line 30, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……呼」"
+msgstr ""
+
+#. ID 1, Page 3, Line 32, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「哦，是\\N[\\V[2]]吗。\n"
+"\\N[27]　不用担心，为师没什么大碍。\n"
+"\\N[27]　镇上的情况才更让人担心」"
+msgstr ""
+
+#. ID 1, Page 3, Line 36, Pos (0,1)
+#. ID 13, Page 1, Line 3, Pos (11,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「现在袭击镇上怪物名为\\C[5]夜种\\C[0]。\n"
+"\\N[27]　是太古的魔术师创造的魔性存在」"
+msgstr ""
+
+#. ID 1, Page 3, Line 39, Pos (0,1)
+#. ID 13, Page 1, Line 6, Pos (11,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「如今夜种数量稀少，\n"
+"\\N[27]　本该仅在遗迹和边境洞穴中残活，\n"
+"\\N[27]　没想到今夜会突然大势袭击城镇」"
+msgstr ""
+
+#. ID 1, Page 3, Line 43, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「\\N[\\V[2]]啊，你该不会\n"
+"\\N[27]　有什么事情瞒着为师吧」"
+msgstr ""
+
+#. ID 1, Page 3, Line 46, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……算了。\n"
+"\\N[27]　为师接下来要去镇上巡回，\n"
+"\\N[27]　在各处张开结界」"
+msgstr ""
+
+#. ID 1, Page 3, Line 50, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「如果你也打算外出，\n"
+"\\N[27]　就把这些拿去吧」"
+msgstr ""
+
+#. ID 1, Page 3, Line 56, Pos (0,1)
+msgid ""
+"\\N[27]获得了上等伤药×3！\n"
+"\\N[27]获得了治疗药×3！\n"
+"\\N[27]获得了清醒药×3！"
+msgstr ""
+
+#. ID 1, Page 3, Line 63, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「那么，你要多加小心」"
+msgstr ""
+
+#. ID 1, Page 4, Line 4, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「\\N[19]先生，人家真\n"
+"\\N[27]　的还有别的才能吗？」"
+msgstr ""
+
+#. ID 1, Page 4, Line 8, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「谁知道」\n"
+""
+msgstr ""
+
+#. ID 1, Page 4, Line 12, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「……先生，您该不会\n"
+"\\N[27]　只是在敷衍人家吧」"
+msgstr ""
+
+#. ID 1, Page 4, Line 16, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「不，也不是那么回事……」"
+msgstr ""
+
+#. ID 1, Page 4, Line 20, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「\\N[19]先生，不要只教人家药草嘛，\n"
+"\\N[27]　也请您教教人家强力的战斗魔法啊。\n"
+"\\N[27]　人家希望能帮上大家更多忙啊！」"
+msgstr ""
+
+#. ID 1, Page 4, Line 25, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「不行」"
+msgstr ""
+
+#. ID 1, Page 4, Line 28, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「为、为什么啊？\n"
+"\\N[27]　是因为人家成为魔女，\n"
+"\\N[27]　就会被神殿那边冷眼相视吗？」"
+msgstr ""
+
+#. ID 1, Page 4, Line 32, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「还是，因为人家其实还没有达到\n"
+"\\N[27]　能使用强大魔法的心境什么的？」"
+msgstr ""
+
+#. ID 1, Page 4, Line 36, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「因为你没有魔术的才能啊。\n"
+"\\N[27]　一点都没有。彻底没有」"
+msgstr ""
+
+#. ID 1, Page 4, Line 40, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]（打击……\n"
+"\n"
+"\\N[27]　也不用说得那么直截了当吧……）"
+msgstr ""
+
+#. ID 1, Page 4, Line 45, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……比起学习那些用于争端的魔术，\n"
+"\\N[27]　不是还有更适合你的事情吗。\n"
+"\\N[27]　你就在那些地方施展自己的才能吧」"
+msgstr ""
+
+#. ID 1, Page 5, Line 4, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「喂，怪物老头。总有一天我\n"
+"\\N[27]　要夺走你的\\C[5]『键之书』\\C[0]。\n"
+"\\N[27]　做好觉悟吧你！」"
+msgstr ""
+
+#. ID 1, Page 5, Line 9, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「哦？是嘛。\n"
+"\\N[27]　那可真是让人期待」"
+msgstr ""
+
+#. ID 1, Page 5, Line 15, Pos (0,1)
+msgid "\\N[27]\\N[9]在用恭敬的态度与\\N[19]交谈。"
+msgstr ""
+
+#. ID 1, Page 5, Line 17, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「――\\N[19]导师的大名，\n"
+"\\N[27]　就连卑微的在下也一直有所耳闻，\n"
+"\\N[27]　能与您本人相见，在下实在光荣至极」"
+msgstr ""
+
+#. ID 1, Page 5, Line 21, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「听说，就连那保管在基鲁山顶的\n"
+"\\N[27]　传说级魔道书—\\C[5]『键之书』\\C[0]\n"
+"\\N[27]　的传承也为您所得……」"
+msgstr ""
+
+#. ID 1, Page 5, Line 25, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「只有\\N[19]导师才配拥有这等秘宝啊！\n"
+"\\N[27]　不知记于其中的种种奇迹，可否让我\n"
+"\\N[27]　这才疏学浅之辈也稍微拜求一二――」"
+msgstr ""
+
+#. ID 1, Page 5, Line 30, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……你的名字我也有所耳闻啊。\n"
+"\\N[27]　＜鬼子\\N[9]＞。\n"
+"\\N[27]　何等忌讳的称号」"
+msgstr ""
+
+#. ID 1, Page 5, Line 35, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「诶？」\n"
+""
+msgstr ""
+
+#. ID 1, Page 5, Line 39, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「曾被喻为神童进入艾鲁帕迪亚大\n"
+"\\N[27]　学深造，却贪得无厌地同时参加\n"
+"\\N[27]　其他秘密结社，厚颜无耻至极――」"
+msgstr ""
+
+#. ID 1, Page 5, Line 43, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「最后还由于无法驾御魔术，\n"
+"\\N[27]　令自己的友人也惨遭身亡」"
+msgstr ""
+
+#. ID 1, Page 5, Line 46, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「犯下如此过错仍不知悔改，\n"
+"\\N[27]　反而逃避应有之制裁，\n"
+"\\N[27]　辗转各地不断盗取魔术师们的秘藏……」"
+msgstr ""
+
+#. ID 1, Page 5, Line 50, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「这就是你了。\n"
+"\\N[27]　没错吧？」"
+msgstr ""
+
+#. ID 1, Page 5, Line 54, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「…………」\n"
+""
+msgstr ""
+
+#. ID 1, Page 5, Line 58, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「即便把知识传授于你，\n"
+"\\N[27]　也只会被用于恶途。　\n"
+"\\N[27]　你走吧」"
+msgstr ""
+
+#. ID 1, Page 5, Line 63, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「……呀哈。呀哈哈哈哈！\n"
+"\\N[27]　既然穿帮就没办法了ー」"
+msgstr ""
+
+#. ID 1, Page 5, Line 66, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「你这死老头，明明都快老不死了，\n"
+"\\N[27]　一张嘴倒还挺能讲嘛。\n"
+"\\N[27]　你这种程度的秃头，本大爷――」"
+msgstr ""
+
+#. ID 1, Page 5, Line 71, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「就凭你现在的力量，\n"
+"\\N[27]　还想把我怎么样吗？」"
+msgstr ""
+
+#. ID 1, Page 5, Line 75, Pos (0,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「…………切――」"
+msgstr ""
+
+#. ID 1, Page 5, Line 79, Pos (0,1)
+msgid "\\N[27]\\N[9]不甘地嘟囔着。"
+msgstr ""
+
+#. ID 1, Page 6, Line 5, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「\\N[\\V[2]]。\n"
+"\\N[27]　你稍微来一下」"
+msgstr ""
+
+#. ID 1, Page 6, Line 10, Pos (0,1)
+msgid ""
+"\\N[27]当你一觉醒来，正准备外出探索时，\n"
+"\\N[27]狄尼洛斯突然出声叫住了你。"
+msgstr ""
+
+#. ID 1, Page 6, Line 13, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「为师有事要拜托你」"
+msgstr ""
+
+#. ID 1, Page 6, Line 15, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「希望你帮为师把这纪念章放于\n"
+"\\N[27]　\\C[5]湖东岸的黑色巨岩之下\\C[0]」"
+msgstr ""
+
+#. ID 1, Page 6, Line 20, Pos (0,1)
+msgid ""
+"\\N[27]狄尼洛斯这么说着，将一块\n"
+"\\N[27]\\C[5]刻有塔型图样的银色勋章\\C[0]\n"
+"\\N[27]交付到你手上。"
+msgstr ""
+
+#. ID 1, Page 6, Line 24, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「湖就在镇子西面，详细地点\n"
+"\\N[27]  在地图上作了红色标记，\n"
+"\\N[27]　应该不难找到」"
+msgstr ""
+
+#. ID 1, Page 6, Line 28, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「跑腿钱也一起给你。\n"
+"\\N[27]　去买点糖果吃吧」"
+msgstr ""
+
+#. ID 1, Page 6, Line 31, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「那么，就拜托你了」"
+msgstr ""
+
+#. ID 1, Page 6, Line 36, Pos (0,1)
+msgid ""
+"\\N[27]你收到了银奖章！\n"
+"\\N[27]获得了100Ｇ！"
+msgstr ""
+
+#. ID 1, Page 7, Line 8, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「哦哦……是\\N[\\V[2]]吗」"
+msgstr ""
+
+#. ID 1, Page 7, Line 10, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「你平安…回来了」"
+msgstr ""
+
+#. ID 1, Page 7, Line 14, Pos (0,1)
+msgid ""
+"\\N[27]进入小屋后，你第一眼就看到了\n"
+"\\N[27]狄尼洛斯平躺在墙凹台上的身姿。"
+msgstr ""
+
+#. ID 1, Page 7, Line 16, Pos (0,1)
+msgid ""
+"\\N[27]与你的印象相比，他明显衰老了许多。\n"
+"\\N[27]你急忙赶上前，跪在自己师傅的枕边。"
+msgstr ""
+
+#. ID 1, Page 7, Line 19, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……最近为师的身体有些虚弱。\n"
+"\\N[27]　不过多睡睡觉就没事了，\n"
+"\\N[27]　不用这么难过」"
+msgstr ""
+
+#. ID 1, Page 7, Line 23, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「那么。\n"
+"\\N[27]　你这半年都去了哪里，\n"
+"\\N[27]　能讲给为师听听吗？」"
+msgstr ""
+
+#. ID 1, Page 7, Line 30, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……石碑中的古代都市……\n"
+"\\N[27]　扭曲的时间……\n"
+"\\N[27]  让人颇有兴趣的经历啊」"
+msgstr ""
+
+#. ID 1, Page 7, Line 34, Pos (0,1)
+#. ID 1, Page 9, Line 3, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 1, Page 7, Line 36, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……说起来，你不在的这段日子，\n"
+"\\N[27]　为师也潜入遗迹，做了各种调查」"
+msgstr ""
+
+#. ID 1, Page 7, Line 39, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「那遗迹是古代阿尔凯亚之物，\n"
+"\\N[27]　这点你想必也已经了解」"
+msgstr ""
+
+#. ID 1, Page 7, Line 42, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「我等魔术师之所以能运用咒语和符号\n"
+"\\N[27]　呼唤奇迹，其中技巧，最早便是传于\n"
+"\\N[27]　阿尔凯亚的初代皇帝」"
+msgstr ""
+
+#. ID 1, Page 7, Line 48, Pos (0,1)
+msgid ""
+"\\N[27]――在三千年前，有一个男人。\n"
+"\\N[27]他汇集诸神与诸种族的智慧于一身，\n"
+"\\N[27]创造出凭人类之身唤起奇迹的技术体系。\n"
+"\\N[27]那就是现在的魔术。"
+msgstr ""
+
+#. ID 1, Page 7, Line 52, Pos (0,1)
+msgid ""
+"\\N[27]阿尔凯亚帝国利用这项技术支配并扭曲了世界，\n"
+"\\N[27]然而，这份罪孽也令阿尔凯亚被众神亲手埋葬――"
+msgstr ""
+
+#. ID 1, Page 7, Line 55, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……我等人类，已经无从了解\n"
+"\\N[27]　阿尔凯亚之前的世界样貌。\n"
+"\\N[27]　因为实在有太多的文明因它而覆灭」"
+msgstr ""
+
+#. ID 1, Page 7, Line 59, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「因此为师才一直叮嘱你，\n"
+"\\N[27]　不要沉溺于力量」"
+msgstr ""
+
+#. ID 1, Page 7, Line 62, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「所谓魔术，是用知识和智慧\n"
+"\\N[27]　改变世界样貌的技术。\n"
+"\\N[27]　行使魔术便要肩负起此等重责」"
+msgstr ""
+
+#. ID 1, Page 7, Line 66, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「若是有人像阿尔凯亚的初代皇帝那样\n"
+"\\N[27]　将其滥用，必将导致许多宝贵的东西\n"
+"\\N[27]　就此遗失，并且再也无法将其复原」"
+msgstr ""
+
+#. ID 1, Page 7, Line 70, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……但是，那个人……\n"
+"\\N[27]　初代皇帝，还没有被毁灭」"
+msgstr ""
+
+#. ID 1, Page 7, Line 73, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「他所预谋之事的征兆，\n"
+"\\N[27]　已经在遗迹中，城镇中，\n"
+"\\N[27]　甚至在各国的都城中出现」"
+msgstr ""
+
+#. ID 1, Page 7, Line 77, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……\\N[\\V[2]]啊。\n"
+"\\N[27]　如果你不想如他所愿，变成活生生\n"
+"\\N[27]　的奴隶，就惟有与他抗战到底了」"
+msgstr ""
+
+#. ID 1, Page 7, Line 81, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「终有一天，你也会得到\n"
+"\\N[27]　能抗衡于他的强大力量」"
+msgstr ""
+
+#. ID 1, Page 7, Line 84, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「但是，且勿因此骄傲。\n"
+"\\N[27]　力量再强也终究只是力量」"
+msgstr ""
+
+#. ID 1, Page 7, Line 87, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「比起能平定一国的力量，能普通地\n"
+"\\N[27]　芸芸耕种、交上朋友，教出好弟子，\n"
+"\\N[27]　这样的事才显得尤为珍贵」"
+msgstr ""
+
+#. ID 1, Page 7, Line 91, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「是你的话，一定就不会被力量吞没。\n"
+"\\N[27]　为师如此相信着」"
+msgstr ""
+
+#. ID 1, Page 7, Line 96, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「…………呼。\n"
+"\\N[27]　好久没说这么多话，为师有些累了」"
+msgstr ""
+
+#. ID 1, Page 7, Line 101, Pos (0,1)
+msgid "\\N[27]狄尼洛斯的脸色变得很差。"
+msgstr ""
+
+#. ID 1, Page 7, Line 103, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「让为师稍微…睡一会。\n"
+"\\N[27]　你经历了这么长的冒险一定也累了。\n"
+"\\N[27]　快去休息吧」"
+msgstr ""
+
+#. ID 1, Page 8, Line 14, Pos (0,1)
+msgid ""
+"\\N[27]那天，从一大早开始镇里就喧嚣不停。\n"
+"\n"
+"\\N[27]据说临国的军队已经越过西边的国境，\n"
+"\\N[27]正在向这里进军。"
+msgstr ""
+
+#. ID 1, Page 8, Line 18, Pos (0,1)
+msgid ""
+"\\N[27]前去应战的是\\N[130]公子统率\n"
+"\\N[27]的骑士与国境警卫队。\n"
+"\\N[27]留下守卫城镇的，就只有领主\n"
+"\\N[27]手下的少数士兵和自卫团而已。"
+msgstr ""
+
+#. ID 1, Page 8, Line 23, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……是嘛。\n"
+"\\N[27]　战争来了啊」"
+msgstr ""
+
+#. ID 1, Page 8, Line 28, Pos (0,1)
+msgid ""
+"\\N[27]――得知状况之后，\n"
+"\\N[27]\\N[19]在床上叹息不已。"
+msgstr ""
+
+#. ID 1, Page 8, Line 31, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……但是，真奇怪啊。\n"
+"\\N[27]　三十年来，涅斯公国都与\n"
+"\\N[27]　西席瓦尔这邻国相安无事」"
+msgstr ""
+
+#. ID 1, Page 8, Line 35, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「如今的西席瓦尔王应当是位\n"
+"\\N[27]　信仰坚定、不喜争端的人物。\n"
+"\\N[27]　是什么让他的心境改变了……？」"
+msgstr ""
+
+#. ID 1, Page 8, Line 52, Pos (0,1)
+msgid ""
+"\\N[27]突然，小屋外传来了急促的警钟声。\n"
+"\\N[27]这是神殿的钟楼宣告敌袭的声音。"
+msgstr ""
+
+#. ID 1, Page 8, Line 55, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「发生什么了……？」"
+msgstr ""
+
+#. ID 1, Page 8, Line 59, Pos (0,1)
+msgid "\\N[27]为了确认状况，你走出了小屋。"
+msgstr ""
+
+#. ID 1, Page 8, Line 67, Pos (0,1)
+msgid ""
+"\\N[27]你跑到外面观望，发现镇西和镇南燃起了烟火。\n"
+"\\N[27]身穿陌生铠甲的敌兵在城镇的大道上驰骋跋扈。"
+msgstr ""
+
+#. ID 1, Page 9, Line 7, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]正在调和药品。\n"
+"\\N[27]他把黄色粉末轻轻搅拌，小心地与药物混在一起。\n"
+"\\N[27]你觉得十分好奇，就出声询问。"
+msgstr ""
+
+#. ID 1, Page 9, Line 11, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「嗯？\n"
+"\\N[27]　哎呀！」"
+msgstr ""
+
+#. ID 1, Page 9, Line 23, Pos (0,1)
+msgid ""
+"\\N[27]吃了一惊的\\N[19]不小心把药品摔到了地上，\n"
+"\\N[27]随着一声清脆的破裂音，大量的烟雾冒了出来。"
+msgstr ""
+
+#. ID 1, Page 9, Line 26, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「咳、咳咳……\n"
+"\\N[27]　别突然出声啊，\n"
+"\\N[27]　这下可失败了……」"
+msgstr ""
+
+#. ID 1, Page 9, Line 30, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「总之\\N[\\V[2]]，\n"
+"\\N[27]　你先帮着把窗户打开……」"
+msgstr ""
+
+#. ID 1, Page 9, Line 39, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「……刚才为师做的啊，\n"
+"\\N[27]　是一种叫\\C[6]烟石\\C[0]\n"
+"\\N[27]　的障眼道具」"
+msgstr ""
+
+#. ID 1, Page 9, Line 43, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「并不是只有法术才能召来奇迹，\n"
+"\\N[27]　一些道具也能达成法术的效果。\n"
+"\\N[27]　是不是觉得很方便？」"
+msgstr ""
+
+#. ID 1, Page 9, Line 47, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「顺带一提，\\C[6]烟石\\C[0]其实是用某种从\n"
+"\\N[27]　\\C[6]蜥蜴粪\\C[0]上采取的结晶精制而成的。\n"
+"\\N[27]　这材料也能用来制作各种爆炸物」"
+msgstr ""
+
+#. ID 1, Page 9, Line 55, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「……是粪吗」"
+msgstr ""
+
+#. ID 1, Page 9, Line 58, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「可不能因为嫌脏就退缩啊」"
+msgstr ""
+
+#. ID 1, Page 9, Line 61, Pos (0,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「是便便吗」\n"
+""
+msgstr ""
+
+#. ID 1, Page 9, Line 65, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「随你怎么叫了……」"
+msgstr ""
+
+#. ID 1, Page 9, Line 70, Pos (0,1)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「那么，既然机会难得，\n"
+"\\N[27]　你就稍微拿些去用吧」"
+msgstr ""
+
+#. ID 1, Page 9, Line 76, Pos (0,1)
+msgid ""
+"\\N[27]获得了烟石×2！\n"
+"\\N[27]获得了蜥蜴粪×2！\n"
+""
+msgstr ""
+
+#. ID 2, Page 4, Line 3, Pos (16,13)
+#. Choice (2 options)
+msgid ""
+"\\N[27]关于休息\n"
+"\\N[27]返回"
+msgstr ""
+
+#. ID 2, Page 4, Line 5, Pos (16,13)
+msgid ""
+"\\N[27]※在自家等地按下休息图标，就能恢复体力，\n"
+"\\N[27]  并进入第二天。　\n"
+"\\N[27]  以较少的日数使事态进展，也许就会碰上\n"
+"\\N[27]  什么好事情。"
+msgstr ""
+
+#. ID 2, Page 4, Line 9, Pos (16,13)
+msgid ""
+"\\N[27]※但是同伴的变更、采取、一部分物品的购买\n"
+"\\N[27]  在同一天当中有着数量的限制。"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (12,8)
+msgid "\\N[27]今天好象已经卖光了。"
+msgstr ""
+
+#. ID 9, Page 1, Line 13, Pos (12,8)
+#. Choice (3 options)
+msgid ""
+"\\$\\>芜菁苔　　\\V[165]Ｇ\n"
+"\\>幸来花叶　\\V[166]Ｇ\n"
+"\\>绿光藓　　\\V[167]Ｇ"
+msgstr ""
+
+#. ID 9, Page 1, Line 19, Pos (12,8)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "芜菁苔"
+msgstr ""
+
+#. ID 9, Page 1, Line 27, Pos (12,8)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "幸来花叶"
+msgstr ""
+
+#. ID 9, Page 1, Line 35, Pos (12,8)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "绿光藓"
+msgstr ""
+
+#. ID 9, Page 1, Line 53, Pos (12,8)
+msgid ""
+"\\N[27]购买了\\$\\N[78]。\n"
+""
+msgstr ""
+
+#. ID 9, Page 1, Line 58, Pos (12,8)
+msgid ""
+"\\N[27]\\$\\N[78]最多只能购买\\V[177]个。\n"
+""
+msgstr ""
+
+#. ID 9, Page 1, Line 64, Pos (12,8)
+msgid "\\N[27]\\$所持金不足。"
+msgstr ""
+
+#. ID 9, Page 2, Line 4, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「在行使魔术时，需要手持魔杖之类\n"
+"\\N[27]　定焦之物，让自己的精神得以集中」"
+msgstr ""
+
+#. ID 9, Page 2, Line 9, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「来得好啊。\n"
+"\\N[27]　有事就尽管说。\n"
+"\\N[27]　没事也不妨品品我砌的粗茶」"
+msgstr ""
+
+#. ID 9, Page 2, Line 19, Pos (12,8)
+#. Choice (2 options)
+msgid ""
+"\\N[27]购买药物素材\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 9, Page 3, Line 3, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「你回来了，\\N[\\V[2]]。\n"
+"\\N[27]　看来你没照为师的吩咐去\n"
+"\\N[27]　照料山羊，是遇上什么事了吗？」"
+msgstr ""
+
+#. ID 9, Page 3, Line 9, Pos (12,8)
+msgid ""
+"\\N[27]这个老人名叫狄尼洛斯，是位住在镇郊的老贤者。\n"
+"\\N[27]他收留了还是孤儿的你，作为自己的弟子抚养成人。\n"
+"\\N[27]性格上虽然多少有些不检点，不过这却并不影响他\n"
+"\\N[27]作为医师广受着镇民的信赖。"
+msgstr ""
+
+#. ID 9, Page 3, Line 14, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……唔。发现了奇怪的洞穴？\n"
+"\\N[27]　在前几天，闪电落下的地方？」"
+msgstr ""
+
+#. ID 9, Page 3, Line 17, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「莫非，你想前去调查？」"
+msgstr ""
+
+#. ID 9, Page 3, Line 21, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……还是算了吧。\n"
+"\\N[27]　这种古老的土地之下，\n"
+"\\N[27]　时常有危险的邪灵居住」"
+msgstr ""
+
+#. ID 9, Page 3, Line 25, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「被邪灵迷惑住就麻烦了。\n"
+"\\N[27]　还是趁早收手吧」"
+msgstr ""
+
+#. ID 9, Page 3, Line 28, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「比起这个，酒的存货又没了吗？\n"
+"\\N[27]　最近酒怎么喝得这么快……」"
+msgstr ""
+
+#. ID 9, Page 3, Line 33, Pos (12,8)
+msgid "\\N[27]你的师傅说罢，就安详地将身体靠入座椅之中……"
+msgstr ""
+
+#. ID 9, Page 3, Line 36, Pos (12,8)
+msgid ""
+"\\N[27]※按下右下角的「休息按钮」，\n"
+"\\N[27]　就可以回复体力。"
+msgstr ""
+
+#. ID 9, Page 4, Line 4, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「虽然你可能已经知道了……\n"
+"\\N[27]  在行使魔术时，需要手持魔杖之类\n"
+"\\N[27]　定焦之物，让自己的精神得以集中」"
+msgstr ""
+
+#. ID 9, Page 4, Line 10, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「啊啊，我知道，我知道啦。\n"
+"\\N[27]　不喝得太醉就行了吧。\n"
+"\\N[27]　不要操心了」"
+msgstr ""
+
+#. ID 9, Page 4, Line 19, Pos (12,8)
+#. Choice (2 options)
+msgid ""
+"\\N[27]购买药品素材\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 9, Page 6, Line 5, Pos (12,8)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「让你跑了一趟啊。辛苦了」"
+msgstr ""
+
+#. ID 9, Page 6, Line 7, Pos (12,8)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「唔？\n"
+"\\N[27]　那东西有什么意义？\n"
+"\\N[27]　你觉得不可思议吗」"
+msgstr ""
+
+#. ID 9, Page 6, Line 11, Pos (12,8)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「那是为防万一而预备的东西。\n"
+"\\N[27]　不用过于在意，只需记在心上即可」"
+msgstr ""
+
+#. ID 9, Page 6, Line 17, Pos (12,8)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「希望你帮为师把这勋章放于\n"
+"\\N[27]　\\C[5]湖东岸的黑色巨岩之下\\C[0]」"
+msgstr ""
+
+#. ID 9, Page 6, Line 20, Pos (12,8)
+msgid ""
+"\\N[27]\\N[19]\n"
+"\\N[27]「湖就在镇子西面，详细地点\n"
+"\\N[27]　在地图上作了红色标记，\n"
+"\\N[27]　应该不难找到」"
+msgstr ""
+
+#. ID 9, Page 6, Line 27, Pos (12,8)
+#. ID 9, Page 6, Line 37, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「…………唔。\n"
+"\\N[27]　唔唔……」"
+msgstr ""
+
+#. ID 9, Page 6, Line 30, Pos (12,8)
+#. ID 9, Page 6, Line 40, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……唉呀，不好。\n"
+"\\N[27]　一不小心就睡着了」"
+msgstr ""
+
+#. ID 9, Page 6, Line 52, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……为师不再阻拦你了。\n"
+"\\N[27]　尽管照你的想法去做吧」"
+msgstr ""
+
+#. ID 9, Page 6, Line 65, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……这片土地上潜伏着远古之暗。\n"
+"\\N[27]　若仅仅带着探险的心情涉足其中，\n"
+"\\N[27]　不管有几条命也不够死的」"
+msgstr ""
+
+#. ID 9, Page 6, Line 74, Pos (12,8)
+#. Choice (3 options)
+#. ID 9, Page 7, Line 5, Pos (12,8)
+#. Choice (3 options)
+msgid ""
+"\\N[27]听他讲话\n"
+"\\N[27]购买药品素材\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 9, Page 6, Line 97, Pos (12,8)
+msgid ""
+"\\N[27]在师傅的座椅旁边，\n"
+"\\N[27]几个酒瓶东倒西歪地散落着。"
+msgstr ""
+
+#. ID 9, Page 6, Line 100, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……啊啊，我知道啦。\n"
+"\\N[27]　你说为师该控制酒量吧，为师明白」"
+msgstr ""
+
+#. ID 9, Page 6, Line 105, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「这里自古就有妖精与夜种，\n"
+"\\N[27]　……以及地下世界的传说。\n"
+"\\N[27]　传说中的记述并非虚言……」"
+msgstr ""
+
+#. ID 9, Page 6, Line 114, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「这里自古就有妖精与夜种\n"
+"\\N[27]　……以及地下世界的传说。\n"
+"\\N[27]　传说中的记述并非虚言……」"
+msgstr ""
+
+#. ID 9, Page 7, Line 9, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「所谓魔术，即为通晓世界运作之理，\n"
+"\\N[27]　并对其进行干涉和支配的技术」"
+msgstr ""
+
+#. ID 9, Page 7, Line 12, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「它能无中生有、跨越时间、扭曲生命、\n"
+"\\N[27]　操纵死者。最终就连死亡，也能被魔\n"
+"\\N[27]　术所克服……」"
+msgstr ""
+
+#. ID 9, Page 7, Line 16, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「若是拥有才能者穷究魔术之境，\n"
+"\\N[27]　或可抵达神之领域，获得至高之力。\n"
+"\\N[27]　为师曾经也追求过此类目的」"
+msgstr ""
+
+#. ID 9, Page 7, Line 20, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「但是在漫长探索的终点，为师终于获\n"
+"\\N[27]　得前人遗留的魔术奥秘时，才发觉那\n"
+"\\N[27]　并不是为师真心追求之物」"
+msgstr ""
+
+#. ID 9, Page 7, Line 24, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「那以后为师就定居此地，\n"
+"\\N[27]　为守护被世人遗忘的知识而存在」"
+msgstr ""
+
+#. ID 9, Page 7, Line 29, Pos (12,8)
+#. ID 21, Page 1, Line 4, Pos (5,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「自古以来，尤鲁弗莱尔的大神殿\n"
+"\\N[27]　就将我等魔术师视为异己」"
+msgstr ""
+
+#. ID 9, Page 7, Line 32, Pos (12,8)
+#. ID 21, Page 1, Line 7, Pos (5,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「在神殿势力强盛的西方地区，\n"
+"\\N[27]　甚至只因魔术师的身份，\n"
+"\\N[27]　就会被处以极刑……」"
+msgstr ""
+
+#. ID 9, Page 7, Line 36, Pos (12,8)
+#. ID 21, Page 1, Line 11, Pos (5,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「被神殿如此仇视，是因为我等\n"
+"\\N[27]　使用的魔术源自因触犯众神而\n"
+"\\N[27]　被毁灭的阿尔凯亚帝国」"
+msgstr ""
+
+#. ID 9, Page 7, Line 44, Pos (12,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「愿你不为黑暗所噬」"
+msgstr ""
+
+#. ID 12, Page 1, Line 5, Pos (0,0)
+msgid ""
+"\\N[27]※将光标移动到角色脸部再按下决定键，\n"
+"\\N[27]　就可以和那名角色对话。"
+msgstr ""
+
+#. ID 13, Page 1, Line 10, Pos (11,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「我接下来必须去镇上巡回，\n"
+"\\N[27]　在四处设下阻挡怪物的结界」"
+msgstr ""
+
+#. ID 13, Page 1, Line 13, Pos (11,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「你们如果也要外出，\n"
+"\\N[27]　就把这些拿去吧」"
+msgstr ""
+
+#. ID 13, Page 1, Line 19, Pos (11,8)
+msgid ""
+"\\N[27]获得了上等伤药×3！\n"
+"\\N[27]获得了治疗药×3！\n"
+"\\N[27获得了清醒药×3！"
+msgstr ""
+
+#. ID 13, Page 1, Line 26, Pos (11,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「那么，要多加小心」"
+msgstr ""
+
+#. ID 15, Page 1, Line 2, Pos (7,8)
+msgid ""
+"\n"
+"\\N[27]　　　　　　　　　～药的配方～"
+msgstr ""
+
+#. ID 15, Page 1, Line 4, Pos (7,8)
+msgid ""
+"\\N[27]芜菁苔＝伤药\n"
+"\\N[27]幸来花叶＋芜菁苔＝上等伤药\n"
+"\\N[27]绿光藓＋幸来花叶＝治疗药\n"
+"\\N[27]绿光藓＋虫草菌＝清醒药"
+msgstr ""
+
+#. ID 16, Page 1, Line 3, Pos (10,8)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]\\N[6]正在与\\N[19]交谈着。"
+msgstr ""
+
+#. ID 16, Page 1, Line 4, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 3, Line 4, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]听他们说话\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 16, Page 3, Line 3, Pos (10,8)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]\\N[9]正在与\\N[19]交谈着。"
+msgstr ""
+
+#. ID 19, Page 1, Line 4, Pos (0,14)
+msgid "崱擔偼傕偆攧傝愗傟偺傛偆偩丅"
+msgstr ""
+
+#. ID 19, Page 1, Line 8, Pos (0,14)
+#. Choice (3 options)
+msgid ""
+"栻偺慺嵽偺峸擖\n"
+"杺弍偺廋峴\n"
+"梡帠偼側偄"
+msgstr ""
+
+#. ID 19, Page 1, Line 14, Pos (0,14)
+#. Choice (3 options)
+msgid ""
+"\\$\\>僇僽儔戂丂丂\\V[165]俧\n"
+"\\>僋儖僇偺梩丂\\V[166]俧\n"
+"\\>椢岝陘丂丂丂\\V[167]俧"
+msgstr ""
+
+#. ID 19, Page 1, Line 20, Pos (0,14)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "僇僽儔戂"
+msgstr ""
+
+#. ID 19, Page 1, Line 28, Pos (0,14)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "僋儖僇偺梩"
+msgstr ""
+
+#. ID 19, Page 1, Line 36, Pos (0,14)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "椢岝陘"
+msgstr ""
+
+#. ID 19, Page 1, Line 48, Pos (0,14)
+msgid ""
+"僨僱儘僗\n"
+"乽傆傓乧乧偍慜偼婛偵丄崅搙側媄傪妛傇\n"
+"丂梡堄偑偱偒偰偍傞傛偆偩側乿"
+msgstr ""
+
+#. ID 19, Page 1, Line 51, Pos (0,14)
+msgid ""
+"僨僱儘僗\n"
+"乽偱偼丄廋楙傪巒傔傛偆乧乧乿"
+msgstr ""
+
+#. ID 19, Page 1, Line 57, Pos (0,14)
+msgid ""
+"僨僱儘僗\n"
+"乽崱偺偍慜偵丄橬偑嫵偊傞帠偼柍偄丅\n"
+"丂傛傝桪傟偨巘傪扵偟側偝偄乿"
+msgstr ""
+
+#. ID 19, Page 1, Line 60, Pos (0,14)
+msgid ""
+"僨僱儘僗\n"
+"乽乧乧傑偩巕嫙偩丄偲\n"
+"丂巚偭偰偍偭偨偺偵側偁乿"
+msgstr ""
+
+#. ID 19, Page 1, Line 68, Pos (0,14)
+msgid ""
+"僨僱儘僗\n"
+"乽偍慜偼傑偩丄崅搙側媄傪妛傇梡堄偑\n"
+"丂偱偒偰偍傜偸乿"
+msgstr ""
+
+#. ID 19, Page 1, Line 72, Pos (0,14)
+msgid ""
+"仸摿媄傪廋摼偡傞偵偼丄\\C[6]徧崋\\C[0]傪\n"
+"丂摼偰偍偔昁梫偑偁傝傑偡丅"
+msgstr ""
+
+#. ID 19, Page 1, Line 78, Pos (0,14)
+msgid ""
+"僨僱儘僗\n"
+"乽傓傗傒傗偨傜偵丄弍傪恖偵嫵偊傞\n"
+"丂傢偗偵偼偄偐傫偺偩乿"
+msgstr ""
+
+#. ID 19, Page 1, Line 99, Pos (0,14)
+msgid "\\$\\N[78]傪峸擖偟傑偟偨丅"
+msgstr ""
+
+#. ID 19, Page 1, Line 103, Pos (0,14)
+msgid "\\$\\N[78]偼\\V[177]屄傑偱偟偐峸擖偱偒傑偣傫丅"
+msgstr ""
+
+#. ID 19, Page 1, Line 108, Pos (0,14)
+msgid "\\$強帩嬥偑懌傝傑偣傫丅"
+msgstr ""
+
+#. ID 19, Page 2, Line 3, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "杺弍巘"
+msgstr ""
+
+#. ID 19, Page 2, Line 8, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "梔弍巘"
+msgstr ""
+
+#. ID 19, Page 2, Line 13, Pos (0,14)
+#. ChangeHeroName (Actor 96)
+msgctxt "actors.name"
+msgid "嬦梀帊恖"
+msgstr ""
+
+#. ID 19, Page 2, Line 25, Pos (0,14)
+msgid ""
+"僨僱儘僗\n"
+"乽乧乧傓丠\n"
+"丂偳偆傗傜偍慜偼丄偙偺徧崋傪\n"
+"丂嬌傔偰偟傑偭偨傜偟偄乿"
+msgstr ""
+
+#. ID 19, Page 2, Line 29, Pos (0,14)
+msgid ""
+"僨僱儘僗\n"
+"乽偙傟埲忋偼惉挿偱偒傫丅\n"
+"丂暿偺徧崋傪摼偰偐傜傑偨棃側偝偄乿"
+msgstr ""
+
+#. ID 19, Page 2, Line 38, Pos (0,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"尰嵼偺\\N[96]儗儀儖\\V[100]丂丂強帩SP \\V[26] 揰\n"
+"SP傪\\V[99]揰徚旓偟丄\\N[96]儗儀儖傪忋偘傑偡偐丠"
+msgstr ""
+
+#. ID 19, Page 2, Line 40, Pos (0,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"偼偄\n"
+"偄偄偊"
+msgstr ""
+
+#. ID 19, Page 2, Line 47, Pos (0,14)
+msgid "SP偑懌傝傑偣傫丅"
+msgstr ""
+
+#. ID 19, Page 2, Line 63, Pos (0,14)
+msgid "\\N[96]儗儀儖偑忋偑偭偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 70, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "杺弍巘Lv2"
+msgstr ""
+
+#. ID 19, Page 2, Line 73, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"婼壩傪妎偊偨両\n"
+"偔偔傝偺庺暥傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 79, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "杺弍巘Lv3"
+msgstr ""
+
+#. ID 19, Page 2, Line 82, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"敋墛偺搳幩傪妎偊偨両\n"
+"昘壺傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 88, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "杺弍巘Lv4"
+msgstr ""
+
+#. ID 19, Page 2, Line 90, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"抧楈偺捾傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 95, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "杺弍巘Lv5"
+msgstr ""
+
+#. ID 19, Page 2, Line 98, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"杺椡巟攝傪妎偊偨両\n"
+"昘偺憚傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 119, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "梔弍巘Lv2"
+msgstr ""
+
+#. ID 19, Page 2, Line 121, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"堫嵢傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 126, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "梔弍巘Lv3"
+msgstr ""
+
+#. ID 19, Page 2, Line 129, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"幾娽傪妎偊偨両\n"
+"埮偺搳塭傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 135, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "梔弍巘Lv4"
+msgstr ""
+
+#. ID 19, Page 2, Line 138, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"晠攕偺庺偄傪妎偊偨両\n"
+"巰楈巟攝傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 144, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "梔弍巘Lv5"
+msgstr ""
+
+#. ID 19, Page 2, Line 147, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"媧寣偺庺暥傪妎偊偨両\n"
+"揤棆恮傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 168, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "嬦梀帊恖Lv2"
+msgstr ""
+
+#. ID 19, Page 2, Line 171, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"傑偳傠傒偺壧傪妎偊偨両\n"
+"悈梔偺庤傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 177, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "嬦梀帊恖Lv3"
+msgstr ""
+
+#. ID 19, Page 2, Line 180, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"偄偔偝壧傪妎偊偨両\n"
+"嶬偺庺暥傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 186, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "嬦梀帊恖Lv4"
+msgstr ""
+
+#. ID 19, Page 2, Line 188, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"晽姭傃偺壧傪妎偊偨両"
+msgstr ""
+
+#. ID 19, Page 2, Line 193, Pos (0,14)
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "嬦梀帊恖Lv5"
+msgstr ""
+
+#. ID 19, Page 2, Line 196, Pos (0,14)
+msgid ""
+"\\N[\\V[2]]偼\n"
+"榝棎偺壧傪妎偊偨両\n"
+"庺敍偺壧傪妎偊偨両"
+msgstr ""
+
+#. ID 20, Page 4, Line 4, Pos (15,13)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]要进入梦乡，结束这段故事吗？"
+msgstr ""
+
+#. ID 20, Page 4, Line 5, Pos (15,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"是\n"
+"否"
+msgstr ""
+
+#. ID 20, Page 4, Line 21, Pos (15,13)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]今天已经要休息了吗？"
+msgstr ""
+
+#. ID 20, Page 4, Line 22, Pos (15,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\N[27]是\n"
+"\\N[27]否"
+msgstr ""
+
+#. ID 20, Page 4, Line 42, Pos (15,13)
+msgid "\\>第\\V[31]日　王国历\\V[32]年　\\V[33]月　\\V[34]日\\<"
+msgstr ""
+
+#. ID 21, Page 1, Line 15, Pos (5,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「他们对有关阿尔凯亚的事情，\n"
+"\\N[27]　无一例外地投以憎恨与畏惧。\n"
+"\\N[27]　这镇上的遗迹想必也不例外」"
+msgstr ""
+
+#. ID 21, Page 1, Line 21, Pos (5,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「最近，为师常常想起以前的事情」"
+msgstr ""
+
+#. ID 21, Page 1, Line 23, Pos (5,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「……为师曾经远到东方旅行，\n"
+"\\N[27]　在那里得到了被称为键之书的魔导书」"
+msgstr ""
+
+#. ID 21, Page 1, Line 26, Pos (5,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「在探求那本魔导书奥秘的过程中，\n"
+"\\N[27]　为师来到此地，机缘巧合之下收留了你。\n"
+"\\N[27]　命运的交错真是奇妙啊」"
+msgstr ""
+
+#. ID 21, Page 1, Line 30, Pos (5,8)
+msgid ""
+"\\N[27]狄尼洛斯\n"
+"\\N[27]「将来某天，当你作好准备时，\n"
+"\\N[27]　为师也会让你观看这魔导书。\n"
+"\\N[27]　你具备着这样的资格」"
+msgstr ""
+
+#. ID 24, Page 1, Line 2, Pos (12,7)
+msgid ""
+"\\N[27]※就像在这个标志下面表示的人物脸部之类，\n"
+"\\N[27]　把光标移动到这样的地方后按下决定键，\n"
+"\\N[27]　就能够进行对话。"
+msgstr ""
+

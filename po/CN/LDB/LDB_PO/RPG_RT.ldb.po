@@ -1,0 +1,12799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "战士"
+msgstr ""
+
+#. ID 1
+msgctxt "actors.title"
+msgid "见习骑士"
+msgstr ""
+
+#. ID 2
+msgctxt "actors.name"
+msgid "盗贼"
+msgstr ""
+
+#. ID 2
+msgctxt "actors.title"
+msgid "街头混混"
+msgstr ""
+
+#. ID 3
+msgctxt "actors.name"
+msgid "魔术师"
+msgstr ""
+
+#. ID 3
+#. ID 19
+msgctxt "actors.title"
+msgid "咒文师"
+msgstr ""
+
+#. ID 4
+msgctxt "actors.name"
+msgid "神官"
+msgstr ""
+
+#. ID 4
+msgctxt "actors.title"
+msgid "修行僧"
+msgstr ""
+
+#. ID 5
+msgctxt "actors.name"
+msgid "帕里斯"
+msgstr ""
+
+#. ID 5
+msgctxt "actors.title"
+msgid "流氓"
+msgstr ""
+
+#. ID 6
+msgctxt "actors.name"
+msgid "妮露"
+msgstr ""
+
+#. ID 6
+msgctxt "actors.title"
+msgid "杂货店姑娘"
+msgstr ""
+
+#. ID 7
+msgctxt "actors.name"
+msgid "拉邦"
+msgstr ""
+
+#. ID 7
+msgctxt "actors.title"
+msgid "浮浪人"
+msgstr ""
+
+#. ID 8
+msgctxt "actors.name"
+msgid "琪莉雅"
+msgstr ""
+
+#. ID 8
+msgctxt "actors.title"
+msgid "游牧民"
+msgstr ""
+
+#. ID 9
+msgctxt "actors.name"
+msgid "希冯"
+msgstr ""
+
+#. ID 9
+msgctxt "actors.title"
+msgid "妖术师"
+msgstr ""
+
+#. ID 10
+msgctxt "actors.name"
+msgid "泰蕾莎"
+msgstr ""
+
+#. ID 10
+msgctxt "actors.title"
+msgid "天秤的巫女"
+msgstr ""
+
+#. ID 11
+msgctxt "actors.name"
+msgid "艾尔森"
+msgstr ""
+
+#. ID 11
+msgctxt "actors.title"
+msgid "骑士"
+msgstr ""
+
+#. ID 12
+msgctxt "actors.name"
+msgid "艾妲"
+msgstr ""
+
+#. ID 12
+msgctxt "actors.title"
+msgid "龙人"
+msgstr ""
+
+#. ID 13
+msgctxt "actors.name"
+msgid "芙兰"
+msgstr ""
+
+#. ID 13
+msgctxt "actors.title"
+msgid "女佣"
+msgstr ""
+
+#. ID 13
+msgctxt "actors.skill_name"
+msgid "擡弍"
+msgstr ""
+
+#. ID 14
+msgctxt "actors.name"
+msgid "梅罗达克"
+msgstr ""
+
+#. ID 14
+msgctxt "actors.title"
+msgid "佣兵"
+msgstr ""
+
+#. ID 16
+msgctxt "actors.name"
+msgid "伟大的种族"
+msgstr ""
+
+#. ID 16
+msgctxt "actors.title"
+msgid "外星人"
+msgstr ""
+
+#. ID 17
+msgctxt "actors.name"
+msgid "塔利姆"
+msgstr ""
+
+#. ID 17
+msgctxt "actors.title"
+msgid "编髯族矮人"
+msgstr ""
+
+#. ID 18
+msgctxt "actors.name"
+msgid "露琪璐塔"
+msgstr ""
+
+#. ID 18
+msgctxt "actors.title"
+msgid "仙女"
+msgstr ""
+
+#. ID 19
+msgctxt "actors.name"
+msgid "狄尼洛斯"
+msgstr ""
+
+#. ID 20
+msgctxt "actors.name"
+msgid "秋娜"
+msgstr ""
+
+#. ID 20
+msgctxt "actors.title"
+msgid "女孩"
+msgstr ""
+
+#. ID 22
+msgctxt "actors.name"
+msgid "テスト"
+msgstr ""
+
+#. ID 23
+msgctxt "actors.name"
+msgid "テスト装備付"
+msgstr ""
+
+#. ID 24
+msgctxt "actors.name"
+msgid "テスト戦闘"
+msgstr ""
+
+#. ID 27
+msgctxt "actors.name"
+msgid "\\S[1]"
+msgstr ""
+
+#. ID 28
+msgctxt "actors.name"
+msgid "输入文字"
+msgstr ""
+
+#. ID 30
+msgctxt "actors.name"
+msgid "机敏"
+msgstr ""
+
+#. ID 31
+msgctxt "actors.name"
+msgid "生存术"
+msgstr ""
+
+#. ID 32
+msgctxt "actors.name"
+msgid "危险感知"
+msgstr ""
+
+#. ID 33
+msgctxt "actors.name"
+msgid "盗贼技术"
+msgstr ""
+
+#. ID 34
+msgctxt "actors.name"
+msgid "腕力"
+msgstr ""
+
+#. ID 35
+msgctxt "actors.name"
+msgid "古代知识"
+msgstr ""
+
+#. ID 40
+msgctxt "actors.name"
+msgid "2机敏"
+msgstr ""
+
+#. ID 41
+msgctxt "actors.name"
+msgid "2生存术"
+msgstr ""
+
+#. ID 42
+msgctxt "actors.name"
+msgid "2危险感知"
+msgstr ""
+
+#. ID 43
+msgctxt "actors.name"
+msgid "2盗贼技术"
+msgstr ""
+
+#. ID 44
+msgctxt "actors.name"
+msgid "2腕力"
+msgstr ""
+
+#. ID 45
+msgctxt "actors.name"
+msgid "2古代知识"
+msgstr ""
+
+#. ID 50
+msgctxt "actors.name"
+msgid "3机敏"
+msgstr ""
+
+#. ID 51
+msgctxt "actors.name"
+msgid "3生存术"
+msgstr ""
+
+#. ID 52
+msgctxt "actors.name"
+msgid "3危险感知"
+msgstr ""
+
+#. ID 53
+msgctxt "actors.name"
+msgid "3盗贼技术"
+msgstr ""
+
+#. ID 54
+msgctxt "actors.name"
+msgid "3腕力"
+msgstr ""
+
+#. ID 55
+msgctxt "actors.name"
+msgid "3古代知识"
+msgstr ""
+
+#. ID 60
+msgctxt "actors.name"
+msgid "4机敏"
+msgstr ""
+
+#. ID 61
+msgctxt "actors.name"
+msgid "4生存术"
+msgstr ""
+
+#. ID 62
+msgctxt "actors.name"
+msgid "4危险感知"
+msgstr ""
+
+#. ID 63
+msgctxt "actors.name"
+msgid "4盗贼技术"
+msgstr ""
+
+#. ID 64
+msgctxt "actors.name"
+msgid "4腕力"
+msgstr ""
+
+#. ID 65
+msgctxt "actors.name"
+msgid "4古代知识"
+msgstr ""
+
+#. ID 67
+#. ID 71
+msgctxt "actors.name"
+msgid "哥哥姐姐"
+msgstr ""
+
+#. ID 72
+msgctxt "actors.name"
+msgid "他她"
+msgstr ""
+
+#. ID 73
+msgctxt "actors.name"
+msgid "爸爸妈妈"
+msgstr ""
+
+#. ID 75
+msgctxt "actors.name"
+msgid "素材1"
+msgstr ""
+
+#. ID 76
+msgctxt "actors.name"
+msgid "素材2"
+msgstr ""
+
+#. ID 77
+msgctxt "actors.name"
+msgid "素材3"
+msgstr ""
+
+#. ID 78
+msgctxt "actors.name"
+msgid "生成道具"
+msgstr ""
+
+#. ID 79
+msgctxt "actors.name"
+msgid "生成道具2"
+msgstr ""
+
+#. ID 80
+msgctxt "actors.name"
+msgid "１人目Ａ"
+msgstr ""
+
+#. ID 81
+msgctxt "actors.name"
+msgid "１人目Ｂ"
+msgstr ""
+
+#. ID 83
+msgctxt "actors.name"
+msgid "２人目Ａ"
+msgstr ""
+
+#. ID 84
+msgctxt "actors.name"
+msgid "２人目Ｂ"
+msgstr ""
+
+#. ID 86
+msgctxt "actors.name"
+msgid "３人目Ａ"
+msgstr ""
+
+#. ID 87
+msgctxt "actors.name"
+msgid "３人目Ｂ"
+msgstr ""
+
+#. ID 89
+msgctxt "actors.name"
+msgid "４人目Ａ"
+msgstr ""
+
+#. ID 90
+msgctxt "actors.name"
+msgid "４人目Ｂ"
+msgstr ""
+
+#. ID 93
+msgctxt "actors.name"
+msgid "道具1"
+msgstr ""
+
+#. ID 94
+msgctxt "actors.name"
+msgid "道具2"
+msgstr ""
+
+#. ID 96
+msgctxt "actors.name"
+msgid "称号名"
+msgstr ""
+
+#. ID 98
+msgctxt "actors.name"
+msgid "素材1-2"
+msgstr ""
+
+#. ID 99
+msgctxt "actors.name"
+msgid "素材2-2"
+msgstr ""
+
+#. ID 101
+msgctxt "actors.name"
+msgid "神使"
+msgstr ""
+
+#. ID 102
+msgctxt "actors.name"
+msgid "102"
+msgstr ""
+
+#. ID 103
+msgctxt "actors.name"
+msgid "103"
+msgstr ""
+
+#. ID 104
+msgctxt "actors.name"
+msgid "泉之贵妇"
+msgstr ""
+
+#. ID 105
+msgctxt "actors.name"
+msgid "守墓人"
+msgstr ""
+
+#. ID 106
+msgctxt "actors.name"
+msgid "御风者"
+msgstr ""
+
+#. ID 107
+msgctxt "actors.name"
+msgid "剑之精灵"
+msgstr ""
+
+#. ID 108
+msgctxt "actors.name"
+msgid "108"
+msgstr ""
+
+#. ID 109
+msgctxt "actors.name"
+msgid "魔神"
+msgstr ""
+
+#. ID 110
+msgctxt "actors.name"
+msgid "110"
+msgstr ""
+
+#. ID 111
+msgctxt "actors.name"
+msgid "111"
+msgstr ""
+
+#. ID 112
+msgctxt "actors.name"
+msgid "寇特"
+msgstr ""
+
+#. ID 113
+msgctxt "actors.name"
+msgid "黑阴"
+msgstr ""
+
+#. ID 114
+msgctxt "actors.name"
+msgid "霍尔格"
+msgstr ""
+
+#. ID 115
+msgctxt "actors.name"
+msgid "Ｂ肠"
+msgstr ""
+
+#. ID 116
+msgctxt "actors.name"
+msgid "人工精灵8号"
+msgstr ""
+
+#. ID 117
+msgctxt "actors.name"
+msgid "117"
+msgstr ""
+
+#. ID 118
+msgctxt "actors.name"
+msgid "118"
+msgstr ""
+
+#. ID 119
+msgctxt "actors.name"
+msgid "119"
+msgstr ""
+
+#. ID 120
+msgctxt "actors.name"
+msgid "120"
+msgstr ""
+
+#. ID 122
+msgctxt "actors.name"
+msgid "人工精灵TES"
+msgstr ""
+
+#. ID 125
+msgctxt "actors.name"
+msgid "乱数マッ敵名"
+msgstr ""
+
+#. ID 130
+msgctxt "actors.name"
+msgid "泰奥罗"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.name"
+msgid "テスト$n"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.using_message1"
+msgid "偼僥僗僩傪曻偭偨両"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.name"
+msgid "テスト2"
+msgstr ""
+
+#. ID 3
+msgctxt "skills.name"
+msgid "テスト3"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.name"
+msgid "※萤火"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.description"
+msgid "以魔法来照明。可以代替提灯。"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.name"
+msgid "※灯火"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.description"
+msgid "照亮暗处。可以代替提灯。"
+msgstr ""
+
+#. ID 6
+msgctxt "skills.name"
+msgid "↓得意.普通.暗黒の順"
+msgstr ""
+
+#. ID 7
+#. ID 8
+#. ID 9
+msgctxt "skills.name"
+msgid "※烹调"
+msgstr ""
+
+#. ID 7
+msgctxt "skills.description"
+msgid "出色地加工食材制作出菜肴。"
+msgstr ""
+
+#. ID 7
+#. ID 8
+#. ID 9
+msgctxt "skills.using_message1"
+msgid "开始进行烹调了！"
+msgstr ""
+
+#. ID 8
+msgctxt "skills.description"
+msgid "加工食材制作出简单的菜肴。"
+msgstr ""
+
+#. ID 9
+msgctxt "skills.description"
+msgid "加工食材但愿能做出菜肴吧。"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.name"
+msgid "※调和"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.description"
+msgid "制作出药物和装饰品等。"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.using_message1"
+msgid "使出了调和！"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.name"
+msgid "※制作武器"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.description"
+msgid "消费素材制作武器。"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.using_message1"
+msgid "使出了制作武器！"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.name"
+msgid "※制作防具"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.description"
+msgid "消费素材制作防具。"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.using_message1"
+msgid "使出了制作防具！"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.name"
+msgid "※工艺ボツ"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.description"
+msgid "以非金属为主材料制作武具和特殊物品"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.using_message1"
+msgid "使出了工艺！"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.name"
+msgid "※裁缝ボツ"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.description"
+msgid "以布为主材料制作出防具。"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.using_message1"
+msgid "使出了裁缝！"
+msgstr ""
+
+#. ID 20
+msgctxt "skills.name"
+msgid "20"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.name"
+msgid "※潜行"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.description"
+msgid "以隐蔽的姿势移动，减少与敌人遭遇的几率。"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.using_message1"
+msgid "使出了潜行！"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.name"
+msgid "※驱魔"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.description"
+msgid "张开结界，减少与敌人遭遇的几率。"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.using_message1"
+msgid "使出了驱魔！"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.name"
+msgid "※探求"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.description"
+msgid "能提高找到素材等物的概率？"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.using_message1"
+msgid "使出了探求！"
+msgstr ""
+
+#. ID 25
+msgctxt "skills.name"
+msgid "■■■回復魔法"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.name"
+msgid "◎急救"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.description"
+msgid "回复HP。回24/回"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.using_message1"
+msgid "使出了急救！"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.name"
+msgid "◎$C治愈术"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.description"
+msgid "回复HP。效果值90/魔/回"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.using_message1"
+msgid "抚摩了伤口！"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.name"
+msgid "◎$C再生术"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.description"
+msgid "完全回复HP。/魔/回"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.using_message1"
+msgid "使出了再生术！"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.name"
+msgid "◎$C治愈的力场"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.description"
+msgid "回复我方全员的HP。效果值42/魔/全/回"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.using_message1"
+msgid "使出了治愈的力场！"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.name"
+msgid "◎$C再生的力场"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.description"
+msgid "回复我方全员的HP。效果值100/魔/全/回"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.using_message1"
+msgid "使出了再生的力场！"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.name"
+msgid "◎$C祛病"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.description"
+msgid "治疗我方全员的肉体异常/魔/全/治(减劣)"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.using_message1"
+msgid "使出了祛病！"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "◎$C除忧"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.description"
+msgid "治疗我方全体的精神异常/魔/全/治(停制乱)"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.using_message1"
+msgid "使出了除忧！"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.name"
+msgid "◎$C祓祸"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.description"
+msgid "治疗全员除死亡和特殊状态外的所有异常。魔/全/治(全)"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.using_message1"
+msgid "使出了祓祸！"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.name"
+msgid "◎$C苏生的秘仪"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.description"
+msgid "治疗战斗不能状态，回复少许HP。回58/魔/回苏"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.using_message1"
+msgid "使用了苏生的秘仪"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.name"
+msgid "◎$C复活的秘仪"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.description"
+msgid "治疗战斗不能状态，完全恢复HP/魔/回苏"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.using_message1"
+msgid "使出了复活的秘仪！"
+msgstr ""
+
+#. ID 39
+msgctxt "skills.name"
+msgid "※伊泰利尔的碎片"
+msgstr ""
+
+#. ID 39
+#. ID 40
+msgctxt "skills.description"
+msgid "治疗包括战斗不能和特殊状态的全部异常。/全体/治(全)"
+msgstr ""
+
+#. ID 39
+#. ID 40
+msgctxt "skills.using_message1"
+msgid "使出了伊泰利昂的碎片！"
+msgstr ""
+
+#. ID 39
+#. ID 40
+msgctxt "skills.using_message2"
+msgid "澄澈的空间扩散开来"
+msgstr ""
+
+#. ID 40
+msgctxt "skills.name"
+msgid "◎伊泰利尔的碎片"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.name"
+msgid "◎$B艾克薇尔的加护"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.description"
+msgid "完全恢复，附加对魔法的耐性。/全/回/治(全)/耐:魔"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.using_message1"
+msgid "祈求了大河女神的加护！"
+msgstr ""
+
+#. ID 41
+#. ID 254
+msgctxt "skills.using_message2"
+msgid "被女神的指尖轻轻抚摩！"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.name"
+msgid "◎不屈"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.description"
+msgid "回复自身HP并治疗全部异常状态。回120/回治"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.using_message1"
+msgid "使出了不屈！"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.name"
+msgid "◎神圣介入ボ"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.description"
+msgid "完全复活并恢复我方全员HP，治疗全部异常状/全/回苏治"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.using_message1"
+msgid "使出了神圣介入！"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.using_message2"
+msgid "被神之手轻轻抚摩！"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.name"
+msgid "◎助力"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.description"
+msgid "将10点MP分给我方一人。效10/MP"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.using_message1"
+msgid "援助了同伴！"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.name"
+msgid "◎大家加油啊"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.description"
+msgid "分给我方全员10点MP。效10/全/MP"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.using_message1"
+msgid "送出了应援之声！"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.name"
+msgid "◎$B健康第一"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.description"
+msgid "上升我方全员的防御力并恢复HP。效0/全/回防"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.using_message1"
+msgid "鼓舞了同伴！"
+msgstr ""
+
+#. ID 48
+msgctxt "skills.name"
+msgid "■■■■召喚"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.name"
+msgid "※精灵的召唤"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.description"
+msgid "召唤精灵作为从者使役。"
+msgstr ""
+
+#. ID 50
+msgctxt "skills.name"
+msgid "※妖魔的召唤"
+msgstr ""
+
+#. ID 50
+msgctxt "skills.description"
+msgid "召唤妖魔作为从者使役。"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.name"
+msgid "※仆从的创造"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.name"
+msgid "※神使的召唤"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.description"
+msgid "召唤神之使徒。"
+msgstr ""
+
+#. ID 53
+msgctxt "skills.name"
+msgid "※野兽唤来"
+msgstr ""
+
+#. ID 53
+msgctxt "skills.description"
+msgid "召唤野兽作为从者使役。"
+msgstr ""
+
+#. ID 54
+msgctxt "skills.name"
+msgid "※人工精灵的召唤"
+msgstr ""
+
+#. ID 54
+msgctxt "skills.description"
+msgid "召唤人工精灵作为从者使役。"
+msgstr ""
+
+#. ID 55
+msgctxt "skills.name"
+msgid "■■■■攻撃"
+msgstr ""
+
+#. ID 56
+msgctxt "skills.name"
+msgid "----ランク5攻撃技"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.name"
+msgid "$A残酷的穿刺"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.description"
+msgid "恐怖的全体贯通攻击。伤害×2/突长/全/缚/防无"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.using_message1"
+msgid "使出了残酷的穿刺！"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.using_message2"
+msgid "连续贯通！"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.name"
+msgid "$A大胜负"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.description"
+msgid "能否命中全凭运气。攻300/全"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.using_message1"
+msgid "使出了大胜负！"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.using_message2"
+msgid "「是生还是死就全赌在上面了！」"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.name"
+msgid "$A蔷薇之剑"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.description"
+msgid "强力的突刺攻击。低命中率。攻35伤害×3/突/出血"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.using_message1"
+msgid "使出了蔷薇之剑！"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.using_message2"
+msgid "「像蔷薇一般消散吧！」"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.name"
+msgid "$A大暴动"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.description"
+msgid "对全体敌人进行强力打击。伤害×1.5/全/冲击"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.using_message1"
+msgid "乱打一气！"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.using_message2"
+msgid "「混蛋混蛋混蛋！」"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.name"
+msgid "$A流星剑"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.description"
+msgid "神速的斩击。攻180/斩/必中"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.using_message1"
+msgid "施展了流星剑！"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.name"
+msgid "$A城门破"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.description"
+msgid "令防御无效的重攻击。攻52/重/防无"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.using_message1"
+msgid "使出了城门破！"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.name"
+msgid "$A一骑当千"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.description"
+msgid "突破敌阵的攻击。攻30/长/全"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.using_message1"
+msgid "的单骑突击！"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.name"
+msgid "$A月相闪"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.description"
+msgid "另敌人迷醉的华丽魔剑。攻80/暗/停止"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.using_message1"
+msgid "的兵刃描绘起圆形的轨迹！"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.name"
+msgid "$A阴阳杀"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.description"
+msgid "强力的连续攻击。伤害×3/暗/出血"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.using_message1"
+msgid "施展了阴阳杀！"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.name"
+msgid "$A魔弹"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.description"
+msgid "吹飞敌人的必中攻击。攻65/射/必中/冲击/防无对兽"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.using_message1"
+msgid "释放了魔弹！"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.name"
+msgid "$A断头台"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.description"
+msgid "勒住敌人的脖子高高吊起。攻62/鞭/死停"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.using_message1"
+msgid "使出了断头台！"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.name"
+msgid "$A死狱"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.description"
+msgid "空手令敌人即死。攻72/死血"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.using_message1"
+msgid "使出了死狱！"
+msgstr ""
+
+#. ID 70
+msgctxt "skills.name"
+msgid "$A虚空斩"
+msgstr ""
+
+#. ID 70
+msgctxt "skills.description"
+msgid "本已失传的英雄剑技。攻75/斩/必中防无"
+msgstr ""
+
+#. ID 70
+#. ID 342
+msgctxt "skills.using_message1"
+msgid "使出了虚空斩！"
+msgstr ""
+
+#. ID 70
+msgctxt "skills.using_message2"
+msgid "「接招！」"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.name"
+msgid "$A浸透劲"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.description"
+msgid "空手给予无视防御的伤害。攻120/格/冲击/防无"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.using_message1"
+msgid "使出了浸透劲！"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.name"
+msgid "$A八连剑阵"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.description"
+msgid "高速的连续斩击。伤害×3/斩/必中"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.using_message1"
+msgid "使出了八连剑阵！"
+msgstr ""
+
+#. ID 73
+msgctxt "skills.name"
+msgid "$A光之息"
+msgstr ""
+
+#. ID 73
+msgctxt "skills.description"
+msgid "释放出光的冲击波。攻90/圣龙/全"
+msgstr ""
+
+#. ID 73
+msgctxt "skills.using_message1"
+msgid "释放了光之吐息！"
+msgstr ""
+
+#. ID 74
+msgctxt "skills.name"
+msgid "$A瘴气之息"
+msgstr ""
+
+#. ID 74
+msgctxt "skills.description"
+msgid "灭杀全体敌人。攻18/闇/全/死猛"
+msgstr ""
+
+#. ID 74
+msgctxt "skills.using_message1"
+msgid "释放了瘴气的吐息！"
+msgstr ""
+
+#. ID 76
+msgctxt "skills.name"
+msgid "----ランク5攻撃魔法"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.name"
+msgid "$A$C伟大秘仪"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.description"
+msgid "解放神秘之力。攻100/魔/全/防无"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.using_message1"
+msgid "咏唱了伟大秘仪！"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.using_message2"
+msgid "破坏与创造之光！"
+msgstr ""
+
+#. ID 78
+msgctxt "skills.name"
+msgid "$A$C屠戮魔剑咒"
+msgstr ""
+
+#. ID 78
+msgctxt "skills.description"
+msgid "投放出异界的魔剑。攻75/魔闇/死/防无"
+msgstr ""
+
+#. ID 78
+#. ID 330
+msgctxt "skills.using_message1"
+msgid "召唤了魔剑！"
+msgstr ""
+
+#. ID 78
+msgctxt "skills.using_message2"
+msgid "「世上没有死亡断绝不了的东西！去死吧渣滓！」"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.name"
+msgid "$A$C金色王剑"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.description"
+msgid "雷之魔法剑。攻67/斩雷魔/冲"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.using_message1"
+msgid "投放出雷之魔剑！"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.name"
+msgid "$A$C魔界门"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.description"
+msgid "将敌人驱逐至异界。攻32/闇魔/死"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.using_message1"
+msgid "咏唱了魔界门！"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.using_message2"
+msgid "一切都渐渐被吸收殆尽……"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.name"
+msgid "$A$C星陨"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.description"
+msgid "降下陨石。攻68/魔/全"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.using_message1"
+msgid "呼唤了惑星！"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.name"
+msgid "$A$C冻土领域"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.description"
+msgid "最强的冻气魔法。攻52/水魔/全/束缚"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.using_message1"
+msgid "咏唱了冻土领域"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.using_message2"
+msgid "万物凝结的异界侵蚀了现世！"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.name"
+msgid "$A$C十二方位之风"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.description"
+msgid "最强的风魔法。攻60/空魔/全/胆怯"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.using_message1"
+msgid "咏唱了十二方位之风！"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.using_message2"
+msgid "从世界尽头吹来的风！"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.name"
+msgid "$A$C劫火的王国"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.description"
+msgid "最强的火炎攻击。攻65/火魔/全/燃烧"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.using_message1"
+msgid "咏唱了劫火的王国！"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.using_message2"
+msgid "炽热之线横扫而来！"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.name"
+msgid "$A$C方舟的记忆"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.description"
+msgid "引发大洪水。攻44/水圣魔/全/吞"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.using_message1"
+msgid "咏唱了箱船的记忆！"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.using_message2"
+msgid "世界回忆起那场大洪水……"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.name"
+msgid "$A$C圣绝之剑"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.description"
+msgid "神圣的魔法剑。攻70/斩圣魔"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.using_message1"
+msgid "释放了圣绝之剑！"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.name"
+msgid "$A$CFirebomb"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.description"
+msgid "Fire！攻50/魔/全/"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.using_message1"
+msgid "咏唱了Firebomb！"
+msgstr ""
+
+#. ID 91
+msgctxt "skills.name"
+msgid "----ランク4攻撃技"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.name"
+msgid "$A心脏突刺"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.description"
+msgid "针对弱点的强力攻击。攻52/突/即死"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.using_message1"
+msgid "使出了心脏突刺！"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.name"
+msgid "$A龙牙碎"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.description"
+msgid "令敌人虚弱的攻击。攻52/斩重/对龙/劣攻"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.using_message1"
+msgid "使出了龙牙碎！"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.name"
+msgid "$A古武术"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.description"
+msgid "封锁敌人行动造成无视防御的伤害。攻30/格/束缚劣化"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.using_message1"
+msgid "使出了古武术！"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.name"
+msgid "$A百人斩"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.description"
+msgid "攻击全体敌人。/斩/全"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.using_message1"
+msgid "向敌阵发动了突击！"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.name"
+msgid "$A斩铁剑"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.description"
+msgid "切裂铠甲的斩击。攻25/斩/防无/劣防"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.using_message1"
+msgid "使出了斩铁剑！"
+msgstr ""
+
+#. ID 97
+msgctxt "skills.name"
+msgid "$A落穴"
+msgstr ""
+
+#. ID 97
+msgctxt "skills.description"
+msgid "将敌人诱导至落穴陷阱。攻36/地/束缚"
+msgstr ""
+
+#. ID 97
+msgctxt "skills.using_message1"
+msgid "使用了落穴！"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.name"
+msgid "$A斩首"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.description"
+msgid "一击打倒敌人。攻24/暗/死"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.using_message1"
+msgid "使出了斩首！"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.name"
+msgid "$A针缝透穿"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.description"
+msgid "狙击铠甲缝隙处的必中射击。攻28/射/防无必中"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.using_message1"
+msgid "使出了针缝透穿！"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.name"
+msgid "$A暴打"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.description"
+msgid "把对手打到气绝为止。伤害×2/重/停止"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.using_message1"
+msgid "的乱打攻击！"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.name"
+msgid "$A灼热之息"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.description"
+msgid "喷出灼热的火炎。攻41/火/全/燃烧"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.using_message1"
+msgid "喷出了灼热的吐息！"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.name"
+msgid "$A龙翼"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.description"
+msgid "引发骤风。攻35/空龙/全/胆怯"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.using_message1"
+msgid "振起了翅膀！"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.name"
+msgid "$A吹雪之息"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.description"
+msgid "喷出猛烈的冷气。攻38/水/全/劣速"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.using_message1"
+msgid "喷出了吹雪的吐息！"
+msgstr ""
+
+#. ID 108
+msgctxt "skills.name"
+msgid "----ランク4攻撃魔法"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.name"
+msgid "$A$C炎魔界"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.description"
+msgid "用烈火包围全体敌人。攻45/火魔/全/燃烧"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.using_message1"
+msgid "咏唱了炎魔界！"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.name"
+msgid "$A$C龙卷之咒"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.description"
+msgid "引发大龙卷。攻40/空魔/全/胆怯"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.using_message1"
+msgid "咏唱了龙卷之咒"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.name"
+msgid "$A$C不可视之力"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.description"
+msgid "以魔力驱动的念动力攻击。攻52/魔/全"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.using_message1"
+msgid "使出了不可视之力！"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.using_message2"
+msgid "尝尝这招的厉害！"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.name"
+msgid "$A$C龙脉的解放"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.description"
+msgid "引发大地震。攻44/地魔/全/冲击"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.using_message1"
+msgid "咏唱了龙脉的解放！"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.name"
+msgid "$A$C裁决之雷"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.description"
+msgid "释放神圣之雷。攻47/雷魔/冲击"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.using_message1"
+msgid "召来了裁决之雷！"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.name"
+msgid "$A$C雷之暴君"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.description"
+msgid "释放出雷击的风暴。攻47/雷魔/全/冲击"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.using_message1"
+msgid "咏唱了雷之暴君"
+msgstr ""
+
+#. ID 117
+msgctxt "skills.name"
+msgid "----ランク3攻撃技"
+msgstr ""
+
+#. ID 118
+msgctxt "skills.name"
+msgid "$A兜割"
+msgstr ""
+
+#. ID 118
+msgctxt "skills.description"
+msgid "削减敌人防御力的攻击。攻33/重/劣防"
+msgstr ""
+
+#. ID 118
+#. ID 413
+msgctxt "skills.using_message1"
+msgid "使出了兜割！"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.name"
+msgid "$A一闪"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.description"
+msgid "令敌人出血的必中攻击。攻35/斩/必中/出血"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.using_message1"
+msgid "使出了一闪！"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.name"
+msgid "$A手里剑散射"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.description"
+msgid "对全体敌人投掷手里剑。攻0/暗/对空/全"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.using_message1"
+msgid "散射出大量手里剑！"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.name"
+msgid "$A听天由命"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.description"
+msgid "能否命中全凭运气。攻80"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.using_message1"
+msgid "使出了听天由命！"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.using_message2"
+msgid "「那么，来碰碰运气吧！！」"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.name"
+msgid "$A一刀两断"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.description"
+msgid "以斩击武器造成大伤害。攻44/斩"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.using_message1"
+msgid "使出了一刀两断！"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.name"
+msgid "$A烈突"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.description"
+msgid "强力的连续突刺攻击。伤害×2/突"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.using_message1"
+msgid "使出了烈突！"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.name"
+msgid "$A缝影"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.description"
+msgid "封锁敌人的行动。对兽系特效。攻28/射/束缚对兽"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.using_message1"
+msgid "使出了缝影！"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.name"
+msgid "$A风车碎"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.description"
+msgid "穿透铠甲的攻击。攻35/突/防无"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.using_message1"
+msgid "的贯通突击！"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.name"
+msgid "$A捕缚术"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.description"
+msgid "封锁敌人的行动。攻25/鞭/停止劣速"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.using_message1"
+msgid "使出了捕缚术"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.name"
+msgid "$A死毒刃"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.description"
+msgid "用涂有猛毒的兵刃攻击。攻20/暗/猛毒"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.using_message1"
+msgid "使出了死毒刃！"
+msgstr ""
+
+#. ID 128
+msgctxt "skills.name"
+msgid "$A百烈连打"
+msgstr ""
+
+#. ID 128
+msgctxt "skills.description"
+msgid "空手连续攻击。攻40伤害×2/格"
+msgstr ""
+
+#. ID 128
+msgctxt "skills.using_message1"
+msgid "使出了百烈连打"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.name"
+msgid "$A斩影"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.description"
+msgid "造成出血、无视防御的攻击。攻19/暗/防无出血"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.using_message1"
+msgid "使出了斩影"
+msgstr ""
+
+#. ID 130
+msgctxt "skills.name"
+msgid "$A$C真空斩"
+msgstr ""
+
+#. ID 130
+msgctxt "skills.description"
+msgid "持有魔力武器时才可施展。攻36/斩魔空/全"
+msgstr ""
+
+#. ID 130
+msgctxt "skills.using_message1"
+msgid "使出了真空斩"
+msgstr ""
+
+#. ID 132
+msgctxt "skills.name"
+msgid "$A猛火之息"
+msgstr ""
+
+#. ID 132
+msgctxt "skills.description"
+msgid "从口中喷出烈火。攻23/火/全/燃烧"
+msgstr ""
+
+#. ID 132
+msgctxt "skills.using_message1"
+msgid "喷出了猛烈的火焰！"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.name"
+msgid "$A雷击之息"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.description"
+msgid "从口中喷出雷击。攻34/雷/冲击"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.using_message1"
+msgid "释放了雷击！"
+msgstr ""
+
+#. ID 134
+msgctxt "skills.name"
+msgid "$A毒之息"
+msgstr ""
+
+#. ID 134
+msgctxt "skills.description"
+msgid "令全体敌人中毒。攻16/水/全/毒"
+msgstr ""
+
+#. ID 134
+msgctxt "skills.using_message1"
+msgid "喷出了毒雾！"
+msgstr ""
+
+#. ID 138
+msgctxt "skills.name"
+msgid "----ランク3攻撃魔法"
+msgstr ""
+
+#. ID 139
+msgctxt "skills.name"
+msgid "$A$C天雷阵"
+msgstr ""
+
+#. ID 139
+msgctxt "skills.description"
+msgid "对全体敌人进行雷击。攻24/雷魔/全/冲击"
+msgstr ""
+
+#. ID 139
+msgctxt "skills.using_message1"
+msgid "咏唱了天雷阵！"
+msgstr ""
+
+#. ID 140
+msgctxt "skills.name"
+msgid "$A$C霜白之枪咒"
+msgstr ""
+
+#. ID 140
+msgctxt "skills.description"
+msgid "以冰攻击一名敌人。攻36/水魔/劣速"
+msgstr ""
+
+#. ID 140
+msgctxt "skills.using_message1"
+msgid "投放出冰之长枪！"
+msgstr ""
+
+#. ID 141
+msgctxt "skills.name"
+msgid "$A$C圣雨"
+msgstr ""
+
+#. ID 141
+msgctxt "skills.description"
+msgid "以神圣之水攻击全体敌人。攻20/圣水魔/全/吞"
+msgstr ""
+
+#. ID 141
+msgctxt "skills.using_message1"
+msgid "呼唤了圣雨！"
+msgstr ""
+
+#. ID 142
+msgctxt "skills.name"
+msgid "$A$C吸血鬼之咒"
+msgstr ""
+
+#. ID 142
+msgctxt "skills.description"
+msgid "从一名敌人身上夺取HP。攻16/魔/吸收"
+msgstr ""
+
+#. ID 142
+msgctxt "skills.using_message1"
+msgid "的吸血攻击！"
+msgstr ""
+
+#. ID 143
+msgctxt "skills.name"
+msgid "$A$C燔祭之火"
+msgstr ""
+
+#. ID 143
+msgctxt "skills.description"
+msgid "用神圣的火焰攻击全体敌人。攻28/圣火魔/全/燃烧"
+msgstr ""
+
+#. ID 143
+msgctxt "skills.using_message1"
+msgid "释放出献祭之火！"
+msgstr ""
+
+#. ID 144
+msgctxt "skills.name"
+msgid "$A$C死之指"
+msgstr ""
+
+#. ID 144
+msgctxt "skills.description"
+msgid "立刻击倒一名敌人。攻0/闇魔/即死"
+msgstr ""
+
+#. ID 144
+msgctxt "skills.using_message1"
+msgid "指向了敌人！"
+msgstr ""
+
+#. ID 145
+msgctxt "skills.name"
+msgid "$A$C树缚"
+msgstr ""
+
+#. ID 145
+msgctxt "skills.description"
+msgid "操纵植物缠起敌人。攻11/地魔/吞缚"
+msgstr ""
+
+#. ID 145
+msgctxt "skills.using_message1"
+msgid "操纵了树木！"
+msgstr ""
+
+#. ID 148
+msgctxt "skills.name"
+msgid "----ランク2攻撃技"
+msgstr ""
+
+#. ID 149
+msgctxt "skills.name"
+msgid "$A二连刺"
+msgstr ""
+
+#. ID 149
+msgctxt "skills.description"
+msgid "连续突刺攻击。伤害×1.5/突"
+msgstr ""
+
+#. ID 149
+msgctxt "skills.using_message1"
+msgid "使出了二连刺！"
+msgstr ""
+
+#. ID 150
+msgctxt "skills.name"
+msgid "$A毒矢"
+msgstr ""
+
+#. ID 150
+msgctxt "skills.description"
+msgid "令一名敌人中毒的射击。攻21/射/毒"
+msgstr ""
+
+#. ID 150
+msgctxt "skills.using_message1"
+msgid "射出了毒箭"
+msgstr ""
+
+#. ID 152
+msgctxt "skills.name"
+msgid "$A武器打落"
+msgstr ""
+
+#. ID 152
+msgctxt "skills.description"
+msgid "攻击对方的手掌，降低其攻击力。攻12/劣攻"
+msgstr ""
+
+#. ID 152
+msgctxt "skills.using_message1"
+msgid "使出了武器打落！"
+msgstr ""
+
+#. ID 153
+msgctxt "skills.name"
+msgid "$A直拳"
+msgstr ""
+
+#. ID 153
+msgctxt "skills.description"
+msgid "空手给予敌人伤害。攻70/格/冲击"
+msgstr ""
+
+#. ID 153
+msgctxt "skills.using_message1"
+msgid "使出了直拳！"
+msgstr ""
+
+#. ID 155
+msgctxt "skills.name"
+msgid "$A全力斩击"
+msgstr ""
+
+#. ID 155
+msgctxt "skills.description"
+msgid "以斩击武器给予中等伤害。攻24/斩"
+msgstr ""
+
+#. ID 155
+msgctxt "skills.using_message1"
+msgid "用全力斩了下去！"
+msgstr ""
+
+#. ID 156
+msgctxt "skills.name"
+msgid "$A回旋击"
+msgstr ""
+
+#. ID 156
+msgctxt "skills.description"
+msgid "对全体敌人造成8成的伤害。伤害×0.8/鞭/全"
+msgstr ""
+
+#. ID 156
+msgctxt "skills.using_message1"
+msgid "使出了回旋击！"
+msgstr ""
+
+#. ID 157
+msgctxt "skills.name"
+msgid "$A散射"
+msgstr ""
+
+#. ID 157
+msgctxt "skills.description"
+msgid "对全体敌人造成8成的伤害。伤害×0.8/射/全"
+msgstr ""
+
+#. ID 157
+msgctxt "skills.using_message1"
+msgid "使出了散射！"
+msgstr ""
+
+#. ID 158
+msgctxt "skills.name"
+msgid "$A连射"
+msgstr ""
+
+#. ID 158
+msgctxt "skills.description"
+msgid "对一名敌人连续射击。伤害×1.5/射"
+msgstr ""
+
+#. ID 158
+msgctxt "skills.using_message1"
+msgid "使出了连射！"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.name"
+msgid "$A双牙"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.description"
+msgid "造成出血的连续攻击。伤害×1.5/暗/出血"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.using_message1"
+msgid "使出了双牙！"
+msgstr ""
+
+#. ID 160
+msgctxt "skills.name"
+msgid "$A扫腿"
+msgstr ""
+
+#. ID 160
+msgctxt "skills.description"
+msgid "令敌人倒地的下段攻击。攻0/地/冲击"
+msgstr ""
+
+#. ID 160
+msgctxt "skills.using_message1"
+msgid "使出了扫腿！"
+msgstr ""
+
+#. ID 162
+msgctxt "skills.name"
+msgid "$A冰之息"
+msgstr ""
+
+#. ID 162
+msgctxt "skills.description"
+msgid "从口中喷出冷气。攻14/水/全/劣速"
+msgstr ""
+
+#. ID 162
+msgctxt "skills.using_message1"
+msgid "释放出冰的吐息！"
+msgstr ""
+
+#. ID 163
+msgctxt "skills.name"
+msgid "$A酸之息"
+msgstr ""
+
+#. ID 163
+msgctxt "skills.description"
+msgid "令全体敌人的防御力下降。攻10/水/全/劣防"
+msgstr ""
+
+#. ID 163
+msgctxt "skills.using_message1"
+msgid "喷出了酸雾！"
+msgstr ""
+
+#. ID 168
+msgctxt "skills.name"
+msgid "----ランク2攻撃魔法"
+msgstr ""
+
+#. ID 169
+msgctxt "skills.name"
+msgid "$A$C暗之投影"
+msgstr ""
+
+#. ID 169
+msgctxt "skills.description"
+msgid "用黑暗遮挡全体敌人的视线。攻12/闇魔/全/劣中"
+msgstr ""
+
+#. ID 169
+msgctxt "skills.using_message1"
+msgid "咏唱了暗之投影！"
+msgstr ""
+
+#. ID 170
+msgctxt "skills.name"
+msgid "$A$C爆炎投射"
+msgstr ""
+
+#. ID 170
+msgctxt "skills.description"
+msgid "用火焰席卷全体敌人。攻13/火魔/全/燃烧"
+msgstr ""
+
+#. ID 170
+msgctxt "skills.using_message1"
+msgid "咏唱了爆炎投射！"
+msgstr ""
+
+#. ID 171
+msgctxt "skills.name"
+msgid "$A$C冰棺"
+msgstr ""
+
+#. ID 171
+msgctxt "skills.description"
+msgid "用冰封锁敌人的动作。攻12/水魔/劣速/束缚"
+msgstr ""
+
+#. ID 171
+msgctxt "skills.using_message1"
+msgid "咏唱了冰棺！"
+msgstr ""
+
+#. ID 172
+msgctxt "skills.name"
+msgid "$A$C唤风之歌"
+msgstr ""
+
+#. ID 172
+msgctxt "skills.description"
+msgid "用疾风吹倒全体敌人。攻13/空魔/全/胆怯"
+msgstr ""
+
+#. ID 172
+msgctxt "skills.using_message1"
+msgid "唱起了唤风之歌！"
+msgstr ""
+
+#. ID 173
+msgctxt "skills.name"
+msgid "$A$C破魔之理力"
+msgstr ""
+
+#. ID 173
+msgctxt "skills.description"
+msgid "对全体敌人投放出净化之力。攻16/圣魔/全"
+msgstr ""
+
+#. ID 173
+msgctxt "skills.using_message1"
+msgid "释放出破魔之理力！"
+msgstr ""
+
+#. ID 175
+msgctxt "skills.name"
+msgid "$A$C地灵之爪"
+msgstr ""
+
+#. ID 175
+msgctxt "skills.description"
+msgid "令敌人脚下的岩石突起。攻20/地魔/冲击"
+msgstr ""
+
+#. ID 175
+msgctxt "skills.using_message1"
+msgid "咏唱了地灵之爪！"
+msgstr ""
+
+#. ID 181
+msgctxt "skills.name"
+msgid "----ランク1攻撃技"
+msgstr ""
+
+#. ID 182
+msgctxt "skills.name"
+msgid "$A手里剑"
+msgstr ""
+
+#. ID 182
+msgctxt "skills.description"
+msgid "对敌人投射手里剑。攻8/空"
+msgstr ""
+
+#. ID 182
+msgctxt "skills.using_message1"
+msgid "丢出手里剑！"
+msgstr ""
+
+#. ID 183
+msgctxt "skills.name"
+msgid "$A必中斩"
+msgstr ""
+
+#. ID 183
+msgctxt "skills.description"
+msgid "以斩击武器发动必中攻击。攻8/斩/必中"
+msgstr ""
+
+#. ID 183
+msgctxt "skills.using_message1"
+msgid "以假动作迷惑了对手！"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.name"
+msgid "$A横扫"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.description"
+msgid "用一半的威力攻击全体敌人。伤害×0.5/长/全"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.using_message1"
+msgid "使出了横扫！"
+msgstr ""
+
+#. ID 185
+msgctxt "skills.name"
+msgid "$A殴打"
+msgstr ""
+
+#. ID 185
+msgctxt "skills.description"
+msgid "连人带装甲一起打。命中率低。伤害×0.8/重/防御无视"
+msgstr ""
+
+#. ID 185
+msgctxt "skills.using_message1"
+msgid "使出了殴打！"
+msgstr ""
+
+#. ID 186
+msgctxt "skills.name"
+msgid "$A突击"
+msgstr ""
+
+#. ID 186
+msgctxt "skills.description"
+msgid "命中率低的强力突击。攻28/突"
+msgstr ""
+
+#. ID 186
+msgctxt "skills.using_message1"
+msgid "展开了突击！"
+msgstr ""
+
+#. ID 188
+msgctxt "skills.name"
+msgid "$A强打"
+msgstr ""
+
+#. ID 188
+msgctxt "skills.description"
+msgid "饱含全身力量的无属性攻击。攻12"
+msgstr ""
+
+#. ID 188
+msgctxt "skills.using_message1"
+msgid "使出了强打！"
+msgstr ""
+
+#. ID 190
+msgctxt "skills.name"
+msgid "$A狙击"
+msgstr ""
+
+#. ID 190
+msgctxt "skills.description"
+msgid "必定命中的射击。攻12/射/必中对兽"
+msgstr ""
+
+#. ID 190
+msgctxt "skills.using_message1"
+msgid "使出了狙击！"
+msgstr ""
+
+#. ID 191
+msgctxt "skills.name"
+msgid "$A火矢"
+msgstr ""
+
+#. ID 191
+msgctxt "skills.description"
+msgid "射出燃烧之矢。攻5/射火/燃烧/对兽"
+msgstr ""
+
+#. ID 191
+msgctxt "skills.using_message1"
+msgid "使出了火矢！"
+msgstr ""
+
+#. ID 192
+msgctxt "skills.name"
+msgid "$A投掷匕首"
+msgstr ""
+
+#. ID 192
+msgctxt "skills.description"
+msgid "对敌人投掷匕首。攻8/空"
+msgstr ""
+
+#. ID 192
+msgctxt "skills.using_message1"
+msgid "投出了匕首！"
+msgstr ""
+
+#. ID 193
+msgctxt "skills.name"
+msgid "$A奇袭"
+msgstr ""
+
+#. ID 193
+msgctxt "skills.description"
+msgid "从背后进行无视防御力的攻击。攻8/暗/防无"
+msgstr ""
+
+#. ID 193
+msgctxt "skills.using_message1"
+msgid "从死角发动了攻击！"
+msgstr ""
+
+#. ID 194
+msgctxt "skills.name"
+msgid "$A溃目"
+msgstr ""
+
+#. ID 194
+msgctxt "skills.description"
+msgid "阻塞一名敌人的视线使其命中下降。攻0/劣中"
+msgstr ""
+
+#. ID 194
+msgctxt "skills.using_message1"
+msgid "使出了溃目！"
+msgstr ""
+
+#. ID 195
+msgctxt "skills.name"
+msgid "$A火之息"
+msgstr ""
+
+#. ID 195
+msgctxt "skills.description"
+msgid "从口中喷出火焰。攻5/火/全/燃烧"
+msgstr ""
+
+#. ID 195
+msgctxt "skills.using_message1"
+msgid "喷出了烈火！"
+msgstr ""
+
+#. ID 200
+msgctxt "skills.name"
+msgid "----ランク1攻撃魔法"
+msgstr ""
+
+#. ID 201
+msgctxt "skills.name"
+msgid "$A$C矢之咒"
+msgstr ""
+
+#. ID 201
+msgctxt "skills.description"
+msgid "以魔法之矢伤敌。攻8/魔"
+msgstr ""
+
+#. ID 201
+msgctxt "skills.using_message1"
+msgid "咏唱了矢之咒"
+msgstr ""
+
+#. ID 202
+msgctxt "skills.name"
+msgid "$A$C鬼火"
+msgstr ""
+
+#. ID 202
+msgctxt "skills.description"
+msgid "投放出小型火团。攻11/火魔/燃烧"
+msgstr ""
+
+#. ID 202
+msgctxt "skills.using_message1"
+msgid "咏唱了鬼火的咒文！"
+msgstr ""
+
+#. ID 203
+msgctxt "skills.name"
+msgid "$A$C水妖之手"
+msgstr ""
+
+#. ID 203
+msgctxt "skills.description"
+msgid "用水包覆一名敌人。攻0/魔水/吞噬"
+msgstr ""
+
+#. ID 203
+msgctxt "skills.using_message1"
+msgid "召唤出了活体水源！"
+msgstr ""
+
+#. ID 204
+msgctxt "skills.name"
+msgid "$A$C闪电"
+msgstr ""
+
+#. ID 204
+msgctxt "skills.description"
+msgid "雷系基本魔法。攻9/魔雷/冲击"
+msgstr ""
+
+#. ID 204
+msgctxt "skills.using_message1"
+msgid "咏唱了闪电的咒文！"
+msgstr ""
+
+#. ID 209
+msgctxt "skills.name"
+msgid "■■敵状態?能力下降"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.name"
+msgid "$E$C迷宫结界"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.description"
+msgid "引发多种异常状态。/魔/全/减停乱默怒"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.using_message1"
+msgid "咏唱了迷宫结界"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.using_message2"
+msgid "物理法则开始扭曲了……。"
+msgstr ""
+
+#. ID 212
+msgctxt "skills.name"
+msgid "$E$C瘴气"
+msgstr ""
+
+#. ID 212
+msgctxt "skills.description"
+msgid "令全体敌人疯狂至死。/魔/全/死乱猛"
+msgstr ""
+
+#. ID 212
+msgctxt "skills.using_message1"
+msgid "释放了瘴气！"
+msgstr ""
+
+#. ID 214
+msgctxt "skills.name"
+msgid "$E御兽"
+msgstr ""
+
+#. ID 214
+msgctxt "skills.description"
+msgid "操纵野兽。/全/混乱"
+msgstr ""
+
+#. ID 214
+msgctxt "skills.using_message1"
+msgid "使出了御兽！"
+msgstr ""
+
+#. ID 215
+msgctxt "skills.name"
+msgid "$E$C神威"
+msgstr ""
+
+#. ID 215
+msgctxt "skills.description"
+msgid "操纵有心魂的人类。/魔/全/混乱"
+msgstr ""
+
+#. ID 215
+msgctxt "skills.using_message1"
+msgid "使出了神威！"
+msgstr ""
+
+#. ID 216
+msgctxt "skills.name"
+msgid "$E$C魔力支配"
+msgstr ""
+
+#. ID 216
+msgctxt "skills.description"
+msgid "得到魔法创造物的支配权。/魔/全/混乱"
+msgstr ""
+
+#. ID 216
+msgctxt "skills.using_message1"
+msgid "咏唱了魔力支配！"
+msgstr ""
+
+#. ID 217
+msgctxt "skills.name"
+msgid "$E$C死灵支配"
+msgstr ""
+
+#. ID 217
+msgctxt "skills.description"
+msgid "得到死灵的支配权。/魔/全/混乱"
+msgstr ""
+
+#. ID 217
+msgctxt "skills.using_message1"
+msgid "咏唱了死灵支配"
+msgstr ""
+
+#. ID 219
+msgctxt "skills.name"
+msgid "$E$C惑乱之歌"
+msgstr ""
+
+#. ID 219
+msgctxt "skills.description"
+msgid "迷惑全体敌人。/魔/全/混乱"
+msgstr ""
+
+#. ID 219
+#. ID 417
+msgctxt "skills.using_message1"
+msgid "唱起了惑乱之歌！"
+msgstr ""
+
+#. ID 220
+msgctxt "skills.name"
+msgid "$E$C咒缚之歌"
+msgstr ""
+
+#. ID 220
+msgctxt "skills.description"
+msgid "彻底封锁全体敌人的行动。/魔/全/眠怯缚"
+msgstr ""
+
+#. ID 220
+msgctxt "skills.using_message1"
+msgid "唱起了咒缚之歌！"
+msgstr ""
+
+#. ID 221
+msgctxt "skills.name"
+msgid "$E$C死之空气"
+msgstr ""
+
+#. ID 221
+msgctxt "skills.description"
+msgid "立刻击倒全体敌人。/魔/全/死"
+msgstr ""
+
+#. ID 221
+msgctxt "skills.using_message1"
+msgid "咏唱了死之空气！"
+msgstr ""
+
+#. ID 222
+msgctxt "skills.name"
+msgid "$E$C封锁之咒"
+msgstr ""
+
+#. ID 222
+msgctxt "skills.description"
+msgid "束缚全体敌人的行动。/魔/全/劣速/"
+msgstr ""
+
+#. ID 222
+msgctxt "skills.using_message1"
+msgid "咏唱了封锁之咒！"
+msgstr ""
+
+#. ID 224
+msgctxt "skills.name"
+msgid "$E$C腐败之咒"
+msgstr ""
+
+#. ID 224
+msgctxt "skills.description"
+msgid "令全体敌人中毒。/魔/全/毒"
+msgstr ""
+
+#. ID 224
+msgctxt "skills.using_message1"
+msgid "咏唱了腐败之咒！"
+msgstr ""
+
+#. ID 225
+msgctxt "skills.name"
+msgid "$E$C入眠之歌"
+msgstr ""
+
+#. ID 225
+msgctxt "skills.description"
+msgid "令全体敌人失去意识。/魔/全/睡眠"
+msgstr ""
+
+#. ID 225
+msgctxt "skills.using_message1"
+msgid "唱起了入眠之歌！"
+msgstr ""
+
+#. ID 226
+msgctxt "skills.name"
+msgid "$E$C邪眼"
+msgstr ""
+
+#. ID 226
+msgctxt "skills.description"
+msgid "令一名敌人的MP下降，并陷入恐惧。10/暗魔/MP减/怯"
+msgstr ""
+
+#. ID 226
+msgctxt "skills.using_message1"
+msgid "使出了邪眼！"
+msgstr ""
+
+#. ID 227
+msgctxt "skills.name"
+msgid "$E$C起舞之歌"
+msgstr ""
+
+#. ID 227
+msgctxt "skills.description"
+msgid "让全体敌人不由自主地跳起舞来。/魔/全/踊"
+msgstr ""
+
+#. ID 227
+msgctxt "skills.using_message1"
+msgid "唱起了起舞之歌！"
+msgstr ""
+
+#. ID 228
+msgctxt "skills.name"
+msgid "$E$C脱力的言灵"
+msgstr ""
+
+#. ID 228
+msgctxt "skills.description"
+msgid "降低全体敌人的攻击力。/魔/全/劣攻"
+msgstr ""
+
+#. ID 228
+msgctxt "skills.using_message1"
+msgid "咏唱了脱力的言灵！"
+msgstr ""
+
+#. ID 229
+msgctxt "skills.name"
+msgid "$E$C生锈之咒"
+msgstr ""
+
+#. ID 229
+msgctxt "skills.description"
+msgid "降低全体敌人的防御力。魔/全/劣防"
+msgstr ""
+
+#. ID 229
+msgctxt "skills.using_message1"
+msgid "咏唱了生锈之咒！"
+msgstr ""
+
+#. ID 230
+msgctxt "skills.name"
+msgid "$E$C封魔之咒"
+msgstr ""
+
+#. ID 230
+msgctxt "skills.description"
+msgid "降低全体敌人的魔力并使其沉默。/魔/全/劣魔/沉默"
+msgstr ""
+
+#. ID 230
+msgctxt "skills.using_message1"
+msgid "咏唱了封魔之咒！"
+msgstr ""
+
+#. ID 231
+msgctxt "skills.name"
+msgid "$E$C幻影之咒"
+msgstr ""
+
+#. ID 231
+msgctxt "skills.description"
+msgid "令全体敌人看到幻影下降其命中。/魔/全/劣中"
+msgstr ""
+
+#. ID 231
+msgctxt "skills.using_message1"
+msgid "咏唱了幻影之咒！"
+msgstr ""
+
+#. ID 235
+msgctxt "skills.name"
+msgid "$E弱点看破"
+msgstr ""
+
+#. ID 235
+msgctxt "skills.description"
+msgid "令一名敌人对多种物理攻击失去耐性。低成功率。"
+msgstr ""
+
+#. ID 235
+msgctxt "skills.using_message1"
+msgid "使出了看破弱点！"
+msgstr ""
+
+#. ID 238
+msgctxt "skills.name"
+msgid "$E诱惑"
+msgstr ""
+
+#. ID 238
+msgctxt "skills.description"
+msgid "令全体敌人混乱。/全/混乱"
+msgstr ""
+
+#. ID 238
+msgctxt "skills.using_message1"
+msgid "使出了诱惑！"
+msgstr ""
+
+#. ID 241
+msgctxt "skills.name"
+msgid "$E咆哮"
+msgstr ""
+
+#. ID 241
+msgctxt "skills.description"
+msgid "威慑全体敌人，造成行动不能。全/胆怯"
+msgstr ""
+
+#. ID 241
+msgctxt "skills.using_message1"
+msgid "发出了咆哮声！"
+msgstr ""
+
+#. ID 242
+msgctxt "skills.name"
+msgid "$E挑衅"
+msgstr ""
+
+#. ID 242
+msgctxt "skills.description"
+msgid "激怒全体敌人。全/愤怒"
+msgstr ""
+
+#. ID 242
+msgctxt "skills.using_message1"
+msgid "使出了挑衅！"
+msgstr ""
+
+#. ID 243
+msgctxt "skills.name"
+msgid "$E烟幕"
+msgstr ""
+
+#. ID 243
+msgctxt "skills.description"
+msgid "降低全体敌人的命中。/全/劣中"
+msgstr ""
+
+#. ID 243
+msgctxt "skills.using_message1"
+msgid "使出了烟幕！"
+msgstr ""
+
+#. ID 244
+msgctxt "skills.name"
+msgid "$E钢丝陷阱"
+msgstr ""
+
+#. ID 244
+msgctxt "skills.description"
+msgid "吊起敌人，降低敌人对射击、对空耐性。/束缚"
+msgstr ""
+
+#. ID 244
+msgctxt "skills.using_message1"
+msgid "使出了钢丝陷阱！"
+msgstr ""
+
+#. ID 245
+msgctxt "skills.name"
+msgid "$E腻油陷阱"
+msgstr ""
+
+#. ID 245
+msgctxt "skills.description"
+msgid "令敌人掉进油池摔倒并降低对火的耐性。/冲击"
+msgstr ""
+
+#. ID 245
+msgctxt "skills.using_message1"
+msgid "使出了腻油陷阱！"
+msgstr ""
+
+#. ID 246
+msgctxt "skills.name"
+msgid "$E深水陷阱"
+msgstr ""
+
+#. ID 246
+msgctxt "skills.description"
+msgid "令敌人湿透，降低对水、雷的耐性。"
+msgstr ""
+
+#. ID 246
+msgctxt "skills.using_message1"
+msgid "使出了深水陷阱！"
+msgstr ""
+
+#. ID 248
+msgctxt "skills.name"
+msgid "$E狙击弱点"
+msgstr ""
+
+#. ID 248
+msgctxt "skills.description"
+msgid "令一名敌人失去对暗杀和射击的耐性。"
+msgstr ""
+
+#. ID 248
+msgctxt "skills.using_message1"
+msgid "找到了敌人的弱点！"
+msgstr ""
+
+#. ID 253
+msgctxt "skills.name"
+msgid "■■■■属性防御など"
+msgstr ""
+
+#. ID 254
+msgctxt "skills.name"
+msgid "◎$B大河神的介入ボツ"
+msgstr ""
+
+#. ID 254
+msgctxt "skills.description"
+msgid "我方全员几乎完全恢复。增强魔法耐性。/全/耐:魔"
+msgstr ""
+
+#. ID 254
+msgctxt "skills.using_message1"
+msgid "向艾克薇尔祈求庇佑！"
+msgstr ""
+
+#. ID 255
+msgctxt "skills.name"
+msgid "$B哈鲁的加护ボツ"
+msgstr ""
+
+#. ID 255
+msgctxt "skills.description"
+msgid "强化攻击并赋予对全武器的耐性。効39/全/攻/耐:武器"
+msgstr ""
+
+#. ID 255
+msgctxt "skills.using_message1"
+msgid "祈求了哈鲁的加护！"
+msgstr ""
+
+#. ID 256
+msgctxt "skills.name"
+msgid "$B裘格的加护"
+msgstr ""
+
+#. ID 256
+msgctxt "skills.description"
+msgid "赋予对魔法和吐息的耐性并治疗异常。/全/治(全)/耐:魔"
+msgstr ""
+
+#. ID 256
+msgctxt "skills.using_message1"
+msgid "祈求了裘格的加护！"
+msgstr ""
+
+#. ID 257
+msgctxt "skills.name"
+msgid "$B神殿结界"
+msgstr ""
+
+#. ID 257
+msgctxt "skills.description"
+msgid "守护我方不受魔法和吐息攻击。低成功率。/耐:魔"
+msgstr ""
+
+#. ID 257
+msgctxt "skills.using_message1"
+msgid "使出了神殿结界！"
+msgstr ""
+
+#. ID 259
+msgctxt "skills.name"
+msgid "$B光之障壁"
+msgstr ""
+
+#. ID 259
+msgctxt "skills.description"
+msgid "赋予我方一人对魔法和暗的耐性。/耐:魔暗"
+msgstr ""
+
+#. ID 259
+msgctxt "skills.using_message1"
+msgid "使出了光之障壁！"
+msgstr ""
+
+#. ID 260
+msgctxt "skills.name"
+msgid "$B绝热之镜"
+msgstr ""
+
+#. ID 260
+msgctxt "skills.description"
+msgid "赋予我方全体对雷与火的耐性。/全/耐:火雷"
+msgstr ""
+
+#. ID 260
+msgctxt "skills.using_message1"
+msgid "使出了隔热之鏡！"
+msgstr ""
+
+#. ID 261
+msgctxt "skills.name"
+msgid "$B水与风的加护"
+msgstr ""
+
+#. ID 261
+msgctxt "skills.description"
+msgid "赋予我方全员对水和风的耐性。/全/耐:水空"
+msgstr ""
+
+#. ID 261
+msgctxt "skills.using_message1"
+msgid "使出了水与风的加护！"
+msgstr ""
+
+#. ID 263
+msgctxt "skills.name"
+msgid "$B地灵的守护"
+msgstr ""
+
+#. ID 263
+msgctxt "skills.description"
+msgid "赋予我方全员对地与圣的耐性。/全/耐:地圣"
+msgstr ""
+
+#. ID 263
+msgctxt "skills.using_message1"
+msgid "使出了地灵的守护！"
+msgstr ""
+
+#. ID 264
+msgctxt "skills.name"
+msgid "$B举盾防御ボツ"
+msgstr ""
+
+#. ID 264
+#. ID 270
+msgctxt "skills.description"
+msgid "赋予自身对刃物的耐性。/耐:斩突射"
+msgstr ""
+
+#. ID 264
+#. ID 270
+msgctxt "skills.using_message1"
+msgid "使出了举盾防御！"
+msgstr ""
+
+#. ID 265
+msgctxt "skills.name"
+msgid "$B看穿"
+msgstr ""
+
+#. ID 265
+msgctxt "skills.description"
+msgid "赋予自身对多种武器的耐性。/耐:斩突重射鞭"
+msgstr ""
+
+#. ID 265
+msgctxt "skills.using_message1"
+msgid "使出了看穿！"
+msgstr ""
+
+#. ID 266
+msgctxt "skills.name"
+msgid "$B一纸之隔"
+msgstr ""
+
+#. ID 266
+msgctxt "skills.description"
+msgid "赋予自己对突刺和暗杀的耐性。耐:突暗"
+msgstr ""
+
+#. ID 266
+msgctxt "skills.using_message1"
+msgid "使出了一纸之隔！"
+msgstr ""
+
+#. ID 267
+msgctxt "skills.name"
+msgid "$B招架"
+msgstr ""
+
+#. ID 267
+msgctxt "skills.description"
+msgid "赋予自身对斩和重武器的耐性。耐:斩重"
+msgstr ""
+
+#. ID 267
+msgctxt "skills.using_message1"
+msgid "使出了招架！"
+msgstr ""
+
+#. ID 268
+msgctxt "skills.name"
+msgid "$B回避"
+msgstr ""
+
+#. ID 268
+msgctxt "skills.description"
+msgid "赋予自身对突刺和长武器的耐性。耐:突长"
+msgstr ""
+
+#. ID 268
+msgctxt "skills.using_message1"
+msgid "使出了回避！"
+msgstr ""
+
+#. ID 269
+msgctxt "skills.name"
+msgid "$B斩箭"
+msgstr ""
+
+#. ID 269
+msgctxt "skills.description"
+msgid "赋予自身对射击和鞭的耐性。耐:射鞭"
+msgstr ""
+
+#. ID 269
+msgctxt "skills.using_message1"
+msgid "使出了斩箭！"
+msgstr ""
+
+#. ID 270
+msgctxt "skills.name"
+msgid "$B举盾防御"
+msgstr ""
+
+#. ID 271
+msgctxt "skills.name"
+msgid "■■■■味方能力上昇"
+msgstr ""
+
+#. ID 272
+msgctxt "skills.name"
+msgid "----２倍?全体"
+msgstr ""
+
+#. ID 274
+msgctxt "skills.name"
+msgid "$B哈鲁的加护"
+msgstr ""
+
+#. ID 274
+msgctxt "skills.description"
+msgid "治疗全部异常，攻击力翻倍。/全/攻/治(全)"
+msgstr ""
+
+#. ID 274
+msgctxt "skills.using_message1"
+msgid "祈求了哈鲁的庇佑！"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.name"
+msgid "$B$C圣战"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.description"
+msgid "我方全员的攻击力变为2倍。/魔/全/攻"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.using_message1"
+msgid "发动了圣战！"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.using_message2"
+msgid "被神之手指轻轻抚摩。"
+msgstr ""
+
+#. ID 277
+msgctxt "skills.name"
+msgid "----２倍?個人"
+msgstr ""
+
+#. ID 278
+msgctxt "skills.name"
+msgid "$B速度付与"
+msgstr ""
+
+#. ID 278
+msgctxt "skills.description"
+msgid "我方一人的速度变为2倍。/速"
+msgstr ""
+
+#. ID 278
+msgctxt "skills.using_message1"
+msgid "使用了速度付与！"
+msgstr ""
+
+#. ID 279
+msgctxt "skills.name"
+msgid "$B魔力付与"
+msgstr ""
+
+#. ID 279
+msgctxt "skills.description"
+msgid "我方一人的魔力变为2倍。/魔"
+msgstr ""
+
+#. ID 279
+msgctxt "skills.using_message1"
+msgid "使用了魔力付与！"
+msgstr ""
+
+#. ID 280
+msgctxt "skills.name"
+msgid "$B$C倍力"
+msgstr ""
+
+#. ID 280
+msgctxt "skills.description"
+msgid "我方一人的攻击力变为2倍。/魔/攻"
+msgstr ""
+
+#. ID 280
+msgctxt "skills.using_message1"
+msgid "咏唱了倍力之咒！"
+msgstr ""
+
+#. ID 281
+msgctxt "skills.name"
+msgid "$B铁壁"
+msgstr ""
+
+#. ID 281
+msgctxt "skills.description"
+msgid "我方一人的防御力变为2倍。/防"
+msgstr ""
+
+#. ID 281
+msgctxt "skills.using_message1"
+msgid "使用了铁壁！"
+msgstr ""
+
+#. ID 282
+msgctxt "skills.name"
+msgid "----２倍?自分"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.name"
+msgid "$B狂战士"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.description"
+msgid "自己的攻防速翻倍。无法进行回复。/攻防速/诅"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.using_message1"
+msgid "发狂了！"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.using_message2"
+msgid "破灭之咒！"
+msgstr ""
+
+#. ID 284
+msgctxt "skills.name"
+msgid "$B分身"
+msgstr ""
+
+#. ID 284
+msgctxt "skills.description"
+msgid "自身的攻击力和速度翻倍。/攻速"
+msgstr ""
+
+#. ID 284
+#. ID 338
+msgctxt "skills.using_message1"
+msgid "分身了！"
+msgstr ""
+
+#. ID 284
+#. ID 338
+msgctxt "skills.using_message2"
+msgid "一变二，二变四！"
+msgstr ""
+
+#. ID 285
+msgctxt "skills.name"
+msgid "$B激怒"
+msgstr ""
+
+#. ID 285
+msgctxt "skills.description"
+msgid "自身的攻击力翻倍。/攻"
+msgstr ""
+
+#. ID 285
+msgctxt "skills.using_message1"
+msgid "激怒了！"
+msgstr ""
+
+#. ID 286
+msgctxt "skills.name"
+msgid "$B寸长寸强"
+msgstr ""
+
+#. ID 286
+msgctxt "skills.description"
+msgid "通过保持长武器的有利距离使速度翻倍。/长/速"
+msgstr ""
+
+#. ID 286
+msgctxt "skills.using_message1"
+msgid "保持了距离！"
+msgstr ""
+
+#. ID 287
+msgctxt "skills.name"
+msgid "$B缩地"
+msgstr ""
+
+#. ID 287
+msgctxt "skills.description"
+msgid "自己的速度翻倍。/速"
+msgstr ""
+
+#. ID 287
+msgctxt "skills.using_message1"
+msgid "使出了缩地！"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.name"
+msgid "$B混沌的血脉"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.description"
+msgid "自身的全能力翻倍。/攻防魔速"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.using_message1"
+msgid "的四肢化为了异型！"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.using_message2"
+msgid "「原本不想使用这力量的……」"
+msgstr ""
+
+#. ID 289
+msgctxt "skills.name"
+msgid "$B$C无音咏唱"
+msgstr ""
+
+#. ID 289
+msgctxt "skills.description"
+msgid "自身的魔力翻倍。/魔/魔"
+msgstr ""
+
+#. ID 289
+msgctxt "skills.using_message1"
+msgid "展开了魔法阵！"
+msgstr ""
+
+#. ID 290
+msgctxt "skills.name"
+msgid "----上昇?全員"
+msgstr ""
+
+#. ID 291
+msgctxt "skills.name"
+msgid "$B$C战歌"
+msgstr ""
+
+#. ID 291
+msgctxt "skills.description"
+msgid "提高我方全员的攻击力。效果值22/魔/全/攻"
+msgstr ""
+
+#. ID 291
+msgctxt "skills.using_message1"
+msgid "唱起了战歌！"
+msgstr ""
+
+#. ID 292
+msgctxt "skills.name"
+msgid "$B$C结界构成"
+msgstr ""
+
+#. ID 292
+msgctxt "skills.description"
+msgid "提高我方全员的防御力。效果值22/魔/全/防"
+msgstr ""
+
+#. ID 292
+msgctxt "skills.using_message1"
+msgid "张起了结界！"
+msgstr ""
+
+#. ID 293
+msgctxt "skills.name"
+msgid "$B$C加速之咒"
+msgstr ""
+
+#. ID 293
+msgctxt "skills.description"
+msgid "提高我方全员的速度。效果值44/魔/全/速"
+msgstr ""
+
+#. ID 293
+msgctxt "skills.using_message1"
+msgid "咏唱了加速之咒！"
+msgstr ""
+
+#. ID 294
+msgctxt "skills.name"
+msgid "$B鼓起干劲上吧"
+msgstr ""
+
+#. ID 294
+msgctxt "skills.description"
+msgid "提高我方全员的攻击力。效果值18/全/攻"
+msgstr ""
+
+#. ID 294
+msgctxt "skills.using_message1"
+msgid "鼓舞了士气！"
+msgstr ""
+
+#. ID 296
+msgctxt "skills.name"
+msgid "$B突击命令"
+msgstr ""
+
+#. ID 296
+msgctxt "skills.description"
+msgid "提高我方全员的攻击力。效果值22/全/攻"
+msgstr ""
+
+#. ID 296
+msgctxt "skills.using_message1"
+msgid "下达了突击命令！"
+msgstr ""
+
+#. ID 297
+msgctxt "skills.name"
+msgid "$B防御阵型"
+msgstr ""
+
+#. ID 297
+msgctxt "skills.description"
+msgid "提高我方全员的防御力。效果值22/全/防"
+msgstr ""
+
+#. ID 297
+msgctxt "skills.using_message1"
+msgid "下达了防御命令！"
+msgstr ""
+
+#. ID 299
+msgctxt "skills.name"
+msgid "----上昇?個人"
+msgstr ""
+
+#. ID 301
+msgctxt "skills.name"
+msgid "$B$C盾之咒"
+msgstr ""
+
+#. ID 301
+msgctxt "skills.description"
+msgid "提高我方一人的防御力。效果值26/魔/防"
+msgstr ""
+
+#. ID 301
+msgctxt "skills.using_message1"
+msgid "咏唱了盾之咒！"
+msgstr ""
+
+#. ID 304
+msgctxt "skills.name"
+msgid "----上昇?自分"
+msgstr ""
+
+#. ID 306
+msgctxt "skills.name"
+msgid "$B斗气"
+msgstr ""
+
+#. ID 306
+msgctxt "skills.description"
+msgid "提高自身的攻击力。效果值30/攻"
+msgstr ""
+
+#. ID 306
+msgctxt "skills.using_message1"
+msgid "的斗气高扬！"
+msgstr ""
+
+#. ID 307
+msgctxt "skills.name"
+msgid "$B固守"
+msgstr ""
+
+#. ID 307
+msgctxt "skills.description"
+msgid "提高自己的防御力。效果值30/防"
+msgstr ""
+
+#. ID 307
+msgctxt "skills.using_message1"
+msgid "使用了固守！"
+msgstr ""
+
+#. ID 308
+msgctxt "skills.name"
+msgid "$B俊足"
+msgstr ""
+
+#. ID 308
+msgctxt "skills.description"
+msgid "提高自身的速度。效果值60/速"
+msgstr ""
+
+#. ID 308
+msgctxt "skills.using_message1"
+msgid "使用了俊足！"
+msgstr ""
+
+#. ID 309
+msgctxt "skills.name"
+msgid "$B$C咏唱"
+msgstr ""
+
+#. ID 309
+msgctxt "skills.description"
+msgid "提高自身的魔力。效果值60/魔/魔"
+msgstr ""
+
+#. ID 309
+#. ID 337
+msgctxt "skills.using_message1"
+msgid "咏唱了咒术！"
+msgstr ""
+
+#. ID 312
+msgctxt "skills.name"
+msgid "↑戦闘スキル-------"
+msgstr ""
+
+#. ID 313
+msgctxt "skills.name"
+msgid "火炎瓶"
+msgstr ""
+
+#. ID 313
+#. ID 314
+#. ID 315
+msgctxt "skills.description"
+msgid "用火焰席卷敌人。"
+msgstr ""
+
+#. ID 313
+msgctxt "skills.using_message1"
+msgid "投出了火炎瓶！"
+msgstr ""
+
+#. ID 314
+msgctxt "skills.name"
+msgid "爆发烧瓶"
+msgstr ""
+
+#. ID 314
+msgctxt "skills.using_message1"
+msgid "投出了爆发烧瓶！"
+msgstr ""
+
+#. ID 315
+msgctxt "skills.name"
+msgid "破坏性炸弹！"
+msgstr ""
+
+#. ID 315
+msgctxt "skills.using_message1"
+msgid "投出了破坏性炸弹！"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.name"
+msgid "妖精之药"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.description"
+msgid "魔法使之药"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.using_message1"
+msgid "使用了妖精之药"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.using_message2"
+msgid "魔法之光包围了你！"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.name"
+msgid "矮人之药"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.description"
+msgid "耐性之药"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.using_message1"
+msgid "使用了矮人之药"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.using_message2"
+msgid "矮爆了！简直都快看不到人了！"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.name"
+msgid "巨人之药"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.description"
+msgid "怪力之药"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.using_message1"
+msgid "使用了巨人之药！"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.using_message2"
+msgid "恐怖！巨大化！"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.name"
+msgid "龙药"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.description"
+msgid "让服用者获得不死之力的药"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.using_message1"
+msgid "使用了龙药！"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.using_message2"
+msgid "被不可思议的力量守护了！"
+msgstr ""
+
+#. ID 325
+msgctxt "skills.name"
+msgid "325"
+msgstr ""
+
+#. ID 327
+msgctxt "skills.name"
+msgid "100面骰子ボツ"
+msgstr ""
+
+#. ID 327
+msgctxt "skills.description"
+msgid "全能力100低下"
+msgstr ""
+
+#. ID 327
+msgctxt "skills.using_message1"
+msgid "投出了100面骰子！"
+msgstr ""
+
+#. ID 328
+msgctxt "skills.name"
+msgid "捏碎ラスボス"
+msgstr ""
+
+#. ID 328
+#. ID 354
+msgctxt "skills.description"
+msgid "封锁一名敌人的行动。攻11/停止"
+msgstr ""
+
+#. ID 328
+#. ID 354
+#. ID 358
+msgctxt "skills.using_message1"
+msgid "抓了过来！"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.name"
+msgid "封印回廊"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.description"
+msgid "/魔暗/死/防无"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.using_message1"
+msgid "咏唱了封印回廊"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.using_message2"
+msgid "空间扭曲了！"
+msgstr ""
+
+#. ID 330
+msgctxt "skills.name"
+msgid "屠戮之剑敵用"
+msgstr ""
+
+#. ID 330
+msgctxt "skills.description"
+msgid "投射出异界的魔剑。攻75/魔暗/死/防无"
+msgstr ""
+
+#. ID 331
+msgctxt "skills.name"
+msgid "战斗咆哮"
+msgstr ""
+
+#. ID 331
+msgctxt "skills.using_message1"
+msgid "的战吼！"
+msgstr ""
+
+#. ID 331
+msgctxt "skills.using_message2"
+msgid "压力骤增！"
+msgstr ""
+
+#. ID 332
+msgctxt "skills.name"
+msgid "混沌旋涡"
+msgstr ""
+
+#. ID 332
+msgctxt "skills.using_message1"
+msgid "释放出彩色的旋涡！"
+msgstr ""
+
+#. ID 333
+msgctxt "skills.name"
+msgid "全裸斗气"
+msgstr ""
+
+#. ID 333
+msgctxt "skills.description"
+msgid "上升自己的攻击力。效果值30/攻"
+msgstr ""
+
+#. ID 333
+msgctxt "skills.using_message1"
+msgid "斗志昂扬了！"
+msgstr ""
+
+#. ID 334
+msgctxt "skills.name"
+msgid "狼手加减"
+msgstr ""
+
+#. ID 334
+#. ID 363
+msgctxt "skills.using_message1"
+msgid "的动作迟缓了！"
+msgstr ""
+
+#. ID 335
+msgctxt "skills.name"
+msgid "扭扭捏捏"
+msgstr ""
+
+#. ID 335
+msgctxt "skills.using_message1"
+msgid "正在扭扭捏捏！"
+msgstr ""
+
+#. ID 336
+msgctxt "skills.name"
+msgid "看这边"
+msgstr ""
+
+#. ID 336
+#. ID 344
+msgctxt "skills.description"
+msgid "上升自身的攻击力。效果值30/攻"
+msgstr ""
+
+#. ID 336
+msgctxt "skills.using_message1"
+msgid "在怒视着你们！"
+msgstr ""
+
+#. ID 337
+msgctxt "skills.name"
+msgid "ラスボス咏唱"
+msgstr ""
+
+#. ID 338
+msgctxt "skills.name"
+msgid "敵分身"
+msgstr ""
+
+#. ID 338
+msgctxt "skills.description"
+msgid "自身的攻击和速度变为2倍。/攻速"
+msgstr ""
+
+#. ID 339
+msgctxt "skills.name"
+msgid "警报"
+msgstr ""
+
+#. ID 339
+msgctxt "skills.using_message1"
+msgid "呼叫了援军！"
+msgstr ""
+
+#. ID 340
+msgctxt "skills.name"
+msgid "雨柳斩击"
+msgstr ""
+
+#. ID 340
+msgctxt "skills.description"
+msgid "敌人专用斩击。"
+msgstr ""
+
+#. ID 340
+#. ID 396
+msgctxt "skills.using_message1"
+msgid "的斩击！"
+msgstr ""
+
+#. ID 341
+msgctxt "skills.name"
+msgid "雨柳流星剑"
+msgstr ""
+
+#. ID 341
+msgctxt "skills.description"
+msgid "神速的斩击。攻200/斩/必中"
+msgstr ""
+
+#. ID 341
+msgctxt "skills.using_message1"
+msgid "使出了流星剑！"
+msgstr ""
+
+#. ID 341
+msgctxt "skills.using_message2"
+msgid "「哼哼……」"
+msgstr ""
+
+#. ID 342
+msgctxt "skills.name"
+msgid "雨柳虚空斩"
+msgstr ""
+
+#. ID 342
+msgctxt "skills.description"
+msgid "本已失传的剑技。攻75/斩/必中防无"
+msgstr ""
+
+#. ID 342
+msgctxt "skills.using_message2"
+msgid "「哼……」"
+msgstr ""
+
+#. ID 343
+msgctxt "skills.name"
+msgid "撒网"
+msgstr ""
+
+#. ID 343
+msgctxt "skills.description"
+msgid "束缚全体敌人的行动。/魔/全/缚"
+msgstr ""
+
+#. ID 343
+msgctxt "skills.using_message1"
+msgid "撒开了网！"
+msgstr ""
+
+#. ID 344
+msgctxt "skills.name"
+msgid "$B全裸拳"
+msgstr ""
+
+#. ID 344
+msgctxt "skills.using_message1"
+msgid "斗气高扬了！"
+msgstr ""
+
+#. ID 344
+msgctxt "skills.using_message2"
+msgid "「回归自然的姿态吧！！」"
+msgstr ""
+
+#. ID 345
+msgctxt "skills.name"
+msgid "345"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.name"
+msgid "$A七色怪光线"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.description"
+msgid "谜之光线。攻30/全/燃烧"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.using_message1"
+msgid "释放了七色怪光线！"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.using_message2"
+msgid "ZAP!! ZAP!! ZAP!!"
+msgstr ""
+
+#. ID 347
+msgctxt "skills.name"
+msgid "咏唱MP20"
+msgstr ""
+
+#. ID 347
+msgctxt "skills.using_message1"
+msgid "集中了精神！"
+msgstr ""
+
+#. ID 348
+msgctxt "skills.name"
+msgid "活祭"
+msgstr ""
+
+#. ID 348
+msgctxt "skills.description"
+msgid "回复HO。效果值90/回"
+msgstr ""
+
+#. ID 348
+msgctxt "skills.using_message1"
+msgid "夺取了魔物们的生命！"
+msgstr ""
+
+#. ID 349
+msgctxt "skills.name"
+msgid "撕咬"
+msgstr ""
+
+#. ID 349
+#. ID 372
+msgctxt "skills.using_message1"
+msgid "张开了血盆大口！"
+msgstr ""
+
+#. ID 350
+msgctxt "skills.name"
+msgid "350"
+msgstr ""
+
+#. ID 351
+msgctxt "skills.name"
+msgid "魔物召唤"
+msgstr ""
+
+#. ID 351
+msgctxt "skills.using_message1"
+msgid "召唤了魔物！"
+msgstr ""
+
+#. ID 352
+msgctxt "skills.name"
+msgid "$E$C恶之曼陀罗4"
+msgstr ""
+
+#. ID 352
+msgctxt "skills.description"
+msgid "封锁全体敌人的行动。/魔/全/停止"
+msgstr ""
+
+#. ID 352
+msgctxt "skills.using_message1"
+msgid "们在空中描绘起曼荼罗的图案！"
+msgstr ""
+
+#. ID 354
+msgctxt "skills.name"
+msgid "$A捏碎3"
+msgstr ""
+
+#. ID 355
+msgctxt "skills.name"
+msgid "$A身体冲撞1"
+msgstr ""
+
+#. ID 355
+msgctxt "skills.description"
+msgid "低命中率。80%/重/防御无视/冲"
+msgstr ""
+
+#. ID 355
+msgctxt "skills.using_message1"
+msgid "的身体冲撞！"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.name"
+msgid "$A大地践踏4"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.description"
+msgid "引发大地震。/地/全/冲击"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.using_message1"
+msgid "践踏大地引发了地震！"
+msgstr ""
+
+#. ID 357
+msgctxt "skills.name"
+msgid "$A挥劈5"
+msgstr ""
+
+#. ID 357
+msgctxt "skills.description"
+msgid "无视防御的重攻撃。攻52/重/防无"
+msgstr ""
+
+#. ID 357
+msgctxt "skills.using_message1"
+msgid "挥下了拳头！"
+msgstr ""
+
+#. ID 358
+msgctxt "skills.name"
+msgid "擒抱"
+msgstr ""
+
+#. ID 358
+msgctxt "skills.description"
+msgid "封锁一名敌人的行动。/停止劣速"
+msgstr ""
+
+#. ID 359
+msgctxt "skills.name"
+msgid "吹笛"
+msgstr ""
+
+#. ID 359
+msgctxt "skills.using_message1"
+msgid "吹起了笛子！"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.name"
+msgid "自我再生"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.description"
+msgid "恢复自身HP治疗全部异常。回70[回治]"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.using_message1"
+msgid "的伤口正在愈合！"
+msgstr ""
+
+#. ID 362
+msgctxt "skills.name"
+msgid "シジ皇帝手加减"
+msgstr ""
+
+#. ID 362
+msgctxt "skills.using_message1"
+msgid "的行动迟缓了！"
+msgstr ""
+
+#. ID 362
+msgctxt "skills.using_message2"
+msgid "希冯「…我……没想要变成这样……！」"
+msgstr ""
+
+#. ID 363
+msgctxt "skills.name"
+msgid "チュナ皇帝手加減"
+msgstr ""
+
+#. ID 363
+msgctxt "skills.using_message2"
+msgid "秋娜「……趁现在……快动手……！」"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.name"
+msgid "突进攻击"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.description"
+msgid "攻击全体敌人。攻28[全]"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.using_message1"
+msgid "冲过来大闹了一场！"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.name"
+msgid "主炮发射"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.description"
+msgid "用业火席卷全体敌人。"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.using_message1"
+msgid "的主炮开火了！"
+msgstr ""
+
+#. ID 366
+msgctxt "skills.name"
+msgid "骤风"
+msgstr ""
+
+#. ID 366
+msgctxt "skills.using_message1"
+msgid "引发了骤风！"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.name"
+msgid "催眠之粉"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.description"
+msgid "令全体敌人失去意识[魔/失神]"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.using_message1"
+msgid "散布了催眠之粉！"
+msgstr ""
+
+#. ID 368
+msgctxt "skills.name"
+msgid "舞蹈"
+msgstr ""
+
+#. ID 368
+msgctxt "skills.using_message1"
+msgid "跳起舞来！"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.name"
+msgid "肠回"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.description"
+msgid "用鞭子攻击全体敌人。攻12[鞭/全]"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.using_message1"
+msgid "挥起肠子甩了一圈！"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.using_message2"
+msgid "「WOW！」"
+msgstr ""
+
+#. ID 370
+msgctxt "skills.name"
+msgid "投掷头颅"
+msgstr ""
+
+#. ID 370
+msgctxt "skills.using_message1"
+msgid "扔出了自己的脑袋！"
+msgstr ""
+
+#. ID 370
+msgctxt "skills.using_message2"
+msgid "「YEAH！！」"
+msgstr ""
+
+#. ID 371
+msgctxt "skills.name"
+msgid "石化视线"
+msgstr ""
+
+#. ID 371
+msgctxt "skills.using_message1"
+msgid "使出了石化视线！"
+msgstr ""
+
+#. ID 372
+msgctxt "skills.name"
+msgid "活吞"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.name"
+msgid "蟒缠"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.description"
+msgid "对敌人造成伤害，引起麻痹状态"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.using_message1"
+msgid "的缠身攻击！"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.name"
+msgid "投石"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.description"
+msgid "对一名敌人造成射击伤害。"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.using_message1"
+msgid "丢出了石头！"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.name"
+msgid "毒攻撃"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.description"
+msgid "对一名敌人造成伤害，引发中毒状态"
+msgstr ""
+
+#. ID 375
+#. ID 393
+msgctxt "skills.using_message1"
+msgid "的攻击！"
+msgstr ""
+
+#. ID 376
+msgctxt "skills.name"
+msgid "投掷小麦粉"
+msgstr ""
+
+#. ID 376
+msgctxt "skills.using_message1"
+msgid "投出了小麦粉！"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.name"
+msgid "投油"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.using_message1"
+msgid "投出了油！"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.using_message2"
+msgid "粘粘稠稠的！"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.name"
+msgid "筋肉人手刀"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.description"
+msgid "饱含浑身力量的无属性攻击。攻8"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.using_message1"
+msgid "使出了筋肉人手刀！"
+msgstr ""
+
+#. ID 379
+msgctxt "skills.name"
+msgid "NightBreed·Bomb"
+msgstr ""
+
+#. ID 379
+msgctxt "skills.description"
+msgid "令敌人摔倒的无属性攻击。攻12[冲击]"
+msgstr ""
+
+#. ID 379
+msgctxt "skills.using_message1"
+msgid "使出了NightBreed·Bomb！"
+msgstr ""
+
+#. ID 380
+msgctxt "skills.name"
+msgid "圣伯纳飞踢"
+msgstr ""
+
+#. ID 380
+msgctxt "skills.description"
+msgid "攻24"
+msgstr ""
+
+#. ID 380
+msgctxt "skills.using_message1"
+msgid "的圣伯纳飞踢！"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.name"
+msgid "$EＢＰ腐食"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.description"
+msgid "黑肠的特殊能力。效20/劣防"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.using_message1"
+msgid "溶解了敌人的装甲！"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.using_message2"
+msgid "「无敌的侵蚀力！」"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.name"
+msgid "$A$EＢＰ同化"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.description"
+msgid "黑肠的特殊能力。攻10/吸収"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.using_message1"
+msgid "使出了同化！"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.using_message2"
+msgid "「要慢慢吃哦」"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.name"
+msgid "$A$EＢＰ攻击"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.description"
+msgid "黑肠的特殊能力。攻0/吞噬"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.using_message1"
+msgid "扑了过来！"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.using_message2"
+msgid "「食物的怨恨可是很恐怖的！」"
+msgstr ""
+
+#. ID 384
+msgctxt "skills.name"
+msgid "$E嚎叫"
+msgstr ""
+
+#. ID 384
+msgctxt "skills.description"
+msgid "惊吓全体敌人，令其无法行动。"
+msgstr ""
+
+#. ID 384
+msgctxt "skills.using_message1"
+msgid "发出了嚎叫！"
+msgstr ""
+
+#. ID 385
+msgctxt "skills.name"
+msgid "$A撕裂"
+msgstr ""
+
+#. ID 385
+msgctxt "skills.description"
+msgid "以爪进行连续攻击。攻44/斩/血"
+msgstr ""
+
+#. ID 385
+msgctxt "skills.using_message1"
+msgid "使出了撕裂！"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.name"
+msgid "$A戳目"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.description"
+msgid "突刺敌人的眼睛让其命中下降。攻3/突/劣中"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.using_message1"
+msgid "使出了戳目！"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.name"
+msgid "$A踢飞"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.description"
+msgid "令敌人摔倒的攻击。攻12/重/冲击"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.using_message1"
+msgid "踢飞了敌人！"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.name"
+msgid "鞭"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.description"
+msgid "敌专用鞭攻撃。"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.using_message1"
+msgid "的鞭攻击！"
+msgstr ""
+
+#. ID 390
+msgctxt "skills.name"
+msgid "重打·冲击"
+msgstr ""
+
+#. ID 390
+#. ID 391
+msgctxt "skills.description"
+msgid "敌专用重武器攻击。"
+msgstr ""
+
+#. ID 390
+#. ID 394
+msgctxt "skills.using_message1"
+msgid "的打击！"
+msgstr ""
+
+#. ID 391
+msgctxt "skills.name"
+msgid "重打·出血"
+msgstr ""
+
+#. ID 391
+msgctxt "skills.using_message1"
+msgid "的重斩！"
+msgstr ""
+
+#. ID 392
+msgctxt "skills.name"
+msgid "暗杀"
+msgstr ""
+
+#. ID 392
+msgctxt "skills.description"
+msgid "敌专用暗杀攻击。"
+msgstr ""
+
+#. ID 392
+msgctxt "skills.using_message1"
+msgid "的暗杀！"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.name"
+msgid "射击"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.description"
+msgid "敌专用射击攻击！"
+msgstr ""
+
+#. ID 394
+msgctxt "skills.name"
+msgid "重打ボツ？"
+msgstr ""
+
+#. ID 394
+msgctxt "skills.description"
+msgid "敌专用打击攻击。"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.name"
+msgid "突刺"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.description"
+msgid "敌专用突刺攻击。"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.using_message1"
+msgid "的突刺！"
+msgstr ""
+
+#. ID 396
+msgctxt "skills.name"
+msgid "斩击"
+msgstr ""
+
+#. ID 396
+msgctxt "skills.description"
+msgid "敌专用斩击。"
+msgstr ""
+
+#. ID 398
+msgctxt "skills.name"
+msgid "↓探索スキル--------"
+msgstr ""
+
+#. ID 399
+msgctxt "skills.name"
+msgid "※机敏"
+msgstr ""
+
+#. ID 399
+msgctxt "skills.description"
+msgid "迅速而准确的运动能力。"
+msgstr ""
+
+#. ID 400
+msgctxt "skills.name"
+msgid "※生存术"
+msgstr ""
+
+#. ID 400
+msgctxt "skills.description"
+msgid "囊括野宿、狩猎、游泳、驾船等全部野外生存术的能力"
+msgstr ""
+
+#. ID 401
+msgctxt "skills.name"
+msgid "※危险感知"
+msgstr ""
+
+#. ID 401
+msgctxt "skills.description"
+msgid "事先察觉并回避危险的能力。"
+msgstr ""
+
+#. ID 402
+msgctxt "skills.name"
+msgid "※盗贼技艺"
+msgstr ""
+
+#. ID 402
+msgctxt "skills.description"
+msgid "解除陷阱和简单的锁的技能。"
+msgstr ""
+
+#. ID 403
+msgctxt "skills.name"
+msgid "※腕力"
+msgstr ""
+
+#. ID 403
+msgctxt "skills.description"
+msgid "代表着强大肉体力量的技能。"
+msgstr ""
+
+#. ID 404
+msgctxt "skills.name"
+msgid "※古代知识"
+msgstr ""
+
+#. ID 404
+msgctxt "skills.description"
+msgid "涉猎历史知识和古代语言的技能。"
+msgstr ""
+
+#. ID 408
+msgctxt "skills.name"
+msgid "夜魔知识"
+msgstr ""
+
+#. ID 408
+msgctxt "skills.using_message1"
+msgid "使用了夜魔知识！"
+msgstr ""
+
+#. ID 410
+msgctxt "skills.name"
+msgid "※予名之术"
+msgstr ""
+
+#. ID 410
+msgctxt "skills.description"
+msgid "予无名之物以人之名。"
+msgstr ""
+
+#. ID 410
+msgctxt "skills.using_message1"
+msgid "使用了予名之术"
+msgstr ""
+
+#. ID 411
+msgctxt "skills.name"
+msgid "↓ボツ--------"
+msgstr ""
+
+#. ID 412
+msgctxt "skills.name"
+msgid "$A风车碎きボツ"
+msgstr ""
+
+#. ID 412
+msgctxt "skills.description"
+msgid "贯通铠甲的突刺攻击。攻52/突/防无"
+msgstr ""
+
+#. ID 412
+msgctxt "skills.using_message1"
+msgid "使出了风车碎！"
+msgstr ""
+
+#. ID 413
+msgctxt "skills.name"
+msgid "$A兜割ボツ"
+msgstr ""
+
+#. ID 413
+msgctxt "skills.description"
+msgid "令一名敌人防御力下降的攻击。攻10/重/劣防"
+msgstr ""
+
+#. ID 414
+msgctxt "skills.name"
+msgid "$A武器夺取3ボツ"
+msgstr ""
+
+#. ID 414
+msgctxt "skills.description"
+msgid "降低敌人的命中和攻击力。攻15/鞭/劣攻中"
+msgstr ""
+
+#. ID 414
+msgctxt "skills.using_message1"
+msgid "使出了武器夺取！"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.name"
+msgid "$A脑门直击3ボツ"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.description"
+msgid "令敌人气绝的打击。攻8/重/停止"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.using_message1"
+msgid "使出了脑门直击！"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.name"
+msgid "$A闪光突击2ボツ"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.description"
+msgid "有对空效果的必中攻击。攻16/突空/必中"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.using_message1"
+msgid "使出了闪光突击！"
+msgstr ""
+
+#. ID 417
+msgctxt "skills.name"
+msgid "$E$C起舞之歌1ボツ"
+msgstr ""
+
+#. ID 417
+msgctxt "skills.description"
+msgid "令全体敌人不由自主地跳起舞来。/魔/全/踊"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.name"
+msgid "$E小丑的幻惑"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.description"
+msgid "令全体敌人的动作狂乱。/全/乱怯怒"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.using_message1"
+msgid "的扰乱攻击！"
+msgstr ""
+
+#. ID 419
+msgctxt "skills.name"
+msgid "$B圣甲胄ボツ"
+msgstr ""
+
+#. ID 419
+msgctxt "skills.description"
+msgid "赋予对全武器的耐性。效18/防/耐:武器"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.name"
+msgid "$B水之守护ボツ"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.description"
+msgid "赋予我方全体对水的耐性。/全/耐:水"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.using_message1"
+msgid "使用了水之守护！"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.name"
+msgid "$A缚足1ボツ"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.description"
+msgid "用鞭子攻击敌人的脚底，令其摔倒。攻8/鞭/冲击"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.using_message1"
+msgid "使出了缚足！"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.name"
+msgid "$A架势崩坏1ボツ"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.description"
+msgid "以强力的攻击动摇对手的驾驶。攻8/重/冲击"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.using_message1"
+msgid "使出了架势崩坏！"
+msgstr ""
+
+#. ID 423
+msgctxt "skills.name"
+msgid "$A剑舞5ボツ"
+msgstr ""
+
+#. ID 423
+msgctxt "skills.description"
+msgid "斩击全体敌人。攻60/斩/全"
+msgstr ""
+
+#. ID 423
+msgctxt "skills.using_message1"
+msgid "使出了剑舞！"
+msgstr ""
+
+#. ID 1
+msgctxt "items.name"
+msgid "テスト"
+msgstr ""
+
+#. ID 5
+msgctxt "items.name"
+msgid "5"
+msgstr ""
+
+#. ID 7
+msgctxt "items.name"
+msgid "◎救护兵"
+msgstr ""
+
+#. ID 7
+msgctxt "items.description"
+msgid "完全恢复我方全员。战斗中无法使用。"
+msgstr ""
+
+#. ID 8
+msgctxt "items.name"
+msgid "--------------------"
+msgstr ""
+
+#. ID 9
+msgctxt "items.name"
+msgid "※水晶瓶"
+msgstr ""
+
+#. ID 9
+msgctxt "items.description"
+msgid "装有寄宿星光的圣水。可以无限次用于照明。"
+msgstr ""
+
+#. ID 10
+msgctxt "items.name"
+msgid "※提灯"
+msgstr ""
+
+#. ID 10
+msgctxt "items.description"
+msgid "金属制的照明工具。使用时需要用到油。"
+msgstr ""
+
+#. ID 11
+msgctxt "items.name"
+msgid "※绳索"
+msgstr ""
+
+#. ID 11
+msgctxt "items.description"
+msgid "带有钩爪的绳索。大约可以使用5次。"
+msgstr ""
+
+#. ID 12
+msgctxt "items.name"
+msgid "※鹤嘴锄"
+msgstr ""
+
+#. ID 12
+#. ID 13
+msgctxt "items.description"
+msgid "用来挖掘土和岩石的道具。使用大约10次后会坏掉。"
+msgstr ""
+
+#. ID 14
+msgctxt "items.name"
+msgid "※油"
+msgstr ""
+
+#. ID 14
+msgctxt "items.description"
+msgid "照明用的油。使用提灯时会用到。"
+msgstr ""
+
+#. ID 16
+msgctxt "items.name"
+msgid "※魔法钥匙"
+msgstr ""
+
+#. ID 16
+msgctxt "items.description"
+msgid "能打开一般的锁，安全可靠。"
+msgstr ""
+
+#. ID 19
+msgctxt "items.name"
+msgid "※钓鱼竿"
+msgstr ""
+
+#. ID 19
+msgctxt "items.description"
+msgid "钓鱼用具。只能在河边使用。"
+msgstr ""
+
+#. ID 20
+msgctxt "items.name"
+msgid "※冒险手册"
+msgstr ""
+
+#. ID 20
+msgctxt "items.description"
+msgid "记录已经获得的书籍和提示的手册。"
+msgstr ""
+
+#. ID 21
+msgctxt "items.name"
+msgid "※勿忘石"
+msgstr ""
+
+#. ID 21
+msgctxt "items.description"
+msgid "可以在任意地点进行记录。游戏要注意适度。"
+msgstr ""
+
+#. ID 22
+msgctxt "items.name"
+msgid "◎伤药"
+msgstr ""
+
+#. ID 22
+msgctxt "items.description"
+msgid "恢复40点HP。"
+msgstr ""
+
+#. ID 23
+msgctxt "items.name"
+msgid "◎上等伤药"
+msgstr ""
+
+#. ID 23
+msgctxt "items.description"
+msgid "恢复120点HP。"
+msgstr ""
+
+#. ID 24
+msgctxt "items.name"
+msgid "◎特等伤药"
+msgstr ""
+
+#. ID 24
+msgctxt "items.description"
+msgid "完全恢复HP。"
+msgstr ""
+
+#. ID 25
+msgctxt "items.name"
+msgid "◎苏生药"
+msgstr ""
+
+#. ID 25
+msgctxt "items.description"
+msgid "解除战斗不能状态，恢复60%的HP。"
+msgstr ""
+
+#. ID 26
+msgctxt "items.name"
+msgid "◎复活药"
+msgstr ""
+
+#. ID 26
+msgctxt "items.description"
+msgid "解除战斗不能状态，恢复100%的HP。"
+msgstr ""
+
+#. ID 27
+msgctxt "items.name"
+msgid "◎治愈石"
+msgstr ""
+
+#. ID 27
+msgctxt "items.description"
+msgid "回复我方全员120点HP。"
+msgstr ""
+
+#. ID 28
+msgctxt "items.name"
+msgid "◎再生石"
+msgstr ""
+
+#. ID 28
+msgctxt "items.description"
+msgid "完全回复我方全员的HP。"
+msgstr ""
+
+#. ID 29
+msgctxt "items.name"
+msgid "◎贤者之石"
+msgstr ""
+
+#. ID 29
+msgctxt "items.description"
+msgid "令我方全员复活，HP和MP完全恢复。"
+msgstr ""
+
+#. ID 31
+msgctxt "items.name"
+msgid "◎治疗药"
+msgstr ""
+
+#. ID 31
+msgctxt "items.description"
+msgid "治疗HP衰减、弱化状态。"
+msgstr ""
+
+#. ID 32
+msgctxt "items.name"
+msgid "◎清醒药"
+msgstr ""
+
+#. ID 32
+msgctxt "items.description"
+msgid "治疗停止、混乱、制限状态。"
+msgstr ""
+
+#. ID 33
+msgctxt "items.name"
+msgid "◎万能药"
+msgstr ""
+
+#. ID 33
+msgctxt "items.description"
+msgid "治疗除战斗不能和特殊状态以外的全部异常状态。"
+msgstr ""
+
+#. ID 34
+msgctxt "items.name"
+msgid "◎灵药"
+msgstr ""
+
+#. ID 34
+msgctxt "items.description"
+msgid "完全恢复MP。"
+msgstr ""
+
+#. ID 36
+msgctxt "items.name"
+msgid "◎妖精之药"
+msgstr ""
+
+#. ID 36
+msgctxt "items.description"
+msgid "在战斗中给予不可思议的魔法之力。"
+msgstr ""
+
+#. ID 37
+msgctxt "items.name"
+msgid "◎矮人之药"
+msgstr ""
+
+#. ID 37
+msgctxt "items.description"
+msgid "在战斗中令身体缩小。"
+msgstr ""
+
+#. ID 38
+msgctxt "items.name"
+msgid "◎巨人之药"
+msgstr ""
+
+#. ID 38
+msgctxt "items.description"
+msgid "在战斗中令身体巨大化。"
+msgstr ""
+
+#. ID 39
+msgctxt "items.name"
+msgid "◎龙之秘药"
+msgstr ""
+
+#. ID 39
+msgctxt "items.description"
+msgid "在战斗中获得不可思议的加护之力。"
+msgstr ""
+
+#. ID 40
+msgctxt "items.name"
+msgid "$n烟石"
+msgstr ""
+
+#. ID 40
+msgctxt "items.description"
+msgid "夺取全体敌人的视觉。"
+msgstr ""
+
+#. ID 41
+msgctxt "items.name"
+msgid "$n桃色实验管"
+msgstr ""
+
+#. ID 41
+msgctxt "items.description"
+msgid "令全体敌人混乱。"
+msgstr ""
+
+#. ID 42
+msgctxt "items.name"
+msgid "$n催眠雾气瓶"
+msgstr ""
+
+#. ID 42
+msgctxt "items.description"
+msgid "催眠全体敌人。"
+msgstr ""
+
+#. ID 43
+msgctxt "items.name"
+msgid "$n毒珠"
+msgstr ""
+
+#. ID 43
+msgctxt "items.description"
+msgid "令全体敌人中毒。"
+msgstr ""
+
+#. ID 44
+msgctxt "items.name"
+msgid "$n猛毒飞镖"
+msgstr ""
+
+#. ID 44
+msgctxt "items.description"
+msgid "对敌人造成伤害和猛毒状态。"
+msgstr ""
+
+#. ID 45
+msgctxt "items.name"
+msgid "$n火焰瓶"
+msgstr ""
+
+#. ID 45
+msgctxt "items.description"
+msgid "对一名敌人造成火属性小伤害。"
+msgstr ""
+
+#. ID 46
+msgctxt "items.name"
+msgid "$n爆发烧瓶"
+msgstr ""
+
+#. ID 46
+msgctxt "items.description"
+msgid "对全体敌人造成炎属性的中等伤害。"
+msgstr ""
+
+#. ID 47
+msgctxt "items.name"
+msgid "$n破坏性炸弹"
+msgstr ""
+
+#. ID 47
+msgctxt "items.description"
+msgid "对全体敌人造成炎属性大伤害。"
+msgstr ""
+
+#. ID 50
+msgctxt "items.name"
+msgid "50"
+msgstr ""
+
+#. ID 51
+msgctxt "items.name"
+msgid "※黑肠"
+msgstr ""
+
+#. ID 51
+msgctxt "items.description"
+msgid "在被长时间放置不管的厨房里诞生出来的生命之奇迹。"
+msgstr ""
+
+#. ID 52
+msgctxt "items.name"
+msgid "※锋利的戒指"
+msgstr ""
+
+#. ID 52
+msgctxt "items.description"
+msgid "因为太过锋利，无法进行装备，只好用过就丢。"
+msgstr ""
+
+#. ID 55
+msgctxt "items.name"
+msgid "※世界地图ボツ"
+msgstr ""
+
+#. ID 55
+#. ID 232
+msgctxt "items.description"
+msgid "可以阅读世界设定。"
+msgstr ""
+
+#. ID 56
+msgctxt "items.name"
+msgid "※被封印的小箱"
+msgstr ""
+
+#. ID 56
+msgctxt "items.description"
+msgid "破坏之后可以获得提升能力的道具或经验点。"
+msgstr ""
+
+#. ID 58
+msgctxt "items.name"
+msgid "○面包"
+msgstr ""
+
+#. ID 58
+#. ID 88
+#. ID 99
+#. ID 102
+#. ID 110
+#. ID 112
+#. ID 128
+msgctxt "items.description"
+msgid "HP30%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 59
+msgctxt "items.name"
+msgid "○鱼"
+msgstr ""
+
+#. ID 59
+#. ID 60
+#. ID 61
+msgctxt "items.description"
+msgid "HP10%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 60
+msgctxt "items.name"
+msgid "○生肉"
+msgstr ""
+
+#. ID 61
+msgctxt "items.name"
+msgid "○鸟肉"
+msgstr ""
+
+#. ID 62
+msgctxt "items.name"
+msgid "○蔬菜"
+msgstr ""
+
+#. ID 62
+#. ID 68
+msgctxt "items.description"
+msgid "MP5%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 63
+msgctxt "items.name"
+msgid "○蛋"
+msgstr ""
+
+#. ID 63
+msgctxt "items.description"
+msgid "HP5%MP3%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 68
+msgctxt "items.name"
+msgid "○水果"
+msgstr ""
+
+#. ID 69
+msgctxt "items.name"
+msgid "○巧克力"
+msgstr ""
+
+#. ID 69
+#. ID 84
+#. ID 92
+#. ID 123
+#. ID 124
+#. ID 129
+msgctxt "items.description"
+msgid "MP30%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 74
+msgctxt "items.name"
+msgid "○彩虹鱼"
+msgstr ""
+
+#. ID 74
+msgctxt "items.description"
+msgid "传说之鱼。MP80%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 75
+msgctxt "items.name"
+msgid "○龙肉"
+msgstr ""
+
+#. ID 75
+msgctxt "items.description"
+msgid "生龙肉。HP80%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 78
+msgctxt "items.name"
+msgid "○蛋黄酱蛋糕ボツ"
+msgstr ""
+
+#. ID 78
+msgctxt "items.description"
+msgid "难以形容的味道。HP32MP8回复。"
+msgstr ""
+
+#. ID 79
+msgctxt "items.name"
+msgid "○布丁"
+msgstr ""
+
+#. ID 79
+#. ID 90
+msgctxt "items.description"
+msgid "HP20%MP5%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 81
+msgctxt "items.name"
+msgid "○生肉布丁(ボ"
+msgstr ""
+
+#. ID 81
+msgctxt "items.description"
+msgid "HP64回复。"
+msgstr ""
+
+#. ID 82
+msgctxt "items.name"
+msgid "○水果布丁"
+msgstr ""
+
+#. ID 82
+msgctxt "items.description"
+msgid "HP30%MP15%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 84
+msgctxt "items.name"
+msgid "○苹果派"
+msgstr ""
+
+#. ID 85
+msgctxt "items.name"
+msgid "○巧克力派"
+msgstr ""
+
+#. ID 85
+msgctxt "items.description"
+msgid "MP60%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 86
+msgctxt "items.name"
+msgid "○水果三明治"
+msgstr ""
+
+#. ID 86
+#. ID 122
+msgctxt "items.description"
+msgid "MP25%回复。吃起来很方便。"
+msgstr ""
+
+#. ID 88
+msgctxt "items.name"
+msgid "○烤鱼"
+msgstr ""
+
+#. ID 89
+msgctxt "items.name"
+msgid "○蛋黄酱烤鱼ボツ"
+msgstr ""
+
+#. ID 89
+msgctxt "items.description"
+msgid "HP32MP8回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 90
+msgctxt "items.name"
+msgid "○鲜鱼汤"
+msgstr ""
+
+#. ID 91
+msgctxt "items.name"
+msgid "○海鲜锅"
+msgstr ""
+
+#. ID 91
+msgctxt "items.description"
+msgid "我方全员HP10%MP10%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 92
+msgctxt "items.name"
+msgid "○卤汁鱼炖菜"
+msgstr ""
+
+#. ID 93
+msgctxt "items.name"
+msgid "○鱼派"
+msgstr ""
+
+#. ID 93
+#. ID 104
+#. ID 116
+msgctxt "items.description"
+msgid "HP40%MP10%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 94
+msgctxt "items.name"
+msgid "○意式鱼扒"
+msgstr ""
+
+#. ID 94
+#. ID 121
+#. ID 131
+msgctxt "items.description"
+msgid "HP20%MP20%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 95
+msgctxt "items.name"
+msgid "○白身魚三明治"
+msgstr ""
+
+#. ID 95
+msgctxt "items.description"
+msgid "HP10%MP20%回復。吃起来很方便。"
+msgstr ""
+
+#. ID 96
+msgctxt "items.name"
+msgid "○蛋黄酱生鱼片ボツ"
+msgstr ""
+
+#. ID 96
+msgctxt "items.description"
+msgid "HP24MP10回復。"
+msgstr ""
+
+#. ID 99
+msgctxt "items.name"
+msgid "○烧肉"
+msgstr ""
+
+#. ID 100
+msgctxt "items.name"
+msgid "○蛋黄酱烧肉ボツ"
+msgstr ""
+
+#. ID 100
+msgctxt "items.description"
+msgid "HP32MP8回復。"
+msgstr ""
+
+#. ID 102
+msgctxt "items.name"
+msgid "○肉丸炖汤"
+msgstr ""
+
+#. ID 103
+msgctxt "items.name"
+msgid "○寿喜烧"
+msgstr ""
+
+#. ID 103
+msgctxt "items.description"
+msgid "我方全员HP30%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 104
+msgctxt "items.name"
+msgid "○浇汁肉丸"
+msgstr ""
+
+#. ID 105
+msgctxt "items.name"
+msgid "○夹肉面包"
+msgstr ""
+
+#. ID 105
+#. ID 107
+#. ID 115
+msgctxt "items.description"
+msgid "HP60%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 106
+msgctxt "items.name"
+msgid "○切成厚块的肉三明"
+msgstr ""
+
+#. ID 106
+msgctxt "items.description"
+msgid "HP50%回复。吃起来很方便。"
+msgstr ""
+
+#. ID 107
+msgctxt "items.name"
+msgid "○意式蕃茄肉酱"
+msgstr ""
+
+#. ID 110
+msgctxt "items.name"
+msgid "○烤整鸡"
+msgstr ""
+
+#. ID 111
+msgctxt "items.name"
+msgid "○蛋黄酱烤鸟肉ボツ"
+msgstr ""
+
+#. ID 112
+msgctxt "items.name"
+msgid "○鸟肉汤"
+msgstr ""
+
+#. ID 113
+msgctxt "items.name"
+msgid "○鸟肉火锅"
+msgstr ""
+
+#. ID 113
+msgctxt "items.description"
+msgid "我方全员HP20%MP5%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 114
+msgctxt "items.name"
+msgid "○鸡肉三明治"
+msgstr ""
+
+#. ID 114
+msgctxt "items.description"
+msgid "HP30%MP10%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 115
+msgctxt "items.name"
+msgid "○鸟肉派"
+msgstr ""
+
+#. ID 116
+msgctxt "items.name"
+msgid "○意式烧鸟肉"
+msgstr ""
+
+#. ID 119
+msgctxt "items.name"
+msgid "○炒蔬菜"
+msgstr ""
+
+#. ID 119
+#. ID 127
+msgctxt "items.description"
+msgid "HP10%MP10%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 120
+msgctxt "items.name"
+msgid "○蔬菜汤"
+msgstr ""
+
+#. ID 120
+msgctxt "items.description"
+msgid "MP15%回复。战斗时不能使用。"
+msgstr ""
+
+#. ID 121
+msgctxt "items.name"
+msgid "○南瓜派"
+msgstr ""
+
+#. ID 122
+msgctxt "items.name"
+msgid "○蔬菜三明治"
+msgstr ""
+
+#. ID 123
+msgctxt "items.name"
+msgid "○沙拉"
+msgstr ""
+
+#. ID 124
+msgctxt "items.name"
+msgid "○菠菜意粉"
+msgstr ""
+
+#. ID 127
+msgctxt "items.name"
+msgid "○煎蛋"
+msgstr ""
+
+#. ID 128
+msgctxt "items.name"
+msgid "○煮蛋"
+msgstr ""
+
+#. ID 129
+msgctxt "items.name"
+msgid "○肉夹馍"
+msgstr ""
+
+#. ID 130
+msgctxt "items.name"
+msgid "○鸡蛋三明治"
+msgstr ""
+
+#. ID 130
+msgctxt "items.description"
+msgid "HP30%MP10%回复。出起来很方便。"
+msgstr ""
+
+#. ID 131
+msgctxt "items.name"
+msgid "○培根蛋面"
+msgstr ""
+
+#. ID 136
+msgctxt "items.name"
+msgid "$n激辣拉面"
+msgstr ""
+
+#. ID 136
+#. ID 141
+msgctxt "items.description"
+msgid "辣得能用嘴喷火。战斗中可以使用。"
+msgstr ""
+
+#. ID 137
+msgctxt "items.name"
+msgid "○彩虹拉面"
+msgstr ""
+
+#. ID 137
+msgctxt "items.description"
+msgid "HP100%MP100%回复。苏生。战斗时不能使用。"
+msgstr ""
+
+#. ID 139
+msgctxt "items.name"
+msgid "○龙排"
+msgstr ""
+
+#. ID 139
+msgctxt "items.description"
+msgid "HP80%回复。苏生。战斗时不能使用。"
+msgstr ""
+
+#. ID 140
+msgctxt "items.name"
+msgid "○油煎龙肉"
+msgstr ""
+
+#. ID 140
+msgctxt "items.description"
+msgid "HP100%回复。苏生。战斗时不能使用。"
+msgstr ""
+
+#. ID 141
+msgctxt "items.name"
+msgid "$n激辣龙汤"
+msgstr ""
+
+#. ID 142
+msgctxt "items.name"
+msgid "○龙肉火锅"
+msgstr ""
+
+#. ID 142
+msgctxt "items.description"
+msgid "我方全员HP60%回复。苏生。战斗时不能使用。"
+msgstr ""
+
+#. ID 145
+msgctxt "items.name"
+msgid "○烤彩虹鱼"
+msgstr ""
+
+#. ID 145
+msgctxt "items.description"
+msgid "HP40%MP40%回复。苏生。战斗时不能使用。"
+msgstr ""
+
+#. ID 146
+msgctxt "items.name"
+msgid "○油煎彩虹鱼"
+msgstr ""
+
+#. ID 146
+msgctxt "items.description"
+msgid "HP80%MP40%回复。苏生。战斗时不能使用。"
+msgstr ""
+
+#. ID 147
+msgctxt "items.name"
+msgid "○彩虹汤"
+msgstr ""
+
+#. ID 147
+msgctxt "items.description"
+msgid "MP80%回复。苏生。战斗时不能使用。"
+msgstr ""
+
+#. ID 148
+msgctxt "items.name"
+msgid "○黄金锅"
+msgstr ""
+
+#. ID 148
+msgctxt "items.description"
+msgid "我方全员HP60%MP60%回复。苏生。战斗时不能使用。"
+msgstr ""
+
+#. ID 150
+msgctxt "items.name"
+msgid "○妖精的烤点心"
+msgstr ""
+
+#. ID 150
+msgctxt "items.description"
+msgid "HP40%MP10%回复。保存食品。战斗时不能使用。"
+msgstr ""
+
+#. ID 151
+msgctxt "items.name"
+msgid "○干面包"
+msgstr ""
+
+#. ID 151
+msgctxt "items.description"
+msgid "HP20%回复。保存食品。战斗时不能使用。"
+msgstr ""
+
+#. ID 152
+msgctxt "items.name"
+msgid "○魚干"
+msgstr ""
+
+#. ID 152
+msgctxt "items.description"
+msgid "HP20%MP15%回复。保存食品。战斗时不能使用。"
+msgstr ""
+
+#. ID 153
+msgctxt "items.name"
+msgid "○肉干"
+msgstr ""
+
+#. ID 153
+msgctxt "items.description"
+msgid "HP50%回复。保存食品。战斗时不能使用。"
+msgstr ""
+
+#. ID 154
+msgctxt "items.name"
+msgid "○盐焗鸡"
+msgstr ""
+
+#. ID 154
+msgctxt "items.description"
+msgid "HP40%MP5%回复。保存食品。战斗时不能使用。"
+msgstr ""
+
+#. ID 155
+msgctxt "items.name"
+msgid "○盐焗龙肉"
+msgstr ""
+
+#. ID 155
+msgctxt "items.description"
+msgid "HP90%回复。蘇生。保存食品。战斗时不能使用。"
+msgstr ""
+
+#. ID 156
+msgctxt "items.name"
+msgid "○黄金干"
+msgstr ""
+
+#. ID 156
+msgctxt "items.description"
+msgid "HP10%MP70%回复。苏生。保存食品。战斗时不能使用。"
+msgstr ""
+
+#. ID 157
+msgctxt "items.name"
+msgid "○果脯"
+msgstr ""
+
+#. ID 157
+msgctxt "items.description"
+msgid "MP25%回复。保存食品。战斗时不能使用。"
+msgstr ""
+
+#. ID 159
+msgctxt "items.name"
+msgid "$A杀人面包"
+msgstr ""
+
+#. ID 159
+msgctxt "items.description"
+msgid "可以扑杀人类。攻8/重/？"
+msgstr ""
+
+#. ID 160
+msgctxt "items.name"
+msgid "$n地狱碳烧"
+msgstr ""
+
+#. ID 160
+msgctxt "items.description"
+msgid "能打开地狱之门的糟糕味道。"
+msgstr ""
+
+#. ID 161
+msgctxt "items.name"
+msgid "$n疯狂浓汤"
+msgstr ""
+
+#. ID 161
+msgctxt "items.description"
+msgid "怎么看都是毒。"
+msgstr ""
+
+#. ID 162
+msgctxt "items.name"
+msgid "$n暗黑锅"
+msgstr ""
+
+#. ID 162
+msgctxt "items.description"
+msgid "不小心沾到就会死人。"
+msgstr ""
+
+#. ID 163
+msgctxt "items.name"
+msgid "$n生化蛋糕"
+msgstr ""
+
+#. ID 163
+msgctxt "items.description"
+msgid "一种生物兵器。"
+msgstr ""
+
+#. ID 164
+msgctxt "items.name"
+msgid "○奇味奇"
+msgstr ""
+
+#. ID 164
+msgctxt "items.description"
+msgid "霍尔姆地区的乡土料理。难吃到让人死去活来。"
+msgstr ""
+
+#. ID 165
+msgctxt "items.name"
+msgid "$n焦石"
+msgstr ""
+
+#. ID 165
+msgctxt "items.description"
+msgid "硬得吓人。"
+msgstr ""
+
+#. ID 175
+msgctxt "items.name"
+msgid "175"
+msgstr ""
+
+#. ID 180
+msgctxt "items.name"
+msgid "180"
+msgstr ""
+
+#. ID 185
+msgctxt "items.name"
+msgid "185"
+msgstr ""
+
+#. ID 190
+msgctxt "items.name"
+msgid "190"
+msgstr ""
+
+#. ID 195
+msgctxt "items.name"
+msgid "195"
+msgstr ""
+
+#. ID 200
+msgctxt "items.name"
+msgid "イベント------------"
+msgstr ""
+
+#. ID 201
+msgctxt "items.name"
+msgid "★称号之证"
+msgstr ""
+
+#. ID 201
+msgctxt "items.description"
+msgid "带到某个地方可以得到称号。"
+msgstr ""
+
+#. ID 202
+msgctxt "items.name"
+msgid "★熟练之证"
+msgstr ""
+
+#. ID 202
+msgctxt "items.description"
+msgid "能获得上级称号。"
+msgstr ""
+
+#. ID 205
+msgctxt "items.name"
+msgid "205"
+msgstr ""
+
+#. ID 206
+msgctxt "items.name"
+msgid "★旅人之骨"
+msgstr ""
+
+#. ID 206
+msgctxt "items.description"
+msgid "倒在洞穴中的人骨。"
+msgstr ""
+
+#. ID 207
+msgctxt "items.name"
+msgid "◇『旅人的笔记』"
+msgstr ""
+
+#. ID 207
+msgctxt "items.description"
+msgid "死在路途中的旅人所带的笔记。"
+msgstr ""
+
+#. ID 210
+msgctxt "items.name"
+msgid "◇『好孩子的神话 1』"
+msgstr ""
+
+#. ID 210
+msgctxt "items.description"
+msgid "讲给好孩子听的神话，第一卷"
+msgstr ""
+
+#. ID 211
+msgctxt "items.name"
+msgid "◇『好孩子的神话 2』"
+msgstr ""
+
+#. ID 211
+msgctxt "items.description"
+msgid "讲给好孩子听的神话，第二卷"
+msgstr ""
+
+#. ID 212
+msgctxt "items.name"
+msgid "◇『好孩子的神话 3』"
+msgstr ""
+
+#. ID 212
+msgctxt "items.description"
+msgid "讲给好孩子听的神话，第三卷"
+msgstr ""
+
+#. ID 213
+msgctxt "items.name"
+msgid "◇『好孩子的神话 4』"
+msgstr ""
+
+#. ID 213
+msgctxt "items.description"
+msgid "讲给好孩子听的神话，第四卷"
+msgstr ""
+
+#. ID 215
+msgctxt "items.name"
+msgid "◇『纳里斯纳姆里斯』"
+msgstr ""
+
+#. ID 215
+#. ID 216
+#. ID 217
+#. ID 218
+#. ID 225
+#. ID 233
+#. ID 234
+msgctxt "items.description"
+msgid "古代的文献。"
+msgstr ""
+
+#. ID 216
+msgctxt "items.name"
+msgid "◇『拉格传』"
+msgstr ""
+
+#. ID 217
+msgctxt "items.name"
+msgid "◇『达玛迪乌斯传』"
+msgstr ""
+
+#. ID 218
+msgctxt "items.name"
+msgid "◇『伯兰梅亚的魔女』"
+msgstr ""
+
+#. ID 219
+msgctxt "items.name"
+msgid "◇『柯·罗·摩』"
+msgstr ""
+
+#. ID 219
+msgctxt "items.description"
+msgid "古代童谣的记录。"
+msgstr ""
+
+#. ID 220
+msgctxt "items.name"
+msgid "220"
+msgstr ""
+
+#. ID 222
+msgctxt "items.name"
+msgid "◇『塔之王国年鉴』"
+msgstr ""
+
+#. ID 222
+msgctxt "items.description"
+msgid "描写矮人族历史的长篇文书的断页。"
+msgstr ""
+
+#. ID 223
+msgctxt "items.name"
+msgid "◇『霍尔姆的传说』"
+msgstr ""
+
+#. ID 223
+msgctxt "items.description"
+msgid "记录霍尔姆地方传说和乡土历史之书。"
+msgstr ""
+
+#. ID 224
+msgctxt "items.name"
+msgid "◇『河姑娘』"
+msgstr ""
+
+#. ID 224
+msgctxt "items.description"
+msgid "乡土学者记录的大河中流的传说。"
+msgstr ""
+
+#. ID 225
+msgctxt "items.name"
+msgid "◇『无限宫的幻视者』"
+msgstr ""
+
+#. ID 226
+msgctxt "items.name"
+msgid "◇『大恐怖的预言』"
+msgstr ""
+
+#. ID 226
+msgctxt "items.description"
+msgid "印刷宣传的小册子。"
+msgstr ""
+
+#. ID 227
+msgctxt "items.name"
+msgid "◇『皇帝的笔记』"
+msgstr ""
+
+#. ID 227
+msgctxt "items.description"
+msgid "阿尔凯亚帝国最后一位皇帝的笔记。"
+msgstr ""
+
+#. ID 229
+msgctxt "items.name"
+msgid "◇『闻名世界之剑』"
+msgstr ""
+
+#. ID 229
+msgctxt "items.description"
+msgid "记述传说中武器的书物。"
+msgstr ""
+
+#. ID 230
+msgctxt "items.name"
+msgid "◇『大河教典』"
+msgstr ""
+
+#. ID 230
+msgctxt "items.description"
+msgid "整合大河神殿教义和神话的书物。"
+msgstr ""
+
+#. ID 231
+msgctxt "items.name"
+msgid "◇『历史』"
+msgstr ""
+
+#. ID 231
+msgctxt "items.description"
+msgid "整理记载了世界历史的书物。"
+msgstr ""
+
+#. ID 232
+msgctxt "items.name"
+msgid "◇『世界地图』"
+msgstr ""
+
+#. ID 233
+msgctxt "items.name"
+msgid "◇『阿尔凯亚年鉴上』"
+msgstr ""
+
+#. ID 234
+msgctxt "items.name"
+msgid "◇『阿尔凯亚年鉴下』"
+msgstr ""
+
+#. ID 235
+msgctxt "items.name"
+msgid "235"
+msgstr ""
+
+#. ID 237
+msgctxt "items.name"
+msgid "◇矮人族的笔记"
+msgstr ""
+
+#. ID 237
+msgctxt "items.description"
+msgid "似乎是黑铁族的矮人随身携带之物。『1593』"
+msgstr ""
+
+#. ID 238
+msgctxt "items.name"
+msgid "◇寺院的笔记"
+msgstr ""
+
+#. ID 238
+msgctxt "items.description"
+msgid "「巨神的左手有宝物　巨神的右手有诅咒」"
+msgstr ""
+
+#. ID 239
+msgctxt "items.name"
+msgid "◇妖精族的笔记"
+msgstr ""
+
+#. ID 239
+msgctxt "items.description"
+msgid "画着奇妙的图形。"
+msgstr ""
+
+#. ID 240
+msgctxt "items.name"
+msgid "◇财宝备忘录1"
+msgstr ""
+
+#. ID 240
+msgctxt "items.description"
+msgid "「从古老的方尖塔顶起　南４西７」"
+msgstr ""
+
+#. ID 241
+msgctxt "items.name"
+msgid "◇财宝备忘录2"
+msgstr ""
+
+#. ID 241
+msgctxt "items.description"
+msgid "「发现龙骨的地方 南8」"
+msgstr ""
+
+#. ID 242
+msgctxt "items.name"
+msgid "◇财宝备忘录3"
+msgstr ""
+
+#. ID 242
+msgctxt "items.description"
+msgid "「数目向悖按边树目相北岸边 ３歩」"
+msgstr ""
+
+#. ID 243
+msgctxt "items.name"
+msgid "◇财宝备忘录4"
+msgstr ""
+
+#. ID 243
+msgctxt "items.description"
+msgid "「七条腿一只角　东７南８」"
+msgstr ""
+
+#. ID 244
+msgctxt "items.name"
+msgid "◇财宝备忘录5"
+msgstr ""
+
+#. ID 244
+msgctxt "items.description"
+msgid "「人头岩的西面　山顶和巨人用一线连起来」"
+msgstr ""
+
+#. ID 245
+msgctxt "items.name"
+msgid "245"
+msgstr ""
+
+#. ID 250
+msgctxt "items.name"
+msgid "250"
+msgstr ""
+
+#. ID 251
+msgctxt "items.name"
+msgid "★龙之匙ボツ"
+msgstr ""
+
+#. ID 251
+msgctxt "items.description"
+msgid "雕刻成龙的模样的钥匙。"
+msgstr ""
+
+#. ID 252
+msgctxt "items.name"
+msgid "★铜钥匙"
+msgstr ""
+
+#. ID 252
+msgctxt "items.description"
+msgid "铜制的钥匙。"
+msgstr ""
+
+#. ID 253
+msgctxt "items.name"
+msgid "★黑铁钥匙"
+msgstr ""
+
+#. ID 253
+msgctxt "items.description"
+msgid "钢铁钥匙。"
+msgstr ""
+
+#. ID 254
+msgctxt "items.name"
+msgid "★引导之匙"
+msgstr ""
+
+#. ID 254
+msgctxt "items.description"
+msgid "解除女神封印的钥匙。"
+msgstr ""
+
+#. ID 255
+msgctxt "items.name"
+msgid "★石之匙"
+msgstr ""
+
+#. ID 255
+msgctxt "items.description"
+msgid "用石材打造的钥匙。"
+msgstr ""
+
+#. ID 260
+msgctxt "items.name"
+msgid "◇『废都物语 1』"
+msgstr ""
+
+#. ID 260
+#. ID 261
+#. ID 262
+#. ID 263
+#. ID 264
+msgctxt "items.description"
+msgid "古代的娱乐小说。"
+msgstr ""
+
+#. ID 261
+msgctxt "items.name"
+msgid "◇『废都物语 2』"
+msgstr ""
+
+#. ID 262
+msgctxt "items.name"
+msgid "◇『废都物语 3』"
+msgstr ""
+
+#. ID 263
+msgctxt "items.name"
+msgid "◇『废都物语 4』"
+msgstr ""
+
+#. ID 264
+msgctxt "items.name"
+msgid "◇『废都物语 5』"
+msgstr ""
+
+#. ID 265
+msgctxt "items.name"
+msgid "265"
+msgstr ""
+
+#. ID 270
+msgctxt "items.name"
+msgid "◇『神帝记 1』"
+msgstr ""
+
+#. ID 270
+#. ID 271
+#. ID 272
+#. ID 273
+#. ID 274
+#. ID 275
+#. ID 276
+#. ID 277
+#. ID 278
+#. ID 279
+#. ID 280
+#. ID 281
+#. ID 282
+#. ID 283
+#. ID 284
+#. ID 285
+msgctxt "items.description"
+msgid "初代皇帝的传记。"
+msgstr ""
+
+#. ID 271
+msgctxt "items.name"
+msgid "◇『神帝记 2』"
+msgstr ""
+
+#. ID 272
+msgctxt "items.name"
+msgid "◇『神帝记 3』"
+msgstr ""
+
+#. ID 273
+msgctxt "items.name"
+msgid "◇『神帝记 4』"
+msgstr ""
+
+#. ID 274
+msgctxt "items.name"
+msgid "◇『神帝记 5』"
+msgstr ""
+
+#. ID 275
+msgctxt "items.name"
+msgid "◇『神帝记 6』"
+msgstr ""
+
+#. ID 276
+msgctxt "items.name"
+msgid "◇『神帝记 7』"
+msgstr ""
+
+#. ID 277
+msgctxt "items.name"
+msgid "◇『神帝记 8』"
+msgstr ""
+
+#. ID 278
+msgctxt "items.name"
+msgid "◇『神帝记 9』"
+msgstr ""
+
+#. ID 279
+msgctxt "items.name"
+msgid "◇『神帝记 10』"
+msgstr ""
+
+#. ID 280
+msgctxt "items.name"
+msgid "◇『神帝记 11』"
+msgstr ""
+
+#. ID 281
+msgctxt "items.name"
+msgid "◇『神帝记 12』"
+msgstr ""
+
+#. ID 282
+msgctxt "items.name"
+msgid "◇『神帝记 13』"
+msgstr ""
+
+#. ID 283
+msgctxt "items.name"
+msgid "◇『神帝记 14』"
+msgstr ""
+
+#. ID 284
+msgctxt "items.name"
+msgid "◇『神帝记 15』"
+msgstr ""
+
+#. ID 285
+msgctxt "items.name"
+msgid "◇『神帝记 16』"
+msgstr ""
+
+#. ID 287
+msgctxt "items.name"
+msgid "◇『键之书 上』"
+msgstr ""
+
+#. ID 287
+#. ID 288
+msgctxt "items.description"
+msgid "初代皇帝写下的魔导书。"
+msgstr ""
+
+#. ID 288
+msgctxt "items.name"
+msgid "◇『键之书 下』"
+msgstr ""
+
+#. ID 290
+msgctxt "items.name"
+msgid "暗利的秘石ボツ"
+msgstr ""
+
+#. ID 290
+msgctxt "items.description"
+msgid "学习攻击魔法『龙脉的解放』。"
+msgstr ""
+
+#. ID 292
+msgctxt "items.name"
+msgid "★银勋章"
+msgstr ""
+
+#. ID 292
+msgctxt "items.description"
+msgid "雕刻着塔型的花纹。"
+msgstr ""
+
+#. ID 293
+msgctxt "items.name"
+msgid "★自由乘船券"
+msgstr ""
+
+#. ID 293
+msgctxt "items.description"
+msgid "可以无限次搭乘古代都市的渡船。"
+msgstr ""
+
+#. ID 295
+msgctxt "items.name"
+msgid "295"
+msgstr ""
+
+#. ID 296
+msgctxt "items.name"
+msgid "★锄神的护符"
+msgstr ""
+
+#. ID 296
+msgctxt "items.description"
+msgid "可以挖掘平时挖掘不了的东西。"
+msgstr ""
+
+#. ID 297
+msgctxt "items.name"
+msgid "★绳神的护符"
+msgstr ""
+
+#. ID 297
+msgctxt "items.description"
+msgid "带在身上可以让绳索的使用次数不受限制。"
+msgstr ""
+
+#. ID 300
+msgctxt "items.name"
+msgid "素材?換金----------"
+msgstr ""
+
+#. ID 302
+msgctxt "items.name"
+msgid "●芜菁苔"
+msgstr ""
+
+#. ID 302
+msgctxt "items.description"
+msgid "调和用的素材。可以缓解炎症。"
+msgstr ""
+
+#. ID 303
+msgctxt "items.name"
+msgid "●幸来花叶"
+msgstr ""
+
+#. ID 303
+msgctxt "items.description"
+msgid "调和用的素材。能促进新陈代谢。"
+msgstr ""
+
+#. ID 304
+msgctxt "items.name"
+msgid "●绿光藓"
+msgstr ""
+
+#. ID 304
+msgctxt "items.description"
+msgid "调和用的素材。增强免疫力，产生发汗作用。"
+msgstr ""
+
+#. ID 305
+msgctxt "items.name"
+msgid "●朵罗基坦之花"
+msgstr ""
+
+#. ID 305
+msgctxt "items.description"
+msgid "调和用的素材。引发幻觉，带来启示。"
+msgstr ""
+
+#. ID 306
+msgctxt "items.name"
+msgid "●虫草菌"
+msgstr ""
+
+#. ID 306
+msgctxt "items.description"
+msgid "调和用的素材。有醒神和产生兴奋的作用。"
+msgstr ""
+
+#. ID 307
+msgctxt "items.name"
+msgid "●阿夕拉斯草叶"
+msgstr ""
+
+#. ID 307
+msgctxt "items.description"
+msgid "调和用的素材。有强效的治愈力。"
+msgstr ""
+
+#. ID 308
+msgctxt "items.name"
+msgid "●毒腺"
+msgstr ""
+
+#. ID 308
+msgctxt "items.description"
+msgid "调和用的素材。含有猛毒。"
+msgstr ""
+
+#. ID 309
+msgctxt "items.name"
+msgid "●神圣之骨"
+msgstr ""
+
+#. ID 309
+msgctxt "items.description"
+msgid "调和用的素材。蕴涵神秘的力量。"
+msgstr ""
+
+#. ID 310
+msgctxt "items.name"
+msgid "●龙血"
+msgstr ""
+
+#. ID 310
+msgctxt "items.description"
+msgid "调和用的素材。有强化肉体的效果。"
+msgstr ""
+
+#. ID 311
+msgctxt "items.name"
+msgid "●燃烧的羽毛"
+msgstr ""
+
+#. ID 311
+msgctxt "items.description"
+msgid "调和用的素材。隐含着苏生的力量。"
+msgstr ""
+
+#. ID 312
+msgctxt "items.name"
+msgid "●蜥蜴粪"
+msgstr ""
+
+#. ID 312
+msgctxt "items.description"
+msgid "调和用的素材。含有大量硝石。"
+msgstr ""
+
+#. ID 319
+msgctxt "items.name"
+msgid "●小麦粉"
+msgstr ""
+
+#. ID 319
+msgctxt "items.description"
+msgid "料理素材。面包与面食的材料。"
+msgstr ""
+
+#. ID 321
+msgctxt "items.name"
+msgid "●粘稠物"
+msgstr ""
+
+#. ID 321
+msgctxt "items.description"
+msgid "料理素材。增加料理的粘性和奇特性。"
+msgstr ""
+
+#. ID 322
+msgctxt "items.name"
+msgid "●蛋黄酱ボツ"
+msgstr ""
+
+#. ID 322
+msgctxt "items.description"
+msgid "料理素材。热量很高，被一部分人所钟爱。"
+msgstr ""
+
+#. ID 323
+msgctxt "items.name"
+msgid "●不可思议的保存盐"
+msgstr ""
+
+#. ID 323
+msgctxt "items.description"
+msgid "料理素材。加上这个可以做出保存食品。"
+msgstr ""
+
+#. ID 327
+msgctxt "items.name"
+msgid "●铁"
+msgstr ""
+
+#. ID 327
+#. ID 328
+msgctxt "items.description"
+msgid "道具材料。打铁要趁热。"
+msgstr ""
+
+#. ID 328
+msgctxt "items.name"
+msgid "●上等好铁"
+msgstr ""
+
+#. ID 329
+msgctxt "items.name"
+msgid "●银"
+msgstr ""
+
+#. ID 329
+#. ID 330
+msgctxt "items.description"
+msgid "道具材料。高价。"
+msgstr ""
+
+#. ID 330
+msgctxt "items.name"
+msgid "●金"
+msgstr ""
+
+#. ID 331
+msgctxt "items.name"
+msgid "●秘银"
+msgstr ""
+
+#. ID 331
+#. ID 332
+#. ID 335
+msgctxt "items.description"
+msgid "道具材料。蕴涵魔力。"
+msgstr ""
+
+#. ID 332
+msgctxt "items.name"
+msgid "●龙钢"
+msgstr ""
+
+#. ID 333
+msgctxt "items.name"
+msgid "●宝石"
+msgstr ""
+
+#. ID 333
+msgctxt "items.description"
+msgid "道具材料。高价。一说蕴涵魔力。"
+msgstr ""
+
+#. ID 334
+msgctxt "items.name"
+msgid "●木材"
+msgstr ""
+
+#. ID 334
+msgctxt "items.description"
+msgid "道具材料。普通的木头。"
+msgstr ""
+
+#. ID 335
+msgctxt "items.name"
+msgid "●圣木"
+msgstr ""
+
+#. ID 336
+msgctxt "items.name"
+msgid "●兽皮"
+msgstr ""
+
+#. ID 336
+msgctxt "items.description"
+msgid "道具材料。扎手而且带有生臭味。"
+msgstr ""
+
+#. ID 338
+msgctxt "items.name"
+msgid "●布料"
+msgstr ""
+
+#. ID 338
+msgctxt "items.description"
+msgid "道具材料。普通的布。"
+msgstr ""
+
+#. ID 339
+msgctxt "items.name"
+msgid "●受祝福的布"
+msgstr ""
+
+#. ID 339
+msgctxt "items.description"
+msgid "道具材料。咋看之下和普通的布没有区别。"
+msgstr ""
+
+#. ID 341
+msgctxt "items.name"
+msgid "●生锈的武器"
+msgstr ""
+
+#. ID 341
+#. ID 342
+msgctxt "items.description"
+msgid "道具材料。古代名品的残骸。"
+msgstr ""
+
+#. ID 342
+msgctxt "items.name"
+msgid "●生锈的防具"
+msgstr ""
+
+#. ID 346
+msgctxt "items.name"
+msgid "●白色毛皮"
+msgstr ""
+
+#. ID 346
+msgctxt "items.description"
+msgid "白色大鹿的毛皮。"
+msgstr ""
+
+#. ID 348
+msgctxt "items.name"
+msgid "335"
+msgstr ""
+
+#. ID 353
+msgctxt "items.name"
+msgid "◆古代铜币"
+msgstr ""
+
+#. ID 353
+msgctxt "items.description"
+msgid "换钱用道具。50Ｇ"
+msgstr ""
+
+#. ID 354
+msgctxt "items.name"
+msgid "◆古代银币"
+msgstr ""
+
+#. ID 354
+msgctxt "items.description"
+msgid "换钱用道具。1000Ｇ"
+msgstr ""
+
+#. ID 355
+msgctxt "items.name"
+msgid "◆古代金币"
+msgstr ""
+
+#. ID 355
+msgctxt "items.description"
+msgid "换钱用道具。4000Ｇ"
+msgstr ""
+
+#. ID 356
+msgctxt "items.name"
+msgid "◆古代壁画"
+msgstr ""
+
+#. ID 356
+msgctxt "items.description"
+msgid "换钱用道具。1500Ｇ"
+msgstr ""
+
+#. ID 357
+msgctxt "items.name"
+msgid "◆古代雕像"
+msgstr ""
+
+#. ID 357
+msgctxt "items.description"
+msgid "换钱用道具。300Ｇ"
+msgstr ""
+
+#. ID 358
+msgctxt "items.name"
+msgid "◆古代陶器"
+msgstr ""
+
+#. ID 358
+msgctxt "items.description"
+msgid "换钱用道具。200Ｇ"
+msgstr ""
+
+#. ID 359
+msgctxt "items.name"
+msgid "◆古代宝饰"
+msgstr ""
+
+#. ID 359
+msgctxt "items.description"
+msgid "换钱用道具。3000Ｇ"
+msgstr ""
+
+#. ID 360
+msgctxt "items.name"
+msgid "◆古代祭器"
+msgstr ""
+
+#. ID 360
+msgctxt "items.description"
+msgid "换钱用道具。4500Ｇ"
+msgstr ""
+
+#. ID 361
+msgctxt "items.name"
+msgid "◆古代文献"
+msgstr ""
+
+#. ID 361
+msgctxt "items.description"
+msgid "换钱用道具。350Ｇ"
+msgstr ""
+
+#. ID 365
+msgctxt "items.name"
+msgid "365"
+msgstr ""
+
+#. ID 366
+msgctxt "items.name"
+msgid "◆黄金魔神像"
+msgstr ""
+
+#. ID 366
+msgctxt "items.description"
+msgid "换钱用道具。非常珍(兄)贵。30000Ｇ"
+msgstr ""
+
+#. ID 367
+msgctxt "items.name"
+msgid "◆100面骰子"
+msgstr ""
+
+#. ID 367
+msgctxt "items.description"
+msgid "换钱用道具？　看起来已经像球一样了。100000Ｇ"
+msgstr ""
+
+#. ID 368
+msgctxt "items.name"
+msgid "◆20面骰子"
+msgstr ""
+
+#. ID 368
+msgctxt "items.description"
+msgid "换钱用道具。很容易滚动。20000Ｇ"
+msgstr ""
+
+#. ID 369
+msgctxt "items.name"
+msgid "◆8面骰子"
+msgstr ""
+
+#. ID 369
+msgctxt "items.description"
+msgid "换钱用道具。可以用来丢醒睡觉的玩家。8000Ｇ"
+msgstr ""
+
+#. ID 370
+msgctxt "items.name"
+msgid "370"
+msgstr ""
+
+#. ID 375
+msgctxt "items.name"
+msgid "375"
+msgstr ""
+
+#. ID 380
+msgctxt "items.name"
+msgid "380"
+msgstr ""
+
+#. ID 385
+msgctxt "items.name"
+msgid "385"
+msgstr ""
+
+#. ID 390
+msgctxt "items.name"
+msgid "390"
+msgstr ""
+
+#. ID 400
+msgctxt "items.name"
+msgid "武器6---------"
+msgstr ""
+
+#. ID 402
+msgctxt "items.name"
+msgid "$C艾俄鲁斯"
+msgstr ""
+
+#. ID 402
+msgctxt "items.description"
+msgid "东方的守护神剑。攻50/斩突魔/二回/命中必杀出血"
+msgstr ""
+
+#. ID 403
+msgctxt "items.name"
+msgid "$C穿越时空之剑 "
+msgstr ""
+
+#. ID 403
+msgctxt "items.description"
+msgid "传说之剑。攻120魔80/斩突重/两手/必中必杀/劣攻防中"
+msgstr ""
+
+#. ID 404
+msgctxt "items.name"
+msgid "$C裘古圣剑"
+msgstr ""
+
+#. ID 404
+msgctxt "items.description"
+msgid "宿有司法神力之剑。攻95魔220/斩突圣魔/命中先制"
+msgstr ""
+
+#. ID 405
+msgctxt "items.name"
+msgid "$A村正"
+msgstr ""
+
+#. ID 405
+msgctxt "items.description"
+msgid "传说中的名刀。攻150速20/斩暗重/两手/命中即死"
+msgstr ""
+
+#. ID 406
+msgctxt "items.name"
+msgid "$C夜母之剑ボツ"
+msgstr ""
+
+#. ID 406
+msgctxt "items.description"
+msgid "太古邪神的魔剑。攻250魔200/斩重闇魔/两手/即死"
+msgstr ""
+
+#. ID 407
+msgctxt "items.name"
+msgid "$A朱雀纹柄奉神刀"
+msgstr ""
+
+#. ID 407
+msgctxt "items.description"
+msgid "皇帝的附葬品。攻118/斩重长火/两手"
+msgstr ""
+
+#. ID 408
+msgctxt "items.name"
+msgid "$C真银四神兽文槌"
+msgstr ""
+
+#. ID 408
+msgctxt "items.description"
+msgid "皇帝的附葬品。攻125魔60/重魔兽/两手/冲击御兽"
+msgstr ""
+
+#. ID 409
+msgctxt "items.name"
+msgid "$C金刻雷文黑铁斧"
+msgstr ""
+
+#. ID 409
+msgctxt "items.description"
+msgid "皇帝的附葬品。攻110魔140/斩重长雷魔/两手"
+msgstr ""
+
+#. ID 410
+msgctxt "items.name"
+msgid "$A白翼饰缨太穗枪"
+msgstr ""
+
+#. ID 410
+msgctxt "items.description"
+msgid "皇帝的附葬品。攻84速12/突长射/必杀/对空/命中"
+msgstr ""
+
+#. ID 411
+msgctxt "items.name"
+msgid "$A龙骨线刻螺钿剑"
+msgstr ""
+
+#. ID 411
+msgctxt "items.description"
+msgid "皇帝的附葬品。攻85/斩突/对龙"
+msgstr ""
+
+#. ID 412
+msgctxt "items.name"
+msgid "$C星护符文小太刀"
+msgstr ""
+
+#. ID 412
+msgctxt "items.description"
+msgid "皇帝的附葬品。可投掷。攻57魔90/突暗魔/射击/必杀"
+msgstr ""
+
+#. ID 413
+msgctxt "items.name"
+msgid "$C幽鬼之刃"
+msgstr ""
+
+#. ID 413
+msgctxt "items.description"
+msgid "邪恶之刃。攻75防-10/斩突暗闇魔/死猛血"
+msgstr ""
+
+#. ID 414
+msgctxt "items.name"
+msgid "$C灵树精工琴型弓"
+msgstr ""
+
+#. ID 414
+msgctxt "items.description"
+msgid "皇帝的附葬品。攻85魔80/射圣魔/两手/先制二回"
+msgstr ""
+
+#. ID 415
+msgctxt "items.name"
+msgid "$A蛇鳞八条鞭"
+msgstr ""
+
+#. ID 415
+msgctxt "items.description"
+msgid "皇帝的附葬品。攻击全体。攻80/鞭/全/两手/劣速束缚"
+msgstr ""
+
+#. ID 417
+msgctxt "items.name"
+msgid "$C艾克薇尔之杖"
+msgstr ""
+
+#. ID 417
+msgctxt "items.description"
+msgid "冥府渡船之桨。攻60魔240/重水魔/两手/全/吞"
+msgstr ""
+
+#. ID 418
+msgctxt "items.name"
+msgid "$C＜上灵＞"
+msgstr ""
+
+#. ID 418
+msgctxt "items.description"
+msgid "天界的智慧。攻80魔240/重圣暗魔/全体/支配胆怯"
+msgstr ""
+
+#. ID 419
+msgctxt "items.name"
+msgid "$C翡翠饰树枝型杖"
+msgstr ""
+
+#. ID 419
+msgctxt "items.description"
+msgid "皇帝的附葬品。攻14魔220/魔/对地/两手/束缚"
+msgstr ""
+
+#. ID 420
+msgctxt "items.name"
+msgid "$C龙王石"
+msgstr ""
+
+#. ID 420
+msgctxt "items.description"
+msgid "使用龙之力所必须的魔石。攻30防30魔60敏60/魔龙/全体"
+msgstr ""
+
+#. ID 423
+msgctxt "items.name"
+msgid "武器5---------"
+msgstr ""
+
+#. ID 426
+msgctxt "items.name"
+msgid "$A名匠之刚剑"
+msgstr ""
+
+#. ID 426
+msgctxt "items.description"
+msgid "特别制作的长剑。攻80/斩突/命中必杀"
+msgstr ""
+
+#. ID 427
+msgctxt "items.name"
+msgid "$C卢恩之剑"
+msgstr ""
+
+#. ID 427
+msgctxt "items.description"
+msgid "给予魔术师力量的长剑。攻65魔140/斩突魔"
+msgstr ""
+
+#. ID 429
+msgctxt "items.name"
+msgid "$A隼鹰之剑"
+msgstr ""
+
+#. ID 429
+msgctxt "items.description"
+msgid "特制的突击剑。能进行二次攻击。攻20/突/必杀二回"
+msgstr ""
+
+#. ID 430
+msgctxt "items.name"
+msgid "$C妖精突刺剑"
+msgstr ""
+
+#. ID 430
+msgctxt "items.description"
+msgid "带有催眠之力的突刺剑。攻50/突魔/必杀命中失神"
+msgstr ""
+
+#. ID 431
+msgctxt "items.name"
+msgid "$A雾薙"
+msgstr ""
+
+#. ID 431
+msgctxt "items.description"
+msgid "特制的刀。高概率引发出血。攻100/斩/两手/出血"
+msgstr ""
+
+#. ID 433
+msgctxt "items.name"
+msgid "$A屠龙刀"
+msgstr ""
+
+#. ID 433
+msgctxt "items.description"
+msgid "屠龙的巨刀。攻120速-40/斩重长/两手/对龙"
+msgstr ""
+
+#. ID 434
+msgctxt "items.name"
+msgid "$C太阳棍"
+msgstr ""
+
+#. ID 434
+msgctxt "items.description"
+msgid "特制连接棍。攻79魔100/重圣魔/冲击命中"
+msgstr ""
+
+#. ID 435
+msgctxt "items.name"
+msgid "$A达人投斧"
+msgstr ""
+
+#. ID 435
+msgctxt "items.description"
+msgid "特制投斧。攻86/斩重射"
+msgstr ""
+
+#. ID 436
+msgctxt "items.name"
+msgid "$A白银骑士枪"
+msgstr ""
+
+#. ID 436
+msgctxt "items.description"
+msgid "特制突击枪。攻76速16/突重长/必中必杀"
+msgstr ""
+
+#. ID 438
+msgctxt "items.name"
+msgid "$A留名历史的短剑"
+msgstr ""
+
+#. ID 438
+msgctxt "items.description"
+msgid "特别制作的短剑。攻55/突暗/命中"
+msgstr ""
+
+#. ID 439
+msgctxt "items.name"
+msgid "$A手术刀"
+msgstr ""
+
+#. ID 439
+msgctxt "items.description"
+msgid "异常锐利的短剑。攻50/斩突暗/必杀"
+msgstr ""
+
+#. ID 440
+msgctxt "items.name"
+msgid "$A射月之弓"
+msgstr ""
+
+#. ID 440
+msgctxt "items.description"
+msgid "特制长弓。必杀率上升。攻110/射兽/两手/先制命中必杀"
+msgstr ""
+
+#. ID 441
+msgctxt "items.name"
+msgid "$A魔神之尾"
+msgstr ""
+
+#. ID 441
+msgctxt "items.description"
+msgid "特制长鞭。高概率束缚敌人行动。攻50/鞭闇/劣速束缚"
+msgstr ""
+
+#. ID 443
+msgctxt "items.name"
+msgid "$C不死鸟之杖"
+msgstr ""
+
+#. ID 443
+msgctxt "items.description"
+msgid "特制小杖。攻20魔160/魔炎/全体/炎"
+msgstr ""
+
+#. ID 444
+msgctxt "items.name"
+msgid "$C哈鲁之杖"
+msgstr ""
+
+#. ID 444
+msgctxt "items.description"
+msgid "带有雷之魔力的手杖。攻80魔210/重雷魔/冲击/两手"
+msgstr ""
+
+#. ID 445
+msgctxt "items.name"
+msgid "$C蛤蟆箱"
+msgstr ""
+
+#. ID 445
+msgctxt "items.description"
+msgid "一种恶作剧。密密麻麻地。攻-20/魔210/全/两手/？"
+msgstr ""
+
+#. ID 446
+msgctxt "items.name"
+msgid "$A金枪鱼"
+msgstr ""
+
+#. ID 446
+msgctxt "items.description"
+msgid "冷冻好的。攻115速-10/突重水/两手"
+msgstr ""
+
+#. ID 447
+msgctxt "items.name"
+msgid "$C白龙石"
+msgstr ""
+
+#. ID 447
+msgctxt "items.description"
+msgid "使用龙之力所必须的魔石。攻-15防-15/魔龙水空/全体"
+msgstr ""
+
+#. ID 448
+msgctxt "items.name"
+msgid "$C绿龙石"
+msgstr ""
+
+#. ID 448
+msgctxt "items.description"
+msgid "使用龙之力所必须的魔石。攻-20防-40敏120/魔龙雷空"
+msgstr ""
+
+#. ID 450
+msgctxt "items.name"
+msgid "武器4---------"
+msgstr ""
+
+#. ID 451
+msgctxt "items.name"
+msgid "$CＥ·Ｊ"
+msgstr ""
+
+#. ID 451
+msgctxt "items.description"
+msgid "也不是真的能讲人话。很怕蜘蛛。攻68/斩突魔/命中"
+msgstr ""
+
+#. ID 452
+msgctxt "items.name"
+msgid "$A秘银剑"
+msgstr ""
+
+#. ID 452
+msgctxt "items.description"
+msgid "秘银制的长剑。攻60/斩突"
+msgstr ""
+
+#. ID 453
+msgctxt "items.name"
+msgid "$C风羽之刃"
+msgstr ""
+
+#. ID 453
+msgctxt "items.description"
+msgid "宿有风之力的刀刃。攻46/斩魔/对空/先制出血胆怯"
+msgstr ""
+
+#. ID 454
+msgctxt "items.name"
+msgid "$A处刑刀"
+msgstr ""
+
+#. ID 454
+msgctxt "items.description"
+msgid "处刑用的大剑。偶尔发动即死。攻79/斩重长/两手/即死"
+msgstr ""
+
+#. ID 455
+msgctxt "items.name"
+msgid "$A破城槌"
+msgstr ""
+
+#. ID 455
+msgctxt "items.description"
+msgid "必杀率7成、命中率极低。攻85速-15/重/两手/必杀/冲击"
+msgstr ""
+
+#. ID 456
+msgctxt "items.name"
+msgid "$A矮人战斧"
+msgstr ""
+
+#. ID 456
+msgctxt "items.description"
+msgid "带有大地属性的斧头。攻83/斩重/对地/两手/冲击"
+msgstr ""
+
+#. ID 457
+msgctxt "items.name"
+msgid "$C冬神之枪"
+msgstr ""
+
+#. ID 457
+msgctxt "items.description"
+msgid "带有冰之魔力的长枪。攻56速14/突长水魔/劣速/命中"
+msgstr ""
+
+#. ID 458
+msgctxt "items.name"
+msgid "$C斩首之镰"
+msgstr ""
+
+#. ID 458
+msgctxt "items.description"
+msgid "战斗用镰刀。偶尔发动即死。攻70速6/斩长暗魔/两/即死"
+msgstr ""
+
+#. ID 460
+msgctxt "items.name"
+msgid "$C纯银短剑"
+msgstr ""
+
+#. ID 460
+msgctxt "items.description"
+msgid "仪式用的极品短剑。攻35魔60/突暗魔"
+msgstr ""
+
+#. ID 461
+msgctxt "items.name"
+msgid "$A机械式连射弩"
+msgstr ""
+
+#. ID 461
+msgctxt "items.description"
+msgid "机械构造的弩。能攻撃两次。攻12/射/先制二回"
+msgstr ""
+
+#. ID 462
+msgctxt "items.name"
+msgid "$A钢丝剑束"
+msgstr ""
+
+#. ID 462
+msgctxt "items.description"
+msgid "有鞭和剑两种形态。攻80/斩鞭/两手/劣速出血"
+msgstr ""
+
+#. ID 463
+msgctxt "items.name"
+msgid "$C夏里克之弓"
+msgstr ""
+
+#. ID 463
+msgctxt "items.description"
+msgid "狩猎之神的弓。攻68魔95/两手/射魔水兽/先制必杀"
+msgstr ""
+
+#. ID 464
+msgctxt "items.name"
+msgid "$C军团长的指挥杖"
+msgstr ""
+
+#. ID 464
+msgctxt "items.description"
+msgid "指挥官之杖。可令一部分敌人混乱。攻50魔50/魔/从属"
+msgstr ""
+
+#. ID 465
+msgctxt "items.name"
+msgid "$C义人之杖"
+msgstr ""
+
+#. ID 465
+msgctxt "items.description"
+msgid "神圣之杖。攻5魔150/圣魔/两手"
+msgstr ""
+
+#. ID 466
+msgctxt "items.name"
+msgid "$A萝卜剑"
+msgstr ""
+
+#. ID 466
+msgctxt "items.description"
+msgid "帮助消化。攻35/斩突重/？"
+msgstr ""
+
+#. ID 468
+msgctxt "items.name"
+msgid "$A黑龙石"
+msgstr ""
+
+#. ID 468
+msgctxt "items.description"
+msgid "提高龙的物理战斗力的魔石。攻60防80魔-220/龙暗地"
+msgstr ""
+
+#. ID 469
+msgctxt "items.name"
+msgid "$C赤龙石"
+msgstr ""
+
+#. ID 469
+msgctxt "items.description"
+msgid "使用龙之力必须的魔石。攻50防-45魔20敏-30/魔龙火地"
+msgstr ""
+
+#. ID 470
+msgctxt "items.name"
+msgid "$C青龙石"
+msgstr ""
+
+#. ID 470
+msgctxt "items.description"
+msgid "使用龙之力所必须的魔石。攻-75魔150/魔龙水雷"
+msgstr ""
+
+#. ID 472
+msgctxt "items.name"
+msgid "武器3---------"
+msgstr ""
+
+#. ID 473
+msgctxt "items.name"
+msgid "$C魔性之剑"
+msgstr ""
+
+#. ID 473
+msgctxt "items.description"
+msgid "带有魔力的长剑。攻41魔50/斩突暗魔"
+msgstr ""
+
+#. ID 474
+msgctxt "items.name"
+msgid "$C独角兽之剑"
+msgstr ""
+
+#. ID 474
+msgctxt "items.description"
+msgid "带有神圣魔力的长剑。攻32魔25/突圣魔/必杀/对兽"
+msgstr ""
+
+#. ID 475
+msgctxt "items.name"
+msgid "$A鬼丸"
+msgstr ""
+
+#. ID 475
+msgctxt "items.description"
+msgid "粗制滥造的刀。攻57/斩/两手/出血"
+msgstr ""
+
+#. ID 476
+msgctxt "items.name"
+msgid "$A焰刃的大剑"
+msgstr ""
+
+#. ID 476
+msgctxt "items.description"
+msgid "有着火焰般刀刃的大剑。攻56/斩重长火/两手/燃烧"
+msgstr ""
+
+#. ID 477
+msgctxt "items.name"
+msgid "$C流星槌"
+msgstr ""
+
+#. ID 477
+msgctxt "items.description"
+msgid "带有棘刺的铁槌。攻34/重鞭魔/冲击"
+msgstr ""
+
+#. ID 478
+msgctxt "items.name"
+msgid "$A投斧"
+msgstr ""
+
+#. ID 478
+msgctxt "items.description"
+msgid "兵刃独特的战斧。攻45/斩重"
+msgstr ""
+
+#. ID 479
+msgctxt "items.name"
+msgid "$A剑戟"
+msgstr ""
+
+#. ID 479
+msgctxt "items.description"
+msgid "大型长矛。攻55速12/斩突重长/两手"
+msgstr ""
+
+#. ID 481
+msgctxt "items.name"
+msgid "$A漆黒的短刀"
+msgstr ""
+
+#. ID 481
+msgctxt "items.description"
+msgid "暗杀短剑。偶尔造成出血和中毒。攻20/突暗/减衰"
+msgstr ""
+
+#. ID 482
+msgctxt "items.name"
+msgid "$A罗马短剑"
+msgstr ""
+
+#. ID 482
+msgctxt "items.description"
+msgid "古代的军用短剑。攻27/斩突暗"
+msgstr ""
+
+#. ID 483
+msgctxt "items.name"
+msgid "$C妖精之弓"
+msgstr ""
+
+#. ID 483
+msgctxt "items.description"
+msgid "妖精族用的弓。攻54魔30/两手/射魔/先制"
+msgstr ""
+
+#. ID 484
+msgctxt "items.name"
+msgid "$A弩"
+msgstr ""
+
+#. ID 484
+msgctxt "items.description"
+msgid "按动扳机来射击的弓。以单手操作。攻30/射/先制必杀"
+msgstr ""
+
+#. ID 486
+msgctxt "items.name"
+msgid "$C魔术师的小杖"
+msgstr ""
+
+#. ID 486
+msgctxt "items.description"
+msgid "令全体敌人胆怯。攻0魔80/魔/全/怯"
+msgstr ""
+
+#. ID 487
+msgctxt "items.name"
+msgid "$A杀人面包3ボツ"
+msgstr ""
+
+#. ID 487
+msgctxt "items.description"
+msgid "可以扑杀人类。/重/？"
+msgstr ""
+
+#. ID 488
+msgctxt "items.name"
+msgid "$A竹轮"
+msgstr ""
+
+#. ID 488
+msgctxt "items.description"
+msgid "在洞里塞上奶酪会很好吃。攻0/暗/？"
+msgstr ""
+
+#. ID 490
+msgctxt "items.name"
+msgid "$C夏里克之杖ボツ"
+msgstr ""
+
+#. ID 490
+msgctxt "items.description"
+msgid "带有冰之魔力的小杖。攻10魔80/水魔/全/劣速"
+msgstr ""
+
+#. ID 492
+msgctxt "items.name"
+msgid "武器2---------"
+msgstr ""
+
+#. ID 495
+msgctxt "items.name"
+msgid "$C银剑"
+msgstr ""
+
+#. ID 495
+msgctxt "items.description"
+msgid "带有驱魔之力。攻21/魔斩突圣"
+msgstr ""
+
+#. ID 496
+msgctxt "items.name"
+msgid "$A弯刀2ボ"
+msgstr ""
+
+#. ID 496
+msgctxt "items.description"
+msgid "双手持的弯刀。攻34/斩/两手/出血"
+msgstr ""
+
+#. ID 497
+msgctxt "items.name"
+msgid "$A军刀"
+msgstr ""
+
+#. ID 497
+msgctxt "items.description"
+msgid "有刀背的单刃刀。出血率很高。攻18/斩/出血"
+msgstr ""
+
+#. ID 498
+msgctxt "items.name"
+msgid "$A阔刃大剑"
+msgstr ""
+
+#. ID 498
+msgctxt "items.description"
+msgid "刀刃巨长的大剑。攻30/斩重长/两手"
+msgstr ""
+
+#. ID 499
+msgctxt "items.name"
+msgid "$C圣槌"
+msgstr ""
+
+#. ID 499
+msgctxt "items.description"
+msgid "带有魔力与圣之力的战槌。攻16魔20/重魔圣/冲击"
+msgstr ""
+
+#. ID 500
+msgctxt "items.name"
+msgid "$A战斧"
+msgstr ""
+
+#. ID 500
+msgctxt "items.description"
+msgid "战斗用大斧。攻33/斩重/两手"
+msgstr ""
+
+#. ID 501
+msgctxt "items.name"
+msgid "$A长枪"
+msgstr ""
+
+#. ID 501
+msgctxt "items.description"
+msgid "长柄枪。攻18速8/突长/命中"
+msgstr ""
+
+#. ID 503
+msgctxt "items.name"
+msgid "$A破刃剑"
+msgstr ""
+
+#. ID 503
+msgctxt "items.description"
+msgid "偶尔降低敌人的攻击力。攻14/斩突暗/劣攻"
+msgstr ""
+
+#. ID 504
+msgctxt "items.name"
+msgid "$A防卫短剑"
+msgstr ""
+
+#. ID 504
+msgctxt "items.description"
+msgid "为防护手腕而做成的短剑。攻7防7/突暗"
+msgstr ""
+
+#. ID 505
+msgctxt "items.name"
+msgid "$A长弓"
+msgstr ""
+
+#. ID 505
+msgctxt "items.description"
+msgid "大型复合弓。可以先制攻击。攻28/射/两手/先制"
+msgstr ""
+
+#. ID 506
+msgctxt "items.name"
+msgid "$A铁链"
+msgstr ""
+
+#. ID 506
+msgctxt "items.description"
+msgid "长铁链和栓在上面的铁球。攻30/重鞭/两手/劣速束缚"
+msgstr ""
+
+#. ID 508
+msgctxt "items.name"
+msgid "$C老树之杖"
+msgstr ""
+
+#. ID 508
+msgctxt "items.description"
+msgid "经年累月的强力手杖。攻3魔60/魔/两手"
+msgstr ""
+
+#. ID 509
+msgctxt "items.name"
+msgid "$C紫电之小杖"
+msgstr ""
+
+#. ID 509
+msgctxt "items.description"
+msgid "缠绕闪电的魔杖。攻25魔50/魔雷/冲击"
+msgstr ""
+
+#. ID 512
+msgctxt "items.name"
+msgid "武器1---------"
+msgstr ""
+
+#. ID 515
+msgctxt "items.name"
+msgid "$A长剑"
+msgstr ""
+
+#. ID 515
+msgctxt "items.description"
+msgid "双刃剑。攻8/斩突"
+msgstr ""
+
+#. ID 516
+msgctxt "items.name"
+msgid "$A西洋剑"
+msgstr ""
+
+#. ID 516
+msgctxt "items.description"
+msgid "特化突刺能力的细剑。必杀率很高。攻5/突/必杀"
+msgstr ""
+
+#. ID 517
+msgctxt "items.name"
+msgid "$Aボツ军刀"
+msgstr ""
+
+#. ID 517
+msgctxt "items.description"
+msgid "有刀背的单刃剑。偶尔造成出血。攻4[斩突/出血]"
+msgstr ""
+
+#. ID 518
+msgctxt "items.name"
+msgid "$A大剑"
+msgstr ""
+
+#. ID 518
+msgctxt "items.description"
+msgid "双手持的大剑。攻12/斩重长/两手"
+msgstr ""
+
+#. ID 519
+msgctxt "items.name"
+msgid "$A战槌"
+msgstr ""
+
+#. ID 519
+msgctxt "items.description"
+msgid "很难命中，但偶尔能击倒敌人。攻8/重/冲击"
+msgstr ""
+
+#. ID 520
+msgctxt "items.name"
+msgid "$A手斧"
+msgstr ""
+
+#. ID 520
+msgctxt "items.description"
+msgid "命中率低，但攻击力高。攻11/斩重"
+msgstr ""
+
+#. ID 521
+msgctxt "items.name"
+msgid "$A短枪"
+msgstr ""
+
+#. ID 521
+msgctxt "items.description"
+msgid "相对短小的投枪。攻6速6/突长空/命中"
+msgstr ""
+
+#. ID 523
+msgctxt "items.name"
+msgid "$C号哭匕首"
+msgstr ""
+
+#. ID 523
+msgctxt "items.description"
+msgid "有波浪一般刀刃的仪式用短剑。攻6魔20/突暗圣魔"
+msgstr ""
+
+#. ID 524
+msgctxt "items.name"
+msgid "$A短剑"
+msgstr ""
+
+#. ID 524
+msgctxt "items.description"
+msgid "刀刃短小的剑。攻4/突暗"
+msgstr ""
+
+#. ID 525
+msgctxt "items.name"
+msgid "$A短弓"
+msgstr ""
+
+#. ID 525
+msgctxt "items.description"
+msgid "短小的弓矢。可以先制攻击。攻8/射/两手/先制"
+msgstr ""
+
+#. ID 526
+msgctxt "items.name"
+msgid "$A皮鞭"
+msgstr ""
+
+#. ID 526
+msgctxt "items.description"
+msgid "皮制长鞭。偶尔会降低敌人的速度。攻6/鞭/劣速"
+msgstr ""
+
+#. ID 527
+msgctxt "items.name"
+msgid "$A捕兽网"
+msgstr ""
+
+#. ID 527
+msgctxt "items.description"
+msgid "高概率停止敌人的行动。攻-3/鞭/对空/束缚"
+msgstr ""
+
+#. ID 529
+msgctxt "items.name"
+msgid "$C锡杖"
+msgstr ""
+
+#. ID 529
+msgctxt "items.description"
+msgid "金属制手杖。攻6魔8/圣魔"
+msgstr ""
+
+#. ID 530
+msgctxt "items.name"
+msgid "$C幼木之杖"
+msgstr ""
+
+#. ID 530
+msgctxt "items.description"
+msgid "使用魔法时必须的手杖。攻1魔15/魔/两手"
+msgstr ""
+
+#. ID 531
+msgctxt "items.name"
+msgid "$C龙石"
+msgstr ""
+
+#. ID 531
+msgctxt "items.description"
+msgid "能以人的姿态使用龙之力的龙石。攻0/魔龙"
+msgstr ""
+
+#. ID 534
+msgctxt "items.name"
+msgid "$C夜母之剑"
+msgstr ""
+
+#. ID 534
+msgctxt "items.description"
+msgid "古代邪神的魔剑。攻220魔200/斩重闇魔/两手/必杀/？"
+msgstr ""
+
+#. ID 535
+msgctxt "items.name"
+msgid "鎧6---------"
+msgstr ""
+
+#. ID 538
+msgctxt "items.name"
+msgid "$B魔铠ボツ"
+msgstr ""
+
+#. ID 538
+msgctxt "items.description"
+msgid "有生命的铠甲。防100速12/耐:斩重鞭圣/无:死减停/？"
+msgstr ""
+
+#. ID 539
+msgctxt "items.name"
+msgid "$B金丝缀龙鱗甲胄"
+msgstr ""
+
+#. ID 539
+msgctxt "items.description"
+msgid "皇帝的附葬品。防45速-6/耐:火龙/无效:减"
+msgstr ""
+
+#. ID 540
+msgctxt "items.name"
+msgid "$B始皇帝战衣"
+msgstr ""
+
+#. ID 540
+msgctxt "items.description"
+msgid "皇帝的装束。防35魔8/耐:突射暗/无:死停乱制"
+msgstr ""
+
+#. ID 541
+msgctxt "items.name"
+msgid "$B冒险王外套"
+msgstr ""
+
+#. ID 541
+msgctxt "items.description"
+msgid "传说中的探险家穿过的衣服。防30速10/回避/无效:减衰"
+msgstr ""
+
+#. ID 542
+msgctxt "items.name"
+msgid "$B银丝叶文黑纱衣"
+msgstr ""
+
+#. ID 542
+msgctxt "items.description"
+msgid "皇帝的附葬品。防27魔16/耐:全魔属/无效:制限"
+msgstr ""
+
+#. ID 545
+msgctxt "items.name"
+msgid "$B皇女宽袍"
+msgstr ""
+
+#. ID 545
+msgctxt "items.description"
+msgid "美丽的古代风外衣。防25/回避/耐:圣闇/无效:死"
+msgstr ""
+
+#. ID 550
+msgctxt "items.name"
+msgid "鎧5---------"
+msgstr ""
+
+#. ID 553
+msgctxt "items.name"
+msgid "$B巨人族铠甲"
+msgstr ""
+
+#. ID 553
+msgctxt "items.description"
+msgid "巨人制作的铠甲。防40魔-2速-14"
+msgstr ""
+
+#. ID 554
+msgctxt "items.name"
+msgid "$B名匠板甲"
+msgstr ""
+
+#. ID 554
+msgctxt "items.description"
+msgid "凝结了各种尖端工艺的铠甲。防33魔-4速-2/无效:减"
+msgstr ""
+
+#. ID 555
+msgctxt "items.name"
+msgid "$B龙鳞铠"
+msgstr ""
+
+#. ID 555
+msgctxt "items.description"
+msgid "联结薄片状龙鳞的铠甲。防30速-4/耐:火龙/无效:炎"
+msgstr ""
+
+#. ID 556
+msgctxt "items.name"
+msgid "$B奥罗里昂的护胸"
+msgstr ""
+
+#. ID 556
+msgctxt "items.description"
+msgid "山神之铠。攻4防27速-2/耐:雷地空闇"
+msgstr ""
+
+#. ID 557
+msgctxt "items.name"
+msgid "$B漆黑外套"
+msgstr ""
+
+#. ID 557
+msgctxt "items.description"
+msgid "特制的防刃外套。防23/回避/耐性:斩突射暗"
+msgstr ""
+
+#. ID 558
+msgctxt "items.name"
+msgid "$B恩伯的长袍"
+msgstr ""
+
+#. ID 558
+msgctxt "items.description"
+msgid "宿有海洋之力的薄衣。防23魔4速4/耐:火水/无:减衰"
+msgstr ""
+
+#. ID 559
+msgctxt "items.name"
+msgid "$B绯红大衣"
+msgstr ""
+
+#. ID 559
+msgctxt "items.description"
+msgid "魔术师的赤色外套。防22魔10/耐性:火/半减:炎制"
+msgstr ""
+
+#. ID 560
+msgctxt "items.name"
+msgid "$B天礼衣"
+msgstr ""
+
+#. ID 560
+msgctxt "items.description"
+msgid "特制僧衣。防20魔12/耐性:水雷暗"
+msgstr ""
+
+#. ID 563
+#. ID 564
+msgctxt "items.name"
+msgid "$B忍者女仆装"
+msgstr ""
+
+#. ID 563
+#. ID 564
+msgctxt "items.description"
+msgid "生活在暗影中的一族的服饰。防21速19/回避/半减:停"
+msgstr ""
+
+#. ID 565
+#. ID 566
+msgctxt "items.name"
+msgid "$B民族风皮装"
+msgstr ""
+
+#. ID 565
+#. ID 566
+msgctxt "items.description"
+msgid "大胆的设计风格。防20/回避/耐性:圣闇/半减:混乱"
+msgstr ""
+
+#. ID 567
+#. ID 568
+msgctxt "items.name"
+msgid "$B比翼裙"
+msgstr ""
+
+#. ID 567
+#. ID 568
+msgctxt "items.description"
+msgid "特制的连衣裙。防18速8/耐性:地空/无效:死"
+msgstr ""
+
+#. ID 572
+msgctxt "items.name"
+msgid "鎧4---------"
+msgstr ""
+
+#. ID 575
+msgctxt "items.name"
+msgid "$B纯银锁子甲"
+msgstr ""
+
+#. ID 575
+msgctxt "items.description"
+msgid "矮人族的锁子甲。防25/无效:死血"
+msgstr ""
+
+#. ID 576
+msgctxt "items.name"
+msgid "$B自动铠甲"
+msgstr ""
+
+#. ID 576
+msgctxt "items.description"
+msgid "机械构造的铠甲。攻18防28魔-12/半减:停"
+msgstr ""
+
+#. ID 577
+msgctxt "items.name"
+msgid "$B罗马贤哲长袍"
+msgstr ""
+
+#. ID 577
+msgctxt "items.description"
+msgid "古代风的外套。防19魔4/耐:闇"
+msgstr ""
+
+#. ID 578
+msgctxt "items.name"
+msgid "$B永夜外套"
+msgstr ""
+
+#. ID 578
+msgctxt "items.description"
+msgid "魔导师的外套。防14魔10/耐:圣/半减:制限"
+msgstr ""
+
+#. ID 582
+#. ID 583
+msgctxt "items.name"
+msgid "$B比基尼铠"
+msgstr ""
+
+#. ID 582
+#. ID 583
+msgctxt "items.description"
+msgid "幻想剧的必须物。不合理的防御力。防20速4/耐:斩突"
+msgstr ""
+
+#. ID 584
+#. ID 585
+msgctxt "items.name"
+msgid "$B舞姬的薄纱"
+msgstr ""
+
+#. ID 584
+#. ID 585
+msgctxt "items.description"
+msgid "为高明舞者编织的舞衣。防16速15/回避"
+msgstr ""
+
+#. ID 589
+msgctxt "items.name"
+msgid "鎧3---------"
+msgstr ""
+
+#. ID 592
+msgctxt "items.name"
+msgid "$B南瓜铠"
+msgstr ""
+
+#. ID 592
+msgctxt "items.description"
+msgid "田园能量的精华。攻-6防40速-20/耐:水地空"
+msgstr ""
+
+#. ID 593
+msgctxt "items.name"
+msgid "$B板甲"
+msgstr ""
+
+#. ID 593
+msgctxt "items.description"
+msgid "用金属板组合成的全身甲。防18速-6/半减:出血"
+msgstr ""
+
+#. ID 594
+msgctxt "items.name"
+msgid "$B歌舞伎者的战装束"
+msgstr ""
+
+#. ID 594
+msgctxt "items.description"
+msgid "异常华丽的甲胄。夜露死苦。攻2防15速-4"
+msgstr ""
+
+#. ID 595
+msgctxt "items.name"
+msgid "$B妖精族衣"
+msgstr ""
+
+#. ID 595
+msgctxt "items.description"
+msgid "妖精族的隐身蓑衣。防14魔6/回避"
+msgstr ""
+
+#. ID 596
+msgctxt "items.name"
+msgid "$B防风斗篷"
+msgstr ""
+
+#. ID 596
+msgctxt "items.description"
+msgid "带有连衣帽的斗篷。防10魔2/耐:水"
+msgstr ""
+
+#. ID 597
+msgctxt "items.name"
+msgid "$B性感紧身衣"
+msgstr ""
+
+#. ID 597
+msgctxt "items.description"
+msgid "刚刚好地覆在身体上的薄薄一层。攻5防7速15"
+msgstr ""
+
+#. ID 599
+msgctxt "items.name"
+msgid "$B军服3mmボツ"
+msgstr ""
+
+#. ID 599
+#. ID 600
+msgctxt "items.description"
+msgid "装饰着纽扣和肩章的制服。防15"
+msgstr ""
+
+#. ID 600
+msgctxt "items.name"
+msgid "$B軍服3mfボ"
+msgstr ""
+
+#. ID 601
+#. ID 602
+msgctxt "items.name"
+msgid "$B战斗束腰装"
+msgstr ""
+
+#. ID 601
+#. ID 602
+msgctxt "items.description"
+msgid "为了不显眼而设计成拟态色的装甲服，好紧！防15速4"
+msgstr ""
+
+#. ID 603
+#. ID 604
+msgctxt "items.name"
+msgid "$B风流紧身衣"
+msgstr ""
+
+#. ID 603
+#. ID 604
+msgctxt "items.description"
+msgid "奇特的服装。装饰着华丽的袖襟。防11速2"
+msgstr ""
+
+#. ID 608
+msgctxt "items.name"
+msgid "鎧2---------"
+msgstr ""
+
+#. ID 611
+msgctxt "items.name"
+msgid "$B古代护胸"
+msgstr ""
+
+#. ID 611
+msgctxt "items.description"
+msgid "古代风的胸甲。防11速-2"
+msgstr ""
+
+#. ID 612
+msgctxt "items.name"
+msgid "$B锁子甲"
+msgstr ""
+
+#. ID 612
+msgctxt "items.description"
+msgid "用金属环连接而成的铠甲。防8速-2/半减:出血"
+msgstr ""
+
+#. ID 613
+msgctxt "items.name"
+msgid "$B小丑服ボツ"
+msgstr ""
+
+#. ID 613
+msgctxt "items.description"
+msgid "小丑的衣装。防7速4"
+msgstr ""
+
+#. ID 614
+msgctxt "items.name"
+msgid "$B袈裟"
+msgstr ""
+
+#. ID 614
+msgctxt "items.description"
+msgid "僧侣在进行仪式时穿的薄外套。防4魔2"
+msgstr ""
+
+#. ID 615
+msgctxt "items.name"
+msgid "$B比基尼泳裤"
+msgstr ""
+
+#. ID 615
+msgctxt "items.description"
+msgid "解放般的着衣感也会解放战斗力。攻10防2"
+msgstr ""
+
+#. ID 618
+#. ID 619
+msgctxt "items.name"
+msgid "$B贵妇连衣裙"
+msgstr ""
+
+#. ID 618
+#. ID 619
+msgctxt "items.description"
+msgid "设计优秀的连衣裙。防10速-6"
+msgstr ""
+
+#. ID 620
+#. ID 621
+msgctxt "items.name"
+msgid "$B提督服"
+msgstr ""
+
+#. ID 620
+#. ID 621
+msgctxt "items.description"
+msgid "阔袖绅士服。防7"
+msgstr ""
+
+#. ID 622
+msgctxt "items.name"
+msgid "$B礼装2mmボツ"
+msgstr ""
+
+#. ID 622
+#. ID 623
+msgctxt "items.description"
+msgid "祭祀时的男用衣装。防4"
+msgstr ""
+
+#. ID 623
+msgctxt "items.name"
+msgid "$B礼装2mfボ"
+msgstr ""
+
+#. ID 627
+msgctxt "items.name"
+msgid "鎧1---------"
+msgstr ""
+
+#. ID 630
+msgctxt "items.name"
+msgid "$B护胸"
+msgstr ""
+
+#. ID 630
+msgctxt "items.description"
+msgid "保护胸部的铠甲。防6速-2"
+msgstr ""
+
+#. ID 631
+msgctxt "items.name"
+msgid "$B革铠"
+msgstr ""
+
+#. ID 631
+msgctxt "items.description"
+msgid "皮革制铠甲。防4速-2"
+msgstr ""
+
+#. ID 632
+msgctxt "items.name"
+msgid "$B游牧民服装"
+msgstr ""
+
+#. ID 632
+msgctxt "items.description"
+msgid "羊毛制成的骑马用服装。防2速2"
+msgstr ""
+
+#. ID 633
+msgctxt "items.name"
+msgid "$B革衣"
+msgstr ""
+
+#. ID 633
+msgctxt "items.description"
+msgid "用绳带扎身的短小衣装。防2"
+msgstr ""
+
+#. ID 634
+msgctxt "items.name"
+msgid "$B长大衣"
+msgstr ""
+
+#. ID 634
+msgctxt "items.description"
+msgid "衣摆很长的衣服。防1"
+msgstr ""
+
+#. ID 635
+msgctxt "items.name"
+msgid "$B破布条"
+msgstr ""
+
+#. ID 635
+msgctxt "items.description"
+msgid "仅仅是破布条。防1"
+msgstr ""
+
+#. ID 637
+#. ID 638
+msgctxt "items.name"
+msgid "$B舞女服"
+msgstr ""
+
+#. ID 637
+#. ID 638
+msgctxt "items.description"
+msgid "非常暴露的衣服。防1速2"
+msgstr ""
+
+#. ID 639
+#. ID 640
+msgctxt "items.name"
+msgid "$B紧身连衣裙"
+msgstr ""
+
+#. ID 639
+#. ID 640
+msgctxt "items.description"
+msgid "女性穿的民族服饰。防3"
+msgstr ""
+
+#. ID 641
+msgctxt "items.name"
+msgid "$B女仆装1fmボツ"
+msgstr ""
+
+#. ID 641
+#. ID 642
+msgctxt "items.description"
+msgid "朴素而结实的连身围裙。防3"
+msgstr ""
+
+#. ID 642
+msgctxt "items.name"
+msgid "$B女仆装1ffボ"
+msgstr ""
+
+#. ID 644
+msgctxt "items.name"
+msgid "$B魔甲胄"
+msgstr ""
+
+#. ID 644
+msgctxt "items.description"
+msgid "活体铠甲。防200速30/耐:斩突射重鞭长圣闇/無:死减停"
+msgstr ""
+
+#. ID 645
+msgctxt "items.name"
+msgid "$B凡例fm"
+msgstr ""
+
+#. ID 645
+msgctxt "items.description"
+msgid "アイテム名(装備可能性別m/f)(主役の性別m/f)の順"
+msgstr ""
+
+#. ID 646
+msgctxt "items.name"
+msgid "$B凡例ff"
+msgstr ""
+
+#. ID 648
+msgctxt "items.name"
+msgid "兜6---------"
+msgstr ""
+
+#. ID 649
+msgctxt "items.name"
+msgid "$B纯银翼状饰冠"
+msgstr ""
+
+#. ID 649
+msgctxt "items.description"
+msgid "皇帝的附葬品。防20/无效:死乱制劣"
+msgstr ""
+
+#. ID 650
+msgctxt "items.name"
+msgid "$B白金月桂树文冠"
+msgstr ""
+
+#. ID 650
+msgctxt "items.description"
+msgid "皇帝的附葬品。防18魔8/耐:圣闇/无效:死减停"
+msgstr ""
+
+#. ID 652
+msgctxt "items.name"
+msgid "$B上帝的头箍ボツ"
+msgstr ""
+
+#. ID 652
+msgctxt "items.description"
+msgid "有四只眼的头饰。攻防20魔速40/耐:全/无:全/消MP半"
+msgstr ""
+
+#. ID 654
+msgctxt "items.name"
+msgid "兜5---------"
+msgstr ""
+
+#. ID 657
+msgctxt "items.name"
+msgid "$B特等头盔"
+msgstr ""
+
+#. ID 657
+msgctxt "items.description"
+msgid "以最新技术打造的头盔。防22/无效:死停"
+msgstr ""
+
+#. ID 658
+msgctxt "items.name"
+msgid "$B龙头之盔"
+msgstr ""
+
+#. ID 658
+msgctxt "items.description"
+msgid "仿造龙型而制的头盔。防20/耐:火雷水空龙"
+msgstr ""
+
+#. ID 659
+msgctxt "items.name"
+msgid "$B拉亚之盔"
+msgstr ""
+
+#. ID 659
+msgctxt "items.description"
+msgid "太阳神的头盔。防19/耐:火雷闇/无效:死减"
+msgstr ""
+
+#. ID 660
+msgctxt "items.name"
+msgid "$B猫耳头套"
+msgstr ""
+
+#. ID 660
+msgctxt "items.description"
+msgid "仿造猫耳形状制作的头巾。防19魔6/耐:水空/回避"
+msgstr ""
+
+#. ID 661
+msgctxt "items.name"
+msgid "$B旅人的羽毛帽"
+msgstr ""
+
+#. ID 661
+msgctxt "items.description"
+msgid "保佑旅途平安。防18速16/耐:水空雷"
+msgstr ""
+
+#. ID 662
+msgctxt "items.name"
+msgid "$B环冠"
+msgstr ""
+
+#. ID 662
+msgctxt "items.description"
+msgid "宿有魔力的头环。防15魔18/无效:死制"
+msgstr ""
+
+#. ID 665
+#. ID 666
+msgctxt "items.name"
+msgid "$B影纱"
+msgstr ""
+
+#. ID 665
+#. ID 666
+msgctxt "items.description"
+msgid "覆盖大部分额头。防18速26/回避"
+msgstr ""
+
+#. ID 670
+msgctxt "items.name"
+msgid "兜4---------"
+msgstr ""
+
+#. ID 673
+msgctxt "items.name"
+msgid "$B角盔"
+msgstr ""
+
+#. ID 673
+msgctxt "items.description"
+msgid "头盔上有两支钢角。攻4防17"
+msgstr ""
+
+#. ID 674
+msgctxt "items.name"
+msgid "$B翼型盔"
+msgstr ""
+
+#. ID 674
+msgctxt "items.description"
+msgid "装饰成羽翼模样的头盔。即死率半减。防16/半减:死"
+msgstr ""
+
+#. ID 675
+msgctxt "items.name"
+msgid "$B三重冕"
+msgstr ""
+
+#. ID 675
+msgctxt "items.description"
+msgid "奢华的头饰。防15魔10"
+msgstr ""
+
+#. ID 676
+msgctxt "items.name"
+msgid "$B鸦之假面"
+msgstr ""
+
+#. ID 676
+msgctxt "items.description"
+msgid "鸟嘴型的假面。覆盖脸的上半部。防13速14"
+msgstr ""
+
+#. ID 679
+#. ID 680
+msgctxt "items.name"
+msgid "$B豹头假面"
+msgstr ""
+
+#. ID 679
+#. ID 680
+msgctxt "items.description"
+msgid "仿造豹头设计的假面。攻28防11"
+msgstr ""
+
+#. ID 684
+msgctxt "items.name"
+msgid "兜3---------"
+msgstr ""
+
+#. ID 687
+msgctxt "items.name"
+msgid "$B指挥官头盔"
+msgstr ""
+
+#. ID 687
+msgctxt "items.description"
+msgid "饰有彩穗。防13魔-4/无:乱"
+msgstr ""
+
+#. ID 688
+msgctxt "items.name"
+msgid "$B船长帽3ボツ"
+msgstr ""
+
+#. ID 688
+msgctxt "items.description"
+msgid "船员的帽子。防13/耐:水"
+msgstr ""
+
+#. ID 689
+msgctxt "items.name"
+msgid "$B异貌之盔"
+msgstr ""
+
+#. ID 689
+msgctxt "items.description"
+msgid "带有恐怖假面的头盔。攻5防10魔-2速-4"
+msgstr ""
+
+#. ID 690
+msgctxt "items.name"
+msgid "$B小丑帽"
+msgstr ""
+
+#. ID 690
+msgctxt "items.description"
+msgid "俏皮的帽子。防8速10"
+msgstr ""
+
+#. ID 691
+msgctxt "items.name"
+msgid "$B骷髅假面3ボツ"
+msgstr ""
+
+#. ID 691
+#. ID 733
+msgctxt "items.description"
+msgid "被诅咒的假面。防40/耐:圣/半减:停乱制/？"
+msgstr ""
+
+#. ID 695
+#. ID 696
+msgctxt "items.name"
+msgid "$B遮阳帽"
+msgstr ""
+
+#. ID 695
+#. ID 696
+msgctxt "items.description"
+msgid "带有褶边的白帽。防9速6"
+msgstr ""
+
+#. ID 697
+#. ID 698
+msgctxt "items.name"
+msgid "$B爆炸头假发"
+msgstr ""
+
+#. ID 697
+#. ID 698
+msgctxt "items.description"
+msgid "野性的力量。攻10"
+msgstr ""
+
+#. ID 702
+msgctxt "items.name"
+msgid "兜2---------"
+msgstr ""
+
+#. ID 705
+msgctxt "items.name"
+msgid "$B犬鼻盔"
+msgstr ""
+
+#. ID 705
+msgctxt "items.description"
+msgid "带有尖面罩的头盔。防9魔-2速-2"
+msgstr ""
+
+#. ID 706
+msgctxt "items.name"
+msgid "$B圆盔"
+msgstr ""
+
+#. ID 706
+msgctxt "items.description"
+msgid "配合头部形状制作。即死减半。防7魔-2速-2/半减:死"
+msgstr ""
+
+#. ID 707
+msgctxt "items.name"
+msgid "$B古代头盔"
+msgstr ""
+
+#. ID 707
+msgctxt "items.description"
+msgid "朴素的头盔。防7"
+msgstr ""
+
+#. ID 708
+msgctxt "items.name"
+msgid "$B羽毛帽2ボツ"
+msgstr ""
+
+#. ID 708
+msgctxt "items.description"
+msgid "装饰优雅的帽子。防7"
+msgstr ""
+
+#. ID 709
+msgctxt "items.name"
+msgid "$B毛皮帽"
+msgstr ""
+
+#. ID 709
+msgctxt "items.description"
+msgid "耐寒的毛皮帽子。防4/耐:水"
+msgstr ""
+
+#. ID 710
+msgctxt "items.name"
+msgid "$B尖帽"
+msgstr ""
+
+#. ID 710
+msgctxt "items.description"
+msgid "魔法使的帽子。防3魔8"
+msgstr ""
+
+#. ID 711
+msgctxt "items.name"
+msgid "$B僧帽"
+msgstr ""
+
+#. ID 711
+msgctxt "items.description"
+msgid "圣职者的帽子。防4魔4"
+msgstr ""
+
+#. ID 714
+msgctxt "items.name"
+msgid "$B绅士帽2mmボ"
+msgstr ""
+
+#. ID 714
+#. ID 715
+msgctxt "items.description"
+msgid "有品位的帽子。防5"
+msgstr ""
+
+#. ID 715
+msgctxt "items.name"
+msgid "$B紳士帽2mfボ"
+msgstr ""
+
+#. ID 716
+#. ID 717
+msgctxt "items.name"
+msgid "$B喀秋莎"
+msgstr ""
+
+#. ID 716
+#. ID 717
+msgctxt "items.description"
+msgid "做了若干装饰的喀秋莎。防4速2"
+msgstr ""
+
+#. ID 721
+msgctxt "items.name"
+msgid "兜1---------"
+msgstr ""
+
+#. ID 724
+msgctxt "items.name"
+msgid "$B桶型盔"
+msgstr ""
+
+#. ID 724
+msgctxt "items.description"
+msgid "防护整个头部。停止率半减。防5魔-3速-3/半减:停"
+msgstr ""
+
+#. ID 725
+msgctxt "items.name"
+msgid "$B铁盔"
+msgstr ""
+
+#. ID 725
+msgctxt "items.description"
+msgid "简单的铁制头盔。防3"
+msgstr ""
+
+#. ID 726
+msgctxt "items.name"
+msgid "$B阔边帽"
+msgstr ""
+
+#. ID 726
+msgctxt "items.description"
+msgid "很大的帽子。防1"
+msgstr ""
+
+#. ID 730
+#. ID 731
+msgctxt "items.name"
+msgid "$B发饰"
+msgstr ""
+
+#. ID 730
+#. ID 731
+msgctxt "items.description"
+msgid "朴素的发饰。防1魔2"
+msgstr ""
+
+#. ID 732
+msgctxt "items.name"
+msgid "兜呪い---------"
+msgstr ""
+
+#. ID 733
+msgctxt "items.name"
+msgid "$B骷髅假面"
+msgstr ""
+
+#. ID 735
+msgctxt "items.name"
+msgid "盾----------------"
+msgstr ""
+
+#. ID 738
+msgctxt "items.name"
+msgid "$B几何纹样镜"
+msgstr ""
+
+#. ID 738
+msgctxt "items.description"
+msgid "皇帝的附葬品。防40/耐:火雷圣重鞭/无效:死乱"
+msgstr ""
+
+#. ID 739
+msgctxt "items.name"
+msgid "$B伊波之盾"
+msgstr ""
+
+#. ID 739
+msgctxt "items.description"
+msgid "地母神之盾。防38/耐:水地空闇/无效:死减"
+msgstr ""
+
+#. ID 740
+msgctxt "items.name"
+msgid "$B密苏里迪奥之盾"
+msgstr ""
+
+#. ID 740
+msgctxt "items.description"
+msgid "月神之盾。防35/耐:圣/无效:死停制"
+msgstr ""
+
+#. ID 741
+msgctxt "items.name"
+msgid "$B英雄的纹章盾"
+msgstr ""
+
+#. ID 741
+msgctxt "items.description"
+msgid "好象是以前勇者用过的盾。攻25防30速25/无效:乱劣"
+msgstr ""
+
+#. ID 743
+msgctxt "items.name"
+msgid "$B名匠守护盾"
+msgstr ""
+
+#. ID 743
+msgctxt "items.description"
+msgid "熟练的工匠制作的盾牌。防37/耐:斩突射"
+msgstr ""
+
+#. ID 744
+msgctxt "items.name"
+msgid "$B龙鳞盾"
+msgstr ""
+
+#. ID 744
+msgctxt "items.description"
+msgid "鳞片状的盾牌。防32/耐:火水/无效:减"
+msgstr ""
+
+#. ID 747
+msgctxt "items.name"
+msgid "$B秘银盾"
+msgstr ""
+
+#. ID 747
+msgctxt "items.description"
+msgid "秘银打造的盾牌。防35"
+msgstr ""
+
+#. ID 748
+msgctxt "items.name"
+msgid "$B兽之盾"
+msgstr ""
+
+#. ID 748
+msgctxt "items.description"
+msgid "有着对重武器耐性的盾。防20/耐:重"
+msgstr ""
+
+#. ID 751
+msgctxt "items.name"
+msgid "$B骑士盾"
+msgstr ""
+
+#. ID 751
+msgctxt "items.description"
+msgid "刻有纹章的盾牌。对突刺攻击有耐性。防18/耐:突"
+msgstr ""
+
+#. ID 752
+msgctxt "items.name"
+msgid "$B镜盾"
+msgstr ""
+
+#. ID 752
+msgctxt "items.description"
+msgid "对死与诱惑之力有耐性的盾牌。防15/无效:死乱"
+msgstr ""
+
+#. ID 755
+msgctxt "items.name"
+msgid "$B长盾"
+msgstr ""
+
+#. ID 755
+msgctxt "items.description"
+msgid "高大的长方形盾牌。对射击有耐性。防10/耐:射"
+msgstr ""
+
+#. ID 756
+msgctxt "items.name"
+msgid "$B钉盾"
+msgstr ""
+
+#. ID 756
+msgctxt "items.description"
+msgid "装有尖钉的盾牌。攻5防5"
+msgstr ""
+
+#. ID 759
+msgctxt "items.name"
+msgid "$B圆盾"
+msgstr ""
+
+#. ID 759
+msgctxt "items.description"
+msgid "大型圆盾。对斩击有耐性。防5/耐:斩"
+msgstr ""
+
+#. ID 760
+msgctxt "items.name"
+msgid "$B小圆盾"
+msgstr ""
+
+#. ID 760
+msgctxt "items.description"
+msgid "小形盾。防1"
+msgstr ""
+
+#. ID 764
+msgctxt "items.name"
+msgid "義手---------------"
+msgstr ""
+
+#. ID 766
+msgctxt "items.name"
+msgid "$A精神枪"
+msgstr ""
+
+#. ID 766
+msgctxt "items.description"
+msgid "谜之武器。拉邦专用。攻150/射/两手/先制必杀"
+msgstr ""
+
+#. ID 768
+msgctxt "items.name"
+msgid "$B白银钩爪"
+msgstr ""
+
+#. ID 768
+msgctxt "items.description"
+msgid "机械技术与魔法的融合产物。拉邦专用。攻25防28"
+msgstr ""
+
+#. ID 770
+msgctxt "items.name"
+msgid "$B骨骼义手"
+msgstr ""
+
+#. ID 770
+msgctxt "items.description"
+msgid "寄宿了某人的灵魂。拉邦专用。防20魔40"
+msgstr ""
+
+#. ID 771
+msgctxt "items.name"
+msgid "$B炮膛义手"
+msgstr ""
+
+#. ID 771
+msgctxt "items.description"
+msgid "装有小型炮膛。拉邦专用。攻35速-8"
+msgstr ""
+
+#. ID 773
+msgctxt "items.name"
+msgid "$B机械义手"
+msgstr ""
+
+#. ID 773
+msgctxt "items.description"
+msgid "靠齿轮自动运转。拉邦专用。攻5防14速8"
+msgstr ""
+
+#. ID 775
+msgctxt "items.name"
+msgid "$B铁钩义手"
+msgstr ""
+
+#. ID 775
+msgctxt "items.description"
+msgid "铁制义手。拉邦专用。攻8防6"
+msgstr ""
+
+#. ID 776
+msgctxt "items.name"
+msgid "$B木制义手"
+msgstr ""
+
+#. ID 776
+msgctxt "items.description"
+msgid "木制义手。拉邦专用。防1"
+msgstr ""
+
+#. ID 778
+msgctxt "items.name"
+msgid "特殊盾-------------"
+msgstr ""
+
+#. ID 781
+msgctxt "items.name"
+msgid "装飾品-------------"
+msgstr ""
+
+#. ID 783
+msgctxt "items.name"
+msgid "$B月长石尤诺"
+msgstr ""
+
+#. ID 783
+msgctxt "items.description"
+msgid "月长石护符。消费MP半减/回避/无:死"
+msgstr ""
+
+#. ID 784
+msgctxt "items.name"
+msgid "$B青金石费阿"
+msgstr ""
+
+#. ID 784
+msgctxt "items.description"
+msgid "青金石首饰。魔40/耐:水/消费MP半减/无:乱制"
+msgstr ""
+
+#. ID 785
+msgctxt "items.name"
+msgid "$B翡翠石席尔巴"
+msgstr ""
+
+#. ID 785
+msgctxt "items.description"
+msgid "翡翠石头饰。速40/耐:空/消费MP半减/无:停"
+msgstr ""
+
+#. ID 786
+msgctxt "items.name"
+msgid "$B柘榴石尼鲁萨"
+msgstr ""
+
+#. ID 786
+msgctxt "items.description"
+msgid "柘榴石戒指。攻20/耐:火/消费MP半减/无:减"
+msgstr ""
+
+#. ID 787
+msgctxt "items.name"
+msgid "$B琥珀石艾尔雅"
+msgstr ""
+
+#. ID 787
+msgctxt "items.description"
+msgid "琥珀石手镯。防20/耐:地/消费MP半减/无:劣"
+msgstr ""
+
+#. ID 788
+msgctxt "items.name"
+msgid "$B伊泰利尔的碎片"
+msgstr ""
+
+#. ID 788
+msgctxt "items.description"
+msgid "契約之证。/耐:雷圣闇/消费MP半减/回避/无:死"
+msgstr ""
+
+#. ID 789
+msgctxt "items.name"
+msgid "$B超魂体"
+msgstr ""
+
+#. ID 789
+msgctxt "items.description"
+msgid "攻防5魔速10/回避/消费MP半减/无:死"
+msgstr ""
+
+#. ID 790
+msgctxt "items.name"
+msgid "$B密鲁多罗之石"
+msgstr ""
+
+#. ID 790
+msgctxt "items.description"
+msgid "宿有黑神魔力的魔石。魔80/耐:全魔法属性"
+msgstr ""
+
+#. ID 791
+msgctxt "items.name"
+msgid "$B艾克薇尔的圣印"
+msgstr ""
+
+#. ID 791
+msgctxt "items.description"
+msgid "宿有女神加护之力的圣遗物。/耐:火水/无:全异常"
+msgstr ""
+
+#. ID 792
+msgctxt "items.name"
+msgid "$B猫神的羽靴"
+msgstr ""
+
+#. ID 792
+msgctxt "items.description"
+msgid "宿有漂泊之神的魔力。速+200/耐:地空/无:死停/回避"
+msgstr ""
+
+#. ID 795
+msgctxt "items.name"
+msgid "$B魔将外套ボツ"
+msgstr ""
+
+#. ID 795
+msgctxt "items.description"
+msgid "魔将之衣。/耐:暗/消費MP半减/无:死制/？"
+msgstr ""
+
+#. ID 799
+msgctxt "items.name"
+msgid "$B隐身斗篷"
+msgstr ""
+
+#. ID 799
+msgctxt "items.description"
+msgid "防止衰减，可以隐藏姿态。速20/回避/无:减"
+msgstr ""
+
+#. ID 800
+msgctxt "items.name"
+msgid "$B巨人护手"
+msgstr ""
+
+#. ID 800
+msgctxt "items.description"
+msgid "强化攻击力，防止劣化。攻20/无效:劣"
+msgstr ""
+
+#. ID 801
+msgctxt "items.name"
+msgid "$B回忆之物"
+msgstr ""
+
+#. ID 801
+msgctxt "items.description"
+msgid "防止即死与停止、混乱、制限。/无效:死停乱制"
+msgstr ""
+
+#. ID 806
+msgctxt "items.name"
+msgid "$B独角兽的护符"
+msgstr ""
+
+#. ID 806
+msgctxt "items.description"
+msgid "仿造独角兽的角打造的护符。防止衰减。攻15/无:减"
+msgstr ""
+
+#. ID 807
+msgctxt "items.name"
+msgid "$B赫耳墨斯翼靴"
+msgstr ""
+
+#. ID 807
+msgctxt "items.description"
+msgid "带翅膀的古代凉鞋。有停止耐性。速30/无:停"
+msgstr ""
+
+#. ID 808
+msgctxt "items.name"
+msgid "$B神圣之印"
+msgstr ""
+
+#. ID 808
+msgctxt "items.description"
+msgid "神圣的标志。防止混乱和限制。魔30/无:乱制"
+msgstr ""
+
+#. ID 809
+msgctxt "items.name"
+msgid "$B长生护符"
+msgstr ""
+
+#. ID 809
+msgctxt "items.description"
+msgid "给予佩带者活力，防止劣化。防15/无:劣"
+msgstr ""
+
+#. ID 812
+msgctxt "items.name"
+msgid "$B染血的木片"
+msgstr ""
+
+#. ID 812
+msgctxt "items.description"
+msgid "对神圣有耐性。魔20/耐:圣"
+msgstr ""
+
+#. ID 813
+msgctxt "items.name"
+msgid "$B纯白战袍"
+msgstr ""
+
+#. ID 813
+msgctxt "items.description"
+msgid "对暗黑有耐性。防6魔8/耐:闇"
+msgstr ""
+
+#. ID 814
+msgctxt "items.name"
+msgid "$B钢铁之靴"
+msgstr ""
+
+#. ID 814
+msgctxt "items.description"
+msgid "对地属性有耐性。防14速-2/耐:地"
+msgstr ""
+
+#. ID 815
+msgctxt "items.name"
+msgid "$B北国披风"
+msgstr ""
+
+#. ID 815
+msgctxt "items.description"
+msgid "对水属性有耐性。防6魔8/耐:水"
+msgstr ""
+
+#. ID 816
+msgctxt "items.name"
+msgid "$B风之主的护符"
+msgstr ""
+
+#. ID 816
+msgctxt "items.description"
+msgid "对空属性有耐性。速20/耐:空"
+msgstr ""
+
+#. ID 817
+msgctxt "items.name"
+msgid "$B金护手"
+msgstr ""
+
+#. ID 817
+msgctxt "items.description"
+msgid "对雷属性有耐性。攻5防5/耐:雷"
+msgstr ""
+
+#. ID 818
+msgctxt "items.name"
+msgid "$B火鼠手套"
+msgstr ""
+
+#. ID 818
+msgctxt "items.description"
+msgid "对火属性有耐性。攻10/耐:火"
+msgstr ""
+
+#. ID 822
+msgctxt "items.name"
+msgid "$B奴隶项圈"
+msgstr ""
+
+#. ID 822
+msgctxt "items.description"
+msgid "令混乱的概率减半。/半减:乱"
+msgstr ""
+
+#. ID 823
+msgctxt "items.name"
+msgid "$B祛病护身符"
+msgstr ""
+
+#. ID 823
+msgctxt "items.description"
+msgid "令衰减的概率减半。/半减:减"
+msgstr ""
+
+#. ID 824
+msgctxt "items.name"
+msgid "$B吞噬噩梦的护符"
+msgstr ""
+
+#. ID 824
+msgctxt "items.description"
+msgid "令停止的概率减半。/半减:停"
+msgstr ""
+
+#. ID 825
+msgctxt "items.name"
+msgid "$B古风凉鞋"
+msgstr ""
+
+#. ID 825
+msgctxt "items.description"
+msgid "曾被用作军靴的凉鞋。速10"
+msgstr ""
+
+#. ID 826
+msgctxt "items.name"
+msgid "$B水晶护符"
+msgstr ""
+
+#. ID 826
+msgctxt "items.description"
+msgid "令封印的概率减半。魔10/半减:制"
+msgstr ""
+
+#. ID 827
+msgctxt "items.name"
+msgid "$B冠军腰带"
+msgstr ""
+
+#. ID 827
+msgctxt "items.description"
+msgid "英雄之证。攻8防5魔-6"
+msgstr ""
+
+#. ID 831
+msgctxt "items.name"
+msgid "$B布织的斗篷"
+msgstr ""
+
+#. ID 831
+msgctxt "items.description"
+msgid "防身用的斗篷。防2"
+msgstr ""
+
+#. ID 832
+msgctxt "items.name"
+msgid "$B祈愿结"
+msgstr ""
+
+#. ID 832
+msgctxt "items.description"
+msgid "仪式用的念珠。稍微提高魔力。魔4"
+msgstr ""
+
+#. ID 835
+msgctxt "items.name"
+msgid "$B魔将外套"
+msgstr ""
+
+#. ID 835
+msgctxt "items.description"
+msgid "魔将之衣。/耐:全魔/无:全/？"
+msgstr ""
+
+#. ID 840
+msgctxt "items.name"
+msgid "召還キャラ---------"
+msgstr ""
+
+#. ID 841
+msgctxt "items.name"
+msgid "$A太空枪"
+msgstr ""
+
+#. ID 841
+msgctxt "items.description"
+msgid "像玩具似的。"
+msgstr ""
+
+#. ID 842
+msgctxt "items.name"
+msgid "$A喙"
+msgstr ""
+
+#. ID 842
+msgctxt "items.description"
+msgid "猛禽类的武器。"
+msgstr ""
+
+#. ID 843
+msgctxt "items.name"
+msgid "$A爪"
+msgstr ""
+
+#. ID 843
+msgctxt "items.description"
+msgid "兽类的武器。"
+msgstr ""
+
+#. ID 844
+msgctxt "items.name"
+msgid "$A蹄"
+msgstr ""
+
+#. ID 844
+msgctxt "items.description"
+msgid "马的武器。"
+msgstr ""
+
+#. ID 845
+msgctxt "items.name"
+msgid "$A剑"
+msgstr ""
+
+#. ID 845
+#. ID 847
+msgctxt "items.description"
+msgid "下仆的武器。"
+msgstr ""
+
+#. ID 846
+msgctxt "items.name"
+msgid "$A水之杖"
+msgstr ""
+
+#. ID 846
+msgctxt "items.description"
+msgid "精灵的武器。"
+msgstr ""
+
+#. ID 847
+msgctxt "items.name"
+msgid "$A拳"
+msgstr ""
+
+#. ID 848
+msgctxt "items.name"
+msgid "$Aデバッガー"
+msgstr ""
+
+#. ID 848
+msgctxt "items.description"
+msgid "ボツ"
+msgstr ""
+
+#. ID 849
+msgctxt "items.name"
+msgid "イベント用強化武器A"
+msgstr ""
+
+#. ID 850
+msgctxt "items.name"
+msgid "イベント用強化武器B"
+msgstr ""
+
+#. ID 851
+msgctxt "items.description"
+msgid "什么也没有装备的状态。"
+msgstr ""
+
+#. ID 852
+msgctxt "items.name"
+msgid "↑この上ID851は素手"
+msgstr ""
+
+#. ID 853
+msgctxt "items.name"
+msgid "イベント用強化兜C"
+msgstr ""
+
+#. ID 859
+msgctxt "items.name"
+msgid "$AデバッガーA"
+msgstr ""
+
+#. ID 859
+msgctxt "items.description"
+msgid "全能力+500"
+msgstr ""
+
+#. ID 860
+msgctxt "items.name"
+msgid "$AデバッガーB"
+msgstr ""
+
+#. ID 860
+msgctxt "items.description"
+msgid "全能力-500"
+msgstr ""
+
+#. ID 861
+msgctxt "items.name"
+msgid "成長アイテム-------"
+msgstr ""
+
+#. ID 862
+msgctxt "items.name"
+msgid "※生命的秘药"
+msgstr ""
+
+#. ID 862
+msgctxt "items.description"
+msgid "令最大HP值成长。"
+msgstr ""
+
+#. ID 863
+msgctxt "items.name"
+msgid "※精神的秘药"
+msgstr ""
+
+#. ID 863
+msgctxt "items.description"
+msgid "令最大MP值成长。"
+msgstr ""
+
+#. ID 864
+msgctxt "items.name"
+msgid "※武勇的秘药"
+msgstr ""
+
+#. ID 864
+msgctxt "items.description"
+msgid "令攻击力成长。"
+msgstr ""
+
+#. ID 865
+msgctxt "items.name"
+msgid "※健壮的秘药"
+msgstr ""
+
+#. ID 865
+msgctxt "items.description"
+msgid "令防御力成长。"
+msgstr ""
+
+#. ID 866
+msgctxt "items.name"
+msgid "※魔力的秘药"
+msgstr ""
+
+#. ID 866
+msgctxt "items.description"
+msgid "令魔力成长。"
+msgstr ""
+
+#. ID 867
+msgctxt "items.name"
+msgid "※敏捷的秘药"
+msgstr ""
+
+#. ID 867
+msgctxt "items.description"
+msgid "令速度成长。"
+msgstr ""
+
+#. ID 870
+msgctxt "items.name"
+msgid "※「医圣之书 上」"
+msgstr ""
+
+#. ID 870
+msgctxt "items.description"
+msgid "学习「急救」。(神官)"
+msgstr ""
+
+#. ID 871
+msgctxt "items.name"
+msgid "※「医圣之书 中」"
+msgstr ""
+
+#. ID 871
+msgctxt "items.description"
+msgid "学习「治愈术」。(贤者)"
+msgstr ""
+
+#. ID 872
+msgctxt "items.name"
+msgid "※「医圣之书 下」"
+msgstr ""
+
+#. ID 872
+msgctxt "items.description"
+msgid "学习「再生术」。(使徒)"
+msgstr ""
+
+#. ID 873
+msgctxt "items.name"
+msgid "※「关于圣域」"
+msgstr ""
+
+#. ID 873
+msgctxt "items.description"
+msgid "学习「治愈的力場」。(神官)"
+msgstr ""
+
+#. ID 875
+msgctxt "items.name"
+msgid "※「药草与祈祷」"
+msgstr ""
+
+#. ID 875
+msgctxt "items.description"
+msgid "学习「祛病」。(神官)"
+msgstr ""
+
+#. ID 876
+msgctxt "items.name"
+msgid "※「魂与恶灵」"
+msgstr ""
+
+#. ID 876
+msgctxt "items.description"
+msgid "学习「除忧」。(神官)"
+msgstr ""
+
+#. ID 877
+msgctxt "items.name"
+msgid "※「咒术治疗的应用」"
+msgstr ""
+
+#. ID 877
+msgctxt "items.description"
+msgid "学习「祓祸」。(贤者)"
+msgstr ""
+
+#. ID 878
+msgctxt "items.name"
+msgid "※「奇迹的诸例」"
+msgstr ""
+
+#. ID 878
+msgctxt "items.description"
+msgid "学习「苏生的秘仪」。贤者)"
+msgstr ""
+
+#. ID 879
+msgctxt "items.name"
+msgid "※「救济论」"
+msgstr ""
+
+#. ID 879
+msgctxt "items.description"
+msgid "学习「复活的秘仪」。(使徒)"
+msgstr ""
+
+#. ID 882
+msgctxt "items.name"
+msgid "※「炼金术」"
+msgstr ""
+
+#. ID 882
+msgctxt "items.description"
+msgid "学习「调合」。(魔术師)"
+msgstr ""
+
+#. ID 883
+msgctxt "items.name"
+msgid "※「关于灵魂」"
+msgstr ""
+
+#. ID 883
+msgctxt "items.description"
+msgid "学习「萤火」。(魔术师)"
+msgstr ""
+
+#. ID 884
+msgctxt "items.name"
+msgid "※「妖神调理法」"
+msgstr ""
+
+#. ID 884
+msgctxt "items.description"
+msgid "学习「料理」。"
+msgstr ""
+
+#. ID 885
+msgctxt "items.name"
+msgid "※「祓魔图」"
+msgstr ""
+
+#. ID 885
+msgctxt "items.description"
+msgid "学习「驱魔」。(退魔师)"
+msgstr ""
+
+#. ID 886
+msgctxt "items.name"
+msgid "※「贝鲁伯之书」ボツ"
+msgstr ""
+
+#. ID 886
+msgctxt "items.description"
+msgid "学习「召唤妖魔。"
+msgstr ""
+
+#. ID 889
+msgctxt "items.name"
+msgid "※「刑罚技法」"
+msgstr ""
+
+#. ID 889
+msgctxt "items.description"
+msgid "学习「残酷的穿刺」。"
+msgstr ""
+
+#. ID 890
+msgctxt "items.name"
+msgid "※「龙退治」"
+msgstr ""
+
+#. ID 890
+msgctxt "items.description"
+msgid "学习「龙牙碎」。"
+msgstr ""
+
+#. ID 891
+msgctxt "items.name"
+msgid "※「魔法剑」"
+msgstr ""
+
+#. ID 891
+msgctxt "items.description"
+msgid "学习「真空斩」。"
+msgstr ""
+
+#. ID 892
+msgctxt "items.name"
+msgid "※「隐华抄」"
+msgstr ""
+
+#. ID 892
+msgctxt "items.description"
+msgid "学习「捕缚术」。(遗迹猎人)"
+msgstr ""
+
+#. ID 893
+msgctxt "items.name"
+msgid "※「力学」"
+msgstr ""
+
+#. ID 893
+msgctxt "items.description"
+msgid "学习「兜割」。(狂戦士)"
+msgstr ""
+
+#. ID 894
+msgctxt "items.name"
+msgid "※「合一之书」"
+msgstr ""
+
+#. ID 894
+msgctxt "items.description"
+msgid "学习「针缝透穿」。(野伏)"
+msgstr ""
+
+#. ID 895
+msgctxt "items.name"
+msgid "※「狩猎术」"
+msgstr ""
+
+#. ID 895
+msgctxt "items.description"
+msgid "学习「毒矢」。(射手)"
+msgstr ""
+
+#. ID 896
+msgctxt "items.name"
+msgid "※「一轮之书」"
+msgstr ""
+
+#. ID 896
+msgctxt "items.description"
+msgid "学习「一闪」。(剑圣)"
+msgstr ""
+
+#. ID 897
+msgctxt "items.name"
+msgid "※「巧妙的剑术」"
+msgstr ""
+
+#. ID 897
+msgctxt "items.description"
+msgid "学习「必中斩」。"
+msgstr ""
+
+#. ID 898
+msgctxt "items.name"
+msgid "※「愚战之书」"
+msgstr ""
+
+#. ID 898
+msgctxt "items.description"
+msgid "学习「风车碎」。(君主)"
+msgstr ""
+
+#. ID 899
+msgctxt "items.name"
+msgid "※「雷恩蒂姆秘传」"
+msgstr ""
+
+#. ID 899
+msgctxt "items.description"
+msgid "学习「手里剑散射」。"
+msgstr ""
+
+#. ID 900
+msgctxt "items.name"
+msgid "※「刺客之书」"
+msgstr ""
+
+#. ID 900
+msgctxt "items.description"
+msgid "学习「死毒刃」。(夜盗)"
+msgstr ""
+
+#. ID 902
+msgctxt "items.name"
+msgid "※「妖精女王」"
+msgstr ""
+
+#. ID 902
+msgctxt "items.description"
+msgid "学习「冰棺」。"
+msgstr ""
+
+#. ID 903
+msgctxt "items.name"
+msgid "※「哈鲁教典 上」"
+msgstr ""
+
+#. ID 903
+msgctxt "items.description"
+msgid "学习「裁决之雷」。(裁决之司)"
+msgstr ""
+
+#. ID 904
+msgctxt "items.name"
+msgid "※「哈鲁教典 下」"
+msgstr ""
+
+#. ID 904
+msgctxt "items.description"
+msgid "学习「金色王剑」。"
+msgstr ""
+
+#. ID 905
+msgctxt "items.name"
+msgid "※「天体运行」"
+msgstr ""
+
+#. ID 905
+msgctxt "items.description"
+msgid "学习「星陨」。"
+msgstr ""
+
+#. ID 906
+msgctxt "items.name"
+msgid "※「死者之书 上」"
+msgstr ""
+
+#. ID 906
+msgctxt "items.description"
+msgid "学习「吸血鬼之咒」。"
+msgstr ""
+
+#. ID 907
+msgctxt "items.name"
+msgid "※「死者之书 中」"
+msgstr ""
+
+#. ID 907
+msgctxt "items.description"
+msgid "学习「死之空气」。"
+msgstr ""
+
+#. ID 908
+msgctxt "items.name"
+msgid "※「死者之书 下」"
+msgstr ""
+
+#. ID 908
+msgctxt "items.description"
+msgid "学习「瘴气」。"
+msgstr ""
+
+#. ID 909
+msgctxt "items.name"
+msgid "※「拜火 上」"
+msgstr ""
+
+#. ID 909
+msgctxt "items.description"
+msgid "学习「爆炎投射」。(魔术师)"
+msgstr ""
+
+#. ID 910
+msgctxt "items.name"
+msgid "※「拜火 中」"
+msgstr ""
+
+#. ID 910
+msgctxt "items.description"
+msgid "学习「炎魔界」。(精灵术师)"
+msgstr ""
+
+#. ID 911
+msgctxt "items.name"
+msgid "※「拜火 下」"
+msgstr ""
+
+#. ID 911
+msgctxt "items.description"
+msgid "学习「绝热之镜」。"
+msgstr ""
+
+#. ID 912
+msgctxt "items.name"
+msgid "※「气象与仪式魔术」"
+msgstr ""
+
+#. ID 912
+msgctxt "items.description"
+msgid "学习「龙卷之咒」。(精灵术师)"
+msgstr ""
+
+#. ID 913
+msgctxt "items.name"
+msgid "※「关于异能者」"
+msgstr ""
+
+#. ID 913
+msgctxt "items.description"
+msgid "学习「不可视之力」。"
+msgstr ""
+
+#. ID 914
+msgctxt "items.name"
+msgid "※「石中诸灵 上」"
+msgstr ""
+
+#. ID 914
+msgctxt "items.description"
+msgid "学习「地灵之爪」。(魔术师)"
+msgstr ""
+
+#. ID 915
+msgctxt "items.name"
+msgid "※「石中诸灵 中」"
+msgstr ""
+
+#. ID 915
+msgctxt "items.description"
+msgid "学习「龙脉的解放」。(贤者)"
+msgstr ""
+
+#. ID 916
+msgctxt "items.name"
+msgid "※「石中诸灵 下」"
+msgstr ""
+
+#. ID 916
+msgctxt "items.description"
+msgid "学习「地灵的守护」。"
+msgstr ""
+
+#. ID 917
+msgctxt "items.name"
+msgid "※「河神书 上」"
+msgstr ""
+
+#. ID 917
+msgctxt "items.description"
+msgid "学习「圣雨」。(神官)"
+msgstr ""
+
+#. ID 918
+msgctxt "items.name"
+msgid "※「河神书 下」"
+msgstr ""
+
+#. ID 918
+msgctxt "items.description"
+msgid "学习「水与风的加护」。(野伏)"
+msgstr ""
+
+#. ID 920
+msgctxt "items.name"
+msgid "※「FIRE之书」"
+msgstr ""
+
+#. ID 920
+msgctxt "items.description"
+msgid "学习「Firebomb」。"
+msgstr ""
+
+#. ID 923
+msgctxt "items.name"
+msgid "※「建筑」"
+msgstr ""
+
+#. ID 923
+msgctxt "items.description"
+msgid "学习「迷宫结界」。"
+msgstr ""
+
+#. ID 924
+msgctxt "items.name"
+msgid "※「美容术」"
+msgstr ""
+
+#. ID 924
+msgctxt "items.description"
+msgid "学习「誘惑」。"
+msgstr ""
+
+#. ID 925
+msgctxt "items.name"
+msgid "※「赞歌」"
+msgstr ""
+
+#. ID 925
+msgctxt "items.description"
+msgid "学习「咏唱」。(妖术师)"
+msgstr ""
+
+#. ID 927
+msgctxt "items.name"
+msgid "※「肉体语言学 1」"
+msgstr ""
+
+#. ID 927
+msgctxt "items.description"
+msgid "学习「直拳」。"
+msgstr ""
+
+#. ID 928
+msgctxt "items.name"
+msgid "※「肉体语言学 2」"
+msgstr ""
+
+#. ID 928
+msgctxt "items.description"
+msgid "学习「百烈连打」。"
+msgstr ""
+
+#. ID 929
+msgctxt "items.name"
+msgid "※「肉体语言学 3」"
+msgstr ""
+
+#. ID 929
+msgctxt "items.description"
+msgid "学习「古武术」。"
+msgstr ""
+
+#. ID 930
+msgctxt "items.name"
+msgid "※「肉体语言学 4」"
+msgstr ""
+
+#. ID 930
+msgctxt "items.description"
+msgid "学习「浸透劲」。"
+msgstr ""
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "蜿蜒"
+msgstr ""
+
+#. ID 2
+msgctxt "enemies.name"
+msgid "大蝙蝠"
+msgstr ""
+
+#. ID 3
+msgctxt "enemies.name"
+msgid "土之小鬼"
+msgstr ""
+
+#. ID 4
+msgctxt "enemies.name"
+msgid "石之小鬼"
+msgstr ""
+
+#. ID 5
+msgctxt "enemies.name"
+msgid "大长虫"
+msgstr ""
+
+#. ID 6
+msgctxt "enemies.name"
+msgid "告死鸟"
+msgstr ""
+
+#. ID 7
+msgctxt "enemies.name"
+msgid "死灵战士"
+msgstr ""
+
+#. ID 8
+msgctxt "enemies.name"
+msgid "希冯ボツ"
+msgstr ""
+
+#. ID 9
+msgctxt "enemies.name"
+msgid "眼眼不见了~"
+msgstr ""
+
+#. ID 10
+msgctxt "enemies.name"
+msgid "战士ボ"
+msgstr ""
+
+#. ID 11
+msgctxt "enemies.name"
+msgid "活体巨龙像"
+msgstr ""
+
+#. ID 12
+msgctxt "enemies.name"
+msgid "活体雕像"
+msgstr ""
+
+#. ID 13
+msgctxt "enemies.name"
+msgid "冠军"
+msgstr ""
+
+#. ID 14
+msgctxt "enemies.name"
+msgid "兽鬼"
+msgstr ""
+
+#. ID 15
+msgctxt "enemies.name"
+msgid "魔术师ボ"
+msgstr ""
+
+#. ID 16
+msgctxt "enemies.name"
+msgid "盗贼ボ"
+msgstr ""
+
+#. ID 18
+msgctxt "enemies.name"
+msgid "兴奋的蜿蜒"
+msgstr ""
+
+#. ID 19
+msgctxt "enemies.name"
+msgid "龙蛋"
+msgstr ""
+
+#. ID 20
+msgctxt "enemies.name"
+msgid "挪威海怪"
+msgstr ""
+
+#. ID 21
+msgctxt "enemies.name"
+msgid "Ded-a-check"
+msgstr ""
+
+#. ID 22
+msgctxt "enemies.name"
+msgid "走路的死者"
+msgstr ""
+
+#. ID 23
+msgctxt "enemies.name"
+msgid "生而不为人"
+msgstr ""
+
+#. ID 24
+msgctxt "enemies.name"
+msgid "妖蛇之后"
+msgstr ""
+
+#. ID 25
+msgctxt "enemies.name"
+msgid "地蜘蛛"
+msgstr ""
+
+#. ID 26
+msgctxt "enemies.name"
+msgid "亡灵"
+msgstr ""
+
+#. ID 27
+msgctxt "enemies.name"
+msgid "处刑机器"
+msgstr ""
+
+#. ID 29
+msgctxt "enemies.name"
+msgid "汤姆"
+msgstr ""
+
+#. ID 30
+msgctxt "enemies.name"
+msgid "约翰"
+msgstr ""
+
+#. ID 31
+msgctxt "enemies.name"
+msgid "跳舞的死者"
+msgstr ""
+
+#. ID 32
+msgctxt "enemies.name"
+msgid "食人花"
+msgstr ""
+
+#. ID 33
+msgctxt "enemies.name"
+msgid "蔬菜怪"
+msgstr ""
+
+#. ID 34
+msgctxt "enemies.name"
+msgid "守墓人"
+msgstr ""
+
+#. ID 35
+msgctxt "enemies.name"
+msgid "徘徊的监视者"
+msgstr ""
+
+#. ID 36
+msgctxt "enemies.name"
+msgid "流氓"
+msgstr ""
+
+#. ID 37
+msgctxt "enemies.name"
+msgid "士兵"
+msgstr ""
+
+#. ID 38
+msgctxt "enemies.name"
+msgid "混沌之兽"
+msgstr ""
+
+#. ID 39
+msgctxt "enemies.name"
+msgid "鞭士"
+msgstr ""
+
+#. ID 40
+msgctxt "enemies.name"
+msgid "枪之战鬼"
+msgstr ""
+
+#. ID 41
+msgctxt "enemies.name"
+msgid "古拉奥德"
+msgstr ""
+
+#. ID 42
+msgctxt "enemies.name"
+msgid "指挥官"
+msgstr ""
+
+#. ID 44
+msgctxt "enemies.name"
+msgid "凶兽"
+msgstr ""
+
+#. ID 45
+msgctxt "enemies.name"
+msgid "贤人"
+msgstr ""
+
+#. ID 46
+msgctxt "enemies.name"
+msgid "狮子神官"
+msgstr ""
+
+#. ID 47
+msgctxt "enemies.name"
+msgid "山羊神官"
+msgstr ""
+
+#. ID 49
+msgctxt "enemies.name"
+msgid "托姆士"
+msgstr ""
+
+#. ID 50
+msgctxt "enemies.name"
+msgid "莱茨"
+msgstr ""
+
+#. ID 51
+msgctxt "enemies.name"
+msgid "阿朵拉"
+msgstr ""
+
+#. ID 52
+msgctxt "enemies.name"
+msgid "妮兰德"
+msgstr ""
+
+#. ID 53
+msgctxt "enemies.name"
+msgid "疾风"
+msgstr ""
+
+#. ID 54
+msgctxt "enemies.name"
+msgid "阿德斯"
+msgstr ""
+
+#. ID 55
+msgctxt "enemies.name"
+msgid "兄贵托利"
+msgstr ""
+
+#. ID 56
+msgctxt "enemies.name"
+msgid "艾巴克"
+msgstr ""
+
+#. ID 59
+msgctxt "enemies.name"
+msgid "魔狼"
+msgstr ""
+
+#. ID 60
+msgctxt "enemies.name"
+msgid "食人鬼"
+msgstr ""
+
+#. ID 61
+msgctxt "enemies.name"
+msgid "伊波的巨鹿"
+msgstr ""
+
+#. ID 62
+msgctxt "enemies.name"
+msgid "妖精族战士"
+msgstr ""
+
+#. ID 63
+msgctxt "enemies.name"
+msgid "西风之精"
+msgstr ""
+
+#. ID 64
+msgctxt "enemies.name"
+msgid "鸬克"
+msgstr ""
+
+#. ID 65
+msgctxt "enemies.name"
+msgid "巨鸟之雏"
+msgstr ""
+
+#. ID 66
+msgctxt "enemies.name"
+msgid "妖精族术士"
+msgstr ""
+
+#. ID 67
+msgctxt "enemies.name"
+msgid "妖精王尤温迪"
+msgstr ""
+
+#. ID 68
+msgctxt "enemies.name"
+msgid "人鱼"
+msgstr ""
+
+#. ID 71
+msgctxt "enemies.name"
+msgid "黑铁矮人族战士"
+msgstr ""
+
+#. ID 72
+msgctxt "enemies.name"
+msgid "黑铁矮人族狙击手"
+msgstr ""
+
+#. ID 73
+msgctxt "enemies.name"
+msgid "鬓胡矮人族战士"
+msgstr ""
+
+#. ID 74
+msgctxt "enemies.name"
+msgid "鬓胡矮人族狙击手"
+msgstr ""
+
+#. ID 75
+msgctxt "enemies.name"
+msgid "剑之战鬼"
+msgstr ""
+
+#. ID 76
+msgctxt "enemies.name"
+msgid "地底战车"
+msgstr ""
+
+#. ID 77
+msgctxt "enemies.name"
+msgid "地底战车洛基"
+msgstr ""
+
+#. ID 78
+msgctxt "enemies.name"
+msgid "自动机兵"
+msgstr ""
+
+#. ID 79
+msgctxt "enemies.name"
+msgid "巨蜘蛛"
+msgstr ""
+
+#. ID 80
+msgctxt "enemies.name"
+msgid "火炎蜥蜴"
+msgstr ""
+
+#. ID 81
+msgctxt "enemies.name"
+msgid "火噬鸟"
+msgstr ""
+
+#. ID 82
+msgctxt "enemies.name"
+msgid "火噬鸟之雏"
+msgstr ""
+
+#. ID 83
+msgctxt "enemies.name"
+msgid "黑铁族米博尔"
+msgstr ""
+
+#. ID 85
+msgctxt "enemies.name"
+msgid "鬓胡族塔利姆"
+msgstr ""
+
+#. ID 88
+msgctxt "enemies.name"
+msgid "山之巨人"
+msgstr ""
+
+#. ID 89
+msgctxt "enemies.name"
+msgid "人面石"
+msgstr ""
+
+#. ID 90
+msgctxt "enemies.name"
+msgid "怪仙"
+msgstr ""
+
+#. ID 91
+msgctxt "enemies.name"
+msgid "合成魔兽"
+msgstr ""
+
+#. ID 92
+msgctxt "enemies.name"
+msgid "霜之巨人"
+msgstr ""
+
+#. ID 93
+msgctxt "enemies.name"
+msgid "北风之精"
+msgstr ""
+
+#. ID 94
+msgctxt "enemies.name"
+msgid "不可视的守护者"
+msgstr ""
+
+#. ID 95
+msgctxt "enemies.name"
+msgid " 不可视的守护者"
+msgstr ""
+
+#. ID 96
+msgctxt "enemies.name"
+msgid "怪仙提婆达多"
+msgstr ""
+
+#. ID 97
+msgctxt "enemies.name"
+msgid " 怪仙提婆达多"
+msgstr ""
+
+#. ID 98
+msgctxt "enemies.name"
+msgid "空之巨人"
+msgstr ""
+
+#. ID 101
+msgctxt "enemies.name"
+msgid "无命之王"
+msgstr ""
+
+#. ID 102
+msgctxt "enemies.name"
+msgid "活埋的近卫"
+msgstr ""
+
+#. ID 103
+msgctxt "enemies.name"
+msgid "＜暗＞"
+msgstr ""
+
+#. ID 104
+msgctxt "enemies.name"
+msgid "＜恐怖＞"
+msgstr ""
+
+#. ID 105
+msgctxt "enemies.name"
+msgid "＜业火＞"
+msgstr ""
+
+#. ID 106
+msgctxt "enemies.name"
+msgid "奈落的战鬼"
+msgstr ""
+
+#. ID 107
+msgctxt "enemies.name"
+msgid "＜原我＞"
+msgstr ""
+
+#. ID 108
+msgctxt "enemies.name"
+msgid "触手"
+msgstr ""
+
+#. ID 109
+msgctxt "enemies.name"
+msgid "迪多斯一世"
+msgstr ""
+
+#. ID 110
+msgctxt "enemies.name"
+msgid "迪多斯二世"
+msgstr ""
+
+#. ID 111
+msgctxt "enemies.name"
+msgid "迪多斯三世"
+msgstr ""
+
+#. ID 112
+msgctxt "enemies.name"
+msgid "迪多斯四世"
+msgstr ""
+
+#. ID 113
+msgctxt "enemies.name"
+msgid "迪多斯五世"
+msgstr ""
+
+#. ID 114
+msgctxt "enemies.name"
+msgid "迪多斯六世"
+msgstr ""
+
+#. ID 115
+msgctxt "enemies.name"
+msgid "迪多斯七世"
+msgstr ""
+
+#. ID 116
+msgctxt "enemies.name"
+msgid "迪多斯八世"
+msgstr ""
+
+#. ID 117
+msgctxt "enemies.name"
+msgid "迪多斯九世"
+msgstr ""
+
+#. ID 118
+msgctxt "enemies.name"
+msgid " 迪多斯十世"
+msgstr ""
+
+#. ID 119
+msgctxt "enemies.name"
+msgid "迪多斯十世"
+msgstr ""
+
+#. ID 120
+msgctxt "enemies.name"
+msgid "迪多斯十一世"
+msgstr ""
+
+#. ID 121
+msgctxt "enemies.name"
+msgid "迪多斯十二世"
+msgstr ""
+
+#. ID 122
+msgctxt "enemies.name"
+msgid "迪多斯十三世"
+msgstr ""
+
+#. ID 123
+msgctxt "enemies.name"
+msgid "迪多斯十四世"
+msgstr ""
+
+#. ID 124
+msgctxt "enemies.name"
+msgid "迪多斯十五世"
+msgstr ""
+
+#. ID 125
+msgctxt "enemies.name"
+msgid "迪多斯十六世"
+msgstr ""
+
+#. ID 126
+msgctxt "enemies.name"
+msgid "活体王座"
+msgstr ""
+
+#. ID 127
+msgctxt "enemies.name"
+msgid "统合思考体"
+msgstr ""
+
+#. ID 128
+msgctxt "enemies.name"
+msgid "双极式风船"
+msgstr ""
+
+#. ID 129
+msgctxt "enemies.name"
+msgid "回转型智能机关"
+msgstr ""
+
+#. ID 130
+#. ID 132
+#. ID 134
+msgctxt "enemies.name"
+msgid "迪多斯 "
+msgstr ""
+
+#. ID 131
+#. ID 133
+#. ID 135
+msgctxt "enemies.name"
+msgid " 迪多斯 "
+msgstr ""
+
+#. ID 140
+msgctxt "enemies.name"
+msgid "超位者"
+msgstr ""
+
+#. ID 143
+msgctxt "enemies.name"
+msgid "青龙"
+msgstr ""
+
+#. ID 144
+msgctxt "enemies.name"
+msgid "绿龙"
+msgstr ""
+
+#. ID 145
+msgctxt "enemies.name"
+msgid "赤龙"
+msgstr ""
+
+#. ID 146
+msgctxt "enemies.name"
+msgid "白龙"
+msgstr ""
+
+#. ID 147
+msgctxt "enemies.name"
+msgid "黑龙"
+msgstr ""
+
+#. ID 148
+msgctxt "enemies.name"
+msgid "徘徊的巨鹿ボ"
+msgstr ""
+
+#. ID 149
+msgctxt "enemies.name"
+msgid "鬼士"
+msgstr ""
+
+#. ID 150
+msgctxt "enemies.name"
+msgid "狂猪"
+msgstr ""
+
+#. ID 151
+msgctxt "enemies.name"
+msgid "修罗丸"
+msgstr ""
+
+#. ID 152
+msgctxt "enemies.name"
+msgid "大猿"
+msgstr ""
+
+#. ID 154
+msgctxt "enemies.name"
+msgid "火车骑士"
+msgstr ""
+
+#. ID 155
+msgctxt "enemies.name"
+msgid "神殿军骑兵"
+msgstr ""
+
+#. ID 156
+msgctxt "enemies.name"
+msgid "神殿军武僧"
+msgstr ""
+
+#. ID 157
+msgctxt "enemies.name"
+msgid "席瓦尔骑兵"
+msgstr ""
+
+#. ID 158
+msgctxt "enemies.name"
+msgid "席瓦尔兵"
+msgstr ""
+
+#. ID 159
+msgctxt "enemies.name"
+msgid "巴夏"
+msgstr ""
+
+#. ID 160
+msgctxt "enemies.name"
+msgid "巴鲁斯穆斯 "
+msgstr ""
+
+#. ID 161
+msgctxt "enemies.name"
+msgid "梅罗达克"
+msgstr ""
+
+#. ID 163
+msgctxt "enemies.name"
+msgid "战将巴鲁斯穆斯 "
+msgstr ""
+
+#. ID 164
+msgctxt "enemies.name"
+msgid "铁骑兵"
+msgstr ""
+
+#. ID 168
+msgctxt "enemies.name"
+msgid "魔将纳姆里斯"
+msgstr ""
+
+#. ID 169
+msgctxt "enemies.name"
+msgid "魔将达玛迪乌斯"
+msgstr ""
+
+#. ID 170
+msgctxt "enemies.name"
+msgid "魔将拉格"
+msgstr ""
+
+#. ID 171
+msgctxt "enemies.name"
+msgid "魔将柯罗摩"
+msgstr ""
+
+#. ID 172
+msgctxt "enemies.name"
+msgid "魔将艾巴"
+msgstr ""
+
+#. ID 173
+msgctxt "enemies.name"
+msgid "魔将泰奥罗"
+msgstr ""
+
+#. ID 174
+msgctxt "enemies.name"
+msgid " 魔将柯罗摩"
+msgstr ""
+
+#. ID 176
+msgctxt "enemies.name"
+msgid "希冯Lv3"
+msgstr ""
+
+#. ID 177
+msgctxt "enemies.name"
+msgid "希冯Lv6"
+msgstr ""
+
+#. ID 178
+msgctxt "enemies.name"
+msgid "希冯Lv12"
+msgstr ""
+
+#. ID 179
+msgctxt "enemies.name"
+msgid "希冯Lv18"
+msgstr ""
+
+#. ID 180
+msgctxt "enemies.name"
+msgid "希冯Lv24"
+msgstr ""
+
+#. ID 181
+msgctxt "enemies.name"
+msgid "人工精灵３号"
+msgstr ""
+
+#. ID 182
+msgctxt "enemies.name"
+msgid "人工精灵８号"
+msgstr ""
+
+#. ID 183
+msgctxt "enemies.name"
+msgid "人工精灵18号"
+msgstr ""
+
+#. ID 186
+msgctxt "enemies.name"
+msgid "杀人兔"
+msgstr ""
+
+#. ID 187
+msgctxt "enemies.name"
+msgid "米·戈"
+msgstr ""
+
+#. ID 188
+msgctxt "enemies.name"
+msgid "星船"
+msgstr ""
+
+#. ID 189
+msgctxt "enemies.name"
+msgid "无意识"
+msgstr ""
+
+#. ID 190
+msgctxt "enemies.name"
+msgid "不明飞行体"
+msgstr ""
+
+#. ID 191
+msgctxt "enemies.name"
+msgid "微型惑星"
+msgstr ""
+
+#. ID 192
+msgctxt "enemies.name"
+msgid "星龙"
+msgstr ""
+
+#. ID 193
+msgctxt "enemies.name"
+msgid "＜混沌＞"
+msgstr ""
+
+#. ID 194
+msgctxt "enemies.name"
+msgid "键的守护者"
+msgstr ""
+
+#. ID 197
+#. ID 198
+#. ID 199
+#. ID 200
+msgctxt "enemies.name"
+msgid "蛇鲨"
+msgstr ""
+
+#. ID 201
+msgctxt "enemies.name"
+msgid "boojum蛇鲨"
+msgstr ""
+
+#. ID 202
+msgctxt "enemies.name"
+msgid "密鲁多罗之蛇"
+msgstr ""
+
+#. ID 205
+msgctxt "enemies.name"
+msgid "卡穆罗"
+msgstr ""
+
+#. ID 206
+msgctxt "enemies.name"
+msgid "帕里斯"
+msgstr ""
+
+#. ID 207
+msgctxt "enemies.name"
+msgid "雨柳"
+msgstr ""
+
+#. ID 208
+msgctxt "enemies.name"
+msgid "古斯坦"
+msgstr ""
+
+#. ID 210
+msgctxt "enemies.name"
+msgid "忍者"
+msgstr ""
+
+#. ID 211
+msgctxt "enemies.name"
+msgid "妖术师"
+msgstr ""
+
+#. ID 213
+msgctxt "enemies.name"
+msgid "上忍"
+msgstr ""
+
+#. ID 214
+msgctxt "enemies.name"
+msgid "战士"
+msgstr ""
+
+#. ID 215
+msgctxt "enemies.name"
+msgid "魔术师"
+msgstr ""
+
+#. ID 216
+msgctxt "enemies.name"
+msgid "盗贼"
+msgstr ""
+
+#. ID 217
+msgctxt "enemies.name"
+msgid "神官"
+msgstr ""
+
+#. ID 218
+msgctxt "enemies.name"
+msgid "射手"
+msgstr ""
+
+#. ID 219
+msgctxt "enemies.name"
+msgid "武僧"
+msgstr ""
+
+#. ID 220
+msgctxt "enemies.name"
+msgid "骑士"
+msgstr ""
+
+#. ID 221
+msgctxt "enemies.name"
+msgid "君主"
+msgstr ""
+
+#. ID 222
+msgctxt "enemies.name"
+msgid "狂战士"
+msgstr ""
+
+#. ID 223
+msgctxt "enemies.name"
+msgid "魔人"
+msgstr ""
+
+#. ID 224
+msgctxt "enemies.name"
+msgid "野伏"
+msgstr ""
+
+#. ID 225
+msgctxt "enemies.name"
+msgid "异端迪多斯派"
+msgstr ""
+
+#. ID 226
+msgctxt "enemies.name"
+msgid "异端密鲁多罗派"
+msgstr ""
+
+#. ID 227
+msgctxt "enemies.name"
+msgid "巨大怪鱼"
+msgstr ""
+
+#. ID 228
+msgctxt "enemies.name"
+msgid " 处刑机器"
+msgstr ""
+
+#. ID 229
+msgctxt "enemies.name"
+msgid "徘徊的巨鹿"
+msgstr ""
+
+#. ID 230
+msgctxt "enemies.name"
+msgid " 鲈克"
+msgstr ""
+
+#. ID 231
+msgctxt "enemies.name"
+msgid "牛鬼公"
+msgstr ""
+
+#. ID 232
+msgctxt "enemies.name"
+msgid "龙鬼"
+msgstr ""
+
+#. ID 233
+msgctxt "enemies.name"
+msgid " 伊波的巨鹿"
+msgstr ""
+
+#. ID 234
+msgctxt "enemies.name"
+msgid " 处刑机器ボツ"
+msgstr ""
+
+#. ID 235
+msgctxt "enemies.name"
+msgid "阿克夏"
+msgstr ""
+
+#. ID 236
+msgctxt "enemies.name"
+msgid "青铜的女神"
+msgstr ""
+
+#. ID 237
+msgctxt "enemies.name"
+msgid "伊格内修斯"
+msgstr ""
+
+#. ID 238
+msgctxt "enemies.name"
+msgid "深渊之物"
+msgstr ""
+
+#. ID 239
+msgctxt "enemies.name"
+msgid "古拉奥德八十二世"
+msgstr ""
+
+#. ID 240
+#. ID 241
+#. ID 242
+#. ID 243
+msgctxt "enemies.name"
+msgid "真·夜种王"
+msgstr ""
+
+#. ID 245
+msgctxt "enemies.name"
+msgid "＜净火＞"
+msgstr ""
+
+#. ID 246
+msgctxt "enemies.name"
+msgid "破灭风精"
+msgstr ""
+
+#. ID 248
+msgctxt "enemies.name"
+msgid "混沌之狼"
+msgstr ""
+
+#. ID 250
+msgctxt "enemies.name"
+msgid "★★拟态速度1★★"
+msgstr ""
+
+#. ID 256
+msgctxt "enemies.name"
+msgid "テストマン13"
+msgstr ""
+
+#. ID 257
+msgctxt "enemies.name"
+msgid "テストマン25"
+msgstr ""
+
+#. ID 258
+msgctxt "enemies.name"
+msgid "テストマン30"
+msgstr ""
+
+#. ID 260
+msgctxt "enemies.name"
+msgid "プロト"
+msgstr ""
+
+#. ID 1
+msgctxt "states.name"
+msgid "战斗不能"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "被击倒了！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "被击倒了！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "重新站起来了！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.name"
+msgid "衰减：毒"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_actor"
+msgid "被毒侵蚀了！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_enemy"
+msgid "被毒侵蚀了！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_already"
+msgid "已经被毒侵蚀了！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_affected"
+msgid "正被毒侵蚀着！"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_recovery"
+msgid "身上的毒驱散了！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.name"
+msgid "衰减：炎"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_actor"
+msgid "身上着火了！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_enemy"
+msgid "身上着火了！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_already"
+msgid "已经燃烧起来了！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_affected"
+msgid "身上在燃烧着！"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_recovery"
+msgid "身上的火消灭了！"
+msgstr ""
+
+#. ID 4
+msgctxt "states.name"
+msgid "衰减：血"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_actor"
+msgid "的身上正在流血！"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_enemy"
+msgid "的身上正在流血！"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_already"
+msgid "已经在流血了！"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_affected"
+msgid "的血流个不停！"
+msgstr ""
+
+#. ID 4
+#. ID 33
+msgctxt "states.message_recovery"
+msgid "的出血止住了！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.name"
+msgid "衰减：猛"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_actor"
+msgid "被猛毒侵蚀了！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_enemy"
+msgid "被猛毒侵蚀了！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_already"
+msgid "已经被猛毒侵蚀了！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_affected"
+msgid "正被猛毒侵蚀着！"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_recovery"
+msgid "身上的猛毒驱散了！"
+msgstr ""
+
+#. ID 6
+#. ID 12
+#. ID 14
+#. ID 15
+#. ID 16
+#. ID 25
+#. ID 31
+#. ID 37
+#. ID 38
+#. ID 41
+#. ID 42
+msgctxt "states.name"
+msgid "---"
+msgstr ""
+
+#. ID 7
+msgctxt "states.name"
+msgid "停止：踊"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_actor"
+msgid "跳起了舞蹈！"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_enemy"
+msgid "跳起了舞蹈！"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_already"
+msgid "正在跳舞！"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_affected"
+msgid "正在跳舞！"
+msgstr ""
+
+#. ID 7
+#. ID 9
+#. ID 10
+#. ID 11
+#. ID 34
+msgctxt "states.message_recovery"
+msgid "能够正常行动了！"
+msgstr ""
+
+#. ID 8
+msgctxt "states.name"
+msgid "停止：眠"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_actor"
+msgid "失去了意识！"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_enemy"
+msgid "的意识被夺取了！"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_already"
+msgid "已经失去了意识！"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_affected"
+msgid "昏迷了……"
+msgstr ""
+
+#. ID 8
+msgctxt "states.message_recovery"
+msgid "清醒了！"
+msgstr ""
+
+#. ID 9
+#. ID 34
+msgctxt "states.name"
+msgid "停止：冲"
+msgstr ""
+
+#. ID 9
+#. ID 34
+msgctxt "states.message_actor"
+msgid "受到了冲击！"
+msgstr ""
+
+#. ID 9
+#. ID 34
+msgctxt "states.message_enemy"
+msgid "受到了冲击！"
+msgstr ""
+
+#. ID 9
+#. ID 10
+#. ID 11
+#. ID 34
+msgctxt "states.message_already"
+msgid "已经动不了了！"
+msgstr ""
+
+#. ID 9
+#. ID 10
+#. ID 11
+#. ID 34
+msgctxt "states.message_affected"
+msgid "无法行动！"
+msgstr ""
+
+#. ID 10
+msgctxt "states.name"
+msgid "停止：怯"
+msgstr ""
+
+#. ID 10
+msgctxt "states.message_actor"
+msgid "吓破了胆！"
+msgstr ""
+
+#. ID 10
+msgctxt "states.message_enemy"
+msgid "吓破了胆！"
+msgstr ""
+
+#. ID 11
+msgctxt "states.name"
+msgid "停止：缚"
+msgstr ""
+
+#. ID 11
+msgctxt "states.message_actor"
+msgid "无法行动了！"
+msgstr ""
+
+#. ID 11
+msgctxt "states.message_enemy"
+msgid "无法行动了！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.name"
+msgid "减停：吞"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_actor"
+msgid "被吞噬了！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_enemy"
+msgid "被吞噬了！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_already"
+msgid "已经被吞噬了！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_affected"
+msgid "仍在被吞噬着！"
+msgstr ""
+
+#. ID 13
+msgctxt "states.message_recovery"
+msgid "逃脱了！"
+msgstr ""
+
+#. ID 17
+msgctxt "states.name"
+msgid "混乱：惑"
+msgstr ""
+
+#. ID 17
+msgctxt "states.message_actor"
+msgid "混乱了！"
+msgstr ""
+
+#. ID 17
+msgctxt "states.message_enemy"
+msgid "混乱了！"
+msgstr ""
+
+#. ID 17
+msgctxt "states.message_already"
+msgid "已经混乱了！"
+msgstr ""
+
+#. ID 17
+msgctxt "states.message_affected"
+msgid "正在混乱当中！"
+msgstr ""
+
+#. ID 17
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+#. ID 24
+msgctxt "states.message_recovery"
+msgid "回归自我意识了！"
+msgstr ""
+
+#. ID 18
+msgctxt "states.name"
+msgid "混乱：从"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_actor"
+msgid "被敌人支配了！"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_enemy"
+msgid "被支配了！"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_already"
+msgid "已经处在支配之下了！"
+msgstr ""
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "states.message_affected"
+msgid "正在被支配着！"
+msgstr ""
+
+#. ID 19
+msgctxt "states.name"
+msgid "混乱：调"
+msgstr ""
+
+#. ID 20
+msgctxt "states.name"
+msgid "混乱：威"
+msgstr ""
+
+#. ID 21
+msgctxt "states.name"
+msgid "混乱：死"
+msgstr ""
+
+#. ID 23
+msgctxt "states.name"
+msgid "制限：默"
+msgstr ""
+
+#. ID 23
+msgctxt "states.message_actor"
+msgid "无法使用咒术了！"
+msgstr ""
+
+#. ID 23
+msgctxt "states.message_enemy"
+msgid "无法使用咒术了！"
+msgstr ""
+
+#. ID 23
+msgctxt "states.message_already"
+msgid "并不能使用咒术！"
+msgstr ""
+
+#. ID 23
+msgctxt "states.message_recovery"
+msgid "可以使用咒术了！"
+msgstr ""
+
+#. ID 24
+msgctxt "states.name"
+msgid "制限：怒"
+msgstr ""
+
+#. ID 24
+msgctxt "states.message_actor"
+msgid "怒火攻心了！"
+msgstr ""
+
+#. ID 24
+msgctxt "states.message_enemy"
+msgid "怒火攻心了！"
+msgstr ""
+
+#. ID 24
+msgctxt "states.message_already"
+msgid "已经怒火攻心了！"
+msgstr ""
+
+#. ID 24
+msgctxt "states.message_affected"
+msgid "正在狂怒当中！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.name"
+msgid "劣化：攻"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_actor"
+msgid "的攻击力减半了！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_enemy"
+msgid "的攻击力减半了！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_already"
+msgid "的攻击力已经减半了！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_affected"
+msgid "的攻击力处于减半状态中！"
+msgstr ""
+
+#. ID 26
+msgctxt "states.message_recovery"
+msgid "的攻击力复原了！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.name"
+msgid "劣化：防"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_actor"
+msgid "的防御力减半了！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_enemy"
+msgid "的防御力减半了！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_already"
+msgid "的防御力已经减半了！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_affected"
+msgid "的防御力处于减半状态中！"
+msgstr ""
+
+#. ID 27
+msgctxt "states.message_recovery"
+msgid "的防御力复原了！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.name"
+msgid "劣化：魔"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_actor"
+msgid "的魔力减半了！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_enemy"
+msgid "的魔力减半了！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_already"
+msgid "的魔力已经减半了！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_affected"
+msgid "的魔力处于减半状态中！"
+msgstr ""
+
+#. ID 28
+msgctxt "states.message_recovery"
+msgid "的魔力复原了！"
+msgstr ""
+
+#. ID 29
+msgctxt "states.name"
+msgid "劣化：速"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_actor"
+msgid "的速度减半了！"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_enemy"
+msgid "的速度减半了！"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_already"
+msgid "的速度已经减半了！"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_affected"
+msgid "的速度处于减半状态中！"
+msgstr ""
+
+#. ID 29
+#. ID 36
+msgctxt "states.message_recovery"
+msgid "的速度复原了！"
+msgstr ""
+
+#. ID 30
+msgctxt "states.name"
+msgid "劣化：中"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_actor"
+msgid "的命中率减半了！"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_enemy"
+msgid "的命中率减半了！"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_already"
+msgid "的命中率已经减半了！"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_affected"
+msgid "的命中率处于减半状态中！"
+msgstr ""
+
+#. ID 30
+#. ID 35
+msgctxt "states.message_recovery"
+msgid "的命中率复原了！"
+msgstr ""
+
+#. ID 32
+msgctxt "states.name"
+msgid "↓敵用"
+msgstr ""
+
+#. ID 33
+msgctxt "states.name"
+msgid "衰减；血"
+msgstr ""
+
+#. ID 35
+msgctxt "states.name"
+msgid "劣化；中"
+msgstr ""
+
+#. ID 36
+msgctxt "states.name"
+msgid "劣化；速"
+msgstr ""
+
+#. ID 39
+msgctxt "states.name"
+msgid "封印回廊"
+msgstr ""
+
+#. ID 39
+msgctxt "states.message_actor"
+msgid "被幽闭了！"
+msgstr ""
+
+#. ID 39
+msgctxt "states.message_affected"
+msgid "正在被幽闭着！"
+msgstr ""
+
+#. ID 39
+msgctxt "states.message_recovery"
+msgid "能够正常行动了"
+msgstr ""
+
+#. ID 40
+msgctxt "states.name"
+msgid "天球结界"
+msgstr ""
+
+#. ID 40
+msgctxt "states.message_affected"
+msgid "在不断衰弱！"
+msgstr ""
+
+msgctxt "terms.encounter"
+msgid "出现了！"
+msgstr ""
+
+msgctxt "terms.special_combat"
+msgid "先制攻击的机会到了！"
+msgstr ""
+
+msgctxt "terms.escape_success"
+msgid "平安地逃走了！"
+msgstr ""
+
+msgctxt "terms.escape_failure"
+msgid "没能逃掉！"
+msgstr ""
+
+msgctxt "terms.victory"
+msgid "战斗胜利了！"
+msgstr ""
+
+msgctxt "terms.defeat"
+msgid "战败了……"
+msgstr ""
+
+msgctxt "terms.exp_received"
+msgid "点经验值！"
+msgstr ""
+
+msgctxt "terms.gold_recieved_b"
+msgid "到手了！"
+msgstr ""
+
+msgctxt "terms.item_recieved"
+msgid "到手了！"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid "的攻击！"
+msgstr ""
+
+msgctxt "terms.enemy_critical"
+msgid "会心一击！！"
+msgstr ""
+
+msgctxt "terms.actor_critical"
+msgid "痛恨一击！！"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid "正在防守！"
+msgstr ""
+
+msgctxt "terms.observing"
+msgid "正在观察情况……"
+msgstr ""
+
+msgctxt "terms.focus"
+msgid "正在蓄力……"
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid "自爆了！"
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid "逃掉了！"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid "变幻了姿态！"
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid "的伤害！"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid "没有受到伤害！"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid "的伤害！"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid "没有受到伤害！"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid "不受影响！"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid "不受影响！"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid "没受到催眠影响！"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid "躲过了攻击！"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "被使用了！"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid "恢复了！"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid "提高了！"
+msgstr ""
+
+msgctxt "terms.parameter_decrease"
+msgid "下降了！"
+msgstr ""
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "夺取了！"
+msgstr ""
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "夺取了！"
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "耐性增强了！"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "耐性减弱了！"
+msgstr ""
+
+msgctxt "terms.level_up"
+msgid "了！"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid "被掌握了！"
+msgstr ""
+
+msgctxt "terms.shop_buy1"
+msgid "购入"
+msgstr ""
+
+msgctxt "terms.shop_sell1"
+msgid "卖出"
+msgstr ""
+
+msgctxt "terms.shop_leave1"
+msgid "取消"
+msgstr ""
+
+msgctxt "terms.shop_buy_select1"
+msgid "想要买什么？"
+msgstr ""
+
+msgctxt "terms.shop_buy_number1"
+msgid "要买几个？"
+msgstr ""
+
+msgctxt "terms.shop_purchased1"
+msgid "已经购入了。"
+msgstr ""
+
+msgctxt "terms.shop_sell_select1"
+msgid "想要卖什么？"
+msgstr ""
+
+msgctxt "terms.shop_sell_number1"
+msgid "要卖几个？"
+msgstr ""
+
+msgctxt "terms.shop_sold1"
+msgid "已经卖出了。"
+msgstr ""
+
+msgctxt "terms.shop_greeting2"
+msgid "「欢迎光临！　今天要买什么？」"
+msgstr ""
+
+msgctxt "terms.shop_regreeting2"
+msgid "「再看看别的东西吗？」"
+msgstr ""
+
+msgctxt "terms.shop_buy2"
+msgid "购入"
+msgstr ""
+
+msgctxt "terms.shop_sell2"
+msgid "卖出"
+msgstr ""
+
+msgctxt "terms.shop_leave2"
+msgid "取消"
+msgstr ""
+
+msgctxt "terms.shop_buy_select2"
+msgid "「想要买什么？」"
+msgstr ""
+
+msgctxt "terms.shop_buy_number2"
+msgid "「要买几个？」"
+msgstr ""
+
+msgctxt "terms.shop_purchased2"
+msgid "「感谢惠顾！」"
+msgstr ""
+
+msgctxt "terms.shop_sell_select2"
+msgid "「想要卖什么？」"
+msgstr ""
+
+msgctxt "terms.shop_sell_number2"
+msgid "「要卖几个？」"
+msgstr ""
+
+msgctxt "terms.shop_sold2"
+msgid "「多谢喽！」"
+msgstr ""
+
+msgctxt "terms.shop_greeting3"
+msgid "商人「异国的货币也能在这里使用哦」"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "购入"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "卖出"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "取消"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "想要买什么？"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "要买几个？"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "已经购入了。"
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "想要卖什么？"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "要卖几个？"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "已经卖出了。"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "「住宿费是"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_2"
+msgid "。"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "　要住宿吗？」"
+msgstr ""
+
+msgctxt "terms.inn_a_accept"
+msgid "住宿"
+msgstr ""
+
+msgctxt "terms.inn_a_cancel"
+msgid "不住宿"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "「住一天是"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "　要住宿吗？」"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "住宿"
+msgstr ""
+
+msgctxt "terms.inn_b_cancel"
+msgid "不住宿"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "持有数"
+msgstr ""
+
+msgctxt "terms.equipped_items"
+msgid "装备数"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "Ｇ"
+msgstr ""
+
+msgctxt "terms.battle_fight"
+msgid "战斗"
+msgstr ""
+
+msgctxt "terms.battle_auto"
+msgid "自动"
+msgstr ""
+
+msgctxt "terms.battle_escape"
+msgid "逃跑"
+msgstr ""
+
+msgctxt "terms.command_attack"
+msgid "攻击"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "防御"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "道具"
+msgstr ""
+
+msgctxt "terms.command_skill"
+msgid "特殊能力"
+msgstr ""
+
+msgctxt "terms.menu_equipment"
+msgid "装备·能力"
+msgstr ""
+
+msgctxt "terms.menu_save"
+msgid "保存进度"
+msgstr ""
+
+msgctxt "terms.menu_quit"
+msgid "返回标题"
+msgstr ""
+
+msgctxt "terms.new_game"
+msgid "　开始游戏　"
+msgstr ""
+
+msgctxt "terms.load_game"
+msgid "　继续游戏　"
+msgstr ""
+
+msgctxt "terms.exit_game"
+msgid "　退出游戏　"
+msgstr ""
+
+msgctxt "terms.level"
+msgid "等级"
+msgstr ""
+
+msgctxt "terms.health_points"
+msgid "ＨＰ"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "ＭＰ"
+msgstr ""
+
+msgctxt "terms.normal_status"
+msgid "正常"
+msgstr ""
+
+msgctxt "terms.exp_short"
+msgid "Ｅ"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "Ｌ"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "Ｈ"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "Ｍ"
+msgstr ""
+
+msgctxt "terms.sp_cost"
+msgid "消费ＭＰ"
+msgstr ""
+
+msgctxt "terms.attack"
+msgid "攻击力"
+msgstr ""
+
+msgctxt "terms.defense"
+msgid "防御力"
+msgstr ""
+
+msgctxt "terms.spirit"
+msgid "魔力"
+msgstr ""
+
+msgctxt "terms.agility"
+msgid "速度"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "右手"
+msgstr ""
+
+msgctxt "terms.shield"
+msgid "左手"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "躯体"
+msgstr ""
+
+msgctxt "terms.helmet"
+msgid "头部"
+msgstr ""
+
+msgctxt "terms.accessory"
+msgid "装饰品"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "要记录在哪个书签上？"
+msgstr ""
+
+msgctxt "terms.load_game_message"
+msgid "要读取哪个书签？"
+msgstr ""
+
+msgctxt "terms.file"
+msgid "书签"
+msgstr ""
+
+msgctxt "terms.exit_game_message"
+msgid "确定要退出吗？"
+msgstr ""
+
+msgctxt "terms.yes"
+msgid "是"
+msgstr ""
+
+msgctxt "terms.no"
+msgid "否"
+msgstr ""
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+

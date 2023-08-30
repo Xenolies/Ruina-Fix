@@ -1,0 +1,864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid ""
+"\\N[27]この場面では、わずかな人数で敵の軍勢に挑んで\n"
+"\\N[27]相手の力を削がなくてはならない。\n"
+"\\N[27]敵の数をよく見て攻撃し、時には逃走しながら\n"
+"\\N[27]慎重に戦うべきだろう。\\N[27]"
+msgstr ""
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"\\N[27]だが、もし戦いを望まないのなら、\n"
+"\\N[27]宿で休息することで時間を進め、\n"
+"\\N[27]状況の変化を待つこともできる。\n"
+"\\N[27]"
+msgstr ""
+
+#. ID 2, Page 2, Line 3, Pos (0,1)
+msgid "\\N[27]異変に気づいた敵の警備隊が追ってきた！"
+msgstr ""
+
+#. ID 2, Page 2, Line 43, Pos (0,1)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「城壁内に敵がいるようだな……」"
+msgstr ""
+
+#. ID 2, Page 2, Line 48, Pos (0,1)
+msgid ""
+"\\N[27]パーシャ\n"
+"\\N[27]「どうやら、城壁内に大きなネズミが\n"
+"\\N[27]　入り込んでいるようだな」"
+msgstr ""
+
+#. ID 2, Page 2, Line 57, Pos (0,1)
+msgid ""
+"\\N[27]異変に気づいた敵の主力部隊が、\n"
+"\\N[27]あなたを探して追いかけてくる！"
+msgstr ""
+
+#. ID 2, Page 3, Line 20, Pos (0,1)
+#. Choice (2 options)
+msgid ""
+"\\N[27]ジャンプ？\n"
+"\\N[27]いいえ"
+msgstr ""
+
+#. ID 2, Page 3, Line 32, Pos (0,1)
+msgid "\\N[27]その時―\―\。"
+msgstr ""
+
+#. ID 2, Page 3, Line 49, Pos (0,1)
+msgid "\\N[27]町の東側から、雷鳴に似た音が響いてきた。"
+msgstr ""
+
+#. ID 2, Page 3, Line 50, Pos (0,1)
+msgid ""
+"\\N[27]東の城門を破り、敵陣を二つに割って、\n"
+"\\N[27]ネス公国の軍勢が町に入り込んでくる。\n"
+"\\N[27]だが、その先頭に立っているのは―\―\。"
+msgstr ""
+
+#. ID 2, Page 3, Line 58, Pos (0,1)
+msgid ""
+"\\N[27]パーシャ\n"
+"\\N[27]「！？\n"
+"\\N[27]　何だ、あのデカブツは」"
+msgstr ""
+
+#. ID 2, Page 3, Line 62, Pos (0,1)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「あれは、やはり……」"
+msgstr ""
+
+#. ID 2, Page 3, Line 65, Pos (0,1)
+msgid ""
+"\\N[27]あの戦闘機械には、たしかに見覚えがある。\n"
+"\\N[27]地下の小人族が、戦いのために作り出した機械だ。\n"
+"\\N[27]だが、なぜあの兵器を、ネス公国が使っているのか？"
+msgstr ""
+
+#. ID 2, Page 3, Line 68, Pos (0,1)
+msgid ""
+"\\N[27]巨大な戦闘機械が横一列に五台ほど並び、\n"
+"\\N[27]歯車を唸らせながら敵の戦列に突っ込んでゆく。\n"
+"\\N[27]棘のついた車輪が獰猛に回転して、兵士たちを\n"
+"\\N[27]甲冑ごとずたずたに引き裂き、まき散らす。"
+msgstr ""
+
+#. ID 2, Page 3, Line 74, Pos (0,1)
+msgid ""
+"\\N[27]その背に運ばれている金属筒―\―\大砲が火を放つと、\n"
+"\\N[27]煙と共に敵陣の一角が吹き飛ぶ。\n"
+"\\N[27]一瞬遅れて、爆発音が届いてきた。"
+msgstr ""
+
+#. ID 2, Page 3, Line 87, Pos (0,1)
+msgid ""
+"\\N[27]戦闘機械は蒸気を吹き上げながら前進を続け、\n"
+"\\N[27]シーウァや神殿軍の兵士たちが蹂躙される。"
+msgstr ""
+
+#. ID 2, Page 3, Line 89, Pos (0,1)
+msgid ""
+"\\N[27]狭い街路に密集していた敵軍は、数機の戦闘機械に\n"
+"\\N[27]突っ込まれると大混乱に陥り、逃げようとする者と\n"
+"\\N[27]前進しようとする者とが折り重なって倒れた。"
+msgstr ""
+
+#. ID 2, Page 3, Line 94, Pos (0,1)
+msgid ""
+"\\N[27]そこに砲撃が加えられると、兵士の列を砲弾が貫通し、\n"
+"\\N[27]地獄のありさまになった。\n"
+"\\N[27]戦いとさえ言えない。"
+msgstr ""
+
+#. ID 2, Page 3, Line 98, Pos (0,1)
+msgid ""
+"\\N[27]パーシャ\n"
+"\\N[27]「怯むな！\n"
+"\\N[27]　下らぬ魔術の技だ、臆するな！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 102, Pos (0,1)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「―\―\いえ、あの攻撃には結界の守りも\n"
+"\\N[27]　効いておりません。\n"
+"\\N[27]　今まで知られていなかった兵器です」"
+msgstr ""
+
+#. ID 2, Page 3, Line 106, Pos (0,1)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「ここは一度、退きましょう……」"
+msgstr ""
+
+#. ID 2, Page 3, Line 109, Pos (0,1)
+msgid ""
+"\\N[27]パーシャ\n"
+"\\N[27]「クッ―\―\」"
+msgstr ""
+
+#. ID 2, Page 3, Line 112, Pos (0,1)
+msgid ""
+"\\N[27]シーウァと神殿軍の兵士たちが、西へと退却を始めた。\n"
+"\\N[27]戦闘機械は敵を追いかけて蹂躙し、その後に\n"
+"\\N[27]ネス公国の騎士たちが続く。"
+msgstr ""
+
+#. ID 2, Page 3, Line 116, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「ハハハハッ」"
+msgstr ""
+
+#. ID 2, Page 3, Line 119, Pos (0,1)
+msgid ""
+"\\N[27]騎士の集団の中には、\\N[130]公子の姿もあった。\n"
+"\\N[27]兜もかぶらず、散策しているかのような\n"
+"\\N[27]悠然とした様子で馬を進めている。"
+msgstr ""
+
+#. ID 2, Page 3, Line 122, Pos (0,1)
+msgid ""
+"\\N[27]隠れ家から顔を出した町の人々が、\n"
+"\\N[27]呆然と\\N[130]公子を出迎えた。"
+msgstr ""
+
+#. ID 2, Page 3, Line 125, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「我が民の諸君、助けに来てやったぞ」"
+msgstr ""
+
+#. ID 2, Page 3, Line 127, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「どうした、何を呆けている。\n"
+"\\N[27]　己のことを忘れでもしたか？」"
+msgstr ""
+
+#. ID 2, Page 3, Line 131, Pos (0,1)
+msgid ""
+"\\N[27]死体の破片を馬蹄にかけて踏みにじりながら、\n"
+"\\N[27]\\N[130]はおどけた調子で手を振った……。"
+msgstr ""
+
+#. ID 2, Page 3, Line 140, Pos (0,1)
+msgid "\\N[27]―\―\翌日。"
+msgstr ""
+
+#. ID 2, Page 3, Line 146, Pos (0,1)
+msgid ""
+"\\N[27]広場にはネス公国軍の騎士と戦闘機械が並び、\n"
+"\\N[27]その周囲に義勇兵や民衆が集まっている。\n"
+"\\N[27]古いオベリスクの前には急拵えの台が据えられていて、\n"
+"\\N[27]その上に\\N[130]が陽気な態度で登った。"
+msgstr ""
+
+#. ID 2, Page 3, Line 151, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「さて、諸君。\n"
+"\\N[27]　貴顕諸侯の方々、忠実なる騎士たち、\n"
+"\\N[27]　幸福な臣民領民たちよ―\―\」"
+msgstr ""
+
+#. ID 2, Page 3, Line 155, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「西シーウァの侵略者を討ち払うことが\n"
+"\\N[27]　できたのは、諸君らの働きの成果だ。\n"
+"\\N[27]　まずは喜ぼう、この勝利を！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 161, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「だが、浮かれすぎるな。\n"
+"\\N[27]　諸君は、西シーウァという野獣の前に\n"
+"\\N[27]　置かれた餌だ」"
+msgstr ""
+
+#. ID 2, Page 3, Line 165, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「この勝利は一時的なものでしかない。\n"
+"\\N[27]　奴らは貪欲さを抑えることもなく、\n"
+"\\N[27]　再び諸君の土地を奪いに来るだろう」"
+msgstr ""
+
+#. ID 2, Page 3, Line 169, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「それだけではなく、\n"
+"\\N[27]　東のヴァラコールに南の異教徒―\―\。\n"
+"\\N[27]　敵はあまりに多い」"
+msgstr ""
+
+#. ID 2, Page 3, Line 173, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「奴らが我々を侮るのは、\n"
+"\\N[27]　ネス公国が弱いからだ」"
+msgstr ""
+
+#. ID 2, Page 3, Line 176, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「歴史が浅いため君主の権威が弱く、\n"
+"\\N[27]　諸侯にまとまりのない、\n"
+"\\N[27]　弱体の国と見られているからだ」"
+msgstr ""
+
+#. ID 2, Page 3, Line 180, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「このままでは殺されるのを待つだけだ。\n"
+"\\N[27]　我らが生き残るためには、\n"
+"\\N[27]　新たな体制が必要だ……」"
+msgstr ""
+
+#. ID 2, Page 3, Line 186, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「だが我々は、運命によって導かれ、\n"
+"\\N[27]　真実に目覚めた」"
+msgstr ""
+
+#. ID 2, Page 3, Line 189, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「かつてこの地には、世界を支配した\n"
+"\\N[27]　大アルケア帝国の都があった。\n"
+"\\N[27]　我らは帝国の末裔だったのだ」"
+msgstr ""
+
+#. ID 2, Page 3, Line 193, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「我らは、世界に冠たる\n"
+"\\N[27]　偉大な歴史を持った\n"
+"\\N[27]　種族であったのだ！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 197, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「敵は我々の力を恐れ、嫉妬し、\n"
+"\\N[27]　侵略しようとし続けるだろう。\n"
+"\\N[27]　我々は黙って殺されるべきか？　否！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 201, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「今こそ栄光の歴史を復活させ、\n"
+"\\N[27]　新たな生命を吹き込んで、\n"
+"\\N[27]　敵を滅ぼす力としなければならない」"
+msgstr ""
+
+#. ID 2, Page 3, Line 207, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「己はここに、アルケア帝国の\n"
+"\\N[27]　復興を宣言する！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 211, Pos (0,1)
+msgid ""
+"\\N[27]そして\\N[130]の背後にひるがえるのは、\n"
+"\\N[27]八葉の花弁を持つ花の紋章旗―\―\。"
+msgstr ""
+
+#. ID 2, Page 3, Line 214, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「思い出せ、偉大な種族の誇りを！\n"
+"\\N[27]　帝国の旗の下に力を結集せよ！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 217, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「あの鉄騎兵を見よ。\n"
+"\\N[27]　騎士たちの剣を見よ。\n"
+"\\N[27]　これが我ら、アルケアの力だ！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 222, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「アルケアよ蘇れ！\n"
+"\\N[27]　帝国に栄光あれ！！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 227, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]の言葉は人々に動揺を走らせた。\n"
+"\\N[27]興奮と不安―\―\。"
+msgstr ""
+
+#. ID 2, Page 3, Line 231, Pos (0,1)
+msgid ""
+"\\N[27]だが、群衆の中に混じっていた男が\n"
+"\\N[27]「\\N[130]！　\\N[130]！」と叫び始めると、\n"
+"\\N[27]しだいに流れが一方に傾いていった。"
+msgstr ""
+
+#. ID 2, Page 3, Line 237, Pos (0,1)
+msgid ""
+"\\N[27]『\\N[130]！　\\N[130]！』\n"
+"\\N[27]『帝国に栄光あれ！』\n"
+"\\N[27]『アルケア！　アルケア！』"
+msgstr ""
+
+#. ID 2, Page 3, Line 243, Pos (0,1)
+msgid ""
+"\\N[27]こうして人々は、アルケア帝国という\n"
+"\\N[27]忘れ去られていた名を思い出していった―\―\。"
+msgstr ""
+
+#. ID 2, Page 3, Line 265, Pos (0,1)
+msgid "\\>\\V[31]日目　王国歴\\V[32]年　\\V[33]月　\\V[34]日\\<"
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (1,1)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「いかん！\n"
+"\\N[27]　囲まれたら終わりだ、\n"
+"\\N[27]　一度下がって体勢を立て直せ！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 11, Pos (1,1)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「や、ヤバイヤバイ敵の数ヤバイ\n"
+"\\N[27]　これどう考えても死ぬって！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (1,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「敵の数多すぎるよ！\n"
+"\\N[27]　もう逃げよう、\n"
+"\\N[27]　うっきゃーって叫んで逃げよう！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (1,1)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「……あのだね、その、百人単位の敵が\n"
+"\\N[27]　私たちを殺すために押し寄せてきてる\n"
+"\\N[27]　ように見えるんだけど？」"
+msgstr ""
+
+#. ID 3, Page 1, Line 34, Pos (1,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「駄目だ、この数は殺しきれねぇ！\n"
+"\\N[27]　魔力が保たねーよっ」"
+msgstr ""
+
+#. ID 3, Page 1, Line 41, Pos (1,1)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「くっ……！\n"
+"\\N[27]　退くのは屈辱ですが、\n"
+"\\N[27]　数に差がありすぎます！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 49, Pos (1,1)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「この数の敵に囲まれたら、\n"
+"\\N[27]　確実に死ねるわよ！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 56, Pos (1,1)
+msgid ""
+"\\N[27]\\N[13]\n"
+"\\N[27]「敵軍に囲まれないよう、\n"
+"\\N[27]　気を付けて！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 63, Pos (1,1)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「この数の敵を相手に戦うのは、\n"
+"\\N[27]　死を望むようなものだぞ！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 70, Pos (1,1)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「うーん、ちょっとテキが多すぎだな。\n"
+"\\N[27]　食べきれないくらい多い」"
+msgstr ""
+
+#. ID 6, Page 1, Line 4, Pos (17,7)
+msgid ""
+"\\N[27]パーシャ\n"
+"\\N[27]「愚か者め。\n"
+"\\N[27]　だが、その勇敢さは誉めてやろう」"
+msgstr ""
+
+#. ID 6, Page 1, Line 32, Pos (17,7)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 1, Line 68, Pos (17,7)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 2, Line 4, Pos (17,7)
+msgid ""
+"\\N[27]シーウァ軍　兵数\\V[331]\n"
+"\\N[27]指揮官：パーシャ"
+msgstr ""
+
+#. ID 6, Page 1, Line 34, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 70, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 33, Pos (18,6)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 78, Pos (18,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 18, Pos (18,5)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 52, Pos (18,5)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 18, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 52, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 18, Pos (2,4)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 52, Pos (2,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"戦闘続行\n"
+"逃げる"
+msgstr ""
+
+#. ID 6, Page 1, Line 38, Pos (17,7)
+#. ID 6, Page 1, Line 74, Pos (17,7)
+#. ID 9, Page 1, Line 37, Pos (18,6)
+#. ID 9, Page 1, Line 82, Pos (18,6)
+#. ID 10, Page 1, Line 22, Pos (18,5)
+#. ID 10, Page 1, Line 56, Pos (18,5)
+#. ID 11, Page 1, Line 22, Pos (17,8)
+#. ID 11, Page 1, Line 56, Pos (17,8)
+#. ID 14, Page 1, Line 22, Pos (2,4)
+#. ID 14, Page 1, Line 56, Pos (2,4)
+msgid "\\N[27]運試し！"
+msgstr ""
+
+#. ID 6, Page 1, Line 42, Pos (17,7)
+#. ID 6, Page 1, Line 78, Pos (17,7)
+#. ID 9, Page 1, Line 41, Pos (18,6)
+#. ID 9, Page 1, Line 86, Pos (18,6)
+#. ID 10, Page 1, Line 26, Pos (18,5)
+#. ID 10, Page 1, Line 60, Pos (18,5)
+#. ID 11, Page 1, Line 26, Pos (17,8)
+#. ID 11, Page 1, Line 60, Pos (17,8)
+#. ID 14, Page 1, Line 26, Pos (2,4)
+#. ID 14, Page 1, Line 60, Pos (2,4)
+msgid ""
+"\\N[27]逃走に成功した！\n"
+"\\N[27]敵の囲みを突破し、路地へと逃げ込んだ……。"
+msgstr ""
+
+#. ID 6, Page 1, Line 51, Pos (17,7)
+#. ID 6, Page 1, Line 87, Pos (17,7)
+#. ID 9, Page 1, Line 50, Pos (18,6)
+#. ID 9, Page 1, Line 95, Pos (18,6)
+#. ID 10, Page 1, Line 35, Pos (18,5)
+#. ID 10, Page 1, Line 69, Pos (18,5)
+#. ID 11, Page 1, Line 35, Pos (17,8)
+#. ID 11, Page 1, Line 69, Pos (17,8)
+#. ID 14, Page 1, Line 35, Pos (2,4)
+#. ID 14, Page 1, Line 69, Pos (2,4)
+msgid "\\N[27]逃走に失敗した！"
+msgstr ""
+
+#. ID 6, Page 1, Line 56, Pos (17,7)
+#. ID 9, Page 1, Line 55, Pos (18,6)
+msgid ""
+"\\N[27]敵兵はけして強くはないが、あまりに数が多すぎる。\n"
+"\\N[27]完全に囲まれてしまった！"
+msgstr ""
+
+#. ID 6, Page 1, Line 95, Pos (17,7)
+msgid ""
+"\\N[27]パーシャ\n"
+"\\N[27]「下がれ。\n"
+"\\N[27]　お前たちでは勝てぬ相手だ」"
+msgstr ""
+
+#. ID 6, Page 1, Line 100, Pos (17,7)
+msgid ""
+"\\N[27]敵兵たちの背後から、女が姿を見せた。\n"
+"\\N[27]不揃いな甲冑を身につけ、巨大な剣を背負い、\n"
+"\\N[27]狂気にも似た闘気をまとっている。"
+msgstr ""
+
+#. ID 6, Page 1, Line 104, Pos (17,7)
+msgid ""
+"\\N[27]パーシャ\n"
+"\\N[27]「シーウァのパーシャ・シバ・アラヌス。\n"
+"\\N[27]　私が相手をしてやろう。\n"
+"\\N[27]　参る！」"
+msgstr ""
+
+#. ID 6, Page 1, Line 114, Pos (17,7)
+msgid ""
+"\\N[27]パーシャ\n"
+"\\N[27]「貴様……。\n"
+"\\N[27]　許さぬぞ……」"
+msgstr ""
+
+#. ID 6, Page 1, Line 118, Pos (17,7)
+msgid ""
+"\\N[27]女は負傷し、すさまじい目つきで\n"
+"\\N[27]あなたを睨み付けながら部下たちに運ばれていった。\n"
+"\\N[27]指揮官を失って、敵兵たちは大きく動揺している。\n"
+"\\N[27]この隙に逃げ出すとしよう。"
+msgstr ""
+
+#. ID 6, Page 1, Line 126, Pos (17,7)
+#. ID 9, Page 1, Line 145, Pos (18,6)
+msgid ""
+"\\N[27]敵の主力部隊を倒した。\n"
+"\\N[27]ボーナスSPを3点獲得！"
+msgstr ""
+
+#. ID 6, Page 1, Line 130, Pos (17,7)
+#. ID 9, Page 1, Line 149, Pos (18,6)
+msgid "\\N[27]英雄の紋章盾を手に入れた！"
+msgstr ""
+
+#. ID 6, Page 2, Line 2, Pos (17,7)
+msgid "\\N[27]シーウァ軍の主力部隊が布陣している。"
+msgstr ""
+
+#. ID 6, Page 2, Line 9, Pos (17,7)
+#. Choice (2 options)
+#. ID 7, Page 2, Line 6, Pos (12,5)
+#. Choice (2 options)
+#. ID 8, Page 2, Line 7, Pos (14,3)
+#. Choice (2 options)
+#. ID 9, Page 2, Line 15, Pos (18,6)
+#. Choice (2 options)
+#. ID 10, Page 2, Line 5, Pos (18,5)
+#. Choice (2 options)
+#. ID 11, Page 2, Line 5, Pos (17,8)
+#. Choice (2 options)
+#. ID 12, Page 2, Line 6, Pos (14,7)
+#. Choice (2 options)
+#. ID 13, Page 2, Line 7, Pos (9,11)
+#. Choice (2 options)
+#. ID 14, Page 2, Line 6, Pos (2,4)
+#. Choice (2 options)
+#. ID 15, Page 2, Line 6, Pos (8,5)
+#. Choice (2 options)
+msgid ""
+"\\N[27]攻撃を仕掛ける\n"
+"\\N[27]立ち去る"
+msgstr ""
+
+#. ID 6, Page 2, Line 11, Pos (17,7)
+#. ID 9, Page 2, Line 17, Pos (18,6)
+#. ID 10, Page 2, Line 7, Pos (18,5)
+#. ID 11, Page 2, Line 7, Pos (17,8)
+#. ID 14, Page 2, Line 8, Pos (2,4)
+msgid ""
+"\\N[27]この数が相手では、小細工は利かない。\n"
+"\\N[27]鬨の声を上げて、敵兵の群れに躍りかかった！"
+msgstr ""
+
+#. ID 7, Page 1, Line 25, Pos (12,5)
+#. ID 8, Page 1, Line 25, Pos (14,3)
+#. ID 13, Page 1, Line 25, Pos (9,11)
+msgid ""
+"\\N[27]目の前の敵を倒しても、\n"
+"\\N[27]すぐに新たな敵が襲いかかってくる！"
+msgstr ""
+
+#. ID 7, Page 1, Line 41, Pos (12,5)
+msgid ""
+"\\N[27]さらに警備兵たちが押し寄せてくる。\n"
+"\\N[27]周りを囲まれてしまった！"
+msgstr ""
+
+#. ID 7, Page 1, Line 59, Pos (12,5)
+#. ID 8, Page 1, Line 71, Pos (14,3)
+#. ID 13, Page 1, Line 56, Pos (9,11)
+msgid ""
+"\\N[27]敵の小部隊を倒した。\n"
+"\\N[27]ボーナスSPを1点獲得！"
+msgstr ""
+
+#. ID 7, Page 2, Line 2, Pos (12,5)
+msgid "\\N[27]小人数の部隊が町の中を警備している。"
+msgstr ""
+
+#. ID 7, Page 2, Line 3, Pos (12,5)
+msgid "\\N[27]シーウァ軍　兵数\\V[332]"
+msgstr ""
+
+#. ID 7, Page 2, Line 8, Pos (12,5)
+msgid "\\N[27]敵の警備隊に攻撃を仕掛けた！"
+msgstr ""
+
+#. ID 8, Page 1, Line 40, Pos (14,3)
+#. ID 10, Page 1, Line 40, Pos (18,5)
+#. ID 11, Page 1, Line 40, Pos (17,8)
+#. ID 12, Page 1, Line 16, Pos (14,7)
+#. ID 13, Page 1, Line 40, Pos (9,11)
+#. ID 14, Page 1, Line 40, Pos (2,4)
+#. ID 15, Page 1, Line 16, Pos (8,5)
+msgid ""
+"\\N[27]さらに敵が押し寄せてくる。\n"
+"\\N[27]周りを囲まれてしまった！"
+msgstr ""
+
+#. ID 8, Page 1, Line 56, Pos (14,3)
+msgid ""
+"\\N[27]城館の地下に囚われていたカムールたちを\n"
+"\\N[27]助け出した！"
+msgstr ""
+
+#. ID 8, Page 1, Line 59, Pos (14,3)
+msgid ""
+"\\N[27]カムール\n"
+"\\N[27]「\\N[\\V[2]]……生きていたか」"
+msgstr ""
+
+#. ID 8, Page 1, Line 61, Pos (14,3)
+msgid ""
+"\\N[27]カムール\n"
+"\\N[27]「……本当に、\n"
+"\\N[27]　逞しくなったものだな」"
+msgstr ""
+
+#. ID 8, Page 1, Line 66, Pos (14,3)
+msgid "\\N[27]ボーナスSPを1点獲得！"
+msgstr ""
+
+#. ID 8, Page 2, Line 2, Pos (14,3)
+msgid ""
+"\\N[27]小規模の部隊が城館を守りつつ、\n"
+"\\N[27]町の周囲を見張っている。"
+msgstr ""
+
+#. ID 8, Page 2, Line 4, Pos (14,3)
+msgid "\\N[27]シーウァ軍　兵数\\V[333]"
+msgstr ""
+
+#. ID 8, Page 2, Line 9, Pos (14,3)
+msgid ""
+"\\N[27]城館の門まで近づき、\n"
+"\\N[27]見張りの兵士たちに攻撃を仕掛けた！"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (18,6)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「この数に挑むとは、無謀な……」"
+msgstr ""
+
+#. ID 9, Page 1, Line 31, Pos (18,6)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 1, Line 76, Pos (18,6)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 2, Line 5, Pos (18,6)
+msgid ""
+"\\N[27]神殿軍　兵数\\V[334]\n"
+"\\N[27]指揮官：バルスムス"
+msgstr ""
+
+#. ID 9, Page 1, Line 103, Pos (18,6)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「―\―\私が相手をせねばならない\n"
+"\\N[27]　敵のようだな」"
+msgstr ""
+
+#. ID 9, Page 1, Line 108, Pos (18,6)
+msgid ""
+"\\N[27]敵兵たちの背後から、いかつい甲冑に身を包んだ\n"
+"\\N[27]神官が姿を見せた。"
+msgstr ""
+
+#. ID 9, Page 1, Line 112, Pos (18,6)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「……貴殿は、あの時の……？\n"
+"\\N[27]　そうか、師の仇討ちと言う訳か」"
+msgstr ""
+
+#. ID 9, Page 1, Line 117, Pos (18,6)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「雷王の戦神官、バルスムスである。\n"
+"\\N[27]　いざ尋常に、勝負！」"
+msgstr ""
+
+#. ID 9, Page 1, Line 126, Pos (18,6)
+msgid ""
+"\\N[27]バルスムス\n"
+"\\N[27]「くっ……。\n"
+"\\N[27]　何という手強さ」"
+msgstr ""
+
+#. ID 9, Page 1, Line 131, Pos (18,6)
+msgid ""
+"\\N[27]敵将は負傷して、後ろへと下がった。\n"
+"\\N[27]追いかけてとどめを刺そうとしたが、\n"
+"\\N[27]敵兵たちがそれを阻んだ。"
+msgstr ""
+
+#. ID 9, Page 1, Line 136, Pos (18,6)
+msgid ""
+"\\N[27]敵将は負傷して、後ろへと下がった。\n"
+"\\N[27]指揮官を失って、敵兵たちは大きく動揺している。\n"
+"\\N[27]この隙に逃げ出すとしよう。"
+msgstr ""
+
+#. ID 9, Page 2, Line 2, Pos (18,6)
+msgid ""
+"\\N[27]町の東側城壁を守るため、神殿軍の部隊が\n"
+"\\N[27]シーウァ軍と共に待機している。"
+msgstr ""
+
+#. ID 9, Page 2, Line 9, Pos (18,6)
+msgid ""
+"\\N[27]この部隊を率いているのは、\\N[19]の仇だ。\n"
+"\\N[27]できることなら一矢報いたいが……。"
+msgstr ""
+
+#. ID 10, Page 1, Line 17, Pos (18,5)
+#. Contains choice at line 2 (2 options)
+#. ID 10, Page 1, Line 51, Pos (18,5)
+#. Contains choice at line 2 (2 options)
+#. ID 10, Page 2, Line 2, Pos (18,5)
+msgid "\\N[27]シーウァ軍　兵数\\V[335]"
+msgstr ""
+
+#. ID 10, Page 1, Line 79, Pos (18,5)
+#. ID 11, Page 1, Line 79, Pos (17,8)
+#. ID 14, Page 1, Line 79, Pos (2,4)
+msgid ""
+"\\N[27]敵の大部隊を倒した。\n"
+"\\N[27]ボーナスSPを2点獲得！"
+msgstr ""
+
+#. ID 11, Page 1, Line 17, Pos (17,8)
+#. Contains choice at line 2 (2 options)
+#. ID 11, Page 1, Line 51, Pos (17,8)
+#. Contains choice at line 2 (2 options)
+#. ID 11, Page 2, Line 2, Pos (17,8)
+msgid "\\N[27]シーウァ軍　兵数\\V[336]"
+msgstr ""
+
+#. ID 12, Page 2, Line 2, Pos (14,7)
+#. ID 15, Page 2, Line 2, Pos (8,5)
+msgid "\\N[27]町の街路を少数のシーウァ兵が巡回している。"
+msgstr ""
+
+#. ID 12, Page 2, Line 3, Pos (14,7)
+msgid "\\N[27]シーウァ軍　兵数\\V[337]"
+msgstr ""
+
+#. ID 12, Page 2, Line 8, Pos (14,7)
+#. ID 15, Page 2, Line 8, Pos (8,5)
+msgid "\\N[27]路地から飛び出し、攻撃を仕掛けた！"
+msgstr ""
+
+#. ID 13, Page 2, Line 2, Pos (9,11)
+msgid ""
+"\\N[27]港には五隻ほどの軍船が停泊し、\n"
+"\\N[27]小規模の部隊がそれを守っている。"
+msgstr ""
+
+#. ID 13, Page 2, Line 4, Pos (9,11)
+msgid "\\N[27]シーウァ軍　兵数\\V[338]"
+msgstr ""
+
+#. ID 13, Page 2, Line 9, Pos (9,11)
+msgid ""
+"\\N[27]軍船を破壊しようと攻撃を仕掛けると、\n"
+"\\N[27]船の中にいた敵兵たちが迎え撃ってきた！"
+msgstr ""
+
+#. ID 14, Page 1, Line 17, Pos (2,4)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 1, Line 51, Pos (2,4)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 2, Line 3, Pos (2,4)
+msgid "\\N[27]シーウァ軍　兵数\\V[339]"
+msgstr ""
+
+#. ID 14, Page 2, Line 2, Pos (2,4)
+msgid "\\N[27]大規模な部隊が、町の西の城壁を守っている。"
+msgstr ""
+
+#. ID 15, Page 2, Line 3, Pos (8,5)
+msgid "\\N[27]シーウァ軍　兵数\\V[340]"
+msgstr ""
+
+#. ID 16, Page 1, Line 2, Pos (0,14)
+msgid "\\V[320]"
+msgstr ""
+

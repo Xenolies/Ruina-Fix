@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (2,1)
+msgid "種類を選んでください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 7, Pos (2,1)
+msgid "素材を選んでください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 24, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "傷薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 41, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "上等な傷薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 58, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "特上の傷薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 75, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "蘇生薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 92, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "不死薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 109, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "救済の石"
+msgstr ""
+
+#. ID 1, Page 1, Line 126, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "奇跡の石"
+msgstr ""
+
+#. ID 1, Page 1, Line 143, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "賢者の石"
+msgstr ""
+
+#. ID 1, Page 1, Line 160, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "治療薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 177, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "気付け薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 194, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "万能薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 211, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "霊薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 228, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "妖精の薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 245, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "小人の薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 262, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "巨人の薬"
+msgstr ""
+
+#. ID 1, Page 1, Line 279, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "煙玉"
+msgstr ""
+
+#. ID 1, Page 1, Line 296, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "桃色試験管"
+msgstr ""
+
+#. ID 1, Page 1, Line 313, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "眠り霧のビン"
+msgstr ""
+
+#. ID 1, Page 1, Line 330, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "毒玉"
+msgstr ""
+
+#. ID 1, Page 1, Line 347, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "猛毒のダーツ"
+msgstr ""
+
+#. ID 1, Page 1, Line 364, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "火炎ボトル"
+msgstr ""
+
+#. ID 1, Page 1, Line 381, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "爆発フラスコ"
+msgstr ""
+
+#. ID 1, Page 1, Line 398, Pos (2,1)
+#. ChangeHeroName (Actor 78)
+msgctxt "actors.name"
+msgid "破壊爆弾"
+msgstr ""
+
+#. ID 1, Page 1, Line 418, Pos (2,1)
+msgid ""
+"\\N[77]＋\\N[75]\\N[98]＋\\N[76]\\N[99]＝失敗\n"
+"\n"
+"これらの素材は調合できないようだ……。"
+msgstr ""
+
+#. ID 1, Page 1, Line 423, Pos (2,1)
+msgid ""
+"\\N[77]＋\\N[75]\\N[98]＝失敗\n"
+"\n"
+"これらの素材は調合できないようだ……。"
+msgstr ""
+
+#. ID 1, Page 1, Line 430, Pos (2,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 1, Line 431, Pos (2,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 1, Line 457, Pos (2,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 1, Line 458, Pos (2,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 1, Line 488, Pos (2,1)
+#. ChangeHeroName (Actor 75)
+#. ID 1, Page 1, Line 489, Pos (2,1)
+#. ChangeHeroName (Actor 76)
+#. ID 1, Page 1, Line 490, Pos (2,1)
+#. ChangeHeroName (Actor 77)
+#. ID 3, Page 1, Line 10, Pos (0,0)
+#. ChangeHeroName (Actor 75)
+#. ID 3, Page 1, Line 11, Pos (0,0)
+#. ChangeHeroName (Actor 76)
+#. ID 3, Page 1, Line 12, Pos (0,0)
+#. ChangeHeroName (Actor 77)
+msgctxt "actors.name"
+msgid "----"
+msgstr ""
+
+#. ID 1, Page 1, Line 443, Pos (2,1)
+msgid ""
+"\\N[77]を\\N[75]\\N[98]と\\N[76]\\N[99]で作ると\n"
+"\\N[78]\\N[79]ができた！\n"
+"しかし、すでに\\V[161]個持っている。"
+msgstr ""
+
+#. ID 1, Page 1, Line 448, Pos (2,1)
+msgid ""
+"\\N[77]を\\N[75]\\N[98]で作ると\n"
+"\\N[78]\\N[79]ができた！\n"
+"しかし、すでに\\V[161]個持っている"
+msgstr ""
+
+#. ID 1, Page 1, Line 453, Pos (2,1)
+msgid ""
+"このアイテムは\\V[177]個以上は作り置きできない。\n"
+"別のアイテムを調合しよう……。"
+msgstr ""
+
+#. ID 1, Page 1, Line 472, Pos (2,1)
+msgid ""
+"\\N[77]を\\N[75]\\N[98]と\\N[76]\\N[99]で作ると\n"
+"\\N[78]\\N[79]ができた！\n"
+"\n"
+"\\N[78]\\N[79]を手に入れた！"
+msgstr ""
+
+#. ID 1, Page 1, Line 478, Pos (2,1)
+msgid ""
+"\\N[77]を\\N[75]\\N[98]で作ると\n"
+"\\N[78]\\N[79]ができた！\n"
+"\n"
+"\\N[78]\\N[79]を手に入れた！"
+msgstr ""
+
+#. ID 2, Page 1, Line 1, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+msgid "要退出调和吗？"
+msgstr ""
+
+#. ID 2, Page 1, Line 2, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 7, Pos (1,3)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 7, Pos (7,3)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 7, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 2, Line 35, Pos (1,5)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 2, Line 36, Pos (1,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 2, Line 36, Pos (1,7)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 2, Line 36, Pos (1,8)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 2, Line 36, Pos (1,9)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 2, Line 35, Pos (1,10)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 2, Line 35, Pos (1,11)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 2, Line 35, Pos (1,12)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 2, Line 35, Pos (1,13)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 35, Pos (7,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 2, Line 35, Pos (7,6)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 2, Line 35, Pos (7,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"是\n"
+"否"
+msgstr ""
+
+#. ID 3, Page 1, Line 5, Pos (0,0)
+#. Choice (3 options)
+msgid ""
+"重置素材\n"
+"开始制作\n"
+"中止制作"
+msgstr ""
+
+#. ID 5, Page 1, Line 2, Pos (1,3)
+#. ChangeHeroName (Actor 77)
+msgctxt "actors.name"
+msgid "消費物"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (1,3)
+msgid "消費物を作ることにした。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (1,3)
+#. Contains choice at line 2 (2 options)
+#. ID 6, Page 1, Line 6, Pos (7,3)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 6, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+msgid "作成を開始しますか？"
+msgstr ""
+
+#. ID 6, Page 1, Line 2, Pos (7,3)
+#. ChangeHeroName (Actor 77)
+msgctxt "actors.name"
+msgid "杖"
+msgstr ""
+
+#. ID 6, Page 1, Line 3, Pos (7,3)
+msgid "杖を作ることにした。"
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (13,3)
+#. ChangeHeroName (Actor 77)
+msgctxt "actors.name"
+msgid "装飾品"
+msgstr ""
+
+#. ID 7, Page 1, Line 3, Pos (13,3)
+msgid "装飾品を作ることにした。"
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (1,5)
+#. ID 9, Page 1, Line 1, Pos (1,6)
+#. ID 10, Page 1, Line 1, Pos (1,7)
+#. ID 11, Page 1, Line 1, Pos (1,8)
+#. ID 12, Page 1, Line 1, Pos (1,9)
+#. ID 13, Page 1, Line 1, Pos (1,10)
+#. ID 14, Page 1, Line 1, Pos (1,11)
+#. ID 15, Page 1, Line 1, Pos (1,12)
+#. ID 16, Page 1, Line 1, Pos (1,13)
+#. ID 17, Page 1, Line 1, Pos (7,5)
+#. ID 18, Page 1, Line 1, Pos (7,6)
+#. ID 19, Page 1, Line 1, Pos (7,7)
+#. ID 20, Page 1, Line 1, Pos (7,8)
+#. ID 21, Page 1, Line 1, Pos (7,9)
+#. ID 22, Page 1, Line 1, Pos (7,10)
+#. ID 23, Page 1, Line 1, Pos (7,11)
+#. ID 24, Page 1, Line 1, Pos (7,12)
+#. ID 25, Page 1, Line 1, Pos (7,13)
+#. ID 26, Page 1, Line 1, Pos (13,5)
+#. ID 27, Page 1, Line 1, Pos (13,6)
+#. ID 28, Page 1, Line 1, Pos (13,7)
+#. ID 29, Page 1, Line 1, Pos (13,8)
+#. ID 30, Page 1, Line 1, Pos (13,9)
+#. ID 31, Page 1, Line 1, Pos (13,10)
+#. ID 32, Page 1, Line 1, Pos (13,11)
+#. ID 33, Page 1, Line 1, Pos (13,12)
+#. ID 34, Page 1, Line 1, Pos (13,13)
+msgid "你没有这个素材。"
+msgstr ""
+
+#. ID 8, Page 2, Line 4, Pos (1,5)
+#. ChangeHeroName (Actor 75)
+#. ID 8, Page 2, Line 21, Pos (1,5)
+#. ChangeHeroName (Actor 76)
+#. ID 20, Page 2, Line 6, Pos (7,8)
+#. ChangeHeroName (Actor 75)
+#. ID 20, Page 2, Line 23, Pos (7,8)
+#. ChangeHeroName (Actor 76)
+#. ID 21, Page 2, Line 6, Pos (7,9)
+#. ChangeHeroName (Actor 75)
+#. ID 21, Page 2, Line 22, Pos (7,9)
+#. ChangeHeroName (Actor 76)
+#. ID 22, Page 2, Line 6, Pos (7,10)
+#. ChangeHeroName (Actor 75)
+#. ID 22, Page 2, Line 22, Pos (7,10)
+#. ChangeHeroName (Actor 76)
+#. ID 23, Page 2, Line 6, Pos (7,11)
+#. ChangeHeroName (Actor 75)
+#. ID 23, Page 2, Line 22, Pos (7,11)
+#. ChangeHeroName (Actor 76)
+#. ID 24, Page 2, Line 6, Pos (7,12)
+#. ChangeHeroName (Actor 75)
+#. ID 24, Page 2, Line 22, Pos (7,12)
+#. ChangeHeroName (Actor 76)
+#. ID 25, Page 2, Line 6, Pos (7,13)
+#. ChangeHeroName (Actor 75)
+#. ID 25, Page 2, Line 23, Pos (7,13)
+#. ChangeHeroName (Actor 76)
+#. ID 26, Page 2, Line 6, Pos (13,5)
+#. ChangeHeroName (Actor 75)
+#. ID 26, Page 2, Line 22, Pos (13,5)
+#. ChangeHeroName (Actor 76)
+#. ID 27, Page 2, Line 6, Pos (13,6)
+#. ChangeHeroName (Actor 75)
+#. ID 27, Page 2, Line 22, Pos (13,6)
+#. ChangeHeroName (Actor 76)
+#. ID 28, Page 2, Line 6, Pos (13,7)
+#. ChangeHeroName (Actor 75)
+#. ID 28, Page 2, Line 22, Pos (13,7)
+#. ChangeHeroName (Actor 76)
+#. ID 29, Page 2, Line 6, Pos (13,8)
+#. ChangeHeroName (Actor 75)
+#. ID 29, Page 2, Line 22, Pos (13,8)
+#. ChangeHeroName (Actor 76)
+#. ID 30, Page 2, Line 6, Pos (13,9)
+#. ChangeHeroName (Actor 75)
+#. ID 30, Page 2, Line 22, Pos (13,9)
+#. ChangeHeroName (Actor 76)
+#. ID 31, Page 2, Line 6, Pos (13,10)
+#. ChangeHeroName (Actor 75)
+#. ID 31, Page 2, Line 22, Pos (13,10)
+#. ChangeHeroName (Actor 76)
+#. ID 32, Page 2, Line 6, Pos (13,11)
+#. ChangeHeroName (Actor 75)
+#. ID 32, Page 2, Line 22, Pos (13,11)
+#. ChangeHeroName (Actor 76)
+#. ID 33, Page 2, Line 6, Pos (13,12)
+#. ChangeHeroName (Actor 75)
+#. ID 33, Page 2, Line 22, Pos (13,12)
+#. ChangeHeroName (Actor 76)
+#. ID 34, Page 2, Line 6, Pos (13,13)
+#. ChangeHeroName (Actor 75)
+#. ID 34, Page 2, Line 22, Pos (13,13)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "カブラ苔"
+msgstr ""
+
+#. ID 8, Page 2, Line 5, Pos (1,5)
+#. ID 13, Page 2, Line 5, Pos (1,10)
+#. ID 14, Page 2, Line 5, Pos (1,11)
+#. ID 15, Page 2, Line 5, Pos (1,12)
+#. ID 16, Page 2, Line 5, Pos (1,13)
+#. ID 17, Page 2, Line 5, Pos (7,5)
+#. ID 18, Page 2, Line 5, Pos (7,6)
+#. ID 19, Page 2, Line 5, Pos (7,7)
+msgid ""
+"\\N[75]\\N[98]　　残り所持数\\V[161]個\n"
+"を素材1に選んだ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 14, Pos (1,5)
+#. ID 9, Page 2, Line 15, Pos (1,6)
+#. ID 10, Page 2, Line 15, Pos (1,7)
+#. ID 11, Page 2, Line 15, Pos (1,8)
+#. ID 12, Page 2, Line 15, Pos (1,9)
+#. ID 13, Page 2, Line 14, Pos (1,10)
+#. ID 14, Page 2, Line 14, Pos (1,11)
+#. ID 15, Page 2, Line 14, Pos (1,12)
+#. ID 17, Page 2, Line 14, Pos (7,5)
+#. ID 18, Page 2, Line 14, Pos (7,6)
+#. ID 19, Page 2, Line 14, Pos (7,7)
+#. ID 20, Page 2, Line 12, Pos (7,8)
+#. ID 21, Page 2, Line 12, Pos (7,9)
+#. ID 22, Page 2, Line 12, Pos (7,10)
+#. ID 23, Page 2, Line 12, Pos (7,11)
+#. ID 24, Page 2, Line 12, Pos (7,12)
+#. ID 25, Page 2, Line 12, Pos (7,13)
+#. ID 26, Page 2, Line 12, Pos (13,5)
+#. ID 27, Page 2, Line 12, Pos (13,6)
+#. ID 28, Page 2, Line 12, Pos (13,7)
+#. ID 29, Page 2, Line 12, Pos (13,8)
+#. ID 30, Page 2, Line 12, Pos (13,9)
+#. ID 31, Page 2, Line 12, Pos (13,10)
+#. ID 32, Page 2, Line 12, Pos (13,11)
+#. ID 33, Page 2, Line 12, Pos (13,12)
+#. ID 34, Page 2, Line 12, Pos (13,13)
+msgid "材料不足。"
+msgstr ""
+
+#. ID 8, Page 2, Line 22, Pos (1,5)
+#. ID 9, Page 2, Line 23, Pos (1,6)
+#. ID 10, Page 2, Line 23, Pos (1,7)
+#. ID 11, Page 2, Line 23, Pos (1,8)
+#. ID 12, Page 2, Line 23, Pos (1,9)
+#. ID 13, Page 2, Line 22, Pos (1,10)
+#. ID 14, Page 2, Line 22, Pos (1,11)
+#. ID 15, Page 2, Line 22, Pos (1,12)
+#. ID 16, Page 2, Line 22, Pos (1,13)
+#. ID 17, Page 2, Line 22, Pos (7,5)
+#. ID 18, Page 2, Line 22, Pos (7,6)
+#. ID 19, Page 2, Line 22, Pos (7,7)
+msgid ""
+"\\N[76]\\N[99]　　残り所持数\\V[161]個\n"
+"を素材2に選んだ。"
+msgstr ""
+
+#. ID 8, Page 2, Line 26, Pos (1,5)
+#. ID 9, Page 2, Line 27, Pos (1,6)
+#. ID 10, Page 2, Line 27, Pos (1,7)
+#. ID 11, Page 2, Line 27, Pos (1,8)
+#. ID 12, Page 2, Line 27, Pos (1,9)
+#. ID 13, Page 2, Line 26, Pos (1,10)
+#. ID 14, Page 2, Line 26, Pos (1,11)
+#. ID 15, Page 2, Line 26, Pos (1,12)
+#. ID 16, Page 2, Line 26, Pos (1,13)
+#. ID 17, Page 2, Line 26, Pos (7,5)
+#. ID 18, Page 2, Line 26, Pos (7,6)
+#. ID 19, Page 2, Line 26, Pos (7,7)
+#. ID 20, Page 2, Line 26, Pos (7,8)
+#. ID 21, Page 2, Line 25, Pos (7,9)
+#. ID 22, Page 2, Line 25, Pos (7,10)
+#. ID 23, Page 2, Line 25, Pos (7,11)
+#. ID 24, Page 2, Line 25, Pos (7,12)
+#. ID 25, Page 2, Line 26, Pos (7,13)
+#. ID 26, Page 2, Line 25, Pos (13,5)
+#. ID 27, Page 2, Line 25, Pos (13,6)
+#. ID 28, Page 2, Line 25, Pos (13,7)
+#. ID 29, Page 2, Line 25, Pos (13,8)
+#. ID 30, Page 2, Line 25, Pos (13,9)
+#. ID 31, Page 2, Line 25, Pos (13,10)
+#. ID 32, Page 2, Line 25, Pos (13,11)
+#. ID 33, Page 2, Line 25, Pos (13,12)
+#. ID 34, Page 2, Line 25, Pos (13,13)
+msgid "无法继续使用更多素材。"
+msgstr ""
+
+#. ID 8, Page 2, Line 34, Pos (1,5)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 2, Line 35, Pos (1,6)
+#. Contains choice at line 2 (2 options)
+#. ID 10, Page 2, Line 35, Pos (1,7)
+#. Contains choice at line 2 (2 options)
+#. ID 11, Page 2, Line 35, Pos (1,8)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 2, Line 35, Pos (1,9)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 2, Line 34, Pos (1,10)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 2, Line 34, Pos (1,11)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 2, Line 34, Pos (1,12)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 2, Line 34, Pos (1,13)
+#. Contains choice at line 2 (2 options)
+#. ID 17, Page 2, Line 34, Pos (7,5)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 2, Line 34, Pos (7,6)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 2, Line 34, Pos (7,7)
+#. Contains choice at line 2 (2 options)
+msgid "要开始制作吗？"
+msgstr ""
+
+#. ID 9, Page 2, Line 4, Pos (1,6)
+#. ChangeHeroName (Actor 75)
+#. ID 9, Page 2, Line 22, Pos (1,6)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "クルカの葉"
+msgstr ""
+
+#. ID 9, Page 2, Line 5, Pos (1,6)
+#. ID 10, Page 2, Line 5, Pos (1,7)
+#. ID 11, Page 2, Line 5, Pos (1,8)
+#. ID 12, Page 2, Line 5, Pos (1,9)
+msgid ""
+"\\N[75]\\N[98]　　残り所持数\\V[161]個\n"
+"を素材1に選んだ。\n"
+""
+msgstr ""
+
+#. ID 10, Page 2, Line 4, Pos (1,7)
+#. ChangeHeroName (Actor 75)
+#. ID 10, Page 2, Line 22, Pos (1,7)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "緑光黴"
+msgstr ""
+
+#. ID 11, Page 2, Line 4, Pos (1,8)
+#. ChangeHeroName (Actor 75)
+#. ID 11, Page 2, Line 22, Pos (1,8)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "トルキタの花"
+msgstr ""
+
+#. ID 12, Page 2, Line 4, Pos (1,9)
+#. ChangeHeroName (Actor 75)
+#. ID 12, Page 2, Line 22, Pos (1,9)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "ムシクサダケ"
+msgstr ""
+
+#. ID 13, Page 2, Line 4, Pos (1,10)
+#. ChangeHeroName (Actor 75)
+#. ID 13, Page 2, Line 21, Pos (1,10)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "アセラスの葉"
+msgstr ""
+
+#. ID 14, Page 2, Line 4, Pos (1,11)
+#. ChangeHeroName (Actor 75)
+#. ID 14, Page 2, Line 21, Pos (1,11)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "毒腺"
+msgstr ""
+
+#. ID 15, Page 2, Line 4, Pos (1,12)
+#. ChangeHeroName (Actor 75)
+#. ID 15, Page 2, Line 21, Pos (1,12)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "聖なる骨"
+msgstr ""
+
+#. ID 16, Page 2, Line 4, Pos (1,13)
+#. ChangeHeroName (Actor 75)
+#. ID 16, Page 2, Line 21, Pos (1,13)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "竜の血"
+msgstr ""
+
+#. ID 16, Page 2, Line 14, Pos (1,13)
+msgid "材料が足りない。"
+msgstr ""
+
+#. ID 17, Page 2, Line 4, Pos (7,5)
+#. ChangeHeroName (Actor 75)
+#. ID 17, Page 2, Line 21, Pos (7,5)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "燃える羽根"
+msgstr ""
+
+#. ID 18, Page 2, Line 4, Pos (7,6)
+#. ChangeHeroName (Actor 75)
+#. ID 18, Page 2, Line 21, Pos (7,6)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "トカゲの糞"
+msgstr ""
+
+#. ID 19, Page 2, Line 4, Pos (7,7)
+#. ChangeHeroName (Actor 75)
+#. ID 19, Page 2, Line 21, Pos (7,7)
+#. ChangeHeroName (Actor 76)
+msgctxt "actors.name"
+msgid "油"
+msgstr ""
+
+#. ID 20, Page 2, Line 3, Pos (7,8)
+#. ID 25, Page 2, Line 3, Pos (7,13)
+#. ID 26, Page 2, Line 3, Pos (13,5)
+#. ID 27, Page 2, Line 3, Pos (13,6)
+#. ID 28, Page 2, Line 3, Pos (13,7)
+#. ID 29, Page 2, Line 3, Pos (13,8)
+#. ID 30, Page 2, Line 3, Pos (13,9)
+#. ID 31, Page 2, Line 3, Pos (13,10)
+#. ID 32, Page 2, Line 3, Pos (13,11)
+#. ID 33, Page 2, Line 3, Pos (13,12)
+#. ID 34, Page 2, Line 3, Pos (13,13)
+msgid ""
+"カブラ苔　\\V[161]個\n"
+"を素材1に選んだ。"
+msgstr ""
+
+#. ID 20, Page 2, Line 19, Pos (7,8)
+#. ID 25, Page 2, Line 19, Pos (7,13)
+msgid ""
+"カブラ苔　\\V[161]個\n"
+"を素材2に選んだ。\n"
+""
+msgstr ""
+
+#. ID 21, Page 2, Line 3, Pos (7,9)
+#. ID 22, Page 2, Line 3, Pos (7,10)
+#. ID 23, Page 2, Line 3, Pos (7,11)
+#. ID 24, Page 2, Line 3, Pos (7,12)
+msgid ""
+"僇僽儔戂丂\\V[161]屄\n"
+"傪慺嵽1偵慖傫偩丅"
+msgstr ""
+
+#. ID 21, Page 2, Line 19, Pos (7,9)
+#. ID 22, Page 2, Line 19, Pos (7,10)
+#. ID 23, Page 2, Line 19, Pos (7,11)
+#. ID 24, Page 2, Line 19, Pos (7,12)
+#. ID 26, Page 2, Line 19, Pos (13,5)
+#. ID 27, Page 2, Line 19, Pos (13,6)
+#. ID 28, Page 2, Line 19, Pos (13,7)
+#. ID 29, Page 2, Line 19, Pos (13,8)
+#. ID 30, Page 2, Line 19, Pos (13,9)
+#. ID 31, Page 2, Line 19, Pos (13,10)
+#. ID 32, Page 2, Line 19, Pos (13,11)
+#. ID 33, Page 2, Line 19, Pos (13,12)
+#. ID 34, Page 2, Line 19, Pos (13,13)
+msgid ""
+"カブラ苔　\\V[161]個\n"
+"を素材2に選んだ。"
+msgstr ""
+
+#. ID 113, Page 1, Line 1, Pos (3,1)
+msgid ""
+"1?素材を1～2個選択してください。\n"
+"2?作成する種類を選択してください。\n"
+"3?「はい」を押すか、「OK」アイコンを押すと\n"
+"　 作成を開始できます。"
+msgstr ""
+
+#. ID 113, Page 1, Line 5, Pos (3,1)
+msgid ""
+"※Shiftキーを押すと、選択素材の\n"
+"　取り消しができます。\n"
+"※すべて終了したら、「EXIT」アイコンを\n"
+"　押してください。"
+msgstr ""
+

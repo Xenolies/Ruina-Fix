@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 21, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+msgctxt "actors.name"
+msgid "GOOD "
+msgstr ""
+
+#. ID 1, Page 1, Line 24, Pos (0,0)
+#. ChangeHeroName (Actor 28)
+msgctxt "actors.name"
+msgid "TRUE "
+msgstr ""
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+#. Contains choice at line 2 (3 options)
+msgid "\\N[27]通关时间　\\V[97]时间\\V[96]分　\\V[457]日　\\N[28]END"
+msgstr ""
+
+#. ID 1, Page 1, Line 33, Pos (0,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"储存通关记录\n"
+"重头开始游戏\n"
+"返回标题"
+msgstr ""
+
+#. ID 1, Page 1, Line 45, Pos (0,0)
+#. Contains choice at line 2 (3 options)
+msgid "\\N[27]※在以下的项目当中，选择一个来继承。"
+msgstr ""
+
+#. ID 1, Page 1, Line 46, Pos (0,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"　所持SP的一半和称号/熟练之证\n"
+"　所持金的一半\n"
+"　不进行继承"
+msgstr ""
+
+#. ID 1, Page 1, Line 51, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]※剩余的SP的一半和若干称号/熟练之证\n"
+"\\N[27]将被继承。(SP\\V[98]点)"
+msgstr ""
+
+#. ID 1, Page 1, Line 53, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 68, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 80, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 93, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 19, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"是\n"
+"否"
+msgstr ""
+
+#. ID 1, Page 1, Line 66, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]※剩余的所持金的一半将被继承。\n"
+"\\N[27](\\V[99]Ｇ)"
+msgstr ""
+
+#. ID 1, Page 1, Line 79, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※要在不继承的条件下继续游戏吗？"
+msgstr ""
+
+#. ID 1, Page 1, Line 92, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]※要返回标题画面吗？"
+msgstr ""
+
+#. ID 1, Page 1, Line 266, Pos (0,0)
+#. ChangeHeroTitle (Actor 6)
+msgctxt "actors.title"
+msgid "杂货店姑娘"
+msgstr ""
+
+#. ID 1, Page 1, Line 267, Pos (0,0)
+#. ChangeHeroTitle (Actor 14)
+msgctxt "actors.title"
+msgid "佣兵"
+msgstr ""
+
+#. ID 1, Page 1, Line 268, Pos (0,0)
+#. ChangeHeroTitle (Actor 20)
+msgctxt "actors.title"
+msgid "女孩"
+msgstr ""
+
+#. ID 1, Page 1, Line 269, Pos (0,0)
+#. ChangeHeroTitle (Actor 8)
+msgctxt "actors.title"
+msgid "游牧民"
+msgstr ""
+
+#. ID 1, Page 1, Line 704, Pos (0,0)
+msgid ""
+"\\N[27]　　　　　　　 你的探索结束了……\n"
+"\\N[27]但是，这也不过是一夜的梦境，无数可能性的其中一种。\n"
+"\n"
+"\\N[27]　　　　　回卷的时间，将再次开始流动――！"
+msgstr ""
+
+#. ID 2, Page 1, Line 10, Pos (1,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]※若是愿意，你可以将同伴们被道具强化\n"
+"\\N[27]过的能力重置。"
+msgstr ""
+
+#. ID 2, Page 1, Line 12, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"　继承同伴的能力强化\n"
+"  将同伴的能力强化重置"
+msgstr ""
+
+#. ID 2, Page 1, Line 17, Pos (1,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]※一经重置，将会无法复原。\n"
+"\\N[27]真的要重置同伴的能力强化吗？"
+msgstr ""
+
+#. ID 2, Page 1, Line 1079, Pos (1,0)
+msgid "\\N[27]※同伴的能力强化被重置了。"
+msgstr ""
+

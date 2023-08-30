@@ -1,0 +1,1656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid "\\>你与待机的\\N[17]汇合了。"
+msgstr ""
+
+#. ID 1, Page 1, Line 33, Pos (0,0)
+msgid "\\>\\N[17]加入了队伍！"
+msgstr ""
+
+#. ID 1, Page 2, Line 4, Pos (0,0)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「……不知是出于什么原因，\n"
+"\\N[27]　再往前我们矮人族就走不过去了」"
+msgstr ""
+
+#. ID 1, Page 2, Line 9, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"\\>与\\N[17]暂时分别\n"
+"\\>返回"
+msgstr ""
+
+#. ID 1, Page 2, Line 12, Pos (0,0)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「我就在这附近待机，\n"
+"\\N[27]　等您回来再汇合吧。\n"
+"\\N[27]　暂且别过了。保重啊！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 4, Pos (1,9)
+msgid ""
+"\\N[27]穿过墙里的洞穴后，你来到了一个全新区域。\n"
+"\\N[27]周围是一片由长方体和立方体的石材打造而\n"
+"\\N[27]成的空间，明显是出自人工的产物。"
+msgstr ""
+
+#. ID 3, Page 1, Line 7, Pos (1,9)
+msgid "\\N[27]空气中混杂着闷热的蒸气，以及些许的异臭。"
+msgstr ""
+
+#. ID 5, Page 1, Line 3, Pos (11,11)
+msgid ""
+"\\N[27]――热浪扑面而来。\n"
+"\\N[27]如火焰般熊熊燃烧的岩浆翻滚着，\n"
+"\\N[27]吹起道道炎浪，从地底奔流而过。"
+msgstr ""
+
+#. ID 5, Page 1, Line 6, Pos (11,11)
+msgid ""
+"\\N[27]若干刻有不可思议花纹的长方形岩石重叠着，\n"
+"\\N[27]在火海当中耸立而起，形成了块块立足之地，\n"
+"\\N[27]宛如一片世界尽头的景象。"
+msgstr ""
+
+#. ID 5, Page 1, Line 9, Pos (11,11)
+msgid ""
+"\\N[27]――基石上闪烁着不可思议的光芒，\n"
+"\\N[27]周围的景色有如海市蜃楼般摇摆不定。"
+msgstr ""
+
+#. ID 5, Page 2, Line 3, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+msgid "\\>光芒在基石上摇晃不已。"
+msgstr ""
+
+#. ID 5, Page 2, Line 4, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>走进光芒\n"
+"\\>返回"
+msgstr ""
+
+#. ID 6, Page 1, Line 2, Pos (5,9)
+msgid ""
+"\\N[27]这是一扇用金属强化过的门。\n"
+"\\N[27]虽然门本身看起来非常坚固，\n"
+"\\N[27]但锁头的构造就要简陋得多。"
+msgstr ""
+
+#. ID 7, Page 1, Line 9, Pos (8,11)
+#. ID 7, Page 1, Line 13, Pos (8,11)
+msgid ""
+"\\N[27]在楼梯下方，形状复杂的墙壁围成了一片空间。\n"
+"\\N[27]从其中东侧的开口之处能看到熊熊燃烧的火光。"
+msgstr ""
+
+#. ID 7, Page 1, Line 18, Pos (8,11)
+#. Choice (2 options)
+msgid ""
+"前进\n"
+"返回"
+msgstr ""
+
+#. ID 7, Page 1, Line 28, Pos (8,11)
+msgid ""
+"\\N[27]――有野兽的气息。\n"
+"\\N[27]一只巨大的蜥蜴从墙上的裂缝爬出！\n"
+"\\N[27]它渴求着猎物，向你们咄咄逼来。"
+msgstr ""
+
+#. ID 7, Page 1, Line 35, Pos (8,11)
+msgid "\\N[27]你一边躲闪攻击，一边逃出了房间。"
+msgstr ""
+
+#. ID 7, Page 1, Line 46, Pos (8,11)
+msgid ""
+"\\N[27]蜥蜴被击倒了。\n"
+"\n"
+"\\N[27]通道向东西两边延伸而去。"
+msgstr ""
+
+#. ID 8, Page 1, Line 3, Pos (10,15)
+msgid ""
+"\\N[27]就在脚下触手可及之处，流动着灼热的岩浆。\n"
+"\\N[27]接触到空气的岩浆一瞬间发黑变硬，但很快\n"
+"\\N[27]又被金色的火焰重新吞没，熔化后流淌而去。"
+msgstr ""
+
+#. ID 8, Page 1, Line 6, Pos (10,15)
+#. ID 8, Page 2, Line 11, Pos (10,15)
+msgid ""
+"\\N[27]沸腾的熔岩中时而有气泡浮起，\n"
+"\\N[27]伴随着瓦斯气体的放出而破裂。\n"
+"\\N[27]这时发出的啪嗒、啪嗒的声音，\n"
+"\\N[27]简直就像是有人在嘟囔着什么。"
+msgstr ""
+
+#. ID 8, Page 1, Line 12, Pos (10,15)
+#. Choice (2 options)
+msgid ""
+"侧耳倾听岩浆的低语\n"
+"离开"
+msgstr ""
+
+#. ID 8, Page 1, Line 14, Pos (10,15)
+msgid ""
+"\\N[27]熔岩发出的气泡声，越听越像\n"
+"\\N[27]是人类的语言了……"
+msgstr ""
+
+#. ID 8, Page 1, Line 16, Pos (10,15)
+msgid ""
+"\n"
+"\\N[27]\\C[6]『quzhao heiyaoshi heiyaoshi　……』\\C[0]"
+msgstr ""
+
+#. ID 8, Page 1, Line 18, Pos (10,15)
+msgid ""
+"\\N[27]……就在你集中精神倾听时，\n"
+"\\N[27]气泡的声音渐渐激昂起来。"
+msgstr ""
+
+#. ID 8, Page 1, Line 20, Pos (10,15)
+msgid ""
+"\\N[27]突然间熔岩表面裂开，向四周喷溅出高温的飞沫。\n"
+"\\N[27]某个赤红之物，伸展着闪闪发光的双翼从中飞出！"
+msgstr ""
+
+#. ID 8, Page 1, Line 30, Pos (10,15)
+msgid "\\N[27]炎之鸟被击落后就失去形态，变回了普通的熔岩。"
+msgstr ""
+
+#. ID 8, Page 2, Line 8, Pos (10,15)
+msgid ""
+"\\N[27]就在脚下触手可及之处，流动着灼热的泥浆。\n"
+"\\N[27]接触到空气的岩浆一瞬间发黑变硬，但很快\n"
+"\\N[27]又被金色的火焰重新吞没，熔化后流淌而去。"
+msgstr ""
+
+#. ID 9, Page 1, Line 2, Pos (15,14)
+msgid ""
+"\\N[27]在俯瞰深渊的岩壁之上，耸立着一座漆黑的金属大门。\n"
+"\\N[27]这扇门似乎无法以通常的方式打开。"
+msgstr ""
+
+#. ID 9, Page 2, Line 2, Pos (15,14)
+msgid "\\N[27]在俯瞰深渊的岩壁之上，耸立着一座漆黑的金属大门。"
+msgstr ""
+
+#. ID 9, Page 2, Line 4, Pos (15,14)
+#. ID 9, Page 3, Line 4, Pos (15,14)
+#. ID 10, Page 2, Line 4, Pos (17,5)
+msgid "\\N[27]使用了黑铁钥匙！"
+msgstr ""
+
+#. ID 9, Page 3, Line 2, Pos (15,14)
+msgid "\\N[27]一座漆黑的金属大门耸立于此，挡住了你的去路。"
+msgstr ""
+
+#. ID 10, Page 1, Line 2, Pos (17,5)
+msgid ""
+"\\N[27]很长很长的楼梯下面，有一扇漆黑的金属大门。\n"
+"\\N[27]这扇门似乎无法以通常的方法打开。"
+msgstr ""
+
+#. ID 10, Page 2, Line 2, Pos (17,5)
+msgid "\\N[27]很长很长的楼梯下面，有一扇漆黑金属打造的门。"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (18,8)
+msgid ""
+"\\N[27]走廊的前方是条三岔路口。\n"
+"\\N[27]周围的墙上刻满了奇妙的花纹，\n"
+"\\N[27]部分墙壁向内凹陷，沾染着赤黑色的黏液。"
+msgstr ""
+
+#. ID 13, Page 1, Line 2, Pos (20,8)
+msgid "\\N[27]这是一扇上了锁的门。"
+msgstr ""
+
+#. ID 13, Page 3, Line 4, Pos (20,8)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]你已经获得了这房间的宝物。"
+msgstr ""
+
+#. ID 13, Page 3, Line 5, Pos (20,8)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 5, Pos (20,22)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"再调查一次\n"
+"离开"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (16,11)
+msgid ""
+"\\N[27]这个房间里设有几台奇妙的机械装置，\n"
+"\\N[27]装置不断地喷出水蒸气，缓缓运作着。\n"
+"\\N[27]其中一部机械通过运转齿轮拉动链条，\n"
+"\\N[27]其他的机械则是全自动地锻造着钢铁。"
+msgstr ""
+
+#. ID 14, Page 1, Line 11, Pos (16,11)
+msgid ""
+"\\N[27]摆在墙边的金属台上装有刻度盘，\n"
+"\\N[27]可以用来输入数字。\n"
+"\\N[27]在上方固定的一副牌匾中，\n"
+"\\N[27]还刻着如下的内容。"
+msgstr ""
+
+#. ID 14, Page 1, Line 15, Pos (16,11)
+msgid ""
+"\\N[27]『生活在哈弗高原上的双头族人，\n"
+"\\N[27]　只懂得0、1、2三个数字』"
+msgstr ""
+
+#. ID 14, Page 1, Line 17, Pos (16,11)
+msgid ""
+"\\N[27]『他们要计数的时候，用1代表1、2代表2、\n"
+"\\N[27]　10代表3、12代表5、22代表8、\n"
+"\\N[27]　那么10又该如何表示？』"
+msgstr ""
+
+#. ID 14, Page 1, Line 22, Pos (16,11)
+#. Choice (2 options)
+msgid ""
+"输入数字\n"
+"离开"
+msgstr ""
+
+#. ID 14, Page 1, Line 25, Pos (16,11)
+msgid ""
+"\\N[27]1＝1　2＝2　3＝10　5＝12　8＝22　10＝？\n"
+""
+msgstr ""
+
+#. ID 14, Page 1, Line 32, Pos (16,11)
+msgid ""
+"\\N[27]地上突然打开了落穴！\n"
+"\n"
+"\\N[27]你们一头栽进了沸腾的岩浆！"
+msgstr ""
+
+#. ID 14, Page 1, Line 44, Pos (16,11)
+msgid "\\N[27]东侧的门被打开了！"
+msgstr ""
+
+#. ID 14, Page 1, Line 51, Pos (16,11)
+msgid "\\N[27]什么都没发生。"
+msgstr ""
+
+#. ID 15, Page 1, Line 2, Pos (20,11)
+msgid ""
+"\\N[27]暗淡而宽广的空间中，\n"
+"\\N[27]摆放着岩石削成的巨棚。\n"
+"\\N[27]看来这里是仓库一类的地方。"
+msgstr ""
+
+#. ID 15, Page 1, Line 5, Pos (20,11)
+msgid ""
+"\\N[27]但是，有两架背负着蒸汽机的\n"
+"\\N[27]巨型机器人并排立于门前。\n"
+""
+msgstr ""
+
+#. ID 15, Page 1, Line 10, Pos (20,11)
+msgid ""
+"\\N[27]感觉一旦走进深处，\n"
+"\\N[27]机器人就会动起来……"
+msgstr ""
+
+#. ID 15, Page 1, Line 15, Pos (20,11)
+#. Choice (2 options)
+#. ID 15, Page 3, Line 17, Pos (20,11)
+#. Choice (2 options)
+msgid ""
+"走进大厅深处\n"
+"离开"
+msgstr ""
+
+#. ID 15, Page 1, Line 17, Pos (20,11)
+msgid "\\N[27]为了调查仓库部分，你向大厅深处走去。"
+msgstr ""
+
+#. ID 15, Page 1, Line 18, Pos (20,11)
+msgid ""
+"\\N[27]――就在这时，连接着金属巨像的导管\n"
+"\\N[27]猛地抽动起来，开始向机械中传输动力。\n"
+"\\N[27]机器人动起来了！"
+msgstr ""
+
+#. ID 15, Page 1, Line 22, Pos (20,11)
+msgid "\\N[27]所有的机器人都被破坏了。"
+msgstr ""
+
+#. ID 15, Page 1, Line 23, Pos (20,11)
+msgid ""
+"\\N[27]你重新开始搜索大厅深处。\n"
+"\\N[27]看来，这个大厅是用来保管\n"
+"\\N[27]篆刻文字的粘土版的仓库。\n"
+"\\N[27]你在其中找到了若干物品。"
+msgstr ""
+
+#. ID 15, Page 1, Line 28, Pos (20,11)
+msgid ""
+"\\N[27]获得了『塔之王国年鉴』！\n"
+"\\N[27]获得了古代文献×3！"
+msgstr ""
+
+#. ID 15, Page 2, Line 7, Pos (20,11)
+msgid ""
+"\\N[27]暗淡而宽广的空间中，\n"
+"\\N[27]摆着岩石削成的巨棚。\n"
+"\\N[27]看起来，这个大厅是保管\n"
+"\\N[27]篆刻文字的粘土版的仓库。"
+msgstr ""
+
+#. ID 15, Page 2, Line 12, Pos (20,11)
+#. Choice (2 options)
+msgid ""
+"\\N[27]调查巨棚\n"
+"\\N[27]返回"
+msgstr ""
+
+#. ID 15, Page 2, Line 14, Pos (20,11)
+msgid ""
+"\\N[27]若想寻找有价值的文献，\n"
+"\\N[27]必须具备古代语言的知识。\n"
+""
+msgstr ""
+
+#. ID 15, Page 2, Line 21, Pos (20,11)
+msgid "\\N[27]没有能读懂古代语言的人。"
+msgstr ""
+
+#. ID 15, Page 2, Line 26, Pos (20,11)
+msgid "\\N[27]开始调查巨棚了……"
+msgstr ""
+
+#. ID 15, Page 2, Line 33, Pos (20,11)
+msgid "获得了「死者之书 中」！"
+msgstr ""
+
+#. ID 15, Page 2, Line 47, Pos (20,11)
+#. ID 15, Page 2, Line 61, Pos (20,11)
+msgid "\\N[27]没找到什么特别的东西。"
+msgstr ""
+
+#. ID 15, Page 2, Line 51, Pos (20,11)
+msgid ""
+"\\N[27]获得了古代文献！\n"
+""
+msgstr ""
+
+#. ID 15, Page 2, Line 65, Pos (20,11)
+#. Choice (2 options)
+msgid ""
+"\\N[27]继续调查\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 15, Page 3, Line 5, Pos (20,11)
+msgid ""
+"暗淡而宽广的空间中，浮现出几具金属巨像的轮廓。\n"
+"那是背负着蒸汽机的机器人，它们并排站成了一列。\n"
+"每一具机器人，都由野兽的肠子做成的管道，\n"
+"与西侧的墙壁相连着，静静等待终会来临的战乱。"
+msgstr ""
+
+#. ID 15, Page 3, Line 9, Pos (20,11)
+msgid "大厅深处有些暗淡，你看不清里面的样子。"
+msgstr ""
+
+#. ID 15, Page 3, Line 12, Pos (20,11)
+msgid ""
+"感觉一旦走进深处，\n"
+"机器人就会动起来……"
+msgstr ""
+
+#. ID 15, Page 3, Line 19, Pos (20,11)
+msgid ""
+"为了调查仓库部分，你向大厅深处走去。\n"
+"\n"
+""
+msgstr ""
+
+#. ID 15, Page 3, Line 22, Pos (20,11)
+msgid ""
+"――就在这时，连接着金属巨像的导管\n"
+"猛地抽动起来，开始向机械中传输动力。\n"
+"机器人动起来了！"
+msgstr ""
+
+#. ID 15, Page 3, Line 33, Pos (20,11)
+#. ID 15, Page 3, Line 35, Pos (20,11)
+msgid "新的机器人再度袭来！"
+msgstr ""
+
+#. ID 15, Page 3, Line 37, Pos (20,11)
+msgid "你将所有的机器人破坏一空。"
+msgstr ""
+
+#. ID 15, Page 3, Line 38, Pos (20,11)
+msgid ""
+"重新在大厅当中进行调查后，\n"
+"你在内部发现了类似锻造场的地方。\n"
+"里面放有若干物品。"
+msgstr ""
+
+#. ID 15, Page 3, Line 42, Pos (20,11)
+msgid ""
+"获得了手术刀！\n"
+"获得了纯银锁子甲！\n"
+"获得了龙头之盔！\n"
+"获得了秘银盾！"
+msgstr ""
+
+#. ID 16, Page 1, Line 2, Pos (20,16)
+msgid ""
+"\\N[27]这个房间里，也同样遍布着喧嚣运转的机器。\n"
+"\\N[27]但与之前的房间不同，这里的机器是由夜种\n"
+"\\N[27]手动进行操作的。"
+msgstr ""
+
+#. ID 16, Page 1, Line 5, Pos (20,16)
+msgid ""
+"\\N[27]鬼族技师摇着圆筒状的机械，将大量的粘土搅拌混合。\n"
+"\\N[27]在另一方面，赤黒\色的粘稠物流经墙上的花纹图样后，\n"
+"\\N[27]经过管道注入了某部机械当中。"
+msgstr ""
+
+#. ID 16, Page 1, Line 8, Pos (20,16)
+msgid ""
+"\\N[27]等粘稠物流入机械后，技师们再向里面添上黏土。\n"
+"\\N[27]完成这些工序后，文字似的图样就被印到了两个\n"
+"\\N[27]圆筒之间的粘土版上。"
+msgstr ""
+
+#. ID 16, Page 1, Line 11, Pos (20,16)
+msgid ""
+"\\N[27]鬼族的技师又将做成的粘土板切割开来，\n"
+"\\N[27]放在积有岩浆的池中，进行了高温凝固。\n"
+"\\N[27]那块粘土版究竟被印上了什么呢？"
+msgstr ""
+
+#. ID 16, Page 1, Line 16, Pos (20,16)
+#. Choice (3 options)
+msgid ""
+"从夜种口中问出\n"
+"默默通过\n"
+"返回"
+msgstr ""
+
+#. ID 16, Page 1, Line 18, Pos (20,16)
+msgid "\\N[27]搭话之后，夜种们意外表现得很坦率。"
+msgstr ""
+
+#. ID 16, Page 1, Line 20, Pos (20,16)
+msgid ""
+"\\N[27]夜种\n"
+"\\N[27]「嘻嘻嘻！\n"
+"\\N[27]　你wen这shi什么jiqi？\n"
+"\\N[27]　这dongxi叫\\C[5]年传机\\C[0]ya！」"
+msgstr ""
+
+#. ID 16, Page 1, Line 24, Pos (20,16)
+msgid ""
+"\\N[27]夜种\n"
+"\\N[27]「kan到从墙壁shang刷刷流下那dongxi没。\n"
+"\\N[27]　那shi上层de蠢矮人们zai战争zhong流下\n"
+"\\N[27]　的鲜xue精髓ya」"
+msgstr ""
+
+#. ID 16, Page 1, Line 28, Pos (20,16)
+msgid ""
+"\\N[27]夜种\n"
+"\\N[27]「我men把xue中寄宿de记忆，\n"
+"\\N[27]　通guo灵媒器lai读取，\n"
+"\\N[27]　然后yong自动笔记装置刻cheng文字ya」"
+msgstr ""
+
+#. ID 16, Page 1, Line 34, Pos (20,16)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「……究竟为什么，要做出这种事？」"
+msgstr ""
+
+#. ID 16, Page 1, Line 39, Pos (20,16)
+msgid ""
+"\\N[27]夜种\n"
+"\\N[27]「zhe全部，都shi魔将da人de命令ya」"
+msgstr ""
+
+#. ID 16, Page 1, Line 41, Pos (20,16)
+msgid ""
+"\\N[27]夜种\n"
+"\\N[27]「让被feng闭de矮人huxiang争斗，\n"
+"\\N[27]　记录他们zhi作de技术，\n"
+"\\N[27]　从er为wo等所用ya」"
+msgstr ""
+
+#. ID 16, Page 1, Line 45, Pos (20,16)
+msgid ""
+"\\N[27]夜种\n"
+"\\N[27]「cong开始操cong他men的zhan争起，\n"
+"\\N[27]　到～底yi经guo了多chang时间ne？\n"
+"\\N[27]　一百年？　一千年？」"
+msgstr ""
+
+#. ID 16, Page 1, Line 49, Pos (20,16)
+msgid ""
+"\\N[27]夜种\n"
+"\\N[27]「矮人身手bucuo，但个个dou不zhang脑，\n"
+"\\N[27]　不这样rang他竞争，这种族就mei可能\n"
+"\\N[27]　hui进步ya」"
+msgstr ""
+
+#. ID 16, Page 1, Line 55, Pos (20,16)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「……就为了……为了这种理由，\n"
+"\\N[27]　而让我们互相残杀吗…！\n"
+"\\N[27]　……不可饶恕！！」"
+msgstr ""
+
+#. ID 16, Page 1, Line 60, Pos (20,16)
+msgid ""
+"\\N[27]夜种\n"
+"\\N[27]「ei？　shenme？\n"
+"\\N[27]　zixi一看ni不是airen吗！\n"
+"\\N[27]　呜呀啊啊！」"
+msgstr ""
+
+#. ID 16, Page 1, Line 65, Pos (20,16)
+msgid ""
+"\\N[27]\\N[17]向夜种挥下了兵刃！\n"
+""
+msgstr ""
+
+#. ID 16, Page 1, Line 71, Pos (20,16)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]话也听完了。\n"
+"\\N[27]接下来该怎么做？"
+msgstr ""
+
+#. ID 16, Page 1, Line 73, Pos (20,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"攻击\n"
+"考虑别的方法"
+msgstr ""
+
+#. ID 16, Page 1, Line 75, Pos (20,16)
+msgid "\\N[27]你向夜种的技师们发动了攻击！"
+msgstr ""
+
+#. ID 16, Page 1, Line 86, Pos (20,16)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「…………」\n"
+""
+msgstr ""
+
+#. ID 16, Page 1, Line 92, Pos (20,16)
+msgid ""
+"\\N[27]你将夜种们打倒，把所有的机器破坏一光。\n"
+"\\N[27]如今房间里只剩下烧焦的粘土板散落一地。\n"
+""
+msgstr ""
+
+#. ID 16, Page 1, Line 96, Pos (20,16)
+msgid "\\N[27]获得了古代文献×3！"
+msgstr ""
+
+#. ID 16, Page 1, Line 103, Pos (20,16)
+msgid ""
+"\\N[27]夜种们似乎对你这边毫不关心。\n"
+"\\N[27]于是你潜伏着朝内部的通道走去……"
+msgstr ""
+
+#. ID 16, Page 2, Line 7, Pos (20,16)
+msgid ""
+"\\N[27]大厅里散落着被破坏怠尽的机械装置。\n"
+"\\N[27]血泥交融而成的液体在地面上流淌着。"
+msgstr ""
+
+#. ID 17, Page 2, Line 4, Pos (20,22)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]你已经通过了这个房间。"
+msgstr ""
+
+#. ID 18, Page 1, Line 2, Pos (17,23)
+#. ID 18, Page 2, Line 7, Pos (17,23)
+msgid ""
+"\\N[27]在熔岩之川的上方，悬空挂着一座狭长的吊桥。\n"
+"\\N[27]吊桥的正下方即是滚滚沸腾的岩浆，\n"
+"\\N[27]当中时而还会扬起熊熊燃烧的火浪。"
+msgstr ""
+
+#. ID 18, Page 1, Line 7, Pos (17,23)
+msgid ""
+"\\N[27]熔岩的状态很令人在意。\n"
+"\\N[27]如果不尽快渡过去的话，\n"
+"\\N[27]恐怕就会被火焰包围了。"
+msgstr ""
+
+#. ID 18, Page 1, Line 13, Pos (17,23)
+#. Choice (2 options)
+msgid ""
+"过桥\n"
+"返回"
+msgstr ""
+
+#. ID 18, Page 1, Line 15, Pos (17,23)
+msgid ""
+"\\N[27]当你小心翼翼地走到吊桥正中央时，\n"
+"\\N[27]下方的熔岩中突然冒出了激烈的火浪。\n"
+"\\N[27]从那烈火之中，双翼熊熊燃烧着的\n"
+"\\N[27]怪鸟飞了出来，毫不留情地向你袭来！"
+msgstr ""
+
+#. ID 18, Page 1, Line 31, Pos (17,23)
+msgid "\\N[27]你将炎之鸟一一打落，然后一口气跑过了吊桥。"
+msgstr ""
+
+#. ID 19, Page 1, Line 2, Pos (10,23)
+msgid ""
+"\\N[27]过桥之后，道路通向了在巨大\n"
+"\\N[27]的长方形建筑侧面敞开的大门。\n"
+"\\N[27]门内是一座雄伟而暗淡的大厅。"
+msgstr ""
+
+#. ID 19, Page 1, Line 7, Pos (10,23)
+#. ID 20, Page 1, Line 13, Pos (10,18)
+msgid "\\N[27]有敌人的气息。"
+msgstr ""
+
+#. ID 19, Page 1, Line 11, Pos (10,23)
+#. Choice (2 options)
+#. ID 20, Page 1, Line 17, Pos (10,18)
+#. Choice (2 options)
+msgid ""
+"前行\n"
+"返回"
+msgstr ""
+
+#. ID 19, Page 1, Line 19, Pos (10,23)
+msgid ""
+"\\N[27]鬼族的军队正在大厅中央严阵以待。\n"
+"\\N[27]一个身穿黑色铠甲的矮人躲在军队后方，\n"
+"\\N[27]他一见你，就抽了筋似的高声大笑起来。"
+msgstr ""
+
+#. ID 19, Page 1, Line 23, Pos (10,23)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「嘻哈哈哈、哈啊、哈啊！\n"
+"\\N[27]　都已经追到这地方来了吗！」"
+msgstr ""
+
+#. ID 19, Page 1, Line 26, Pos (10,23)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「但是，老朽不会失败，绝不会！\n"
+"\\N[27]　有了从炎之魔神手中借来的兵，\n"
+"\\N[27]　这次老朽要让你们好看！」"
+msgstr ""
+
+#. ID 19, Page 1, Line 32, Pos (10,23)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「叔父大人……\n"
+"\\N[27]　居然连夜种的力量都要依赖，\n"
+"\\N[27]　没想到您已经堕落至此」"
+msgstr ""
+
+#. ID 19, Page 1, Line 39, Pos (10,23)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「鬼族们啊，上吧！\n"
+"\\N[27]　去把他们撕成碎片！」"
+msgstr ""
+
+#. ID 19, Page 1, Line 57, Pos (10,23)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「还――还没完呢，第二阵，上啊！」\n"
+""
+msgstr ""
+
+#. ID 19, Page 1, Line 62, Pos (10,23)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「你们在搞什么，一起上啊！\n"
+"\\N[27]　把他们包围起来！\n"
+"\\N[27]　可恶，可恶啊！」"
+msgstr ""
+
+#. ID 19, Page 1, Line 73, Pos (10,23)
+msgid ""
+"\\N[27]在所有的鬼族都被赶退、杀绝之后，\n"
+"\\N[27]你终于把米贝尔逼得走投无路了。"
+msgstr ""
+
+#. ID 19, Page 1, Line 76, Pos (10,23)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「别过来……别过来！」\n"
+""
+msgstr ""
+
+#. ID 19, Page 1, Line 81, Pos (10,23)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「站住！」\n"
+""
+msgstr ""
+
+#. ID 19, Page 1, Line 87, Pos (10,23)
+msgid ""
+"\\N[27]米贝尔逃也似的，\n"
+"\\N[27]从大厅北侧的大门跑了出去。"
+msgstr ""
+
+#. ID 19, Page 2, Line 7, Pos (10,23)
+msgid ""
+"\\N[27]这座雄伟的大厅，座落于巨大的长方形建筑之中。\n"
+"\\N[27]在大厅的地板上，战斗留下的痕迹甚是醒目。"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (10,18)
+msgid "\\N[27]还是先回城镇休息一下，再继续前进吧。"
+msgstr ""
+
+#. ID 20, Page 1, Line 8, Pos (10,18)
+#. ID 20, Page 2, Line 7, Pos (10,18)
+msgid ""
+"\\N[27]沸腾的火焰当中，一座类似神殿\n"
+"\\N[27]的小型黑色建筑傲然而立，\n"
+"\\N[27]视灼热的岩浆激流如无物。"
+msgstr ""
+
+#. ID 20, Page 1, Line 27, Pos (10,18)
+msgid ""
+"\\N[27]你沿着通向神殿内部的石桥前行，\n"
+"\\N[27]刚一踏足殿内，就发现看似无人\n"
+"\\N[27]的神殿中有着两条身影。\n"
+"\\N[27]一个是米贝尔，另一个用大衣遮着脸。"
+msgstr ""
+
+#. ID 20, Page 1, Line 31, Pos (10,18)
+msgid ""
+"\\N[27]米贝尔已经彻底抛弃了尊严，\n"
+"\\N[27]他将身披大衣的人物视作靠山紧抓不放。"
+msgstr ""
+
+#. ID 20, Page 1, Line 34, Pos (10,18)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「来了……那家伙来了！\n"
+"\\N[27]　不要，这戒指只属于老朽……\n"
+"\\N[27]　老朽不会把它交给任何人……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 38, Pos (10,18)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「太古的将军，炎之魔神啊。\n"
+"\\N[27]　快帮老朽消灭这帮宵小之辈吧」"
+msgstr ""
+
+#. ID 20, Page 1, Line 44, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「――多番 相助于汝 却仍落得 如此下场\n"
+"\n"
+"\\N[27]　汝太 让人 失望了」"
+msgstr ""
+
+#. ID 20, Page 1, Line 49, Pos (10,18)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「什……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 52, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「弱肉强食 乃 世间法则\n"
+"\\N[27]　若想抗拒　就展示 力量\n"
+"\\N[27]　于此重新  证实  自身之价值」"
+msgstr ""
+
+#. ID 20, Page 1, Line 56, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「汝手中 戒指 之上\n"
+"\\N[27]　宿有 始皇帝迪多斯　之魔力\n"
+"\\N[27]　以此 来取得 胜利吧」"
+msgstr ""
+
+#. ID 20, Page 1, Line 60, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「――如今 正是 觉醒之时  \n"
+"\\N[27]　古老之星　『尼鲁萨』哟」"
+msgstr ""
+
+#. ID 20, Page 1, Line 64, Pos (10,18)
+msgid ""
+"\\N[27]身披大衣的人物以蕴含魔力的言词宣告。\n"
+"\\N[27]随即，米贝尔手上的戒指就燃起了不属于\n"
+"\\N[27]这个世间的火光。"
+msgstr ""
+
+#. ID 20, Page 1, Line 71, Pos (10,18)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「好烫……这、这是怎么回事！\n"
+"\\N[27]　不要啊，不要把老朽融化掉！」"
+msgstr ""
+
+#. ID 20, Page 1, Line 81, Pos (10,18)
+msgid ""
+"\\N[27]米贝尔的身躯从内部裂了开来，\n"
+"\\N[27]他的胡须纷纷脱落，铠甲也崩落于地。"
+msgstr ""
+
+#. ID 20, Page 1, Line 87, Pos (10,18)
+msgid ""
+"\\N[27]身材矮小、皮肤湿漉漉的小鬼\n"
+"\\N[27]咆哮着从他的残骸中钻了出来！"
+msgstr ""
+
+#. ID 20, Page 1, Line 95, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「永别了，叔父大人！」"
+msgstr ""
+
+#. ID 20, Page 1, Line 100, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]白刃一闪，将米贝尔\n"
+"\\N[27]的手臂齐肩斩断。"
+msgstr ""
+
+#. ID 20, Page 1, Line 107, Pos (10,18)
+msgid ""
+"\\N[27]\\N[\\V[2]]白刃一闪，将米贝尔\n"
+"\\N[27]的手臂齐肩斩断。"
+msgstr ""
+
+#. ID 20, Page 1, Line 112, Pos (10,18)
+msgid ""
+"\\N[27]米贝尔\n"
+"\\N[27]「戒指……老朽的……戒指……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 116, Pos (10,18)
+msgid ""
+"\\N[27]曾经的矮人王者已是穷途末路，\n"
+"\\N[27]他踉踉跄跄地试图走出神殿，\n"
+"\\N[27]却在石桥上一脚踩空，掉进了岩浆。"
+msgstr ""
+
+#. ID 20, Page 1, Line 121, Pos (10,18)
+msgid "\\N[27]只在一瞬之间，熔岩飞溅而起……"
+msgstr ""
+
+#. ID 20, Page 1, Line 126, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「对弱小 愚昧之辈 而言　\n"
+"\\N[27]　那即 已是 限界吗\n"
+"\\N[27]　并且……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 131, Pos (10,18)
+msgid ""
+"\\N[27]身披大衣的人物捡起米贝尔\n"
+"\\N[27]被斩落的手腕，递向\\N[17]。\n"
+"\\N[27]那毫无血色的手指上，\n"
+"\\N[27]仍旧戴着赤红的戒指。"
+msgstr ""
+
+#. ID 20, Page 1, Line 136, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「！？」"
+msgstr ""
+
+#. ID 20, Page 1, Line 139, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「汝身上 有着　荣光之 可能性\n"
+"\\N[27]　继承 塔之 王国吧 矮人 王子啊\n"
+"\\N[27]　接受 这只 证明王权 之戒」"
+msgstr ""
+
+#. ID 20, Page 1, Line 143, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「在 成千上万 尸上累累 战争之末\n"
+"\\N[27]　必能掌握 上通神灵 之力量 与智慧\n"
+"\\N[27]　超越  被造者 之 界限！」"
+msgstr ""
+
+#. ID 20, Page 1, Line 148, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「…………废话少说，妖物。\n"
+"\\N[27]　我才不会听信你的谗言。\n"
+"\\N[27]　我，不会成为受你操纵的道具！」"
+msgstr ""
+
+#. ID 20, Page 1, Line 153, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「……愚不 可及……\n"
+"\\N[27]　眼中只有 狭隘世界 井底之蛙」"
+msgstr ""
+
+#. ID 20, Page 1, Line 156, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「那便来 领会吧\n"
+"\\N[27]　领会 自己 究竟\n"
+"\\N[27]　是 何等 渺小！」"
+msgstr ""
+
+#. ID 20, Page 1, Line 163, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「对弱小 愚昧之辈 而言　\n"
+"\\N[27]　那即 已是 限界吗……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 166, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「那便 由我 亲自 作个了断」"
+msgstr ""
+
+#. ID 20, Page 1, Line 190, Pos (10,18)
+#. Choice (2 options)
+msgid ""
+"观看提示\n"
+"返回标题"
+msgstr ""
+
+#. ID 20, Page 1, Line 195, Pos (10,18)
+msgid ""
+"\\N[27]尤利娅\n"
+"\\N[27]「穿着贴身内衣游手好闲中」"
+msgstr ""
+
+#. ID 20, Page 1, Line 197, Pos (10,18)
+msgid ""
+"\\N[27]尤利娅\n"
+"\\N[27]「嗯？　有事吗？\n"
+"\\N[27]　哦哦，提示啊」"
+msgstr ""
+
+#. ID 20, Page 1, Line 200, Pos (10,18)
+msgid ""
+"\\N[27]尤利娅\n"
+"\\N[27]「就算你要提示，也没什么特别好讲的。\n"
+"\\N[27]　毕竟敌人看起来就很那啥，把有属性\n"
+"\\N[27]　抗性的装备准备齐全就行了吧」"
+msgstr ""
+
+#. ID 20, Page 1, Line 204, Pos (10,18)
+msgid ""
+"\\N[27]尤利娅\n"
+"\\N[27]「那就这样，再见喽。\n"
+"\\N[27]　无所事事～无所事事～」"
+msgstr ""
+
+#. ID 20, Page 1, Line 217, Pos (10,18)
+msgid ""
+"\\N[27]魔将\n"
+"\\N[27]「渺小的 原来 是吾 吗……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 220, Pos (10,18)
+msgid ""
+"\\N[27]魔将的身姿化为了黑烟的旋涡，\n"
+"\\N[27]乘上一阵热风消散在空中……"
+msgstr ""
+
+#. ID 20, Page 1, Line 224, Pos (10,18)
+msgid "\\N[27]获得了称号之证！"
+msgstr ""
+
+#. ID 20, Page 1, Line 229, Pos (10,18)
+msgid "\\N[27]获得了熟练之证！"
+msgstr ""
+
+#. ID 20, Page 1, Line 235, Pos (10,18)
+msgid ""
+"\\N[27]获得了魔神之尾！\n"
+"\\N[27]获得了绯红大衣！\n"
+"\\N[27]获得了精神的秘药！"
+msgstr ""
+
+#. ID 20, Page 1, Line 244, Pos (10,18)
+msgid ""
+"\\N[27]3日以内通过了关键地点！\n"
+"\\N[27]获得5点奖励SP！"
+msgstr ""
+
+#. ID 20, Page 1, Line 249, Pos (10,18)
+msgid ""
+"\\N[27]通过了关键地点！\n"
+"\\N[27]获得3点SP！"
+msgstr ""
+
+#. ID 20, Page 1, Line 257, Pos (10,18)
+msgid ""
+"\\N[27]战斗已经结束了。\n"
+"\\N[27]接下来只要离开即可。"
+msgstr ""
+
+#. ID 20, Page 1, Line 259, Pos (10,18)
+msgid ""
+"\\N[27]然而，\\N[17]却一动不动地注视着\n"
+"\\N[27]米贝尔落在地上的手腕。\n"
+"\\N[27]手腕的指尖上，红色戒指正在闪烁。"
+msgstr ""
+
+#. ID 20, Page 1, Line 263, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「叔父就是为了拥有这戒指才误入歧途。\n"
+"\\N[27]　我该狠下心来将其舍弃吗……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 267, Pos (10,18)
+msgid ""
+"\\N[27]但是，当塔利姆把戒指从叔父的手指上摘下，\n"
+"\\N[27]熔岩射出的光芒却落到了他的身上。\n"
+"\\N[27]他就像着了迷一样死死盯着戒指，\n"
+"\\N[27]小心翼翼地将它戴到自己的手上。"
+msgstr ""
+
+#. ID 20, Page 1, Line 272, Pos (10,18)
+#. Choice (2 options)
+msgid ""
+"制止\\N[17]\n"
+"默默看着"
+msgstr ""
+
+#. ID 20, Page 1, Line 274, Pos (10,18)
+msgid "\\N[27]就在塔利姆即将戴上戒指之际，你出声劝阻了他。"
+msgstr ""
+
+#. ID 20, Page 1, Line 276, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 279, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「……！\n"
+"\\N[27]　我刚才，究竟是想要干什么？」"
+msgstr ""
+
+#. ID 20, Page 1, Line 282, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「在自己都没留意到的时候，\n"
+"\\N[27]　我就已经被俘获了内心吗！\n"
+"\\N[27]　这就是这戒指的魔力……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 287, Pos (10,18)
+msgid "\\N[27]塔利姆烦恼不已，但最终还是下定了决心。"
+msgstr ""
+
+#. ID 20, Page 1, Line 289, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「尊敬的\\N[\\V[2]]，\n"
+"\\N[27]　这戒指就托付于您了。\n"
+"\\N[27]　请您将这戒指丢到外侧世界的尽头去吧」"
+msgstr ""
+
+#. ID 20, Page 1, Line 293, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「想必会给您带来诸多不便，\n"
+"\\N[27]　但我的心灵实在太过懦弱，\n"
+"\\N[27]　终究无法亲手舍弃它……」"
+msgstr ""
+
+#. ID 20, Page 1, Line 299, Pos (10,18)
+#. ID 20, Page 1, Line 360, Pos (10,18)
+msgid "\\N[27]\\N[\\V[2]]获得了柘榴石尼鲁萨！"
+msgstr ""
+
+#. ID 20, Page 1, Line 303, Pos (10,18)
+msgid ""
+"\\N[27]你一言不发地看着，只见\\N[17]就像是想要\n"
+"\\N[27]藏起赤色戒指似的，悄悄将它戴上了自己的右手。\n"
+"\\N[27]那副鬼鬼祟祟的举动就像是在做什么亏心事一样。"
+msgstr ""
+
+#. ID 20, Page 1, Line 310, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「――好了，这样一来，骚动也就告终了」"
+msgstr ""
+
+#. ID 20, Page 1, Line 325, Pos (10,18)
+msgid ""
+"\\N[27]在臣民们的注视之下，\n"
+"\\N[27]\\N[17]于王宫正殿当众加冕。\n"
+"\\N[27]矮人族的欢呼声顿时响彻了地底。"
+msgstr ""
+
+#. ID 20, Page 1, Line 329, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「尽管经历了重重苦难与悲剧，\n"
+"\\N[27]　但我们终究迎来了这个日子，\n"
+"\\N[27]　这都是\\N[\\V[2]]等贵客的功劳」"
+msgstr ""
+
+#. ID 20, Page 1, Line 333, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「对于此等杰出贡献，\n"
+"\\N[27]　我着实不知该如何报答。\n"
+"\\N[27]　至少，请您收下我这份薄礼吧」"
+msgstr ""
+
+#. ID 20, Page 1, Line 339, Pos (10,18)
+msgid ""
+"\\N[27]获得了密苏里迪奥之盾！\n"
+"\\N[27]获得了纯银锁子甲！\n"
+"\\N[27]获得了50000Ｇ！"
+msgstr ""
+
+#. ID 20, Page 1, Line 346, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「从今往后，\n"
+"\\N[27]　我将身负复兴王国的重任」"
+msgstr ""
+
+#. ID 20, Page 1, Line 349, Pos (10,18)
+msgid ""
+"\\N[27]\\N[17]\n"
+"\\N[27]「尽管各自的道路有别，\n"
+"\\N[27]　我愿继续成为您的助力，\n"
+"\\N[27]　今后欢迎您随时光临鄙国！」"
+msgstr ""
+
+#. ID 20, Page 1, Line 355, Pos (10,18)
+msgid ""
+"\\N[27]就这样，你平息了居于地底的矮人族间的战乱，\n"
+"\\N[27]又朝着新的区域继续迈进了。"
+msgstr ""
+
+#. ID 20, Page 2, Line 10, Pos (10,18)
+msgid ""
+"\\N[27]你沿着通向神殿内部的石桥前行，\n"
+"\\N[27]踏足殿内，那里就只剩空若伽蓝的圣域。"
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (3,18)
+msgid "\\N[27]在岩浆鼎沸的锻造场中，一个巨人正在打铁。"
+msgstr ""
+
+#. ID 21, Page 1, Line 4, Pos (3,18)
+#. ID 21, Page 1, Line 24, Pos (3,18)
+#. ID 21, Page 1, Line 52, Pos (3,18)
+#. ID 21, Page 1, Line 72, Pos (3,18)
+#. ID 21, Page 1, Line 104, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 21, Page 1, Line 6, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「……是你们啊。有事？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 10, Pos (3,18)
+msgid ""
+"\\N[27]通道的另一侧铿锵、铿锵地\n"
+"\\N[27]传来了雷鸣般的响声。"
+msgstr ""
+
+#. ID 21, Page 1, Line 12, Pos (3,18)
+msgid ""
+"\\N[27]你拐过墙角悄悄窥视，只见在大厅中央摆着\n"
+"\\N[27]积有岩浆的容器，一个巨人正在旁边打着铁。\n"
+"\\N[27]下方射来的红光将他满脸的络腮胡照得徐徐发亮。 "
+msgstr ""
+
+#. ID 21, Page 1, Line 16, Pos (3,18)
+#. Choice (2 options)
+msgid ""
+"交谈\n"
+"返回"
+msgstr ""
+
+#. ID 21, Page 1, Line 26, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「……嗯？　来了些奇怪的矮子啊。\n"
+"\n"
+"\\N[27]　哦哦……我想起来了」"
+msgstr ""
+
+#. ID 21, Page 1, Line 30, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「你们该是……人类的幼体吧。\n"
+"\\N[27]　就是那些在荒野上盖起房屋，\n"
+"\\N[27]　结群而居的小家伙们」"
+msgstr ""
+
+#. ID 21, Page 1, Line 34, Pos (3,18)
+msgid ""
+"\\N[27]巨人自言自语后，又自顾自地点了点头。\n"
+"\\N[27]他的左眼和左足存有缺憾，\n"
+"\\N[27]装上了金属的义眼和义腿。"
+msgstr ""
+
+#. ID 21, Page 1, Line 37, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「我已经很久没见过人类，\n"
+"\\N[27]　还当他们早已经死绝了。\n"
+"\\N[27]　……找我有什么事吗？」"
+msgstr ""
+
+#. ID 21, Page 1, Line 45, Pos (3,18)
+#. Choice (4 options)
+msgid ""
+"打听事情\n"
+"学习技能\n"
+"想要武具\n"
+"离开"
+msgstr ""
+
+#. ID 21, Page 1, Line 54, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「我之所以留在这里，\n"
+"\\N[27]　是因为厌倦了世俗」"
+msgstr ""
+
+#. ID 21, Page 1, Line 57, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「伟大？正确？这是由谁决定的？\n"
+"\\N[27]　不过就是被规则束缚而已……\n"
+"\\N[27]　我已经不想再配合他们的步调了」"
+msgstr ""
+
+#. ID 21, Page 1, Line 61, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「所以我把自己关在这里，一心将铁料锻造成形，\n"
+"\\N[27]　成型后再将其熔解，然后再重新锻造锻造锻造，\n"
+"\\N[27]　就这样一直锻造下去……」"
+msgstr ""
+
+#. ID 21, Page 1, Line 65, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「……这样锻造了多少岁月，我已经不记得了。\n"
+"\\N[27]　我的同族想必也在别的地方，过着与我类似\n"
+"\\N[27]　的生活吧」"
+msgstr ""
+
+#. ID 21, Page 1, Line 74, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「替我准备了这个地方的，\n"
+"\\N[27]　是我过去的一个弟子。\n"
+"\\N[27]　他和你们一样，也是人类」"
+msgstr ""
+
+#. ID 21, Page 1, Line 78, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「那家伙颇有些小聪明，不论锻造\n"
+"\\N[27]　还是魔法技艺，他都能一学就通。\n"
+"\\N[27]　他还最喜欢拘泥一些细枝末节的小工艺」"
+msgstr ""
+
+#. ID 21, Page 1, Line 82, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「不过立刻就得意忘形的个性很让人头疼，\n"
+"\\N[27]　不知道现在他又在做什么……\n"
+"\\N[27]　不过以人类的寿命，想必早已死去了吧」"
+msgstr ""
+
+#. ID 21, Page 1, Line 86, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「……这么说来，\n"
+"\\N[27]　你给人的感觉和他很像啊」"
+msgstr ""
+
+#. ID 21, Page 1, Line 91, Pos (3,18)
+msgid ""
+"\\N[27]\\N[\\V[2]]\n"
+"\\N[27]「…………」"
+msgstr ""
+
+#. ID 21, Page 1, Line 106, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「好吧」"
+msgstr ""
+
+#. ID 21, Page 1, Line 108, Pos (3,18)
+msgid "\\N[27]※可以通过消费SP，让主角学习技能。"
+msgstr ""
+
+#. ID 21, Page 1, Line 111, Pos (3,18)
+#. Contains choice at line 2 (2 options)
+msgid "\\N[27]\\N[\\V[2]]　　剩余SP\\V[26]"
+msgstr ""
+
+#. ID 21, Page 1, Line 112, Pos (3,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"武器制作　需要SP8\n"
+"防具制作　需要SP8"
+msgstr ""
+
+#. ID 21, Page 1, Line 147, Pos (3,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]\\N[\\V[2]]将要学习武器制作。\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 149, Pos (3,18)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 202, Pos (3,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"确定\n"
+"取消"
+msgstr ""
+
+#. ID 21, Page 1, Line 153, Pos (3,18)
+msgid ""
+"\\N[27]学会了武器制作技能！\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 162, Pos (3,18)
+msgid "\\N[27]SP不足。"
+msgstr ""
+
+#. ID 21, Page 1, Line 200, Pos (3,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\N[27]\\N[\\V[2]]将要学习防具制作。\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 206, Pos (3,18)
+msgid "\\N[27]学会了防具制作技能！"
+msgstr ""
+
+#. ID 21, Page 1, Line 214, Pos (3,18)
+msgid ""
+"\\N[27]SP不足。\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 228, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「我已经没什么能给你的了」\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 233, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「……哦？\n"
+"\\N[27]　顺利消灭了蜥蜴吗。\n"
+"\\N[27]　那就把报酬给你吧」"
+msgstr ""
+
+#. ID 21, Page 1, Line 238, Pos (3,18)
+msgid ""
+"\\N[27]获得了奥罗里昂的护胸！\n"
+"\\N[27]获得了卢恩之剑！\n"
+"\\N[27]获得了锄神的护符！"
+msgstr ""
+
+#. ID 21, Page 1, Line 249, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「…………」\n"
+""
+msgstr ""
+
+#. ID 21, Page 1, Line 252, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「如果能满足我的期望，\n"
+"\\N[27]　我就把特制品送给你」"
+msgstr ""
+
+#. ID 21, Page 1, Line 255, Pos (3,18)
+msgid ""
+"\\N[27]巨人锻造师\n"
+"\\N[27]「在这深处的某座泉眼旁，\n"
+"\\N[27]　栖息着一只巨大的蜥蜴。\n"
+"\\N[27]　你去把这碍事的畜生消灭吧」"
+msgstr ""
+
+#. ID 22, Page 1, Line 2, Pos (2,14)
+msgid ""
+"\\N[27]大厅中央凹成了一个大洞，里面是滚滚沸腾的热水。\n"
+"\\N[27]在水畔之处，一只赤红的巨龙正卧在金山上打着盹。\n"
+""
+msgstr ""
+
+#. ID 22, Page 1, Line 7, Pos (2,14)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「这家伙，散发着和\n"
+"\\N[27]　\\N[12]一样的味道喔？」"
+msgstr ""
+
+#. ID 22, Page 1, Line 14, Pos (2,14)
+#. Choice (2 options)
+msgid ""
+"挑战\n"
+"返回"
+msgstr ""
+
+#. ID 22, Page 1, Line 28, Pos (2,14)
+msgid ""
+"\\N[27]获得了赤龙石！\n"
+"\\N[27]获得了20000Ｇ！\n"
+"\\N[27]获得了手术刀！"
+msgstr ""
+
+#. ID 22, Page 2, Line 1, Pos (2,14)
+msgid ""
+"\\N[27]大厅中央凹成了一个大洞，热水不断从中涌出。\n"
+"\\N[27]或许是因为蛰居于此的巨龙被打倒的缘故，\n"
+"\\N[27]热水的温度已经变得十分舒适。\n"
+"\\N[27]一天可以在这里入浴一次，进行MP的恢复。"
+msgstr ""
+
+#. ID 22, Page 2, Line 6, Pos (2,14)
+#. Choice (2 options)
+msgid ""
+"入浴\n"
+"离开"
+msgstr ""
+
+#. ID 22, Page 2, Line 9, Pos (2,14)
+msgid "\\N[27]一天只能入浴一次。"
+msgstr ""
+
+#. ID 22, Page 2, Line 13, Pos (2,14)
+msgid ""
+"\\N[27]你脱去衣物，置身于喷涌的热水中，\n"
+"\\N[27]缓缓地将身体舒展开来。\n"
+"\\N[27]全身的疲劳也渐渐被热水溶去……"
+msgstr ""
+
+#. ID 22, Page 2, Line 18, Pos (2,14)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「啊～……\n"
+"\\N[27]　这地方太带感了」"
+msgstr ""
+
+#. ID 22, Page 2, Line 25, Pos (2,14)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「唔哇，能游泳的浴池耶」"
+msgstr ""
+
+#. ID 22, Page 2, Line 31, Pos (2,14)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「啊～真是至福」"
+msgstr ""
+
+#. ID 22, Page 2, Line 37, Pos (2,14)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「……这地方，相当舒服嘛」\n"
+""
+msgstr ""
+
+#. ID 22, Page 2, Line 44, Pos (2,14)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「呜ー有点头晕了……」"
+msgstr ""
+
+#. ID 22, Page 2, Line 52, Pos (2,14)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「呼，洗掉污垢的感觉真好。\n"
+"\\N[27]　你看，我这玉一般的肌肤」"
+msgstr ""
+
+#. ID 22, Page 2, Line 58, Pos (2,14)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「眼镜雾蒙蒙的……」"
+msgstr ""
+
+#. ID 22, Page 2, Line 66, Pos (2,14)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「……呼……」"
+msgstr ""
+
+#. ID 22, Page 2, Line 69, Pos (2,14)
+msgid ""
+"\\N[27]艾尔森性感地把脚尖伸出水面。\n"
+"\\N[27]顺带一提，背景是一朵玫瑰花。"
+msgstr ""
+
+#. ID 22, Page 2, Line 75, Pos (2,14)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「噼啪！\n"
+"\\N[27]　\\N[\\V[2]]也来游嘛！」"
+msgstr ""
+
+#. ID 22, Page 2, Line 82, Pos (2,14)
+msgid ""
+"\\N[27]\\N[13]\n"
+"\\N[27]「…………\n"
+"\\N[27]　哈呜……」"
+msgstr ""
+
+#. ID 22, Page 2, Line 89, Pos (2,14)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「………………」\n"
+"\\N[27]（←全裸地挺立着）"
+msgstr ""
+
+#. ID 22, Page 2, Line 97, Pos (2,14)
+msgid "\\N[27]全员的MP回复了！"
+msgstr ""
+
+#. ID 23, Page 1, Line 2, Pos (18,11)
+msgid ""
+"\\N[27]这房间被一道石门堵得严严实实。\n"
+"\\N[27]门上别说锁孔，就连把手也没有。"
+msgstr ""
+
+#. ID 25, Page 1, Line 8, Pos (3,8)
+msgid ""
+"\\N[27]附近的墙壁以错综复杂的直线条互相交织着，\n"
+"\\N[27]墙面上密集地雕刻着出自未知文化的奇妙图案，\n"
+"\\N[27]没有留下半点空隙。\n"
+"\\N[27]道路仍向北与东的方向延伸着。"
+msgstr ""
+
+#. ID 26, Page 1, Line 2, Pos (11,8)
+#. ID 26, Page 2, Line 8, Pos (11,8)
+msgid ""
+"\\N[27]…………\n"
+"\\N[27]滚烫的岩浆沿岩壁流下，\n"
+"\\N[27]当中却悬空开着一个洞口。"
+msgstr ""
+
+#. ID 26, Page 2, Line 4, Pos (11,8)
+msgid ""
+"\\N[27]洞穴里已经空空如也了。\n"
+""
+msgstr ""
+
+#. ID 26, Page 2, Line 11, Pos (11,8)
+msgid ""
+"\\N[27]你朝岩壁上的洞穴，抛出了带有勾爪的绳索。\n"
+""
+msgstr ""
+
+#. ID 26, Page 2, Line 14, Pos (11,8)
+msgid "\\N[27]绳索顺利地挂了上去！"
+msgstr ""
+
+#. ID 26, Page 2, Line 15, Pos (11,8)
+msgid ""
+"\\N[27]进入壁内的洞穴后，你发现这是\n"
+"\\N[27]一座能容单人居住的小型工房。\n"
+"\\N[27]工房里横倒着一具矮人族的骸骨和一把剑。"
+msgstr ""
+
+#. ID 26, Page 2, Line 19, Pos (11,8)
+msgid "\\N[27]获得了夜母之剑！"
+msgstr ""
+

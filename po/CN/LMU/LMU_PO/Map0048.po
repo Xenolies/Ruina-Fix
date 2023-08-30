@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid ""
+"\\N[27]在这个场面，必须以仅有几人的队伍向\n"
+"\\N[27]敌人的军势发起挑战，以求削弱敌军。\n"
+"\\N[27]仔细判断好敌我的力量对比，慎重地\n"
+"\\N[27]应战吧，有时逃跑也是必要的策略。"
+msgstr ""
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"\\N[27]如果你不想参战，\n"
+"\\N[27]也可以留在酒馆里\n"
+"\\N[27]静待事态的发展。"
+msgstr ""
+
+#. ID 2, Page 2, Line 3, Pos (0,1)
+msgid "\\N[27]敌人的警卫队察觉情况有变，就向你们追来！"
+msgstr ""
+
+#. ID 2, Page 2, Line 43, Pos (0,1)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「城内似乎也有敌人潜伏……」"
+msgstr ""
+
+#. ID 2, Page 2, Line 48, Pos (0,1)
+msgid ""
+"\\N[27]巴夏\n"
+"\\N[27]「看起来，里面混进了\n"
+"\\N[27]　一只硕大的老鼠呢」"
+msgstr ""
+
+#. ID 2, Page 2, Line 57, Pos (0,1)
+msgid ""
+"\\N[27]敌人的主力部队察觉状况有变，\n"
+"\\N[27]就向骚乱中心的你们追赶而来！"
+msgstr ""
+
+#. ID 2, Page 3, Line 20, Pos (0,1)
+#. Choice (2 options)
+msgid ""
+"\\N[27]跳过？\n"
+"\\N[27]否"
+msgstr ""
+
+#. ID 2, Page 3, Line 32, Pos (0,1)
+msgid "\\N[27]正在这时――"
+msgstr ""
+
+#. ID 2, Page 3, Line 49, Pos (0,1)
+msgid "\\N[27]镇东突然传来了雷鸣般的响声。"
+msgstr ""
+
+#. ID 2, Page 3, Line 50, Pos (0,1)
+msgid ""
+"\\N[27]东城门被攻破，敌军也被截为两段。\n"
+"\\N[27]涅斯公国的军势锐不可当地冲入城内，\n"
+"\\N[27]但其中打头阵的却是――"
+msgstr ""
+
+#. ID 2, Page 3, Line 58, Pos (0,1)
+msgid ""
+"\\N[27]巴夏\n"
+"\\N[27]「！？\n"
+"\\N[27]　那个庞然大物是什么东西」"
+msgstr ""
+
+#. ID 2, Page 3, Line 62, Pos (0,1)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「那是！果然……」"
+msgstr ""
+
+#. ID 2, Page 3, Line 65, Pos (0,1)
+msgid ""
+"\\N[27]那是由地下的矮人制造的，\n"
+"\\N[27]你也十分眼熟的战争兵器。\n"
+"\\N[27]但为何会在涅斯公国的军队中？"
+msgstr ""
+
+#. ID 2, Page 3, Line 68, Pos (0,1)
+msgid ""
+"\\N[27]巨大的战争机器以五台为一列，\n"
+"\\N[27]发出择人而噬的齿轮咬合声杀向敌阵。\n"
+"\\N[27]带刺的狰狞车轮猛烈的回转着，\n"
+"\\N[27]沾者连同铠甲一起粉碎，化为满地血肉。"
+msgstr ""
+
+#. ID 2, Page 3, Line 74, Pos (0,1)
+msgid ""
+"\\N[27]它背上搭载的金属筒――大炮只一开火，\n"
+"\\N[27]敌阵的一角就在硝烟之中被炸成了灰烬。\n"
+"\\N[27]一瞬之后，爆炸声才迟迟响起。"
+msgstr ""
+
+#. ID 2, Page 3, Line 87, Pos (0,1)
+msgid ""
+"\\N[27]如此的战争机器散发着蒸汽一路推进着，\n"
+"\\N[27]可怜席瓦尔与神殿军士兵，就只有被蹂躏的份。"
+msgstr ""
+
+#. ID 2, Page 3, Line 89, Pos (0,1)
+msgid ""
+"\\N[27]密集于狭窄通道的敌军，被数台战争兵器\n"
+"\\N[27]冲散了阵型，士兵们毫无秩序地或退或进，\n"
+"\\N[27]一时间惨叫声不绝于耳，场面混乱不堪。"
+msgstr ""
+
+#. ID 2, Page 3, Line 94, Pos (0,1)
+msgid ""
+"\\N[27]战争机器再向混乱中心投以炮击，爆炸的气浪就\n"
+"\\N[27]轻易贯穿敌阵，制造出一副活生生的地狱光景。\n"
+"\\N[27]这早已无法称作战争了。"
+msgstr ""
+
+#. ID 2, Page 3, Line 98, Pos (0,1)
+msgid ""
+"\\N[27]巴夏\n"
+"\\N[27]「不要怕！\n"
+"\\N[27]　那只是敌人的卑劣魔术！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 102, Pos (0,1)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「――不，结界也无法阻挡那攻击……\n"
+"\\N[27]　那不是魔术，是前所未见的兵器」"
+msgstr ""
+
+#. ID 2, Page 3, Line 105, Pos (0,1)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「还是暂且撤退吧……」"
+msgstr ""
+
+#. ID 2, Page 3, Line 108, Pos (0,1)
+msgid ""
+"\\N[27]巴夏\n"
+"\\N[27]「啧――」"
+msgstr ""
+
+#. ID 2, Page 3, Line 111, Pos (0,1)
+msgid ""
+"\\N[27]席瓦尔与神殿的军队开始向镇西败退。\n"
+"\\N[27]然而战争兵器紧紧咬住不放，涅斯的\n"
+"\\N[27]公国骑士们也尾随其后发动了追击。"
+msgstr ""
+
+#. ID 2, Page 3, Line 115, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「哈哈哈哈」"
+msgstr ""
+
+#. ID 2, Page 3, Line 118, Pos (0,1)
+msgid ""
+"\\N[27]骑士集团中也能见到\\N[130]的身姿。\n"
+"\\N[27]他甚至没戴头盔，仅是骑着高头大马\n"
+"\\N[27]缓步而来，犹如闲庭信步。"
+msgstr ""
+
+#. ID 2, Page 3, Line 121, Pos (0,1)
+msgid ""
+"\\N[27]当躲在自己家中的镇民纷纷外出时，\n"
+"\\N[27]只得目瞪口呆地看着\\N[130]公子的到来。"
+msgstr ""
+
+#. ID 2, Page 3, Line 124, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「诸位镇民，我来解救你们了」"
+msgstr ""
+
+#. ID 2, Page 3, Line 126, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「怎么了，为什么都在发呆，\n"
+"\\N[27]　难道是已经把余忘记了吗？」"
+msgstr ""
+
+#. ID 2, Page 3, Line 130, Pos (0,1)
+msgid ""
+"\\N[27]毫不在意地用马蹄践踏着脚下残躯，\n"
+"\\N[27]\\N[130]打趣地向镇民们招手示意……"
+msgstr ""
+
+#. ID 2, Page 3, Line 139, Pos (0,1)
+msgid "\\N[27]――翌日。"
+msgstr ""
+
+#. ID 2, Page 3, Line 145, Pos (0,1)
+msgid ""
+"\\N[27]涅斯的骑士和战争机器在广场中央\n"
+"\\N[27]井然而立，周围聚集着义勇军和民众。\n"
+"\\N[27]古老的方尖塔下，一座站台被紧急搭起。\n"
+"\\N[27]\\N[130]英姿勃发地立于台上。"
+msgstr ""
+
+#. ID 2, Page 3, Line 150, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「那么，各位尊贵的诸侯、\n"
+"\\N[27]　忠实的骑士、幸福的臣\n"
+"\\N[27]　民领民们哟――」"
+msgstr ""
+
+#. ID 2, Page 3, Line 154, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「今次能将席瓦尔的侵略者大举\n"
+"\\N[27]　扫除，全靠诸位的努力。让我\n"
+"\\N[27]　等一同分享这胜利的喜悦吧！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 160, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「但是，绝不能就此掉以轻心。\n"
+"\\N[27]　诸君不要忘记，我等依然还是\n"
+"\\N[27]　摆在席瓦尔这只猛兽眼前的饵食」"
+msgstr ""
+
+#. ID 2, Page 3, Line 164, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「这次胜利终究只是一时之物。\n"
+"\\N[27]　不可能彻底打消他们的贪欲，\n"
+"\\N[27]　西席瓦尔一定还会卷土重来」"
+msgstr ""
+
+#. ID 2, Page 3, Line 168, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「还不仅仅如此，我们的敌人还有\n"
+"\\N[27]　东方的巴兰柯尔和南方的异教徒――\n"
+"\\N[27]　实在是不容乐观的局面」"
+msgstr ""
+
+#. ID 2, Page 3, Line 172, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「我们之所以受他国欺凌，\n"
+"\\N[27]　是因为涅斯公国的弱小」"
+msgstr ""
+
+#. ID 2, Page 3, Line 175, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「涅斯因历史尚浅，一国君主的\n"
+"\\N[27]　权威薄弱，无法统合各路诸侯。\n"
+"\\N[27]　因此才被他人小视」"
+msgstr ""
+
+#. ID 2, Page 3, Line 179, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「若因循守旧便只有死路一条，\n"
+"\\N[27]　为了迎来光明的未来，\n"
+"\\N[27]　我等需要全新的体制……」"
+msgstr ""
+
+#. ID 2, Page 3, Line 185, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「幸运的是，受命运之神的引导，\n"
+"\\N[27]　我等已经真正地觉醒了」"
+msgstr ""
+
+#. ID 2, Page 3, Line 188, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「昔日称霸世界的大阿尔凯亚帝国，\n"
+"\\N[27]　就定都于我等脚下的这片土地。\n"
+"\\N[27]　我等，便是那阿尔凯亚的末裔」"
+msgstr ""
+
+#. ID 2, Page 3, Line 192, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「我等拥有着举世无双\n"
+"\\N[27]　的伟大文明和历史！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 195, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「敌人畏惧、嫉妒我等的觉醒，\n"
+"\\N[27]　欲将我等扼杀于襁褓之中！\n"
+"\\N[27]　我等会默默等待灭亡吗？否！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 199, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「我等必须唤醒伟大帝国的荣耀，\n"
+"\\N[27]　将全新的生命力注入其中，\n"
+"\\N[27]　从而获得毁灭一切敌人的力量」"
+msgstr ""
+
+#. ID 2, Page 3, Line 205, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「我在此隆重宣告\n"
+"\\N[27]　阿尔凯亚帝国的复兴！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 209, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]一声高呼之下，饰有八枚\n"
+"\\N[27]花瓣的旗帜从他身后飘扬而起――"
+msgstr ""
+
+#. ID 2, Page 3, Line 212, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「回想起我等伟大种族的荣耀吧！\n"
+"\\N[27]　将我等的力量集结于帝国大旗之下！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 215, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「看看那威风八面的铁骑兵吧，\n"
+"\\N[27]　看看那闪着寒光的骑士宝剑吧。\n"
+"\\N[27]　这就是我等阿尔凯亚的力量！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 220, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]\n"
+"\\N[27]「阿尔凯亚万岁！\n"
+"\\N[27]　帝国万岁！！」"
+msgstr ""
+
+#. ID 2, Page 3, Line 225, Pos (0,1)
+msgid ""
+"\\N[27]\\N[130]的演说极大地煽动了人群。\n"
+"\\N[27]人们在兴奋与不安之间动摇着――"
+msgstr ""
+
+#. ID 2, Page 3, Line 229, Pos (0,1)
+msgid ""
+"\\N[27]然而，混在人群中的造势者们\n"
+"\\N[27]带头「\\N[130]！　\\N[130]！」地高呼起来，\n"
+"\\N[27]人群的动摇之心也终于开始朝一方倾斜——"
+msgstr ""
+
+#. ID 2, Page 3, Line 235, Pos (0,1)
+msgid ""
+"\\N[27]『\\N[130]！　\\N[130]！』\n"
+"\\N[27]『帝国万岁！』\n"
+"\\N[27]『阿尔凯亚！　阿尔凯亚！』"
+msgstr ""
+
+#. ID 2, Page 3, Line 241, Pos (0,1)
+msgid ""
+"\\N[27]就这样，阿尔凯亚这个被遗忘\n"
+"\\N[27]已久的名字重返了人们的视野——"
+msgstr ""
+
+#. ID 2, Page 3, Line 263, Pos (0,1)
+msgid "\\>第\\V[31]日　王国历\\V[32]年　\\V[33]月　\\V[34]日\\<"
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (1,1)
+msgid ""
+"\\N[27]\\N[7]\n"
+"\\N[27]「不好！\n"
+"\\N[27]　被包围就麻烦了，\n"
+"\\N[27]　先撤退重整一下状态！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 11, Pos (1,1)
+msgid ""
+"\\N[27]\\N[5]\n"
+"\\N[27]「不妙、不妙不妙敌人的数量太不妙了\n"
+"\\N[27]　再这样下去会没命的！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (1,1)
+msgid ""
+"\\N[27]\\N[6]\n"
+"\\N[27]「敌人太多了！\n"
+"\\N[27]　我们还是走为上计，\n"
+"\\N[27]　呜哇ー地大叫着逃命吧！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (1,1)
+msgid ""
+"\\N[27]\\N[10]\n"
+"\\N[27]「……我说啊，那啥，似乎有\n"
+"\\N[27]　超过百人的敌军特意来追\n"
+"\\N[27]　杀我们了哦？」"
+msgstr ""
+
+#. ID 3, Page 1, Line 34, Pos (1,1)
+msgid ""
+"\\N[27]\\N[9]\n"
+"\\N[27]「不行了，怎么杀也杀不光！\n"
+"\\N[27]　魔力的储备不够啦ー」"
+msgstr ""
+
+#. ID 3, Page 1, Line 41, Pos (1,1)
+msgid ""
+"\\N[27]\\N[11]\n"
+"\\N[27]「咕……！\n"
+"\\N[27]　撤退虽然是骑士的屈辱，\n"
+"\\N[27]　但敌我数量实在太悬殊了！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 49, Pos (1,1)
+msgid ""
+"\\N[27]\\N[8]\n"
+"\\N[27]「要是被这么多敌人包围，\n"
+"\\N[27]　可就要十死无生了哦！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 56, Pos (1,1)
+msgid ""
+"\\N[27]\\N[13]\n"
+"\\N[27]「请谨慎些，注意不要\n"
+"\\N[27]　被敌军包围了！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 63, Pos (1,1)
+msgid ""
+"\\N[27]\\N[14]\n"
+"\\N[27]「与这么多敌人挑起战斗，\n"
+"\\N[27]　根本是自寻死路！」"
+msgstr ""
+
+#. ID 3, Page 1, Line 70, Pos (1,1)
+msgid ""
+"\\N[27]\\N[12]\n"
+"\\N[27]「唔嗯ー敌人有点多过头了ー\n"
+"\\N[27]　多到吃不下了」"
+msgstr ""
+
+#. ID 6, Page 1, Line 4, Pos (17,7)
+msgid ""
+"\\N[27]巴夏\n"
+"\\N[27]「愚蠢的家伙。\n"
+"\\N[27]　但是，你的勇气值得称赞」"
+msgstr ""
+
+#. ID 6, Page 1, Line 32, Pos (17,7)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 1, Line 68, Pos (17,7)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 2, Line 4, Pos (17,7)
+msgid ""
+"\\N[27]席瓦尔军　兵数\\V[331]\n"
+"\\N[27]指挥官：巴夏"
+msgstr ""
+
+#. ID 6, Page 1, Line 34, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 70, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 33, Pos (18,6)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 78, Pos (18,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 18, Pos (18,5)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 52, Pos (18,5)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 18, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 52, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 18, Pos (2,4)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 52, Pos (2,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"继续战斗\n"
+"逃跑"
+msgstr ""
+
+#. ID 6, Page 1, Line 38, Pos (17,7)
+#. ID 6, Page 1, Line 74, Pos (17,7)
+#. ID 9, Page 1, Line 37, Pos (18,6)
+#. ID 9, Page 1, Line 82, Pos (18,6)
+#. ID 10, Page 1, Line 22, Pos (18,5)
+#. ID 10, Page 1, Line 56, Pos (18,5)
+#. ID 11, Page 1, Line 22, Pos (17,8)
+#. ID 11, Page 1, Line 56, Pos (17,8)
+#. ID 14, Page 1, Line 22, Pos (2,4)
+#. ID 14, Page 1, Line 56, Pos (2,4)
+msgid "\\N[27]碰碰运气吧！"
+msgstr ""
+
+#. ID 6, Page 1, Line 42, Pos (17,7)
+#. ID 6, Page 1, Line 78, Pos (17,7)
+#. ID 9, Page 1, Line 41, Pos (18,6)
+#. ID 9, Page 1, Line 86, Pos (18,6)
+#. ID 10, Page 1, Line 26, Pos (18,5)
+#. ID 10, Page 1, Line 60, Pos (18,5)
+#. ID 11, Page 1, Line 26, Pos (17,8)
+#. ID 11, Page 1, Line 60, Pos (17,8)
+#. ID 14, Page 1, Line 26, Pos (2,4)
+#. ID 14, Page 1, Line 60, Pos (2,4)
+msgid ""
+"\\N[27]成功逃脱了！\n"
+"\\N[27]你突破敌人的包围，逃进了巷子……"
+msgstr ""
+
+#. ID 6, Page 1, Line 51, Pos (17,7)
+#. ID 6, Page 1, Line 87, Pos (17,7)
+#. ID 9, Page 1, Line 50, Pos (18,6)
+#. ID 9, Page 1, Line 95, Pos (18,6)
+#. ID 10, Page 1, Line 35, Pos (18,5)
+#. ID 10, Page 1, Line 69, Pos (18,5)
+#. ID 11, Page 1, Line 35, Pos (17,8)
+#. ID 11, Page 1, Line 69, Pos (17,8)
+#. ID 14, Page 1, Line 35, Pos (2,4)
+#. ID 14, Page 1, Line 69, Pos (2,4)
+msgid "\\N[27]逃脱失败了！"
+msgstr ""
+
+#. ID 6, Page 1, Line 56, Pos (17,7)
+#. ID 9, Page 1, Line 55, Pos (18,6)
+msgid ""
+"\\N[27]敌人不强，但数量委实太多，\n"
+"\\N[27]你们就像投进水中的几颗小石！"
+msgstr ""
+
+#. ID 6, Page 1, Line 95, Pos (17,7)
+msgid ""
+"\\N[27]巴夏\n"
+"\\N[27]「都退下。\n"
+"\\N[27]　这对手凭你们是无法战胜的」"
+msgstr ""
+
+#. ID 6, Page 1, Line 100, Pos (17,7)
+msgid ""
+"\\N[27]敌兵如潮水般分开，一个女人现身其中。\n"
+"\\N[27]她随意地身披铠甲，却背着与身形不相\n"
+"\\N[27]称的巨剑，浑身缠绕着狂野的斗气。"
+msgstr ""
+
+#. ID 6, Page 1, Line 104, Pos (17,7)
+msgid ""
+"\\N[27]巴夏\n"
+"\\N[27]「我乃席瓦尔的巴夏·席巴·阿莱努斯。\n"
+"\\N[27]　就由我亲自当你们的对手吧！」"
+msgstr ""
+
+#. ID 6, Page 1, Line 113, Pos (17,7)
+msgid ""
+"\\N[27]巴夏\n"
+"\\N[27]「混蛋……\n"
+"\\N[27]　给我记住……」"
+msgstr ""
+
+#. ID 6, Page 1, Line 117, Pos (17,7)
+msgid ""
+"\\N[27]女人负伤，被士兵们护着退到后方，\n"
+"\\N[27]过程中她一直用凶狠的眼神瞪着你。\n"
+"\\N[27]敌兵失去指挥，动摇不已。\n"
+"\\N[27]趁这个天赐良机，赶快突围吧。"
+msgstr ""
+
+#. ID 6, Page 1, Line 125, Pos (17,7)
+#. ID 9, Page 1, Line 145, Pos (18,6)
+msgid ""
+"\\N[27]击溃了敌人的主力部队。\n"
+"\\N[27]获得3点奖励SP！"
+msgstr ""
+
+#. ID 6, Page 1, Line 129, Pos (17,7)
+#. ID 9, Page 1, Line 149, Pos (18,6)
+msgid "\\N[27]获得了英雄的纹章盾！"
+msgstr ""
+
+#. ID 6, Page 2, Line 2, Pos (17,7)
+msgid "\\N[27]席瓦尔军的主力部队在这里布阵。"
+msgstr ""
+
+#. ID 6, Page 2, Line 9, Pos (17,7)
+#. Choice (2 options)
+#. ID 7, Page 2, Line 6, Pos (12,5)
+#. Choice (2 options)
+#. ID 8, Page 2, Line 7, Pos (14,3)
+#. Choice (2 options)
+#. ID 9, Page 2, Line 15, Pos (18,6)
+#. Choice (2 options)
+#. ID 10, Page 2, Line 5, Pos (18,5)
+#. Choice (2 options)
+#. ID 11, Page 2, Line 5, Pos (17,8)
+#. Choice (2 options)
+#. ID 12, Page 2, Line 6, Pos (14,7)
+#. Choice (2 options)
+#. ID 13, Page 2, Line 7, Pos (9,11)
+#. Choice (2 options)
+#. ID 14, Page 2, Line 6, Pos (2,4)
+#. Choice (2 options)
+#. ID 15, Page 2, Line 6, Pos (8,5)
+#. Choice (2 options)
+msgid ""
+"\\N[27]迎头痛击\n"
+"\\N[27]离开"
+msgstr ""
+
+#. ID 6, Page 2, Line 11, Pos (17,7)
+#. ID 9, Page 2, Line 17, Pos (18,6)
+#. ID 10, Page 2, Line 7, Pos (18,5)
+#. ID 11, Page 2, Line 7, Pos (17,8)
+#. ID 14, Page 2, Line 8, Pos (2,4)
+msgid ""
+"\\N[27]以此等数量的敌人为对手，耍小伎俩毫无意义。\n"
+"\\N[27]你高声呐喊着，气势如洪地向敌群冲去！"
+msgstr ""
+
+#. ID 7, Page 1, Line 25, Pos (12,5)
+#. ID 8, Page 1, Line 25, Pos (14,3)
+#. ID 13, Page 1, Line 25, Pos (9,11)
+msgid ""
+"\\N[27]即使打倒眼前的敌人，\n"
+"\\N[27]新的敌人也会立即袭来！"
+msgstr ""
+
+#. ID 7, Page 1, Line 41, Pos (12,5)
+msgid ""
+"\\N[27]更多的警卫兵压迫而来，\n"
+"\\N[27]周围被围了个水泄不通！"
+msgstr ""
+
+#. ID 7, Page 1, Line 59, Pos (12,5)
+#. ID 8, Page 1, Line 71, Pos (14,3)
+#. ID 13, Page 1, Line 56, Pos (9,11)
+msgid ""
+"\\N[27]击溃了敌人的小支部队。\n"
+"\\N[27]获得了1点奖励SP！"
+msgstr ""
+
+#. ID 7, Page 2, Line 2, Pos (12,5)
+msgid "\\N[27]敌人的小部队正在镇上戒备。"
+msgstr ""
+
+#. ID 7, Page 2, Line 3, Pos (12,5)
+msgid "\\N[27]席瓦尔军　兵数\\V[332]"
+msgstr ""
+
+#. ID 7, Page 2, Line 8, Pos (12,5)
+msgid "\\N[27]你对敌人的警卫队发动了攻击！"
+msgstr ""
+
+#. ID 8, Page 1, Line 40, Pos (14,3)
+#. ID 10, Page 1, Line 40, Pos (18,5)
+#. ID 11, Page 1, Line 40, Pos (17,8)
+#. ID 12, Page 1, Line 16, Pos (14,7)
+#. ID 13, Page 1, Line 40, Pos (9,11)
+#. ID 14, Page 1, Line 40, Pos (2,4)
+#. ID 15, Page 1, Line 16, Pos (8,5)
+msgid ""
+"\\N[27]更多的敌人压迫而来，\n"
+"\\N[27]周围被围了个水泄不通！"
+msgstr ""
+
+#. ID 8, Page 1, Line 56, Pos (14,3)
+msgid ""
+"\\N[27]你救出了被囚禁在城馆\n"
+"\\N[27]之下的卡穆罗等人！"
+msgstr ""
+
+#. ID 8, Page 1, Line 59, Pos (14,3)
+msgid ""
+"\\N[27]卡姆罗\n"
+"\\N[27]「\\N[\\V[2]]……还活着么」"
+msgstr ""
+
+#. ID 8, Page 1, Line 61, Pos (14,3)
+msgid ""
+"\\N[27]卡穆罗\n"
+"\\N[27]「……你真的，\n"
+"\\N[27]　变得很出色了」"
+msgstr ""
+
+#. ID 8, Page 1, Line 66, Pos (14,3)
+msgid "\\N[27]获得了1点奖励SP！"
+msgstr ""
+
+#. ID 8, Page 2, Line 2, Pos (14,3)
+msgid ""
+"\\N[27]小规模的部队在城馆中驻防，\n"
+"\\N[27]在此不断监视着镇上的情况。"
+msgstr ""
+
+#. ID 8, Page 2, Line 4, Pos (14,3)
+msgid "\\N[27]席瓦尔军　兵数\\V[333]"
+msgstr ""
+
+#. ID 8, Page 2, Line 9, Pos (14,3)
+msgid ""
+"\\N[27]你一口气冲进城馆的大门，\n"
+"\\N[27]准备杀守卫一个措手不及！"
+msgstr ""
+
+#. ID 9, Page 1, Line 4, Pos (18,6)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「居然逞匹夫之勇……」"
+msgstr ""
+
+#. ID 9, Page 1, Line 31, Pos (18,6)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 1, Line 76, Pos (18,6)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 2, Line 5, Pos (18,6)
+msgid ""
+"\\N[27]神殿军　兵数\\V[334]\n"
+"\\N[27]指挥官：巴鲁斯穆斯"
+msgstr ""
+
+#. ID 9, Page 1, Line 103, Pos (18,6)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「――看来必须由\n"
+"\\N[27]　贫僧亲自出手了」"
+msgstr ""
+
+#. ID 9, Page 1, Line 108, Pos (18,6)
+msgid ""
+"\\N[27]敌兵有如潮水般分开，全身被\n"
+"\\N[27]粗犷铠甲覆盖的神官从中现身。"
+msgstr ""
+
+#. ID 9, Page 1, Line 112, Pos (18,6)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「……您是，那时的……？\n"
+"\\N[27]　原来如此，是想替师傅报仇吗」"
+msgstr ""
+
+#. ID 9, Page 1, Line 117, Pos (18,6)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「贫僧乃雷王战神官巴鲁斯穆斯。\n"
+"\\N[27]　堂堂正正，一决胜负吧！」"
+msgstr ""
+
+#. ID 9, Page 1, Line 126, Pos (18,6)
+msgid ""
+"\\N[27]巴鲁斯穆斯\n"
+"\\N[27]「咕……\n"
+"\\N[27]　何等棘手」"
+msgstr ""
+
+#. ID 9, Page 1, Line 131, Pos (18,6)
+msgid ""
+"\\N[27]敌将负伤而退。\n"
+"\\N[27]你想上前追击时，\n"
+"\\N[27]却被潮水般的敌兵所阻。"
+msgstr ""
+
+#. ID 9, Page 1, Line 136, Pos (18,6)
+msgid ""
+"\\N[27]敌将负伤而退。\n"
+"\\N[27]敌兵失去指挥，动摇不已。\n"
+"\\N[27]趁这个天赐良机，赶快突围吧。"
+msgstr ""
+
+#. ID 9, Page 2, Line 2, Pos (18,6)
+msgid ""
+"\\N[27]神殿军与席瓦尔军的大军在镇东\n"
+"\\N[27]待机，防守着东门的城墙要塞。"
+msgstr ""
+
+#. ID 9, Page 2, Line 9, Pos (18,6)
+msgid ""
+"\\N[27]统帅着这支部队的是，\\N[19]的仇人。\n"
+"\\N[27]要是能趁机报仇血恨就好了……"
+msgstr ""
+
+#. ID 10, Page 1, Line 17, Pos (18,5)
+#. Contains choice at line 2 (2 options)
+#. ID 10, Page 1, Line 51, Pos (18,5)
+#. Contains choice at line 2 (2 options)
+#. ID 10, Page 2, Line 2, Pos (18,5)
+msgid "\\N[27]席瓦尔军　兵数\\V[335]"
+msgstr ""
+
+#. ID 10, Page 1, Line 79, Pos (18,5)
+#. ID 11, Page 1, Line 79, Pos (17,8)
+#. ID 14, Page 1, Line 79, Pos (2,4)
+msgid ""
+"\\N[27]击溃了敌人的大部队。\n"
+"\\N[27]获得了2点奖励SP！"
+msgstr ""
+
+#. ID 11, Page 1, Line 17, Pos (17,8)
+#. Contains choice at line 2 (2 options)
+#. ID 11, Page 1, Line 51, Pos (17,8)
+#. Contains choice at line 2 (2 options)
+#. ID 11, Page 2, Line 2, Pos (17,8)
+msgid "\\N[27]席瓦尔军　兵数\\V[336]"
+msgstr ""
+
+#. ID 12, Page 2, Line 2, Pos (14,7)
+#. ID 15, Page 2, Line 2, Pos (8,5)
+msgid "\\N[27]少量席瓦尔士兵正在街上巡逻。"
+msgstr ""
+
+#. ID 12, Page 2, Line 3, Pos (14,7)
+msgid "\\N[27]席瓦尔军　兵数\\V[337]"
+msgstr ""
+
+#. ID 12, Page 2, Line 8, Pos (14,7)
+#. ID 15, Page 2, Line 8, Pos (8,5)
+msgid "\\N[27]你从巷子里飞奔出来，发起了攻击！"
+msgstr ""
+
+#. ID 13, Page 2, Line 2, Pos (9,11)
+msgid ""
+"\\N[27]港口停泊着五艘军船，\n"
+"\\N[27]有小规模的部队守在这里。"
+msgstr ""
+
+#. ID 13, Page 2, Line 4, Pos (9,11)
+msgid "\\N[27]席瓦尔军　兵数\\V[338]"
+msgstr ""
+
+#. ID 13, Page 2, Line 9, Pos (9,11)
+msgid ""
+"\\N[27]你为破坏军船而发动攻击，\n"
+"\\N[27]船中的敌兵立即出面迎击！"
+msgstr ""
+
+#. ID 14, Page 1, Line 17, Pos (2,4)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 1, Line 51, Pos (2,4)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 2, Line 3, Pos (2,4)
+msgid "\\N[27]席瓦尔军　兵数\\V[339]"
+msgstr ""
+
+#. ID 14, Page 2, Line 2, Pos (2,4)
+msgid "\\N[27]大规模的部队在镇西戒严着。"
+msgstr ""
+
+#. ID 15, Page 2, Line 3, Pos (8,5)
+msgid "\\N[27]席瓦尔军　兵数\\V[340]"
+msgstr ""
+
+#. ID 16, Page 1, Line 2, Pos (0,14)
+msgid "\\V[320]"
+msgstr ""
+
