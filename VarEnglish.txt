@@ -1,0 +1,1323 @@
+Always zero.
+常に0
+
+The birth of the main character
+主役の生まれ
+
+The birth and gender of the main character
+主役の生まれと性別
+
+Second party.
+パーティ２人目
+
+Third party.
+パーティ３人目
+
+The fourth (guest character)
+４人目（ゲストキャラ
+
+Number of employees
+雇用仲間数
+
+The face of the protagonist
+主役の顔
+
+Main character level
+主役レベル
+
+BGM types
+BGM種類
+
+Screen X coordinate
+画面Ｘ座標
+
+Screen Y coordinate
+画面Ｙ座標
+
+Current position X coordinate
+現在位置Ｘ座標
+
+Current position Y coordinate
+現在位置Ｙ座標
+
+Keyinput accepted.
+キー入力受け付け2
+
+Accept keystrokes.
+キー入力受け付け
+
+Today's run. enemy wins.
+今日のラン敵勝利数
+
+Current map ID
+現在いるマップID
+
+The number of remaining tsuruhashi used
+ツルハシ残り使用回数
+
+Number of rope remaining usage
+ロープ残り使用回数
+
+Fishing rod durability
+釣竿耐久度
+
+Sp progress · target EXP
+SP進行度・目標EXP
+
+Accumulated experience points
+獲得経験点
+
+The remaining SP
+残りＳＰ
+
+Accumulated experience points
+今回の累計獲得経験点
+
+This morning's experience
+今朝の経験点
+
+Current money
+現在の所持金
+
+Current location, terrain ID.
+現在位置地形ID
+
+Days from the start
+開始からの日数
+
+in
+年
+
+moon
+月
+
+on
+日
+
+Days between checkpoints
+ﾁｪｯｸﾎﾟｲﾝﾄ間日数
+
+Random item correction
+ﾗﾝﾀﾞﾑｱｲﾃﾑ補正値
+
+Random item availability
+ﾗﾝﾀﾞﾑｱｲﾃﾑ入手率
+
+Random item
+ﾗﾝﾀﾞﾑｱｲﾃﾑお宝貴重度
+
+The degree of material collection today
+今日の資材採取度
+
+Scenario progression
+シナリオ進行度
+
+Number of games cleared
+ゲームクリア回数
+
+Tower clear number
+塔クリア数
+
+Progress of information conversation
+情報会話進行度
+
+Special topic number
+特殊話題番号
+
+The number of conversations between friends
+仲間会話回数
+
+Today's random value
+今日のランダム値
+
+Today's random value is two.
+今日のランダム値2
+
+ver
+ver
+
+Difficulty level
+難易度
+
+Location, memory, map ID
+場所記憶・マップID
+
+Location, memory, x-coordinates.
+場所記憶・X座標
+
+Location memory. Y coordinates.
+場所記憶・Y座標
+
+Today's purchase rate
+今日の購入度
+
+Dream number
+夢見数
+
+Warp gate number
+ﾜｰﾌﾟｹﾞｰﾄ番号
+
+Dark cooking rate
+暗黒料理率
+
+Karma value
+カルマ値
+
+Special money and robbers
+特別金・盗賊専用
+
+Event scene progress
+イベントシーン進行
+
+Equipment, weapon, ID.
+装備武器ID
+
+Equipment shield ID.
+装備盾ID
+
+Armor ID
+装備鎧ID
+
+Equipment helmet ID
+装備兜ID
+
+Equipment, decoration ID.
+装備装飾品ID
+
+TTEXP %
+TTEXP％
+
+Shift. hold number.
+Shift押し続け数
+
+Display year
+表示用　年
+
+Display month
+表示用　月
+
+Display date
+表示用　日
+
+Ancient coin demand
+古代硬貨要求値
+
+Ancient coin value
+古代硬貨所持値
+
+Spent SP
+使用済ＳＰ
+
+Elapsed time
+経過時間
+
+Number of chances!
+鍵挑戦チャンス数ﾎﾞﾂ
+
+Difficulty of destruction
+破壊難易度
+
+Unlocking difficulty
+開錠難易度
+
+Trap difficulty
+罠難易度
+
+Trap damage value
+罠ダメージ値
+
+Trap type
+罠種別
+
+Character number designation
+キャラ番号指定
+
+Character level
+キャラのレベル
+
+HHP.
+キャラのＨＰ
+
+Maximum HP of the character
+キャラの最大ＨＰ
+
+Kara no MP
+キャラのＭＰ
+
+Character's maximum MP
+キャラの最大ＭＰ
+
+The character's attack power!
+キャラの攻撃力
+
+The character's defense.
+キャラの防御力
+
+The mental power of the character
+キャラの精神力
+
+The agility of the character
+キャラの敏捷性
+
+Judgment capacity
+判定能力値
+
+Target value/judgment zero
+目標値／判定レベ没
+
+Generic 8(random number)
+汎用 8(乱数
+
+Generic 7(random number)
+汎用 7(乱数
+
+Generic 6(for repeated processing, etc.)
+汎用 6(繰返処理等用
+
+Generic 5
+汎用 5
+
+Generic 4
+汎用 4
+
+Generic 3
+汎用 3
+
+Generic 2
+汎用 2
+
+Generic 1
+汎用 1
+
+The level of the protagonist
+主役のレベル
+
+The main character's HP
+主役のＨＰ
+
+Main character's maximum HP
+主役の最大ＨＰ
+
+The leading MP
+主役のＭＰ
+
+The greatest MP of the leading role
+主役の最大ＭＰ
+
+The main character's attack power!
+主役の攻撃力
+
+The main defense
+主役の防御力
+
+The main character's mental strength
+主役の精神力
+
+The agility of the protagonist
+主役の敏捷性
+
+Second level.
+２人目のレベル
+
+Second HP
+２人目のＨＰ
+
+The second maximum HP
+２人目の最大ＨＰ
+
+Second MP.
+２人目のＭＰ
+
+Second largest MP.
+２人目の最大ＭＰ
+
+Second attack power.
+２人目の攻撃力
+
+Second defense.
+２人目の防御力
+
+The second mental force.
+２人目の精神力
+
+Second, agility.
+２人目の敏捷性
+
+Third level.
+３人目のレベル
+
+Third HP.
+３人目のＨＰ
+
+The third maximum HP
+３人目の最大ＨＰ
+
+Third MP.
+３人目のＭＰ
+
+Third largest MP.
+３人目の最大ＭＰ
+
+Third attack power.
+３人目の攻撃力
+
+Third defense.
+３人目の防御力
+
+Third mental force.
+３人目の精神力
+
+A third kind of agility
+３人目の敏捷性
+
+Fourth guest level.
+４人目ゲストのレベル
+
+The fourth guest.
+４人目ゲストのＨＰ
+
+Maximum HP of the fourth guess
+４人目ゲスの最大ＨＰ
+
+Fourth guest, MP.
+４人目ゲストのＭＰ
+
+Fourth guess, the greatest MP.
+４人目ゲスの最大ＭＰ
+
+The fourth guest's attack power!
+４人目ゲストの攻撃力
+
+The defense of the fourth guest.
+４人目ゲストの防御力
+
+The spirit of the fourth guest.
+４人目ゲストの精神力
+
+The agility of the fourth guest
+４人目ゲストの敏捷性
+
+The rate of catching ordinary fish
+普通魚釣れる率
+
+The catch rate of giant fish
+巨大魚釣れる率
+
+The rate of catching rainbow fish
+虹色魚釣れる率
+
+Treasure catch rate
+宝釣れる率
+
+Kraken fishing rate
+クラーケン釣れる率
+
+The rate of catching special 1
+特殊1釣れる率
+
+Special 2: catch rate
+特殊2釣れる率
+
+Computational variables for curses.
+計算変数呪い用ボツ
+
+Character number
+キャラ番号呪い用ボツ
+
+The number of items you possess.
+ｱｲﾃﾑ所持数呪い用ﾎﾞﾂ
+
+Display number one digit
+表示数値一の桁
+
+Display the number 10 digits
+表示数値十の桁
+
+Display number of 100 digits
+表示数値百の桁
+
+Enemy HP
+敵HP
+
+Battle turns
+戦闘ターン数
+
+Battle variable 02.
+戦闘変数02
+
+Battle variable 01.
+戦闘変数01
+
+Items possession: 01
+アイテム所持数01
+
+Number of items: 02
+アイテム所持数02
+
+Number of items, 03.
+アイテム所持数03
+
+Item count: 04
+アイテム所持数04
+
+Sell price 1
+売値1
+
+Sell price 2
+売値2
+
+Sell price 3
+売値3
+
+Asking price 4
+売値4
+
+Item price
+アイテム値段
+
+Generated item ID
+生成アイテムID
+
+Material 01 ID.
+素材01 ID
+
+Material 02, ID.
+素材02 ID
+
+Material three. ID.
+素材03 ID
+
+Synthetic item summation
+合成アイテム加算値
+
+Composite item multiplication value
+合成アイテム乗算値
+
+Food corruption
+食料腐敗率
+
+Points limit
+アイテム所持数限界
+
+Material 01 number of possession
+素材01所持数
+
+Material 02 number of possession
+素材02所持数
+
+warrior
+戦士
+
+knight
+騎士
+
+rejection
+ボツ
+
+A burglar
+夜盗
+
+archer
+射手
+
+Archaeological vandalism
+遺跡荒らし
+
+The magician.
+魔術師
+
+sorcerer
+妖術師
+
+bard
+吟遊詩人
+
+Shinto priest
+神官
+
+taimashi
+退魔師
+
+rejection
+ボツ
+
+swordsman
+剣聖
+
+monarch
+君主
+
+The mad warrior
+狂戦士
+
+assassins
+暗殺者
+
+rangers
+野伏
+
+rejection
+ボツ
+
+wise
+賢者
+
+He had a very charming
+魔人
+
+spiritualism
+精霊術師
+
+apostle
+使徒
+
+Court of justice
+裁きの司
+
+rejection
+ボツ
+
+The number of titles for succession
+引継称号しるし数
+
+Master number
+引継熟練しるし数
+
+Current titles
+現在の称号
+
+Top preference
+好感度ﾄｯﾌﾟ判定種類
+
+The progress of the request
+テオル依頼進行度
+
+Shiji scramble items
+シジ奪い合いアイテム
+
+Number of ryuseki collected
+竜石収集数
+
+Paris goodwill
+パリス好感度
+
+Nell, I like you.
+ネル好感度
+
+Laban favorability
+ラバン好感度
+
+Kireha likability
+キレハ好感度
+
+Siephon likability
+シーフォン好感度
+
+Terraja likability
+テレージャ好感度
+
+Alson likability
+アルソン好感度
+
+Enda likability
+エンダ好感度
+
+Fran likability
+フラン好感度
+
+Melodark likability
+メロダーク好感度
+
+Chun na favorability
+チュナ好感度
+
+Chun na favorability is down.
+チュナ好感度ボツ
+
+Magic circle 1
+宮殿06魔法陣1
+
+Magic circle 2
+宮殿06魔法陣2
+
+Magic circle 3
+宮殿06魔法陣3
+
+Magic circle 4
+宮殿06魔法陣4
+
+Magic circle 5
+宮殿06魔法陣5
+
+Magic circle 6
+宮殿06魔法陣6
+
+Magic circle 7
+宮殿06魔法陣7
+
+Magic circle 8
+宮殿06魔法陣8
+
+Magic circle 9
+宮殿06魔法陣9
+
+Magic circle calculation
+魔法陣計算用
+
+Palace 09 progress
+宮殿09進行度
+
+Palace 10 progress level
+宮殿10進行度
+
+How many palace treasures did you get?
+宮殿宝入手数ボツ？
+
+Palace 20, heading east.
+宮殿20東進行度
+
+Palace 05 progress
+宮殿05進行度
+
+Ryujo 14 limit
+竜上14リミット
+
+Wanted by the imperial capital
+帝都指名手配度
+
+The spirit of the spring
+妖下06泉の精進行度
+
+What's going on?
+妖下07進行度
+
+White deer progress
+妖下08.09白鹿進行度
+
+It's a monster!
+妖上10進行度
+
+Frog progression
+カエル進行度
+
+Friendly black iron
+友好黒鉄 -←→+ 編髭
+
+Stage 1 brawny victory
+第一層編髭勝利度
+
+First black iron victory
+第一層黒鉄勝利度
+
+Second layer braided beard victory
+第二層編髭勝利度
+
+Second layer black iron victory
+第二層黒鉄勝利度
+
+Third layer beard victory
+第三層編髭勝利度
+
+Third layer black iron victory
+第三層黒鉄勝利度
+
+Experience points
+小上経験点入手数
+
+Go on! Go on!
+小上02進行度
+
+Night king
+小上21夜種王進行度
+
+Kogami 23...
+小上23牢獄進行度
+
+Clear number
+夜種王クリア数
+
+Outdoor 14
+野外14猿倒し数
+
+Big 10 magic wish number
+巨中10魔神願い数
+
+Open air 13
+野外13渡し終えた金
+
+Konaka 01-01
+巨中09-01
+
+Konaka 01-02
+巨中09-02
+
+Konaka 01-03
+巨中09-03
+
+Konaka 09-04
+巨中09-04
+
+Kyouchu 0-09
+巨中09-05
+
+Konaka 0-09
+巨中09-06
+
+Konaka 09-07
+巨中09-07
+
+Konaka 09-08
+巨中09-08
+
+Konaka 09-09
+巨中09-09
+
+Kyouchu 09-10
+巨中09-10
+
+Kyouchu 09-11
+巨中09-11
+
+Kyouchu 09-12
+巨中09-12
+
+Konaka 09-13
+巨中09-13
+
+Konaka 09-14
+巨中09-14
+
+Kyouchu 09-15
+巨中09-15
+
+Konaka 09-16
+巨中09-16
+
+Graveyard: the number of cranes used
+墓所10ツルハシ使用数
+
+Basalt 01 progression
+玄室01進行度
+
+Grave BGM progression
+墓所BGM進行度
+
+Conversation of the emperor
+玄室17皇帝会話
+
+Titus victory number
+タイタス勝利数
+
+Titus position.
+タイタス位置
+
+Final 06 attached recovery number
+最終06付属回復回数
+
+The emperor body 0 teol 1 chuna 2 shiji
+皇帝肉体0ﾃｵﾙ1ﾁｭﾅ2ｼｼﾞ
+
+Rasbat BGM progression
+ラスバトBGM進行度
+
+Purifying items.
+ﾗｽﾊﾞﾄ所持浄化ｱｲﾃﾑ
+
+Battle of rasbat
+ﾗｽﾊﾞﾄ戦闘背景
+
+Rasbat limit turn number
+ﾗｽﾊﾞﾄ制限ﾀｰﾝ数
+
+Last boss strength
+ラスボス強化度
+
+Kuroom algebra
+ク・ルーム倒し数
+
+Equipment number!
+秘石装備数
+
+situation
+戦況
+
+Enemy number
+敵兵数
+
+Battle time passed
+戦闘時間経過
+
+Enemy X coordinate
+敵Ｘ座標
+
+Enemy y-coordinate
+敵Ｙ座標
+
+Total number of Allies
+味方総数
+
+Total enemy count
+敵総数
+
+Friend 01.
+味方01
+
+Friend 02
+味方02
+
+Friend 03
+味方03
+
+Friend 04
+味方04
+
+Friend 05
+味方05
+
+Friend 06.
+味方06
+
+Friend 07
+味方07
+
+Friend 08
+味方08
+
+Friend 09
+味方09
+
+Alliance 10.
+味方10
+
+Enemy 01
+敵01
+
+Enemy 02
+敵02
+
+Enemy 03
+敵03
+
+Enemy 04
+敵04
+
+Enemy 05
+敵05
+
+Enemy 06
+敵06
+
+Enemy 07
+敵07
+
+Enemy 08
+敵08
+
+Enemy 09
+敵09
+
+Enemy 10
+敵10
+
+Alliance 01, position.
+味方01位置
+
+Alliance 02, position.
+味方02位置
+
+Alliance 03, position.
+味方03位置
+
+Alliance 04, position.
+味方04位置
+
+Alliance 05, position.
+味方05位置
+
+Alliance 06, position.
+味方06位置
+
+Alliance 07, position.
+味方07位置
+
+Alliance 08, position.
+味方08位置
+
+Alliance 09, position.
+味方09位置
+
+Alliance 10, position.
+味方10位置
+
+Enemy 01, position.
+敵01位置
+
+Enemy 02, position.
+敵02位置
+
+Enemy three in position.
+敵03位置
+
+Enemy at 04.
+敵04位置
+
+Enemy 05, position.
+敵05位置
+
+Enemy six in position.
+敵06位置
+
+Enemy 07, position.
+敵07位置
+
+Enemy eight in position.
+敵08位置
+
+Enemy 09, position.
+敵09位置
+
+Enemy 10 in position.
+敵10位置
+
+The main character curse weapon
+主役呪い武器
+
+Curse shield
+主役呪い盾
+
+Curse armor
+主役呪い鎧
+
+Curse helmet
+主役呪い兜
+
+Curses and ornaments
+主役呪い装飾品
+
+The curse weapon Paris
+呪い武器パリス
+
+Curse your weapon!
+呪い武器ネル
+
+Curse weapon Laban
+呪い武器ラバン
+
+Curse weapon kireha
+呪い武器キレハ
+
+Curse weapon shiji
+呪い武器シジ
+
+Curse weapon terreja
+呪い武器テレージャ
+
+The curse weapon alson
+呪い武器アルソン
+
+Curse weapon enda
+呪い武器エンダ
+
+Curse weapon Fran
+呪い武器フラン
+
+Curse, weapon!
+呪い武器メロ
+
+Curse, shield, Paris.
+呪い盾パリス
+
+Curse!
+呪い盾ネル
+
+Curse shield raban
+呪い盾ラバン
+
+Curse, shield, kireha
+呪い盾キレハ
+
+Curse shield shiji
+呪い盾シジ
+
+Curses, shields, terreja.
+呪い盾テレージャ
+
+Curse shield alson
+呪い盾アルソン
+
+Curse shield enda
+呪い盾エンダ
+
+Curse shield franc
+呪い盾フラン
+
+Curse, shield, melody.
+呪い盾メロ
+
+Curse armor Paris
+呪い鎧パリス
+
+Curse armor
+呪い鎧ネル
+
+Curse armor Laban
+呪い鎧ラバン
+
+Curse armor kireha
+呪い鎧キレハ
+
+Curse yoroi shigeji
+呪い鎧シジ
+
+Curse armor terreja
+呪い鎧テレージャ
+
+Curse armor alson
+呪い鎧アルソン
+
+Curse armor ender
+呪い鎧エンダ
+
+Curse armor franc
+呪い鎧フラン
+
+Curse armor melo
+呪い鎧メロ
+
+Curse helmet Paris
+呪い兜パリス
+
+The curse
+呪い兜ネル
+
+Curse!
+呪い兜ラバン
+
+Curse kabuto kireha
+呪い兜キレハ
+
+Curse!
+呪い兜シジ
+
+Curse terreja
+呪い兜テレージャ
+
+The curse.
+呪い兜アルソン
+
+Enda kabuto
+呪い兜エンダ
+
+Curse helmet franc
+呪い兜フラン
+
+Curse!
+呪い兜メロ
+
+Curse, decoration, Paris.
+呪い装飾品パリス
+
+Curse, ornament, nel.
+呪い装飾品ネル
+
+Curse adornment raban
+呪い装飾品ラバン
+
+Curses, ornaments, kireha
+呪い装飾品キレハ
+
+The curse, the decoration, the siji.
+呪い装飾品シジ
+
+Curses, ornaments, terreja.
+呪い装飾品テレージャ
+
+Arson, arson.
+呪い装飾品アルソン
+
+Enda adornment
+呪い装飾品エンダ
+
+Curse, ornament, Fran.
+呪い装飾品フラン
+
+Curses, ornaments, melos.
+呪い装飾品メロ
+
+Curse weapon ID
+呪い武器ID
+
+Curse shield ID
+呪い盾ID
+
+Curse armor ID
+呪い鎧ID
+
+Curse helmet ID
+呪い兜ID
+
+Curse ornament ID
+呪い装飾品ID
+
+Computational variable curse for A
+計算変数呪い用Ａ
+
+Computational variable curse for B
+計算変数呪い用Ｂ
+
+Character number for curse
+キャラ番号呪い用
+
+The number of items you possess.
+ｱｲﾃﾑ所持数呪い用
+
+Map ID storage
+マップID保存
+
+X-coordinate conservation
+Ｘ座標保存
+
+Y-coordinate preservation
+Ｙ座標保存
+
+Conservation of number of companions
+仲間数保存
+
+Second person, ID saved.
+２人目ID保存
+
+Third person, ID saved.
+３人目ID保存
+
+Number four, ID saved.
+４人目ID保存
+
+Planet 02 recovery number
+星界02回復数
+
+Graveyard woman
+墓場女アイテム貰い数
+
+Warrior event progression
+戦士イベント進行度
+
+Shinkan event progress
+神官イベント進行度
+
+Forgetting 01
+忘却01進行度
+
+Thief event progression
+盗賊イベント進行度
+
+Disguise of thieves
+盗賊イベ変装内容
+
+The thief.
+盗賊イベ見つかり度
+
+Nell, the blacksmith.
+ネル鍛冶屋進行度
+
+Wolf event progression
+狼イベント進行度
+
+Top favorite votes
+最終好感度トップボツ
+
+Final buddy conversation number.
+最終仲間会話番号
+
+Clear days preservation
+クリア日数保存
+
+Current Tick
+現在のTick
+
+Endrol progression
+エンドロール進行度
+
+Random map random value 1
+乱数ﾏｯﾌﾟﾗﾝﾀﾞﾑ値1
+
+Random map random value 2
+乱数ﾏｯﾌﾟﾗﾝﾀﾞﾑ値2
+
+Map oita class
+マップ大分類
+
+Map subclassification
+マップ小分類
+
+Map number
+マップ番号
+
+Map pattern
+マップパターン
+
+Classification rate
+分類変化率
+
+Random map type for splitting
+乱数ﾏｯﾌﾟ種類分岐用
+
+Random map entry location
+乱数ﾏｯﾌﾟ入口位置
+
+Random map exit location
+乱数ﾏｯﾌﾟ出口位置
+
+Remaining hierarchy
+残り階層数
+
+Number of steps
+踏破階層数
+
+Random map enemy level correction
+乱数ﾏｯﾌﾟ敵ﾚﾍﾞﾙ修正値
+
+Map difficulty fix
+マップ難易度修正値
+
+Landamap BGM
+ﾗﾝﾀﾞﾏｯﾌﾟBGM
+
+Random map clear number
+乱数マップクリア数
+
+Random map special ibe
+乱数マップ特殊イベ
+
+Orchid 01 species
+ラン01種類
+
+Orchids: 02 kinds
+ラン02種類
+
+Orchid 03 kinds
+ラン03種類
+
+Four kinds of orchids
+ラン04種類
+
+Orchids: 05 kinds
+ラン05種類
+
+Orchid 06 kinds
+ラン06種類
+
+Seven kinds of orchids
+ラン07種類
+
+Orchid 08 kinds
+ラン08種類
+
+Nine kinds of orchids
+ラン09種類
+
+Ten kinds of orchids
+ラン10種類
+
+Quest one.
+クエスト1
+
