@@ -17,7 +17,7 @@
 
 
 
-日文 Wiki 参考:[ その他のアイテム - Ruina 廃都の物語 @ ウィキ - atwiki（アットウィキ）]([その他のアイテム - Ruina 廃都の物語 @ ウィキ - atwiki（アットウィキ）](https://w.atwiki.jp/ruinakokuryaku/pages/88.html)
+日文 Wiki 参考:[ その他のアイテム - Ruina 廃都の物語 @ ウィキ - atwiki（アットウィキ）](https://w.atwiki.jp/ruinakokuryaku/pages/88.html)
 
 感谢老哥的日语文件名修复脚本 : https://github.com/westernoon/Fix-garbled-Japanese-file-name-and-garbled-txt-text-content
 
