@@ -11,11 +11,19 @@
 
 可以使用 [Translator++](https://dreamsavior.net/download/)  解包游戏来进行汉化,如果解包的是汉化版会导致全部文本乱码 (日文版不会)
 
+目前将原来的地图名全部换为了英文版的名称,读取到地图图片为了能顺利读取,将一个符号删了.
+
+
+
+
+
 日文 Wiki 参考:[ その他のアイテム - Ruina 廃都の物語 @ ウィキ - atwiki（アットウィキ）]([その他のアイテム - Ruina 廃都の物語 @ ウィキ - atwiki（アットウィキ）](https://w.atwiki.jp/ruinakokuryaku/pages/88.html)
 
 感谢老哥的日语文件名修复脚本 : https://github.com/westernoon/Fix-garbled-Japanese-file-name-and-garbled-txt-text-content
 
 RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate an RPG Maker 2000/2003 Game - vgperson's Posts](https://vgperson.com/posts.php?p=rpgmakerguide)
+
+其他:  [RPG 制作大师 系列游戏安装教程 - 野比大雄的生化危机WIKI_BWIKI_哔哩哔哩](https://wiki.biligame.com/nobihaza/RPG_%E5%88%B6%E4%BD%9C%E5%A4%A7%E5%B8%88_%E7%B3%BB%E5%88%97%E6%B8%B8%E6%88%8F%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
 
 ## TODO
 
@@ -179,12 +187,8 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 ### 使用的变量修复
 
-- [x]  1- 20 
-- [x]  21 - 40
-
- 
-
-
+- [x] 1- 20 
+- [x] 21 - 40
 
 ### 存疑变量名
 
