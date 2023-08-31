@@ -5,9 +5,17 @@
 
 2023.8.30
 
-现在准备用 RM2000 一点点对比修复,之前本来想用 EasyRPG的工具来进行修复,结果发现有很多问题(比如 导出的po文件无法编译成游戏需要的 ldb 文件),所以只好采用这样麻烦的方法进行修复
+现在准备用 RM2000 一点点对比修复,之前本来想用 EasyRPG 的工具来进行修复,结果发现有很多问题(比如 导出的po文件无法编译成游戏需要的 ldb 文件),所以只好采用这样麻烦的方法进行修复
 
-[What’s the Difference Between a Main Character, Protagonist, and Hero? - 2023 - MasterClass](https://www.masterclass.com/articles/whats-the-difference-between-a-main-character-protagonist-and-hero#2F2Ky8Eg4QvBoM22w4TiIN)
+2023/8/31 
+
+可以使用 [Translator++](https://dreamsavior.net/download/)  解包游戏来进行汉化,如果解包的是汉化版会导致全部文本乱码 (日文版不会)
+
+日文 Wiki 参考:[ その他のアイテム - Ruina 廃都の物語 @ ウィキ - atwiki（アットウィキ）]([その他のアイテム - Ruina 廃都の物語 @ ウィキ - atwiki（アットウィキ）](https://w.atwiki.jp/ruinakokuryaku/pages/88.html)
+
+感谢老哥的日语文件名修复脚本 : https://github.com/westernoon/Fix-garbled-Japanese-file-name-and-garbled-txt-text-content
+
+RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate an RPG Maker 2000/2003 Game - vgperson's Posts](https://vgperson.com/posts.php?p=rpgmakerguide)
 
 ## TODO
 
@@ -59,11 +67,11 @@
 
 - [x] 18 - 27
 
-- [ ] 29 - 42 
+- [x] 29 - 42 
 
-- [ ] 44 - 47 
+- [x] 44 - 47 
 
-- [ ] 49 - 56 
+- [x] 49 - 56 
 
 - [ ] 59 - 68
 
@@ -143,7 +151,7 @@
 
 ### 任务事件修复
 
-- [ ] 1 - 47 
+- [ ] 1 - 47  
 
 - [ ] 51 - 56 
 
