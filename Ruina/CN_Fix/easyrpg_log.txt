@@ -71,3 +71,71 @@
 [2023-08-30 13:45:59] Debug: Sound not found: 僇乕僜儖1
 [2023-08-30 13:46:03] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
 [2023-08-30 13:46:03] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-31 18:52:49] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2023-08-31 18:52:49] Debug: =======================================
+[2023-08-31 18:52:49] Debug: CLI: 
+[2023-08-31 18:52:49] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-08-31 18:52:49] Debug: Seeded the RNG with 1693479168.
+[2023-08-31 18:52:49] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-08-31 18:52:49] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-08-31 18:52:49] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-08-31 18:52:49] Debug: Detected encoding: windows-936-2000. Files not found (2/3). Trying next.
+[2023-08-31 18:52:49] Debug: Bad encoding: EUC-JP. Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: windows-949-2000. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: UTF-16BE. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: UTF-16LE. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Bad encoding: KOI8-R. Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: Big5. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: ibm-5347_P100-1998. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: ibm-5349_P100-1998. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: ibm-5348_P100-1997. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Bad encoding: IBM420_ltr. Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: ibm-5346_P100-1998. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: ibm-5347_P100-1998. Files not found (0/3). Trying next.
+[2023-08-31 18:52:49] Debug: Detected encoding: windows-936-2000
+[2023-08-31 18:52:49] Debug: Game and Save Directory:
+[2023-08-31 18:52:49] Debug: 1: [Native] 
+[2023-08-31 18:52:49] Debug: Loading game Ruina 废都物语 ver1.22
+[2023-08-31 18:52:49] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-08-31 18:52:49] Debug: Analyzing RPG_RT RPG_RT.exe
+[2023-08-31 18:52:49] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2023-08-31 18:52:49] Debug: ExFont loaded from RPG_RT
+[2023-08-31 18:52:49] Debug: EXEReader: VERSIONINFO not found
+[2023-08-31 18:52:49] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2023-08-31 18:52:49] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2023-08-31 18:52:49] Debug: Adding D:\RPG20002003RTP\rtp2000\RTP to RTP path
+[2023-08-31 18:52:49] Debug: RTP is "Official Japanese" (465/465)
+[2023-08-31 18:52:49] Debug: Patch configuration: dynrpg=false maniac=false key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-08-31 18:52:49] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-31 18:52:49] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-31 18:52:49] Debug: Cannot find: System/攑搒僔僗僥儉
+[2023-08-31 18:52:49] Warning: Image not found: System/攑搒僔僗僥儉
+[2023-08-31 18:52:49] Debug: Cannot find: Font/Font
+[2023-08-31 18:52:49] Debug: Cannot find: Font/Font2
+[2023-08-31 18:52:50] Debug: Resolution changed to 320x240
+[2023-08-31 18:52:53] Debug: Starting new game
+[2023-08-31 18:52:53] Debug: Loaded Map Map0002.lmu
+[2023-08-31 18:52:53] Debug: Tree: 02Start Screen
+[2023-08-31 18:52:54] Debug: Cannot find: Picture/晽宨丒楡
+[2023-08-31 18:52:54] Warning: Image not found: Picture/晽宨丒楡
+[2023-08-31 18:52:54] Debug: Fluidsynth: Could not load soundfont.
+[2023-08-31 18:52:54] Debug: WildMidi: Could not find configuration file.
+[2023-08-31 18:52:55] Debug: Cannot find: Sound/僗僀僢僠2
+[2023-08-31 18:52:55] Debug: Sound not found: 僗僀僢僠2
+[2023-08-31 18:52:57] Debug: Cannot find: Sound/僗僀僢僠2
+[2023-08-31 18:52:57] Debug: Sound not found: 僗僀僢僠2
+[2023-08-31 18:52:58] Debug: Cannot find: Picture/婄奊庡栶慖戰抝
+[2023-08-31 18:52:58] Warning: Image not found: Picture/婄奊庡栶慖戰抝
+[2023-08-31 18:52:59] Debug: Cannot find: Sound/僗僀僢僠2
+[2023-08-31 18:52:59] Debug: Sound not found: 僗僀僢僠2
+[2023-08-31 18:53:00] Debug: Cannot find: Sound/僗僀僢僠2
+[2023-08-31 18:53:00] Debug: Sound not found: 僗僀僢僠2
+[2023-08-31 18:53:01] Debug: Cannot find: Sound/僗僀僢僠2
+[2023-08-31 18:53:01] Debug: Sound not found: 僗僀僢僠2
+[2023-08-31 18:53:02] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-31 18:53:02] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-31 18:53:02] Debug: Cannot find: System/攑搒僔僗僥儉
+[2023-08-31 18:53:02] Warning: Image not found: System/攑搒僔僗僥儉
+[2023-08-31 18:53:02] Debug: Resolution changed to 320x240
+[2023-08-31 18:53:07] Debug: Actor 16: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)
+[2023-08-31 18:53:07] Debug: Actor 18: Removing item 803 (of type 0) from equipment slot 5 (needs type 5)

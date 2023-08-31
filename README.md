@@ -7,6 +7,8 @@
 
 现在准备用 RM2000 一点点对比修复,之前本来想用 EasyRPG的工具来进行修复,结果发现有很多问题(比如 导出的po文件无法编译成游戏需要的 ldb 文件),所以只好采用这样麻烦的方法进行修复
 
+[What’s the Difference Between a Main Character, Protagonist, and Hero? - 2023 - MasterClass](https://www.masterclass.com/articles/whats-the-difference-between-a-main-character-protagonist-and-hero#2F2Ky8Eg4QvBoM22w4TiIN)
+
 ## TODO
 
 ### 地图名称修复
@@ -167,30 +169,27 @@
 
 - [ ] 179 
 
-### 整理使用的变量
+### 使用的变量修复
 
-- [x]  1 - 20 
+- [x]  1- 20 
+- [x]  21 - 40
 
-- [ ]  21 -  40 
-
-- [ ]  41 - 50 
-
-- [ ]  51 - 60 
-
-- [ ]  61 - 70
-
-- [ ]  71 - 80 
+ 
 
 
 
-### 可能需要测试的变量
+### 存疑变量名
 
-- [ ] 35  ﾁｪｯｸﾎﾟｲﾝﾄ間日数 
-
-- [ ] 37 ﾗﾝﾀﾞﾑｱｲﾃﾑ補正値
-
-- [ ] 38 ﾗﾝﾀﾞﾑｱｲﾃﾑ入手率
-
-- [ ] 39 ﾗﾝﾀﾞﾑｱｲﾃﾑお宝貴重度
-
-- [ ] 
+| 变量原文           | 英文翻译                 | 备注  | 编号  |
+| -------------- | -------------------- | --- | --- |
+| 今回の累計獲得経験点     | AccumulatedEXP Now   |     | 27  |
+| 今朝の経験点         | TodayAccumulatedEXP  |     | 28  |
+| 現在位置地形ID       | CurrentLocationID    |     | 30  |
+| ﾁｪｯｸﾎﾟｲﾝﾄ間日数   | DayBetweenCheckpoint |     | 35  |
+| ﾗﾝﾀﾞﾑｱｲﾃﾑ補正値   | RandomItemCorrection |     | 37  |
+| ﾗﾝﾀﾞﾑｱｲﾃﾑ入手率   | RandomItemGet        |     | 38  |
+| ﾗﾝﾀﾞﾑｱｲﾃﾑお宝貴重度 | RandomItemLevel      |     | 39  |
+| 今日の資材採取度       | CollectionDegreeTody |     | 40  |
+|                |                      |     |     |
+|                |                      |     |     |
+|                |                      |     |     |

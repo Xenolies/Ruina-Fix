@@ -1,12 +1,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. ID 1, Line 16
 msgid ""
@@ -744,7 +749,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[8]\n"
 "\\N[27]「那再见吧……」\n"
-""
 msgstr ""
 
 #. ID 11, Line 380
@@ -783,9 +787,7 @@ msgid ""
 msgstr ""
 
 #. ID 11, Line 400
-msgid ""
-"\\N[27]\\N[8]离去了。\n"
-""
+msgid "\\N[27]\\N[8]离去了。\n"
 msgstr ""
 
 #. ID 11, Line 411
@@ -1078,9 +1080,7 @@ msgid "队伍全灭了……"
 msgstr ""
 
 #. ID 19, Line 17
-msgid ""
-"\\N[27]\\N[\\V[81]]受到了\\V[99]点伤害！\n"
-""
+msgid "\\N[27]\\N[\\V[81]]受到了\\V[99]点伤害！\n"
 msgstr ""
 
 #. ID 19, Line 22
@@ -1103,7 +1103,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[\\V[81]]被火焰席卷了！\n"
 "\\N[27]受到了\\V[99]点伤害！\n"
-""
 msgstr ""
 
 #. ID 19, Line 80
@@ -1744,7 +1743,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[20]\n"
 "\\N[27]「…………」\n"
-""
 msgstr ""
 
 #. ID 28, Line 362
@@ -2004,9 +2002,7 @@ msgid ""
 msgstr ""
 
 #. ID 40, Line 66
-msgid ""
-"\\N[27]陷阱启动了！\n"
-""
+msgid "\\N[27]陷阱启动了！\n"
 msgstr ""
 
 #. ID 40, Line 75
@@ -2018,9 +2014,7 @@ msgid "\\N[27]宝箱被砸破了！"
 msgstr ""
 
 #. ID 40, Line 101
-msgid ""
-"\\N[27]宝箱没能被砸破！\n"
-""
+msgid "\\N[27]宝箱没能被砸破！\n"
 msgstr ""
 
 #. ID 40, Line 113
@@ -2028,9 +2022,7 @@ msgid "\\N[27]这个宝箱无法用魔法钥匙打开。"
 msgstr ""
 
 #. ID 40, Line 125
-msgid ""
-"\\N[27]没有魔法钥匙。\n"
-""
+msgid "\\N[27]没有魔法钥匙。\n"
 msgstr ""
 
 #. ID 40, Line 150
@@ -2063,7 +2055,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[8]挑战了渡水。\n"
 "\\N[27]「让我来试试看啊」\n"
-""
 msgstr ""
 
 #. ID 72, Line 57
@@ -2138,7 +2129,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[8]感觉到了危险。\n"
 "\\N[27]「有危险的气息……」\n"
-""
 msgstr ""
 
 #. ID 73, Line 57
@@ -2245,7 +2235,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[14]进行了挑战。\n"
 "\\N[27]「既然你这么要求了」\n"
-""
 msgstr ""
 
 #. ID 75, Line 20
@@ -2326,14 +2315,12 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[8]进行了挑战。\n"
 "\\N[27]「我姑且一试吧」\n"
-""
 msgstr ""
 
 #. ID 76, Line 54
 msgid ""
 "\\N[27]\\N[9]进行了挑战。\n"
 "\\N[27]「需要我的头脑了吧」\n"
-""
 msgstr ""
 
 #. ID 76, Line 64
@@ -2376,7 +2363,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[11]进行了挑战。\n"
 "\\N[27]「我会努力的！」\n"
-""
 msgstr ""
 
 #. ID 77, Line 81
@@ -2395,7 +2381,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[14]进行了挑战。\n"
 "\\N[27]「…………」\n"
-""
 msgstr ""
 
 #. ID 78, Line 13
@@ -2425,7 +2410,6 @@ msgstr ""
 msgid ""
 "\\N[27]成功了！\n"
 "\\N[27]「好，完成了」\n"
-""
 msgstr ""
 
 #. ID 78, Line 58
@@ -2456,7 +2440,6 @@ msgstr ""
 msgid ""
 "\\N[27]成功了！\n"
 "\\N[27]「太好了……」\n"
-""
 msgstr ""
 
 #. ID 78, Line 104
@@ -2466,9 +2449,7 @@ msgid ""
 msgstr ""
 
 #. ID 78, Line 131
-msgid ""
-"\\N[27]成功了！\n"
-""
+msgid "\\N[27]成功了！\n"
 msgstr ""
 
 #. ID 79, Line 13
@@ -2522,7 +2503,6 @@ msgstr ""
 msgid ""
 "\\N[27]失败了。\n"
 "\\N[27]「呜ー……」\n"
-""
 msgstr ""
 
 #. ID 79, Line 90
@@ -3374,14 +3354,12 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[8]\n"
 "\\N[27]「………………」\n"
-""
 msgstr ""
 
 #. ID 87, Line 733
 msgid ""
 "\\N[27]你在那一瞬间看到的巨兽的身姿，\n"
 "\\N[27]真的是光霞造成的幻影吗――\n"
-""
 msgstr ""
 
 #. ID 87, Line 737
@@ -5122,7 +5100,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[9]\n"
 "\\N[27]「……该死、该死……」\n"
-""
 msgstr ""
 
 #. ID 98, Line 618
@@ -5429,7 +5406,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[9]\n"
 "\\N[27]「呀哇啊啊！！」\n"
-""
 msgstr ""
 
 #. ID 98, Line 859
@@ -5790,9 +5766,7 @@ msgid ""
 msgstr ""
 
 #. ID 102, Line 200
-msgid ""
-"\\N[27]\\N[8]回到同伴中了。\n"
-""
+msgid "\\N[27]\\N[8]回到同伴中了。\n"
 msgstr ""
 
 #. ID 102, Line 209
@@ -6184,9 +6158,7 @@ msgid ""
 msgstr ""
 
 #. ID 128, Line 2
-msgid ""
-"\\N[27]在这里似乎无法钓鱼。\n"
-""
+msgid "\\N[27]在这里似乎无法钓鱼。\n"
 msgstr ""
 
 #. ID 130, Line 6
@@ -6639,7 +6611,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[5]\n"
 "\\N[27]「…………」\n"
-""
 msgstr ""
 
 #. ID 138, Line 285
@@ -7231,7 +7202,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[5]\n"
 "\\N[27]「哈啊……那真是多谢了」\n"
-""
 msgstr ""
 
 #. ID 138, Line 821
@@ -13016,7 +12986,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[11]\n"
 "\\N[27]「嗯嗯」\n"
-""
 msgstr ""
 
 #. ID 143, Line 685
@@ -13061,7 +13030,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[11]\n"
 "\\N[27]「呼哇啊，原来如此啊……」\n"
-""
 msgstr ""
 
 #. ID 143, Line 721
@@ -15245,7 +15213,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[12]\n"
 "\\N[27]「唔叽ーーー！！」\n"
-""
 msgstr ""
 
 #. ID 145, Line 337
@@ -15439,7 +15406,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[12]\n"
 "\\N[27]「呆ー……」\n"
-""
 msgstr ""
 
 #. ID 145, Line 578
@@ -15786,9 +15752,7 @@ msgid ""
 msgstr ""
 
 #. ID 145, Line 831
-msgid ""
-"\\N[27]\\N[12]露出了困惑的表情。\n"
-""
+msgid "\\N[27]\\N[12]露出了困惑的表情。\n"
 msgstr ""
 
 #. ID 145, Line 845
@@ -16466,7 +16430,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[13]\n"
 "\\N[27]「…………」\n"
-""
 msgstr ""
 
 #. ID 146, Line 379
@@ -18056,7 +18019,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[14]\n"
 "\\N[27]「…………」\n"
-""
 msgstr ""
 
 #. ID 147, Line 930
@@ -18107,7 +18069,6 @@ msgstr ""
 msgid ""
 "\\N[27]\\N[12]\n"
 "\\N[27]「啊姆啊姆」\n"
-""
 msgstr ""
 
 #. ID 149, Line 79
@@ -18869,7 +18830,6 @@ msgstr ""
 msgid ""
 "\\N[27]男\n"
 "\\N[27]「太好了。多谢相救」\n"
-""
 msgstr ""
 
 #. ID 166, Line 136
@@ -19688,7 +19648,6 @@ msgstr ""
 msgid ""
 "\\N[27]仙女（满身是血）\n"
 "\\N[27]「…………」\n"
-""
 msgstr ""
 
 #. ID 171, Line 553
@@ -20823,7 +20782,6 @@ msgstr ""
 msgid ""
 "\\N[27]……是梦太好了……\n"
 "\\N[27]是梦真的太好了！\n"
-""
 msgstr ""
 
 #. ID 177, Line 314
@@ -21129,7 +21087,6 @@ msgstr ""
 msgid ""
 "\\N[27]――胜利了！\n"
 "\\N[27]你们战胜了造物主！\n"
-""
 msgstr ""
 
 #. ID 177, Line 572
@@ -21177,4 +21134,3 @@ msgstr ""
 #. ID 177, Line 637
 msgid "\\N[27]100柺僟僀僗亊3傪庤偵擖傟偨両"
 msgstr ""
-

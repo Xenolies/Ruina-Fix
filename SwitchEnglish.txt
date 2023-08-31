@@ -1,0 +1,3042 @@
+Is the font gothic?
+フォントはゴシック？
+
+Is the protagonist a man?
+主役は男？
+
+Ability test successful?
+能力判定成功？
+
+Is there a cancellation?
+キャンセルあり？
+
+Submenu open allowed
+サブメニュー開き許可
+
+Skip mode?
+スキップモード？
+
+Are you alive?
+生きてる？
+
+Use ITEM submenu
+ITEMサブメニュ使用
+
+Is there game over?
+ｹﾞｰﾑｵｰﾊﾞｰあり？
+
+I can't fight!
+主役戦闘不能
+
+We already have guests.
+既にゲストいます
+
+Are there any failures?
+失敗者がいる？
+
+I'm running.
+ダッシュ中
+
+Is the cursor fast?
+カーソル速度速い？
+
+Knowledge skills?
+知識系スキル？
+
+Silent rest
+無音休息
+
+Michinichi save
+毎日セーブ
+
+Run, you beat the enemy?
+ラン敵に勝った？
+
+Text instant display?
+文章瞬間表示？
+
+Debug mode
+デバッグモード
+
+Use of crane chopsticks
+ツルハシ使用
+
+Use the rope.
+ロープ使用
+
+Turn on the light
+ランプをつける
+
+Lighting in.
+照明使用中
+
+Seal box.
+封印箱使用
+
+Can perception avoid a trap?
+知覚で罠回避可能？
+
+I use magic lighting.
+魔法照明を使う
+
+Home forced return
+自宅強制帰還
+
+Fishing rod used
+釣竿使用
+
+I took a bath today.
+今日の入浴した
+
+Talk to your friends.
+仲間と会話
+
+Open the door once and you're done.
+鍵開け一回だけで終了
+
+Individual traps?
+罠個別？
+
+Opening the treasure chest?
+扉・宝箱開け成功？
+
+Is the magic key invalid?
+魔法の鍵無効？
+
+I caught a special one.
+特殊1釣れた
+
+I caught two.
+特殊2釣れた
+
+I'm mixing at the store.
+店で調合中
+
+I'm back from cooking.
+料理選択から戻った
+
+I'm back from the subscreen.
+サブ画面から戻った
+
+Read memorandum
+覚え書き見る
+
+Wheat is used
+小麦粉使用
+
+World map use
+世界地図使用
+
+Use dark food.
+暗黒料理使用
+
+No, I'm using food.
+ダメ料理使用
+
+Weapons, blacksmithing.
+武器鍛冶使用
+
+Bogu (armor), blacksmith use
+防具鍛冶使用
+
+The use of forgetful stones
+忘れじの石使用
+
+Cooking use
+料理使用
+
+Compound use
+調合使用
+
+Fairy notes.
+妖精メモ使用
+
+Use your creeps.
+忍び足使用
+
+Using the technique of naming
+名付けの術使用
+
+Use of dowsing
+ダウジング使用
+
+Summons pudding!
+プディングの召喚
+
+Summons of the spirits
+精霊の召喚
+
+Summons of youma
+妖魔の召喚
+
+The summoning of an angel
+御使いの召喚
+
+Call the beast
+獣呼び
+
+I summon an artificial spirit.
+人工精霊召喚
+
+Ok icon display
+ＯＫアイコン表示
+
+Exit icon display
+EXITアイコン表示
+
+Information icon display
+情報アイコン表示
+
+Rest icon display
+休息アイコン表示
+
+Dissolution icon display
+解散アイコン表示
+
+Setting icon display
+設定アイコン表示
+
+Organizable icon display
+編成可能アイコン表示
+
+Okay.
+ＯＫメッセ表示
+
+Exit message
+EXITメッセ表示
+
+Information display
+情報メッセ表示
+
+Rest message
+休息メッセ表示
+
+Dissolution message
+解散メッセ表示
+
+Setting message
+設定メッセ表示
+
+Organization message display
+編成メッセ表示
+
+You must display TTEXP.
+必ずTTEXP表示
+
+In formation
+編成中
+
+Friend, everyday.
+今日編成終了仲間日常
+
+I forgot today.
+今日忘れじ石使った
+
+It's always on.
+常にオンになってる
+
+It's never gonna turn on.
+絶対オンにならない
+
+Taki 01 open.
+滝01オープン
+
+Taki 02 open.
+滝02オープン
+
+Taki 03 open.
+滝03オープン
+
+Taki 04 open.
+滝04オープン
+
+Taki 05 open.
+滝05オープン
+
+Taki 06 open.
+滝06オープン
+
+Taki 07 open.
+滝07オープン
+
+Taki 08 open.
+滝08オープン
+
+Taki 09 open.
+滝09オープン
+
+Taki 10 open.
+滝10オープン
+
+Fall 11 open.
+滝11オープン
+
+Fall 12 open.
+滝12オープン
+
+Waterfall 13 open.
+滝13オープン
+
+Fall 14 open.
+滝14オープン
+
+Taki 15, exit open.
+滝15出口オープン
+
+Fall 16 open.
+滝16オープン
+
+Fall 17 open.
+滝17オープン
+
+Fall 18 open.
+滝18オープン
+
+Taki 14 hiroma enbo
+滝14広間遠望
+
+Traveler's corpse
+旅人の遺骸回収
+
+Falls 01, clear.
+滝01クリア
+
+Fall 02 clear.
+滝02クリア
+
+Waterfall 03 get a crane
+滝03ツルハシ入手
+
+Clear rope down.
+滝04クリアロープ下ろ
+
+Taki 05, clear.
+滝05クリア
+
+Fall 06 clear.
+滝06クリア
+
+Taki 07, clear.
+滝07クリア
+
+Taki 08, clear.
+滝08クリア
+
+Taki 09, clear.
+滝09クリア
+
+Waterfall 10, clear.
+滝10クリア
+
+Waterfall 11, clear.
+滝11クリア
+
+Fall 12 clears
+滝12クリア岩消滅
+
+Fall 13, clear rope.
+滝13クリアロープ渡し
+
+Fall 14, clear.
+滝14クリア
+
+Falls, exit 15 clear.
+滝15出口クリア
+
+Fall 16, clear.
+滝16クリア
+
+Fall 17, clear.
+滝17クリア
+
+Waterfall 18, clear.
+滝18クリア
+
+He's locked up in the west little room.
+西の小部屋に閉じ込め
+
+Trapped in the waterfall hall
+滝の広間に閉じ込めら
+
+The end of the traveler's mourning
+旅人の弔い終わり
+
+City chaos during the event
+町の混乱イベント中
+
+Sages receive items.
+賢者ｱｲﾃﾑ受け取り
+
+And Laban took a fishing pole
+ラバンに釣竿受取り
+
+We beat Sisyphus.
+シジフォスに勝った
+
+The chuna event!
+チュナイベントやった
+
+The town is occupied.
+町の占領中
+
+I heard the conversation.
+占領中館会話聞いた
+
+During the war
+奪還戦中
+
+I saw the town terreja help.
+町テレージャ助け見た
+
+Ballmusus, I beat you.
+バルスムス倒した
+
+I killed pasha.
+パーシャ倒した
+
+World map for events
+世界地図イベント用
+
+Get some rest in town.
+一度町で休め
+
+Mark of proficiency 1 acquisition
+熟練のしるし1入手
+
+Treasure one.
+宝１入手
+
+Treasure 2!
+宝２入手
+
+Treasure 3.
+宝３入手
+
+Get treasure 4.
+宝４入手
+
+Get five treasures.
+宝５入手
+
+Paris is at the inn.
+宿にパリスがいる
+
+Nell's at the inn.
+宿にネルがいる
+
+Raban's at the inn.
+宿にラバンがいる
+
+Kireha's at the inn.
+宿にキレハがいる
+
+There's a siphon at the inn.
+宿にシーフォンがいる
+
+Therera's at the inn.
+宿にテレージャがいる
+
+Alson's at the inn.
+宿にアルソンがいる
+
+Enda's at the inn.
+宿にエンダがいる
+
+Fran's at the inn.
+宿にフランがいる
+
+Merodirk's at the inn.
+宿にメロダークがいる
+
+I fed enda today.
+今日ｴﾝﾀﾞに食料与えた
+
+I'm feeding enda.
+エンダに食料与え中
+
+The use of the power of prayer
+祈りの力使用
+
+I'm at Nell's store.
+ネルの店番中
+
+Be attacked
+奇襲受ける
+
+I talked to chun na today.
+今日ﾁｭﾅと話した
+
+General purpose switch 04
+汎用スイッチ04
+
+General purpose switch 03
+汎用スイッチ03
+
+General purpose switch 02
+汎用スイッチ02
+
+General purpose switch 01
+汎用スイッチ01
+
+Ryujo 01 open!
+竜上01オープン
+
+Ryujo 01 clear
+竜上01クリア
+
+Ryujo 02 open!
+竜上02オープン
+
+Ryujo 02, open the key.
+竜上02鍵開け
+
+Ryujo 02 clear.
+竜上02クリア
+
+Ryujo 03 open
+竜上03オープン
+
+Ryujo 03 clear.
+竜上03クリア
+
+Ryujo 04 open!
+竜上04オープン
+
+Ryujo 04 clear.
+竜上04クリア
+
+Ryujo 05 open
+竜上05オープン
+
+Ryujo 05 clear.
+竜上05クリア
+
+The treasure of the cross road
+竜上05十字路の宝入手
+
+Ryujo 06 open.
+竜上06オープン
+
+Dragon 06 clear
+竜上06クリア
+
+Ryujo 07 open
+竜上07オープン
+
+Open the key!
+竜上07鍵開け
+
+Ryujo 07 clear.
+竜上07クリア
+
+Ryujo 08 open
+竜上08オープン
+
+Ryujo 08 clear
+竜上08クリア
+
+The upper and lower levels are locked up.
+竜上、下層閉じこめら
+
+Ryujo 09 open
+竜上09オープン
+
+Ryujo 09 clear
+竜上09クリア
+
+Ryujo 10 open!
+竜上10オープン
+
+Dragon top 10, clear.
+竜上10クリア
+
+Ryujo 11 open.
+竜上11オープン
+
+Dragon 11, clear.
+竜上11クリア
+
+Ryujo 12 open.
+竜上12オープン
+
+Dragon 12, clear.
+竜上12クリア
+
+Open dragon 13!
+竜上13オープン
+
+Dragon 13, clear.
+竜上13クリア
+
+Dragon 13, attack!
+竜上13攻撃した
+
+Ryujo 14 open.
+竜上14オープン
+
+Treasure!
+竜上14クリア宝入手
+
+Dragon 14 treasure room
+竜上14宝部屋中
+
+Open dragon 15!
+竜上15オープン
+
+Opening dragon 15.
+竜上15開錠
+
+Dragon 15, clear.
+竜上15クリア
+
+Ryujo 16 open.
+竜上16オープン
+
+Ryujo 16 clear.
+竜上16クリア
+
+Ryujo 17 open.
+竜上17オープン
+
+Ryujo 17 clear.
+竜上17クリア
+
+Open dragon 18.
+竜上18オープン
+
+Open dragon 18, clear.
+竜上18開錠クリア
+
+Open dragon 19!
+竜上19オープン
+
+Dragon 19, open! Clear!
+竜上19開錠クリア
+
+Ryujo 20 open.
+竜上20オープン
+
+Ryujo 20 clear.
+竜上20クリア
+
+Ryuujo 21 open
+竜上21オープン
+
+Ryujo 21 clear.
+竜上21クリア
+
+Ryujo 22 open.
+竜上22オープン
+
+Ryujo 22 clear.
+竜上22クリア
+
+Ryujo 23 open
+竜上23オープン
+
+Ryujo 23 clear.
+竜上23クリア
+
+Ryujo 24 open.
+竜上24オープン
+
+Ryujo 24, clear.
+竜上24クリア
+
+Ryujo 25 open
+竜上25オープン
+
+Dragon 25 clear, karika rescued.
+竜上25クリア ｶﾘｶ救出
+
+Ryuka 01 open.
+竜下01オープン
+
+Ryuka 01, clear.
+竜下01クリア
+
+Ryuka 02 open.
+竜下02オープン
+
+Ryuka 02, clear.
+竜下02クリア
+
+Ryuka 03 open.
+竜下03オープン
+
+Ryuka 03, clear.
+竜下03クリア
+
+Longxia 04.17 open
+竜下04.17オープン
+
+Ryuka 04, open the key! Clear!
+竜下04鍵開けクリア
+
+Ryuka 05 open
+竜下05オープン
+
+Open the key! Clear!
+竜下05鍵開けクリア
+
+Ryuka 06 open.
+竜下06オープン
+
+Ryuka 06, clear.
+竜下06クリア
+
+Ryuga 07 open
+竜下07オープン
+
+Ryuka 07, clear.
+竜下07クリア
+
+Ryuka 08 open
+竜下08オープン
+
+Ryuka 08 clear
+竜下08クリア
+
+Ryuka 09 open
+竜下09オープン
+
+Chased by the devil
+竜下09魔将に追われ
+
+Clear magic master
+竜下16ｵﾌﾟ09ｸﾘｱ魔将倒
+
+Ryuka 07.5 open.
+竜下07.5オープン
+
+Ryuka 10 open.
+竜下10オープン
+
+Ryuka 10, clear.
+竜下10クリア
+
+Ryuka 11 open.
+竜下11オープン
+
+Ryuka 11, clear.
+竜下11クリア
+
+Start selecting dishes!
+竜下13料理選択開始
+
+Ryuge 12, open the key.
+竜下12鍵開け
+
+Ryuka 12, clear.
+竜下12クリア
+
+Ryuka 13 open.
+竜下13オープン
+
+Kill the little ogre
+竜下13小鬼倒す
+
+clearyenda
+竜下13クリアｴﾝﾀﾞ
+
+Ryuka 12.14 open.
+竜下12.14オープン
+
+Ryuka 14, clear.
+竜下14クリア
+
+Ryuka 15 open.
+竜下15オープン
+
+Ryuka 15, clear.
+竜下15クリア
+
+Ryuka 16, clear.
+竜下16クリア
+
+I'll beat enda!
+竜下13エンダ倒す
+
+I get it!
+竜下15秘石入手
+
+Ryuka 17, clear.
+竜下17クリア
+
+Ryuka 18 open.
+竜下18オープン
+
+Ryuka 18, clear.
+竜下18クリア
+
+Ryuka 19 open.
+竜下19オープン
+
+Ryuka 19, clear.
+竜下19ｸﾘｱ
+
+Rope tarashi
+竜下02-13ﾛｰﾌﾟ垂らし
+
+Ryuka 03-0607 rope tarira
+竜下03-0607ﾛｰﾌﾟ垂ら
+
+What's the secret?
+竜下15秘石入手ボツ
+
+Palace 01 open.
+宮殿01オープン
+
+Palace 01, clear.
+宮殿01クリア
+
+Palace 02 open
+宮殿02オープン
+
+Palace 02 clear.
+宮殿02クリア
+
+Palace open 03-04
+宮殿03-04-05オープン
+
+Palace 03 clear.
+宮殿03クリア
+
+Palace 04 clear.
+宮殿04クリア
+
+Kuden 05
+宮殿05音楽戦
+
+Palace 05, clear bot.
+宮殿05クリアボツ
+
+Prince 06-07.09.23.24 op
+宮06-07.09.23.24ｵｰﾌﾟ
+
+Palace 06 events start!
+宮殿06ｲﾍﾞﾝﾄｽﾀｰﾄ
+
+Palace 06 clear.
+宮殿06クリア
+
+Open palace 07.
+宮殿07開錠
+
+Palace 07, clear.
+宮殿07クリア
+
+I was chased by the chef.
+料理長に追われ
+
+Palace 08 throne open
+宮殿08玉座オープン
+
+Kill the emperor!
+宮殿08クリア皇帝倒す
+
+Palace 11 cooking books
+宮殿11料理書入手
+
+Palace 101112 open.
+宮殿10-11-12ｵｰﾌﾟﾝ
+
+Palace 10 treasure cleared.
+宮殿10付属宝クリア
+
+Palace 11, clear.
+宮殿11クリア
+
+Palace 13 open.
+宮殿13オープン
+
+Palace 13, clear.
+宮殿13クリア
+
+Palace 1415 open.
+宮殿14-15ｵｰﾌﾟﾝ
+
+Palace 14, clear.
+宮殿14クリア
+
+Palace 15 clear.
+宮殿15クリア
+
+Palace 16 open.
+宮殿16オープン
+
+Palace 16, clear.
+宮殿16クリア開錠
+
+Palace 17 open.
+宮殿17オープン
+
+Palace 17, clear.
+宮殿17クリア
+
+The 17th month of the palace: obtained feldspar.
+宮殿17月長石入手
+
+Palace 18 open.
+宮殿18オープン
+
+Palace 19 open
+宮殿19オープン
+
+Palaces 20-21-22.2526 op
+宮殿20-21-22.2526ｵﾌﾟ
+
+Palace 19, east door unlocked.
+宮殿19東扉開錠
+
+Palace 21, unlocked.
+宮殿21開錠
+
+Palace 21, clear.
+宮殿21クリア
+
+Palace 22 clear.
+宮殿22クリア
+
+Palace 23, clear next.
+宮殿23クリア次面へ
+
+Palace 24, clear.
+宮殿24クリア
+
+Palace 25, treasure room clear.
+宮殿25宝部屋クリア
+
+Of the 25 treasures of the palace
+宮殿25宝部屋中
+
+Palace 25, treasure room unlocked.
+宮殿25宝部屋開錠
+
+Palace 26, clear.
+宮殿26クリア
+
+I saw your notes.
+宮殿09手記見た
+
+I'm in ruins area one.
+廃墟エリア1にいる
+
+I'm in ruins area two.
+廃墟エリア2にいる
+
+I'm in ruins area three.
+廃墟エリア3にいる
+
+I'm in ruins area four.
+廃墟エリア4にいる
+
+I'm in ruins area five.
+廃墟エリア5にいる
+
+I'm in ruins area six.
+廃墟エリア6にいる
+
+I'm in ruins area seven.
+廃墟エリア7にいる
+
+I'm in ruins area eight.
+廃墟エリア8にいる
+
+Rain one, I saw it.
+雨1見た
+
+I saw rain 2.
+雨2見た
+
+Open area 1-2.
+エリア1-2間開放
+
+Open area 2-3.
+エリア2-3間開放
+
+Open area two and four.
+エリア2-4間開放
+
+Open area two to five.
+エリア2-5間開放
+
+Open area two to eight.
+エリア2-8間開放
+
+Open area five to six.
+エリア5-6間開放
+
+Open area 6 to area 7.
+エリア6-7間開放
+
+Open area one to eight.
+エリア1-8間開放
+
+In ruins, in lockdown.
+廃墟閉じこめられ中
+
+Ruin 01 open.
+廃墟01オープン
+
+Ruin 02, open 01, clear.
+廃墟02ｵｰﾌﾟﾝ 01ｸﾘｱ
+
+Ruin three, open two, clear.
+廃墟03ｵｰﾌﾟﾝ 02ｸﾘｱ
+
+Ruin four, open three, clear.
+廃墟04ｵｰﾌﾟﾝ 03ｸﾘｱ
+
+Ruin 04.teito 01 clear
+廃墟04.帝都01クリア
+
+Ruin 05 open
+廃墟05ｵｰﾌﾟﾝ
+
+Ruin 06.08 open 05 clear
+廃墟06.08ｵｰﾌﾟﾝ05ｸﾘｱ
+
+Ruin 07, open 06, clear.
+廃墟07ｵｰﾌﾟﾝ 06ｸﾘｱ
+
+Ruin 07, clear.
+廃墟07ｸﾘｱ
+
+Ruin 0910 open 08 clear
+廃墟0910ｵｰﾌﾟﾝ 08ｸﾘｱ
+
+Ruin 09, clear.
+廃墟09ｸﾘｱ
+
+Ruins ten clear.
+廃墟10ｸﾘｱ
+
+Ruin 11, attached, clear.
+廃墟11付属ｸﾘｱ
+
+Ruins 11 open.
+廃墟11ｵｰﾌﾟﾝ
+
+Ruin 12 open 11 clear
+廃墟12ｵｰﾌﾟﾝ 11ｸﾘｱ
+
+Ruins 12, clear.
+廃墟12ｸﾘｱ
+
+Ruins 13 open.
+廃墟13ｵｰﾌﾟﾝ
+
+Ruins 14 open.
+廃墟14ｵｰﾌﾟﾝ
+
+Ruins 15 open 14 clear
+廃墟15ｵｰﾌﾟﾝ 14ｸﾘｱ
+
+Ruins 15 clear.
+廃墟15ｸﾘｱ
+
+Ruin 16 open.
+廃墟16ｵｰﾌﾟﾝ
+
+Ruin 17 open 16 clear
+廃墟17ｵｰﾌﾟﾝ 16ｸﾘｱ
+
+Ruin 17 clear.
+廃墟17ｸﾘｱ
+
+Ruin 18 open
+廃墟18ｵｰﾌﾟﾝ
+
+Ruin 18, clear.
+廃墟18ｸﾘｱ
+
+Ruin 19 open
+廃墟19ｵｰﾌﾟﾝ
+
+Ruin 19, clear.
+廃墟19ｸﾘｱ
+
+Ruin 20 open
+廃墟20ｵｰﾌﾟﾝ
+
+Ruins 20 clear.
+廃墟20ｸﾘｱ
+
+Teito 02 open
+帝都02ｵｰﾌﾟﾝ、少年
+
+Teito 02 clear
+帝都02ｸﾘｱ
+
+Emperor 03-06.08162320 op
+帝03-06.08162320ｵﾌﾟ
+
+Teito 03 clear
+帝都03ｸﾘｱ
+
+I saw teito 23 executed.
+帝都23処刑見た
+
+Teito 05, clear.
+帝都05ｸﾘｱ
+
+Teito 06 open forbidden
+帝都06ｵｰﾌﾟﾝボツ
+
+Teito 07 open
+帝都07ｵｰﾌﾟﾝ
+
+I'm in an island.
+中州にいる
+
+Teito 0910 open 08 clear
+帝都0910ｵｰﾌﾟﾝ08ｸﾘｱ
+
+Teito 11 open 10 clear
+帝都11ｵｰﾌﾟﾝ10ｸﾘｱ
+
+Teito 1213 open
+帝都12-13ｵｰﾌﾟﾝ
+
+Teito 13, clear.
+帝都13ｸﾘｱ
+
+I'll kill you!
+青蛇首領殺す
+
+Teito 09 clear
+帝都09ｸﾘｱ
+
+Teito 15, clear.
+帝都15ｸﾘｱ
+
+Teito 18 open 16 clear
+帝都18ｵｰﾌﾟﾝ16ｸﾘｱ
+
+Teito 18, clear.
+帝都18ｸﾘｱ
+
+I saw teito 20.
+帝都20見た
+
+I saw it.
+帝都21見た
+
+Teito 21 matches
+帝都21試合参加
+
+Teito 20 champion
+帝都20優勝
+
+The imperial capital: 14.15.24
+帝都14.15.24城塞内い
+
+I'm trapped in the imperial citadel.
+帝都城塞閉じ込められ
+
+Library of the dead.
+図書館死者の書中入手
+
+Library construction
+図書館建築入手
+
+Bibliography.
+図書館賛歌入手
+
+Tokyo sleep
+帝都内睡眠
+
+I defeated the 24 demons in teito.
+帝都24魔将倒した
+
+The fog is clear under the fairy.
+妖精下　霧晴れる
+
+Open!
+妖下01ｵｰﾌﾟﾝ
+
+Open!
+妖下02ｵｰﾌﾟﾝ
+
+Open!
+妖下03ｵｰﾌﾟﾝ
+
+Open!
+妖下04ｵｰﾌﾟﾝ
+
+Open!
+妖下05ｵｰﾌﾟﾝ
+
+Akishita 06 open.
+妖下06ｵｰﾌﾟﾝ
+
+Open!
+妖下07ｵｰﾌﾟﾝ
+
+Open!
+妖下08ｵｰﾌﾟﾝ
+
+Open!
+妖下09ｵｰﾌﾟﾝ
+
+I saw it.
+妖下01見た
+
+I returned to yousuke 01 in a loop.
+妖下01にﾙｰﾌﾟで戻った
+
+Clear!
+妖下01ｸﾘｱ
+
+Yushita 02 challenge
+妖下02正直者当て挑戦
+
+Clear!
+妖下03ｸﾘｱ
+
+Clear 04.
+妖下04ｸﾘｱ
+
+Clear!
+妖下05ｸﾘｱ
+
+A youka honest person, I hear information.
+妖下正直者情報聞く
+
+Clear!
+妖下09ｸﾘｱ
+
+I'll beat the youshita mermaid.
+妖下ﾏｰﾒｲﾄﾞ倒す
+
+Clear!
+妖上01ｸﾘｱ
+
+Clear!
+妖上02ｸﾘｱ
+
+Clear 04 open!
+妖上03ｸﾘｱ04ｵｰﾌﾟﾝ
+
+Clear 04, open on 05.12.
+妖上04ｸﾘｱ05.12ｵｰﾌﾟﾝ
+
+Clear 05, open 06.
+妖上05ｸﾘｱ06ｵｰﾌﾟﾝ
+
+Ayoujo 07 open
+妖上07ｵｰﾌﾟﾝ
+
+Rope clear!
+妖上07-09ﾛｰﾌﾟｸﾘｱ
+
+Open!
+妖上08ｵｰﾌﾟﾝ
+
+The monster is trapped.
+妖上閉じ込められ
+
+Youjo 08
+妖上08ヒナ倒した
+
+Clear!
+妖上08ｸﾘｱ
+
+Open!
+妖上09.10ｵｰﾌﾟﾝ
+
+Open!
+妖上11ｵｰﾌﾟﾝ
+
+Clear!
+妖上11ｸﾘｱ
+
+Clear 12, open 13.
+妖上12ｸﾘｱ13ｵｰﾌﾟﾝ
+
+It's clear!
+妖上13ｸﾘｱ
+
+Obtain the treasure of the sacred tree
+妖上神木の宝入手
+
+Kogami open.
+小上01.02ｵｰﾌﾟﾝ
+
+Kogami 02 clear
+小上02ｸﾘｱ
+
+Small on 03.04 open
+小上03.04ｵｰﾌﾟﾝ
+
+Kogami 05 open 03 clear
+小上05ｵｰﾌﾟﾝ03ｸﾘｱ
+
+Kogami 05 clear
+小上05ｸﾘｱ
+
+Kogami 06 open
+小上06ｵｰﾌﾟﾝ
+
+Kogami 07 open
+小上07ｵｰﾌﾟﾝ
+
+Small on 08.24 open
+小上08.24ｵｰﾌﾟﾝ
+
+Kogami 09.25 open
+小上09.25ｵｰﾌﾟﾝ
+
+Kogami 09 clear
+小上09ｸﾘｱ
+
+Kogami 10 open
+小上10ｵｰﾌﾟﾝ
+
+Kogami 11 open
+小上11ｵｰﾌﾟﾝ
+
+Kogami 12 open.
+小上12ｵｰﾌﾟﾝ
+
+Open!
+小上12ｸﾘｱ開門
+
+Kogami 06 attached stairs open
+小上06付属階段ｵｰﾌﾟﾝ
+
+Volume 12 of the upper part: beard, subjugation of the lower part
+小上12編髭、下層制圧
+
+Darim, you're one of us.
+ダリム仲間になる
+
+Kogami 13 open
+小上13ｵｰﾌﾟﾝ
+
+Kogami 13, clear.
+小上13ｸﾘｱ
+
+Kogami 14 open
+小上14ｵｰﾌﾟﾝ
+
+Kougami 14, clear.
+小上14ｸﾘｱ
+
+Can you make a mechanical automatic fire bolt?
+機械式連射弩作成可
+
+You can make a prosthetic hand with a cannon.
+大砲仕込の義手作成可
+
+You can make automatic armor.
+自動甲冑作成可
+
+Kogami 15 open
+小上15ｵｰﾌﾟﾝ
+
+Kogami 15 clear.
+小上15ｸﾘｱ
+
+Obtain notes attached to upper 15
+小上15付属メモ入手
+
+Kogami 16 open
+小上16ｵｰﾌﾟﾝ
+
+Kougami 16 clear
+小上16ｸﾘｱ
+
+Kogami 16, open!
+小上16開門
+
+Kogami 17 open
+小上17ｵｰﾌﾟﾝ
+
+Kogami 17 clear
+小上17ｸﾘｱ
+
+Kogami 18.19 open
+小上18.19ｵｰﾌﾟﾝ
+
+Open the door!
+小上18開錠
+
+Kougami 18, clear.
+小上18ｸﾘｱ
+
+Open the door!
+小上19開錠
+
+Kougami 19 clear.
+小上19ｸﾘｱ
+
+Kogami 20 open
+小上20ｵｰﾌﾟﾝ
+
+Kougami 20 clear.
+小上20ｸﾘｱ
+
+I'll beat the boss 17.
+小上17ボス倒す
+
+Open the treasure room!
+小上22宝部屋開錠
+
+Small 22 treasure room
+小上22宝部屋中
+
+Treasure room clear!
+小上22宝部屋クリア
+
+Kogami 23 in prison
+小上23牢獄中
+
+Get the treasure!
+小上23牢獄宝入手
+
+Kogami 24, clear.
+小上24クリア
+
+Top 25 treasure rooms
+小上25宝部屋中
+
+25 treasure room clear!
+小上25宝部屋クリア
+
+Open the treasure room!
+小上25宝部屋開錠
+
+Small non-dwarf random enemy
+小上非小人ﾗﾝﾀﾞﾑ敵
+
+Open the treasure room!
+小上26宝部屋開錠
+
+26 treasure rooms
+小上26宝部屋中
+
+Treasure room, clear!
+小上26宝部屋ｸﾘｱ
+
+Today's materials
+小上17今日の資材入手
+
+Koshita 01 open.
+小下01ｵｰﾌﾟﾝ
+
+Koshita 01 clear
+小下01ｸﾘｱ
+
+Koshita 02 open
+小下02ｵｰﾌﾟﾝ
+
+Koshita 02 clear
+小下02ｸﾘｱ
+
+Koshita 03 open
+小下03ｵｰﾌﾟﾝ
+
+Koshita 03 clear
+小下03ｸﾘｱ
+
+Koshita 04 open
+小下04ｵｰﾌﾟﾝ
+
+Koshita 04 clear
+小下04ｸﾘｱ
+
+Open the door!
+小下04付属扉開く
+
+I saw it.
+小下中央見た
+
+Koshita 05 open
+小下05ｵｰﾌﾟﾝ
+
+Koshita 06 open
+小下06ｵｰﾌﾟﾝ
+
+Treasure room open!
+小下07宝部屋ｵｰﾌﾟﾝ
+
+Treasure room open!
+小下07宝部屋開錠
+
+Small 07 treasure room
+小下07宝部屋中
+
+Treasure room clear!
+小下07宝部屋ｸﾘｱ
+
+Koshita 08.09 open
+小下08.09ｵｰﾌﾟﾝ
+
+Clear 09.
+小下08ｸﾘｱ09開錠
+
+Koshita 09 clear
+小下09ｸﾘｱ
+
+Kodaka 09
+小下09死者中入手
+
+Koshita 10 open.
+小下10ｵｰﾌﾟﾝ
+
+Koshita 10, clear.
+小下10ｸﾘｱ
+
+Koshita, 11 rooms open.
+小下11部屋ｵｰﾌﾟﾝ
+
+Koshita, out of 11 rooms.
+小下11部屋中
+
+Koshita 12, open 11, clear.
+小下12ｵｰﾌﾟﾝ11ｸﾘｱ
+
+Koshita 13, open 12, clear.
+小下13ｵｰﾌﾟﾝ12ｸﾘｱ
+
+Koshita 14.15 open 13 clear
+小下14.15ｵｰﾌﾟﾝ13ｸﾘｱ
+
+Koshita 14 clear devil will beat
+小下14ｸﾘｱ魔将倒す
+
+I killed darim.
+ﾀﾞﾘﾑ殺した
+
+I still have the darim ring.
+ﾀﾞﾘﾑ指輪まだ持ってる
+
+I heard the story.
+小下15ｸﾘｱ話聞いた
+
+Get your weapons!
+小下15武具入手
+
+Koshita 16 open
+小下16ｵｰﾌﾟﾝ
+
+Koshita 16, clear.
+小下16ｸﾘｱ
+
+Darim, I saw another conversation.
+ダリム一時別会話見た
+
+Get the treasure
+小下03付属宝入手
+
+Kogai 01 open
+巨外01ｵｰﾌﾟﾝ
+
+Kogoto 02.03 open 01 clear
+巨外02.03ｵｰﾌﾟﾝ01ｸﾘｱ
+
+Kogai 02, clear.
+巨外02ｸﾘｱ
+
+Kogai 03 clear
+巨外03ｸﾘｱ
+
+Kogai 04 open
+巨外04ｵｰﾌﾟﾝ
+
+Kogai 04 clear
+巨外04ｸﾘｱ
+
+Kakishita kekkomi botsu
+巨外04崖下閉じ込ﾎﾞﾂ
+
+Open on 05.06
+巨外05.06ｵｰﾌﾟﾝ
+
+Kogai 05 clear
+巨外05ｸﾘｱ
+
+Kogai 07 open 06 clear
+巨外07ｵｰﾌﾟﾝ06ｸﾘｱ
+
+Kogai 07 clear
+巨外07ｸﾘｱ
+
+Kogai 08 open
+巨外08ｵｰﾌﾟﾝ
+
+Clear mountain visible
+巨外08ｸﾘｱ山見える
+
+Big middle 14 underwear story
+巨中14パンツ話
+
+Kyouchu 01 open
+巨中01ｵｰﾌﾟﾝ
+
+Konchu 01, clear.
+巨中01ｸﾘｱ
+
+Kyouchu 02 open
+巨中02ｵｰﾌﾟﾝ
+
+Kichu 02, clear.
+巨中02ｸﾘｱ
+
+Juchu open on 03.04.05
+巨中03.04.05ｵｰﾌﾟﾝ
+
+Konchu 03, clear.
+巨中03ｸﾘｱ
+
+Kichu 04, clear.
+巨中04ｸﾘｱ
+
+We found a hidden passage!
+巨中05隠し通路発見
+
+Konaka 05, clear.
+巨中05ｸﾘｱ
+
+Kyouchu 06 open
+巨中06ｵｰﾌﾟﾝ
+
+Kyouchu 07 open 06 clear
+巨中07ｵｰﾌﾟﾝ06ｸﾘｱ
+
+Clear, open!
+巨中07ｸﾘｱ開錠
+
+Get the hidden treasure
+巨中06隠し宝入手
+
+Kyouchu 08 open
+巨中08ｵｰﾌﾟﾝ
+
+Kyouchu 08 clear
+巨中08ｸﾘｱ
+
+Juchu open on 09.10.11
+巨中09.10.11ｵｰﾌﾟﾝ
+
+Treasure room 09
+巨中09宝部屋中
+
+Keichu 09 treasure room clear
+巨中09宝部屋ｸﾘｱ
+
+The treasure room begins!
+巨中09宝部屋開始
+
+Kichu 10, clear.
+巨中10ｸﾘｱ
+
+I asked for 100 of them.
+巨中10　百個願った
+
+Get rid of the dragon
+巨中12竜退治入手
+
+Kunchu 12.13 open 11 clear
+巨中12.13ｵｰﾌﾟﾝ11ｸﾘｱ
+
+Kunchu 12, open, clear.
+巨中12開錠ｸﾘｱ
+
+Ko chu 14 open 13 clear
+巨中14ｵｰﾌﾟﾝ13ｸﾘｱ
+
+Start cooking selection!
+巨中14料理選択開始
+
+Kichu 14, clear.
+巨中14ｸﾘｱ
+
+Are you upset?
+巨中14動揺してる？
+
+Kogai 09 open
+巨外09ｵｰﾌﾟﾝ
+
+Kogai 09 clear
+巨外09ｸﾘｱ
+
+Super 10.11 open
+巨外10.11ｵｰﾌﾟﾝ
+
+Kogai 10, clear.
+巨外10ｸﾘｱ
+
+Kogai 11, clear.
+巨外11ｸﾘｱ
+
+Kogai 12 open
+巨外12ｵｰﾌﾟﾝ
+
+Kogai 12, clear.
+巨外12ｸﾘｱ
+
+Kogai 13 open
+巨外13ｵｰﾌﾟﾝ
+
+Kogai 13, clear.
+巨外13ｸﾘｱ
+
+Kogai 14 open
+巨外14ｵｰﾌﾟﾝ
+
+Super 14, clear.
+巨外14ｸﾘｱ
+
+Kogai 15 open
+巨外15ｵｰﾌﾟﾝ
+
+Clear!
+巨外15ｸﾘｱ巨人倒す
+
+Kogai 16 open
+巨外16ｵｰﾌﾟﾝ
+
+Extreme 16 ropes!
+巨外16ﾛｰﾌﾟ使用
+
+Kogai 16 clear
+巨外16ｸﾘｱ
+
+Kogai 17 open
+巨外17ｵｰﾌﾟﾝ
+
+Big 17, clear.
+巨外17ｸﾘｱ
+
+Graveyard traversed
+墓所踏破
+
+He's in the burial chamber area one.
+玄室エリア1にいる
+
+I'm in burial chamber area two.
+玄室エリア2にいる
+
+He's in the burial chamber area three.
+玄室エリア3にいる
+
+I'm in burial chamber area four.
+玄室エリア4にいる
+
+I'm in burial chamber area five.
+玄室エリア5にいる
+
+I'm in burial area six.
+玄室エリア6にいる
+
+I'm in burial chamber area seven.
+玄室エリア7にいる
+
+I'm in the burial chamber area eight.
+玄室エリア8にいる
+
+I'm in burial area nine.
+玄室エリア9にいる
+
+I'm in burial area 10.
+玄室エリア10にいる
+
+I'm in grave area one.
+墓エリア1にいる
+
+I'm in grave area two.
+墓エリア2にいる
+
+I'm in grave area three.
+墓エリア3にいる
+
+I'm in grave area four.
+墓エリア4にいる
+
+Paris, leave.
+パリス去る
+
+Siefon, I'm leaving.
+シーフォン去る
+
+I got a hint.
+月長石ヒント得る
+
+I can create the head ring of the emperor of heaven.
+上帝の頭環作成可
+
+Basilar 01 clear.
+玄室01ｸﾘｱ
+
+Grave 02.03 open 01 clear
+墓02.03ｵｰﾌﾟﾝ01ｸﾘｱ
+
+Grave 04 open 02 clear
+墓04ｵｰﾌﾟﾝ02ｸﾘｱ
+
+Grave 04 clear.
+墓04ｸﾘｱ
+
+Grave 03 clear.
+墓03ｸﾘｱ
+
+Grave 05 open.
+墓05ｵｰﾌﾟﾝ
+
+Grave 05 is down.
+墓05落ちた
+
+Grave 05, I gave you the rope.
+墓05ﾛｰﾌﾟ渡した
+
+Grave 05, clear rope down.
+墓05ｸﾘｱﾛｰﾌﾟ下ろした
+
+Grave 05, locked up on the right.
+墓05右側閉じこめられ
+
+Grave 06 open.
+墓06ｵｰﾌﾟﾝ
+
+Grave 06 clear.
+墓06ｸﾘｱ
+
+Grave 07 open.
+墓07ｵｰﾌﾟﾝ
+
+Grave 10 open 07 clear
+墓10ｵｰﾌﾟﾝ07ｸﾘｱ
+
+Grave 08 open.
+墓08ｵｰﾌﾟﾝ
+
+Grave 11 open 08 clear
+墓11ｵｰﾌﾟﾝ08ｸﾘｱ
+
+Grave 09 open
+墓09ｵｰﾌﾟﾝ
+
+I saw grave 10.
+墓10見た
+
+Grave 10, clear rock, rolling.
+墓10ｸﾘｱ岩転がった
+
+Grave 11 clear.
+墓11ｸﾘｱ
+
+Basalt 10, locked up.
+玄室10閉じこめられ
+
+Unlock burial chamber 10.
+玄室10付属開錠
+
+Grave 12 open.
+墓12ｵｰﾌﾟﾝ
+
+Grave 13 open.
+墓13ｵｰﾌﾟﾝ
+
+Tomb 09 clear.
+墓09ｸﾘｱ
+
+Grave 14 open.
+墓14ｵｰﾌﾟﾝ
+
+Grave 14 clear.
+墓14ｸﾘｱ
+
+Grave 15 open.
+墓15ｵｰﾌﾟﾝ
+
+I killed 15 grave warlords.
+墓15魔将倒した
+
+Grave 16.17 open 15 clear
+墓16.17ｵｰﾌﾟﾝ15ｸﾘｱ
+
+Grave 17, clear.
+墓17ｸﾘｱ
+
+Grave 18 open.
+墓18ｵｰﾌﾟﾝ
+
+Grave 18, clear.
+墓18ｸﾘｱ
+
+Grave 19, open 16, clear.
+墓19ｵｰﾌﾟﾝ16ｸﾘｱ
+
+Grave 19 clear.
+墓19ｸﾘｱ
+
+Grave 20 open.
+墓20ｵｰﾌﾟﾝ
+
+Tomb 21: kagami wari
+墓21鏡割り
+
+Grave 21.22.23 open 20 clear
+墓21.22.23ｵｰﾌﾟﾝ20ｸﾘｱ
+
+Grave 21, clear.
+墓21ｸﾘｱ護符捨て
+
+Grave 22 clear.
+墓22ｸﾘｱ
+
+Grave 23, clear.
+墓23ｸﾘｱ
+
+Basilar 10 open.
+玄室10ｵｰﾌﾟﾝ
+
+Basilar 16 open.
+玄室16ｵｰﾌﾟﾝ
+
+Basilar 17 open.
+玄室17ｵｰﾌﾟﾝ
+
+Kill the emperor!
+玄室17ｸﾘｱ皇帝倒す
+
+Basalt 16 annex inscription clear.
+玄室16付属碑文ｸﾘｱ
+
+Genshitsu 16 emperor 02 defeated today
+玄室16皇帝02今日倒し
+
+Defeated today.
+玄室15皇帝03今日倒し
+
+Genshitsu 14 emperor 04 defeated today
+玄室14皇帝04今日倒し
+
+Genshitsu 13 emperor 05 defeated today
+玄室13皇帝05今日倒し
+
+Defeated today.
+玄室12皇帝06今日倒し
+
+Genshitsu 11 emperor 07 defeat today
+玄室11皇帝07今日倒し
+
+The emperor 8. 8.
+玄室08皇帝8.9今日倒
+
+Genshitsu 10, emperor 10, defeat today.
+玄室10皇帝10今日倒し
+
+Genshitsu 07 emperor 11 defeated today
+玄室07皇帝11今日倒し
+
+Genshitsu 06 emperor 12 defeated today
+玄室06皇帝12今日倒し
+
+Genshitsu 05 emperor 13 defeated today
+玄室05皇帝13今日倒し
+
+Genshitsu 04 emperor 14 defeated today
+玄室04皇帝14今日倒し
+
+Genshitsu 02 emperor 15 defeated today
+玄室02皇帝15今日倒し
+
+Secretary 02, open.
+玄室02開錠
+
+Secretary 03, open.
+玄室03開錠
+
+Unlock burial chamber 04.
+玄室04開錠
+
+Unlock burial chamber 05.
+玄室05開錠
+
+Basalt 06, open.
+玄室06開錠
+
+Unlock burial chamber 07.
+玄室07開錠
+
+Unlock burial chamber 08.
+玄室08開錠
+
+Genshitsu 09, open.
+玄室09開錠
+
+Basalt 10, open.
+玄室10開錠
+
+Basalt 11, open.
+玄室11開錠
+
+Basalt 12, open.
+玄室12開錠
+
+Basalt 13, open.
+玄室13開錠
+
+Basalt 14, open.
+玄室14開錠
+
+Basalt 15, open.
+玄室15開錠
+
+Basalt 16, open.
+玄室16開錠
+
+Genshitsu 03
+玄室03死者下入手
+
+Genshitsu 03: obtaining treasure
+玄室03宝入手
+
+Grave 21
+墓21魅入られず石捨て
+
+Funeral room 02: obtain burial goods shield
+玄室02副葬品盾入手
+
+Genshitsu 03: prohibited use of treasures
+玄室03宝入ﾎﾞﾂ使用禁
+
+Genshitsu 04 burial goods obtained with a whip
+玄室04副葬品鞭入手
+
+Funeral goods: obtained swords
+玄室05副葬品剣入手
+
+Funeral armor available.
+玄室06副葬品鎧入手
+
+Genshitsu 07 burial goods obtained sword
+玄室07副葬品太刀入手
+
+Funeral goods: get a dagger
+玄室08副葬品短剣入手
+
+Genshitsu 08-2 burial goods: get a helmet
+玄室08-2副葬品兜入手
+
+Funeral goods in burial chamber 10: obtained bow
+玄室10副葬品弓入手
+
+Funeral room 11: get burial clothes
+玄室11副葬品服入手
+
+Funeral room 12: get a burial hat
+玄室12副葬品帽子入手
+
+Grave room 13.
+玄室13副葬品杖入手
+
+Funeral goods of burial chamber 14: obtained by the hammer
+玄室14副葬品鎚入手
+
+Fifteen burial goods, spears.
+玄室15副葬品槍入手
+
+Funeral goods: get an axe
+玄室16副葬品斧入手
+
+Acquisition of shinteiki 01
+神帝記01入手
+
+Get to shinteiki 02
+神帝記02入手
+
+Get to shinteiki 03
+神帝記03入手
+
+Obtain shinteiki 04
+神帝記04入手
+
+Obtaining shinteiki 05
+神帝記05入手
+
+Obtain shinteiki 06
+神帝記06入手
+
+Obtain shinteiki 07
+神帝記07入手
+
+Acquisition of shinteiki 08
+神帝記08入手
+
+Shinteiki 09: available
+神帝記09入手
+
+Get god's emperor 10
+神帝記10入手
+
+Shinteiki 11: available
+神帝記11入手
+
+Shinteiki 12: available
+神帝記12入手
+
+Shinteiki 13: available
+神帝記13入手
+
+Shinteiki 14: available
+神帝記14入手
+
+Shinteiki 15: available.
+神帝記15入手
+
+Shinteiki 16: available
+神帝記16入手
+
+Shinteiki kei display
+神帝記系表示
+
+The emperor appears!
+最終01皇帝出現
+
+Final 02 open 01 clear
+最終02ｵｰﾌﾟﾝ01ｸﾘｱ
+
+Final three, open, two, clear.
+最終03ｵｰﾌﾟﾝ02ｸﾘｱ
+
+Final 04 open 03 clear
+最終04ｵｰﾌﾟﾝ03ｸﾘｱ
+
+Final 04, bell tower destroyed.
+最終04鐘楼破壊
+
+Final 05 open 04 clear
+最終05ｵｰﾌﾟﾝ04ｸﾘｱ
+
+Final 06 open 05 clear
+最終06ｵｰﾌﾟﾝ05ｸﾘｱ
+
+Final 07 open 06 clear
+最終07ｵｰﾌﾟﾝ06ｸﾘｱ
+
+Clock tone playing.
+時計音演奏開始
+
+Final 09 open 08 clear
+最終09ｵｰﾌﾟﾝ08ｸﾘｱ
+
+Final 04 no confidence
+最終04付属自信なし
+
+Rasbat, use of the power of purity.
+ﾗｽﾊﾞﾄ清浄の力使用
+
+The emperor Paris
+皇帝パリス手加減ボツ
+
+Emperor siji
+皇帝シジ手加減ボツ
+
+I usually beat the emperor.
+通常皇帝倒した
+
+Outdoor 02.03.04 op01 chestnut
+野外02.03.04ｵｰﾌﾟ01ｸﾘ
+
+Open 07 open 02 clear
+野外07ｵｰﾌﾟﾝ02ｸﾘｱ
+
+Outdoor 05.06 open 04 clear
+野外05.06ｵｰﾌﾟﾝ04ｸﾘｱ
+
+Outdoor 05 clear.
+野外05ｸﾘｱ
+
+Outdoor 08.12 open 07 clear
+野外08.12ｵｰﾌﾟﾝ07ｸﾘｱ
+
+Open 09, open 08, clear.
+野外09ｵｰﾌﾟﾝ08ｸﾘｱ
+
+Outdoor 09 clear
+野外09ｸﾘｱ
+
+Outdoor 10.11 open
+野外10.11ｵｰﾌﾟﾝ
+
+Outdoor 10. terehelo meet you.
+野外10ﾃﾚﾍﾛ会う
+
+Outdoor 10 clear.
+野外10ｸﾘｱ
+
+Outdoor 11, clear.
+野外11ｸﾘｱ
+
+All 11 villages in the open air
+野外11村全滅
+
+11 villages in the field
+野外11村ｱｲﾃﾑ入手
+
+Open air 12, start food selection.
+野外12食料選択開始
+
+Open 13, open 12, clear.
+野外13ｵｰﾌﾟﾝ12ｸﾘｱ
+
+Open 14, open 13, clear.
+野外14ｵｰﾌﾟﾝ13ｸﾘｱ
+
+Open 15, open 14, clear.
+野外15ｵｰﾌﾟﾝ14ｸﾘｱ
+
+14 francs in the open.
+野外14フラン猿会った
+
+15 open air.
+野外15フラン弟会った
+
+Open 15, clear.
+野外15ｸﾘｱ
+
+Open air 16.
+野外16ｵｰﾌﾟﾝ
+
+I saw 16 ruins in the open air.
+野外16遺跡見た
+
+Open field 18 treasure entrance discovered
+野外18宝入り口発見
+
+Exploring 18 treasures in the field
+野外18宝探索中
+
+The discovery of 18 treasures
+野外18宝発見
+
+Eleven stone keys in the open
+野外11石の鍵入手
+
+Outside 16, inside the ruins.
+野外16遺跡の中
+
+Remains 02.03.04 op 01 kuri
+遺跡02.03.04ｵｰﾌﾟ01ｸﾘ
+
+Amusement 04 clear.
+遺跡04ｸﾘｱ
+
+Remains 05 open.
+遺跡05ｵｰﾌﾟﾝ
+
+Residence 05 unlocked
+遺跡05開錠
+
+Rescue 05, clear.
+遺跡05ｸﾘｱ
+
+All ruins clear.
+遺跡全ｸﾘｱ
+
+I met with theol.
+テオルと会った
+
+I met with theol and alson.
+ﾃｵﾙとｱﾙｿﾝ会った
+
+Entrance to the battlefield
+戦士戦場入口ｱﾙｿボツ
+
+Melodirk, he's dead.
+ﾒﾛﾀﾞｰｸ死んだ
+
+Merodirk, I know who you are.
+ﾒﾛﾀﾞｰｸ正体ばれた
+
+Pasha, fallen on the battlefield
+戦士ﾊﾟｰｼｬ戦場で倒
+
+I killed him.
+テオル倒した
+
+The battle is over.
+合戦終了
+
+He was assassinated by gus.
+ｶﾑｰﾙ、ｷﾞｭｽに暗殺され
+
+Medic use.
+衛生兵使用
+
+Paris and the ruins
+パリスと廃墟閉込
+
+Nell and the ruins
+ネルと廃墟閉込
+
+Raban and the ruins
+ラバンと廃墟閉込
+
+Karika and the ruins
+カリカと廃墟閉込
+
+Ciphon and ruins
+シーフォンと廃墟閉込
+
+Terreja and the ruins
+テレージャと廃墟閉込
+
+Alson and the ruins
+アルソンと廃墟閉込
+
+Enda and the ruins
+エンダと廃墟閉込
+
+Fran and the ruins
+フランと廃墟閉込
+
+Melodark and the ruins
+メロダークと廃墟閉込
+
+The traveler's notes
+旅人の手記入手
+
+Get naris and namris.
+ナリスとナムリス入手
+
+Obtain drag's travels
+ラァグの遍歴入手
+
+Darmadius, get it.
+ﾀﾞｰﾏﾃﾞｨｳｽ入手
+
+The witch of valakea
+ｳﾞｧﾗｹｱの魔女入手
+
+Get comme room deem.
+ｸｰﾑ･ﾙｰﾑ･ﾃﾞｨｰﾑ入手
+
+Kingdom of towers, chroniclers
+塔の王国年代記入手
+
+The legend of holm
+ホルムの伝説入手
+
+River daughter obtained
+川の娘入手
+
+Obtain the illusionist of infinite palace
+無限宮の幻視者入手
+
+The fear of the great prophecy
+大予言の恐怖入手
+
+Obtain the emperor's handwriting
+皇帝の手記入手
+
+Obtaining "world famous sword"
+『世界の名剣』入手
+
+Okawa kyoten chobai
+大河教典入手
+
+History acquisition
+歴史入手
+
+Map of the world
+世界地図入手
+
+It's in the alkea chronicle.
+アルケア年代記上入手
+
+The chronicle of alkea
+アルケア年代記下入手
+
+Treasure memo 1.
+宝メモ1入手
+
+Treasure memo 2!
+宝メモ2入手
+
+Treasure memo 3!
+宝メモ3入手
+
+Treasure memo 4.
+宝メモ4入手
+
+Treasure memo 5.
+宝メモ5入手
+
+Get the dwarves' notes.
+小人族のメモ入手
+
+Obtain the notes of the temple
+寺院のメモ入手
+
+Get a note of the fairies
+妖精族のメモ入手
+
+Good!
+よいこの神話系表示
+
+Good, get this myth one.
+よいこの神話1入手
+
+Good get this myth 2
+よいこの神話2入手
+
+Good get this myth three
+よいこの神話3入手
+
+Get this myth.
+よいこの神話4入手
+
+I heard the princess.
+皇女の話聞いた
+
+I saw about the illithion.
+ｲﾘｼｵﾝについて　見た
+
+I heard about the fairy king.
+妖精王の話聞いた
+
+The book of the emperor
+皇帝の手記入手ボツ
+
+1. Obtain turnip moss
+1カブラ苔入手
+
+Obtain one kurka leaf
+1クルカの葉入手
+
+1 green light mold.
+1緑光黴入手
+
+2. Obtain the torquita flower
+2トルキタの花入手
+
+2. Obtain a mushroom.
+2ムシクサダケ入手
+
+Get three acerus leaves.
+3アセラスの葉入手
+
+Get the venom.
+3毒腺入手
+
+Three lizard feces.
+3トカゲの糞入手
+
+4 dragon's blood
+4竜の血入手
+
+4 burning feather.
+4燃える羽根入手
+
+Five sacred bones.
+5聖なる骨入手
+
+Get one oil
+1油入手
+
+1 iron acquisition
+1鉄入手
+
+1. Obtain wood
+1木材入手
+
+Obtain one cloth
+1布地入手
+
+Obtain two silver
+2銀入手
+
+2 get animal skin
+2獣皮入手
+
+3 good iron acquisition
+3上等な鉄入手
+
+3 jewels.
+3宝石入手
+
+3. Get the blessing cloth
+3祝福布入手
+
+Four gold.
+4金入手
+
+Get four mithrills.
+4ミスリル入手
+
+4 obtaining holy trees
+4聖木入手
+
+5 dragon steel.
+5竜鋼入手
+
+Five rusty weapons.
+5錆びた武器入手
+
+Get the rusted armor.
+5錆びた防具入手
+
+Get the white fur.
+白い毛皮入手
+
+Obtain of hakyo monogatari (tales of abandoned cities)
+廃都物語系入手
+
+Obtain the tale of the abandoned capital
+廃都物語1入手
+
+The tale of the abandoned capital
+廃都物語2入手
+
+Obtain the tale of the abandoned capital
+廃都物語3入手
+
+The tale of the abandoned capital
+廃都物語4入手
+
+Obtain the tale of the abandoned capital
+廃都物語5入手
+
+Additional event 1 Wolf clear
+追加ｲﾍﾞﾝﾄ1狼クリア
+
+I saw random map help.
+乱数マップヘルプ見た
+
+I saw the summoning help.
+召喚ヘルプ見た
+
+I saw the gear help.
+武具装備ヘルプ見た
+
+I saw skill item help.
+ｽｷﾙｱｲﾃﾑヘルプ見た
+
+Hint function
+ヒント機能
+
+I saw a good end.
+グッドエンド見た
+
+Warrior scenario clear
+戦士シナリオクリア
+
+Thief scenario clear
+盗賊シナリオクリア
+
+Scenario clear!
+魔術師シナリオクリア
+
+Shinkan scenario clear.
+神官シナリオクリア
+
+Inscription 01 seen waterfall triangular pyramid
+碑文01見た滝三角錐
+
+The raccoon dog seen on inscription 02
+碑文02見たタヌキ
+
+Inscription 03 saw palace 03 attached
+碑文03見た宮殿03付属
+
+The palace seen the inscription 04 09 stone demon
+碑文04見た宮殿09石魔
+
+See inscription 05 palace 06 hall
+碑文05見た宮殿06広間
+
+Emblem 06 saw palace 15 eunuchs
+碑文06見た宮殿15宦官
+
+Ingram 07, I saw genshitsu 04
+碑文07見た玄室04
+
+Inscriptions 08, seen burial chamber 16.
+碑文08見た玄室16
+
+I saw the 09 inscription.
+碑文09見た
+
+I saw ten inscriptions.
+碑文10見た
+
+Hero heraldry shield.
+英雄の紋章盾入手
+
+Get the taleria cat god!
+猫神のﾀﾚｰﾘｱ入手
+
+Get the arkfia seal.
+ｱｰｸﾌｨｱの聖印入手
+
+Obtain the stone of myrdra
+ミルドラの石入手
+
+Obtain the magic armor
+魔甲冑入手
+
+Get a mental gun.
+精神銃入手
+
+Get the kyug's holy sword.
+キューグの聖剣入手
+
+muramasa
+村正入手
+
+Nerdene the magic. I heard you.
+魔術ﾈﾙﾃﾞﾈ話聞いた
+
+I heard the story.
+魔術ｼｼﾞﾃﾞﾈ話聞いた
+
+I put the magic medal.
+魔術メダル置いた
+
+Book of wisdom 1.
+知恵の書1入手
+
+Book of wisdom 2
+知恵の書2入手
+
+Stars open the gates to the astral world.
+星幽界への門開く
+
+Sisyphus, I'm gonna save you.
+ｼｼﾞﾌｫｽ命助ける
+
+I saw a smoke stone.
+煙石イベ見た
+
+Deneros in the ruins.
+廃墟デネロス会った
+
+Star 02404 op
+星界02-04ｵﾌﾟ
+
+Planet one clear.
+星界01ｸﾘｱ
+
+Planet 02 clear.
+星界02ｸﾘｱ
+
+Planet 03 clear.
+星界03ｸﾘｱ
+
+Planet 04 clear.
+星界04ｸﾘｱ
+
+Planet 05 op
+星界05ｵﾌﾟ
+
+Planet five clear.
+星界05ｸﾘｱ
+
+Planet 06 op
+星界06ｵﾌﾟ
+
+Planet six clear.
+星界06ｸﾘｱ
+
+Planet 07 op
+星界07ｵﾌﾟ
+
+Planet 07, clear.
+星界07ｸﾘｱ
+
+Planet 08 op
+星界08ｵﾌﾟ
+
+Planet 08 clear.
+星界08ｸﾘｱ
+
+Planet 09 op
+星界09ｵﾌﾟ
+
+Planet 09 clear.
+星界09ｸﾘｱ
+
+Planet 10 op
+星界10ｵﾌﾟ
+
+Planet ten clear.
+星界10ｸﾘｱ
+
+I saved the aliens.
+異星人助けた
+
+Shinkan event!
+神官イベント中
+
+I got a letter from Lord melo.
+神官ﾒﾛから手紙来た
+
+Snark, I remember.
+スナーク思い出す
+
+Merodirk, rescued.
+メロダーク救出
+
+The priest is dead.
+神官ｲﾍﾞ終ﾒﾛ一時ボツ
+
+The priest is the enemy.
+神官イベ敵正体表す
+
+Forgetting 01.
+忘却01小舟釣った
+
+Forgetop 02 open
+忘却02ｵｰﾌﾟﾝ
+
+Forgetting 02 clear
+忘却02ｸﾘｱ
+
+Forgetop 03 open
+忘却03ｵｰﾌﾟﾝ
+
+Forgetting 03 clear
+忘却03ｸﾘｱ
+
+Forgetful 04 open
+忘却04ｵｰﾌﾟﾝ
+
+Forgetting 04 clear
+忘却04ｸﾘｱ
+
+Moblivion 05 open
+忘却05ｵｰﾌﾟﾝ
+
+Forgetting 05 clear
+忘却05ｸﾘｱ
+
+Forgetting 06 open
+忘却06ｵｰﾌﾟﾝ
+
+Forgetting 061, clear2 open.
+忘却06-1ｸﾘｱ-2ｵｰﾌﾟﾝ
+
+Forgetting 06 clear
+忘却06ｸﾘｱ
+
+Mokyoku 07 open
+忘却07ｵｰﾌﾟﾝ
+
+Forgetting 07.1 clear2 open.
+忘却07-1ｸﾘｱ-2ｵｰﾌﾟﾝ
+
+Forgetop 08 open
+忘却08ｵｰﾌﾟﾝ
+
+Forgetting 08 clear
+忘却08ｸﾘｱ
+
+Moblivion 09 open
+忘却09ｵｰﾌﾟﾝ
+
+Forgetting 09 clear
+忘却09ｸﾘｱ
+
+Forgetting 10 open
+忘却10ｵｰﾌﾟﾝ
+
+Forgetting 10 clear
+忘却10ｸﾘｱ
+
+The main character is an assassin.
+盗賊ｲﾍﾞ主役が暗殺
+
+Start regaining the town!
+盗ﾙｰﾄ町奪還開始引渡
+
+The stealing route event begins!
+盗ﾙｰﾄｲﾍﾞﾝﾄ開始引渡
+
+During the bandit event
+盗賊イベント中
+
+Infiltrate and confirm the route
+潜入上ルート確定ﾃｵﾙ
+
+Undercover, root alert.
+潜入下ルート確定警報
+
+Final infiltration.
+潜入終盤ボツ
+
+We've infiltrated the castle.
+潜入城内に入った
+
+We're in the cave.
+潜入洞窟内に入った
+
+I used my infiltration recovery point.
+潜入回復ﾎﾟｲﾝﾄ使った
+
+Infiltration 02 07 open 01 clear
+潜入02-07ｵｰﾌﾟﾝ01ｸﾘｱ
+
+Defeat the enemy
+潜入03敵倒す
+
+Infiltrate 04.
+潜入04敵倒す
+
+Infiltration 04, open.
+潜入04開錠
+
+Infiltration 05 clear.
+潜入05ｸﾘｱ
+
+Infiltrate 08 open.
+潜入08ｵｰﾌﾟﾝ
+
+Infiltrate 08 clear.
+潜入08ｸﾘｱ
+
+Infiltrate 09 open.
+潜入09ｵｰﾌﾟﾝ
+
+Infiltrate ten, open.
+潜入10ｵｰﾌﾟﾝ
+
+Infiltrate ten, clear.
+潜入10ｸﾘｱ
+
+Infiltration 11, open.
+潜入11ｵｰﾌﾟﾝ
+
+Infiltration 11, open.
+潜入11開錠
+
+Infiltration 12, open.
+潜入12ｵｰﾌﾟﾝ
+
+Infiltrate 13.14 open 12 clear
+潜入13.14ｵｰﾌﾟﾝ12ｸﾘｱ
+
+Infiltration 13, clear.
+潜入13ｸﾘｱ
+
+Infiltration 14, clear stairway, broken.
+潜入14ｸﾘｱ階段壊れる
+
+Sneak 13.
+潜入13付属食品入手
+
+Infiltrate 15, open.
+潜入15ｵｰﾌﾟﾝ
+
+Infiltrate 16, open 15, clear.
+潜入16ｵｰﾌﾟﾝ15ｸﾘｱ
+
+Infiltration 15, open the door.
+潜入15扉開錠
+
+Infiltrate 17, open.
+潜入17ｵｰﾌﾟﾝ
+
+Infiltrate 17, clear.
+潜入17ｸﾘｱ
+
+Infiltration 18 open.
+潜入18ｵｰﾌﾟﾝ
+
+Infiltration 18, clear crystal.
+潜入18ｸﾘｱ水晶発生
+
+Infiltration 19 open.
+潜入19ｵｰﾌﾟﾝ
+
+Infiltration 19, clear.
+潜入19ｸﾘｱ
+
+Listen to Fran's explanation.
+潜入フランの説明聞き
+
+Infiltrate lavanuryu battle
+潜入ﾗﾊﾞﾝｳﾘｭｳ戦
+
+Infiltration Nell, clear.
+潜入ネル離脱
+
+Enda, we're out.
+潜入エンダ離脱
+
+Chuna is dead.
+チュナ死亡
+
+Chun na, I helped you directly.
+チュナ直接助けた
+
+I like it!
+好感度判定ﾁｭﾅ常に含
+
+Genshitsu 16 emperor 02 clear.
+玄室16皇帝02ｸﾘｱ
+
+Genshitsu 15, emperor 03 clear.
+玄室15皇帝03ｸﾘｱ
+
+Emperor 04 clear.
+玄室14皇帝04ｸﾘｱ
+
+Genshitsu 13 emperor 05 clear
+玄室13皇帝05ｸﾘｱ
+
+Basalt 12 emperor 06 clear
+玄室12皇帝06ｸﾘｱ
+
+Genshitsu 11 emperor 07 clear
+玄室11皇帝07ｸﾘｱ
+
+Genshitsu 08 emperor 8.9 clear
+玄室08皇帝8.9ｸﾘｱ
+
+Basalt chamber 10. emperor 10. clear.
+玄室10皇帝10ｸﾘｱ
+
+Genshitsu 07 emperor 11 clear
+玄室07皇帝11ｸﾘｱ
+
+Genshitsu 06 emperor 12 clear
+玄室06皇帝12ｸﾘｱ
+
+Genshitsu 05 emperor 13 clear
+玄室05皇帝13ｸﾘｱ
+
+Genshitsu 04 emperor 14 clear
+玄室04皇帝14ｸﾘｱ
+
+Genshitsu 02 emperor 15 clear
+玄室02皇帝15ｸﾘｱ
+
+Ed2 lavan, leave.
+ED2ラバン去る
+
+Ed2 kireha.
+ED2キレハ去る
+
+Ed2 siphon, leave.
+ED2シーフォン去る
+
+Ed2 alson, leave.
+ED2アルソン去る
+
+Ed2, enda, leave.
+ED2エンダ去る
+
+Ed2 merodark, leave.
+ED2メロダーク去る
+
+Leave ED2 town
+ED2町を去る
+
+Ed2 adventure land
+ED2冒険ﾗﾝﾄﾞ職人弟子
+
+Land sea phone
+ED2冒険ﾗﾝﾄﾞｼｰﾌｫﾝ
+
+Ed2 adventure land tele
+ED2冒険ﾗﾝﾄﾞﾃﾚ
+
+I'm feeding my dog.
+わんこに食料与え中
+
+Kireha wanko
+キレハわんこ
+
+Good end?
+グッドエンド？
+
+Run 01 open.
+ラン01オープン
+
+Run 02 open.
+ラン02オープン
+
+Run three three open.
+ラン03オープン
+
+Run 04 open.
+ラン04オープン
+
+Run 05 open
+ラン05オープン
+
+Run 06 open.
+ラン06オープン
+
+Run 07 open.
+ラン07オープン
+
+Run 08 open.
+ラン08オープン
+
+Run 09 open.
+ラン09オープン
+
+Run ten open.
+ラン10オープン
+
+Run 01 clear.
+ラン01クリア
+
+Run 02, clear.
+ラン02クリア
+
+Run 03, clear.
+ラン03クリア
+
+Run 04 clear.
+ラン04クリア
+
+Run 05, clear.
+ラン05クリア
+
+Run 06, clear.
+ラン06クリア
+
+Run 07, clear.
+ラン07クリア
+
+Run 08, clear.
+ラン08クリア
+
+Run 09 clear.
+ラン09クリア
+
+Run ten, clear.
+ラン10クリア
+
+Random map.
+ランダムマップ中
+
+Random number map
+乱数ﾏｯﾌﾟ敵確実遭遇
+
+Random map room cleared.
+乱数ﾏｯﾌﾟ部屋ｸﾘｱ成功
+
+Random number map from the field?
+乱数マップ野外から？
+
+Random number map room?
+乱数マップ室内？
+
+Random number map
+乱数ﾏｯﾌﾟ夜種王倒した
+
+Random number map
+乱数ﾏｯﾌﾟ夜種王倒ボツ
+
+Additional events bug
+追加イベントデバグ
+
