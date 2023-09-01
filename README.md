@@ -91,7 +91,7 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - [x] 140 
 
-- [ ] 143 - 152 
+- [x] 143 - 152 
 
 - [ ] 154 - 161 
 
