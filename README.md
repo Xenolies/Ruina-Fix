@@ -87,7 +87,7 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - [x] 88 - 98 
 
-- [ ] 101 - 135 
+- [x] 101 - 135 
 
 - [x] 140 
 
@@ -183,7 +183,7 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - [ ] 179 
 
-### 使用的变量修复
+### 使用的变量替换
 
 - [x] 1- 20 
 - [x] 21 - 40
