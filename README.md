@@ -15,8 +15,6 @@
 
 详情可以看 脚本
 
-
-
 日文 Wiki 参考:[ その他のアイテム - Ruina 廃都の物語 @ ウィキ - atwiki（アットウィキ）](https://w.atwiki.jp/ruinakokuryaku/pages/88.html)
 
 感谢老哥的日语文件名修复脚本 : https://github.com/westernoon/Fix-garbled-Japanese-file-name-and-garbled-txt-text-content
@@ -81,17 +79,17 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - [x] 49 - 56 
 
-- [ ] 59 - 68
+- [x] 59 - 68
 
-- [ ] 71 - 83
+- [x] 71 - 83
 
-- [ ] 85
+- [x] 85
 
-- [ ] 88 - 98 
+- [x] 88 - 98 
 
 - [ ] 101 - 135 
 
-- [ ] 140 
+- [x] 140 
 
 - [ ] 143 - 152 
 
