@@ -187,6 +187,12 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - Select Fase Graphic
   
+  - [ ] 28 仲间的对话
+  
+  - [ ] 29
+  
+  - [ ] 41 - 47
+  
   - [ ] 138 - 
   
   - [ ] 139
@@ -212,6 +218,38 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
   - [x] 25
   
   - [ ] 26 
+
+- Play SE 
+  
+  - [ ] 6
+  
+  - [ ] 18
+  
+  - [ ] 19
+  
+  - [ ] 35
+  
+  - [ ] 39
+  
+  - [ ] 40
+
+- Play BGM
+  
+  - [ ] 10
+  
+  - [ ] 11
+  
+  - [ ] 13
+  
+  - [ ] 35
+
+- Change System SE
+  
+  - [ ] 36
+
+- Change System Graphic
+  
+  - [ ] 36
 
 ### 使用的变量替换
 
