@@ -109,7 +109,7 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - [x] 210 - 211
 
-- [ ] 213 - 243
+- [x] 213 - 243
 
 - [x] 245 - 246 
 
@@ -183,8 +183,6 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - [ ] 179 
 
-
-
 ### 需要修复的事件
 
 - Select Fase Graphic
@@ -211,7 +209,7 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - Chage Hero`s Walk Graphic
   
-  - [x]  25
+  - [x] 25
   
   - [ ] 26 
 
