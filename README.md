@@ -191,7 +191,7 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - [ ] 29 ★ｱｲﾃﾑ等ﾃﾞｰﾀ整理確認
 
-- [ ] 36 ★シス設定ＢＧＭ戻す
+- [x] 36 ★シス設定ＢＧＭ戻す
 
 - [ ] 89 ★選択肢効果音
 
@@ -211,9 +211,9 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - [ ] 24 ◇全キャラスキル調査
 
-- [ ] 27 ◇全スキル調査簡易版
+- [x] 27 ◇全スキル調査簡易版
 
-- [ ] 30 ◇全キャラ能力調査
+- [x] 30 ◇全キャラ能力調査
 
 - [ ] 31 ◇全ｷｬﾗ能力表HPのみ
 
@@ -241,7 +241,7 @@ RPGRewriter 是一个国外老哥整的工具,地址 [So You Want To Translate a
 
 - Select Fase Graphic
   
-  - [ ] 28 仲间的对话
+  - [x] 28 仲间的对话
   
   - [ ] 29
   
