@@ -1,0 +1,503 @@
+Striking AD
+打撃Ａd
+
+Sword AD
+剣Ａd
+
+Yari AD
+槍Ａd
+
+Axe Ab
+斧Ａb
+
+Bow Ab
+弓Ａb
+
+Nail Ab
+爪Ａb
+
+Whip Ab
+鞭Ａb
+
+Nothing --
+無し----------------
+
+Bless of fire
+火炎のブレス
+
+Fubuki no bresse
+吹雪のブレス
+
+Poison breath
+毒のブレス
+
+Breath of sleep
+眠りのブレス
+
+Pollen A
+花粉Ａ
+
+Ultrasonic A
+超音波Ａ
+
+Fog A
+霧Ａ
+
+Song of silence
+沈黙の歌
+
+lullaby
+子守り歌
+
+Song of temptation
+誘惑の歌
+
+sandstorm
+砂けむり
+
+Bright light
+まぶしい光
+
+wind-up
+巻き付き
+
+vampire
+吸血
+
+Eerie dance
+不気味なダンス
+
+Paralympic staring
+麻痺にらみ
+
+ramming
+体当たり
+
+ashibarai
+足払い
+
+otakebi
+おたけび
+
+--------------------
+--------------------
+
+Recovery magic A
+回復魔法Ａ
+
+Status cure magic A
+状態治療魔法Ａ
+
+Resuscitation magic A
+蘇生魔法Ａ
+--------------------
+Squeezing magic
+気絶魔法
+
+Poison magic
+毒魔法
+
+Dark magic
+暗闇魔法
+
+Silence magic
+沈黙魔法
+
+Runaway magic
+暴走魔法
+
+Confusion magic
+混乱魔法
+
+Sleep magic
+睡眠魔法
+
+Paralysis magic
+麻痺魔法
+
+--------------------
+
+Attack power up!
+攻撃力アップ
+
+Attack power down!
+攻撃力ダウン
+
+Defense up.
+防御力アップ
+
+Defense is down.
+防御力ダウン
+
+Mental strength up
+精神力アップ
+
+Mental breakdown.
+精神力ダウン
+
+Increase agility.
+敏捷性アップ
+
+Dynamic down.
+敏捷性ダウン
+
+Heat barrier
+ヒートバリア
+
+Cold barrier
+コールドバリア
+
+Absorption magic A
+吸収魔法Ａ
+
+Fire magic?
+炎魔法?
+
+Single A
+単Ａ
+
+Fire magic?
+炎魔法?
+
+All A
+全Ａ
+
+Cold air magic?
+冷気魔法?
+
+Single A
+単Ａ
+
+Cold air magic?
+冷気魔法?
+
+All A
+全Ａ
+
+Lightning magic?
+雷魔法?
+
+Single A
+単Ａ
+
+Lightning magic?
+雷魔法?
+
+All A
+全Ａ
+
+Water demon act?
+水魔法?
+
+Single A
+単Ａ
+
+Water demon act?
+水魔法?
+
+All A
+全Ａ
+
+Earth magic?
+大地魔法?
+
+Single A
+単Ａ
+
+Earth magic?
+大地魔法?
+
+All A
+全Ａ
+
+Wind magic?
+風魔法?
+
+Single A
+単Ａ
+
+Wind magic?
+風魔法?
+
+All A
+全Ａ
+
+Holy magic?
+神聖魔法?
+
+Single A
+単Ａ
+
+Holy magic?
+神聖魔法?
+
+All A
+全Ａ
+
+Dark magic?
+暗黒魔法?
+
+Single A
+単Ａ
+
+Dark magic?
+暗黒魔法?
+
+All A
+全Ａ
+
+Attributes magic?
+無属性魔法?
+
+Single A
+単Ａ
+
+Attributes magic?
+無属性魔法?
+
+All A
+全Ａ
+
+--------------------
+--------------------
+
+oil
+油
+
+rapier
+レイピア
+
+Dark magic?
+暗黒魔法?
+
+Single A
+単Ａ
+
+Demon gate
+魔界門
+
+Earth magic?
+大地魔法?
+
+Single B
+単Ｂ
+
+Three rapier.
+３回レイピア
+
+Twice.
+２回斬り
+
+Three times.
+３回斬り
+
+meteo
+メテオ
+
+Earth spear
+地の槍
+
+disturbance
+攪乱
+
+mire
+泥沼
+
+blinking
+目つぶし
+
+Wire trap
+ワイヤートラップ
+
+Flaming arrows
+火矢
+
+Two stab.
+２回突き
+
+Cross crossing
+横切り
+
+iai
+居合い
+
+shuriken
+手裏剣
+
+Knife throwing
+ナイフ投げ
+
+dagger
+短剣
+
+Strong strike
+強打撃
+
+Kyu rensha (continuous shooting)
+弓連射
+
+Yumidare uchi
+弓乱れ撃ち
+
+Sailor and slash
+左右斬り
+
+Ice lance
+氷の槍
+
+St. rain
+聖雨
+
+Spear university
+槍大
+
+Four blades or
+刺突
+
+Two thrusts.
+刺突２回
+
+Three thrusts.
+刺突３回
+
+Pitt.
+ピット
+
+Continuous strike
+連続打撃
+
+Shooting star
+シューティングスター
+
+chikuwa
+ちくわ
+
+Naming technique
+名づけの術
+
+Bareumasan, botsu.
+あばれウマさんボツ
+
+Fragments of illyion
+イリシオンのかけら
+
+nanairo
+七色怪光線
+
+Ray gun
+光線銃
+
+deluge
+大洪水
+
+taihi
+大秘儀
+
+Super strike
+超打撃
+
+Blade 1
+刃1
+
+Iai 2
+居合い2
+
+Yin and Yang killing
+陰陽殺
+
+Continuous move 2
+連続技2
+
+kokuzan
+虚空斬
+
+Koku zan 2
+虚空斬2
+
+Meteor sword
+流星剣
+
+Yumigaza 1
+弓技1
+
+Arrow fire 2
+弓連射2
+
+劫火
+劫火
+
+Holy sword
+聖剣
+
+Makaimon 2
+魔界門2
+
+Lunar phase flash
+月相閃
+
+raigiri
+雷斬り
+
+flaming
+炎斬り
+
+hyorotsuki
+氷突き
+
+Strong thrust
+強突き
+
+shitatsuki
+下突き
+
+Strong split
+強両断
+
+transverse
+横貫通
+
+Golden king sword
+金色王剣
+
+sword
+魔剣
+
+Blood slayer
+血斬り
+
+baratsuki
+薔薇突き
+
+Chain whip
+鎖鞭
+
+Chain 3
+鎖3
+
+Labyrinth barrier
+迷宮結界
+
+Twelve directions
+十二方位
+
+Frost temple
+凍土神殿
+
+Bless of light
+光のブレス
+
+true
+真?
+
+Yatane o 1
+夜種王1
+
+kaeru
+かえる
+
+Blood of chaos
+混沌の血脈
+
+Rusbos chant
+ラスボス詠唱
+
