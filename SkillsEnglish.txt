@@ -153,109 +153,109 @@ Absorption magic A
 Fire magic?
 炎魔法?
 
-Single A
+Single A c
 単Ａ
 
 Fire magic?
 炎魔法?
 
-All A
+All A c
 全Ａ
 
 Cold air magic?
 冷気魔法?
 
-Single A
+Single A c
 単Ａ
 
 Cold air magic?
 冷気魔法?
 
-All A
+All A c
 全Ａ
 
 Lightning magic?
 雷魔法?
 
-Single A
+Single A c
 単Ａ
 
 Lightning magic?
 雷魔法?
 
-All A
+All A c
 全Ａ
 
 Water demon act?
 水魔法?
 
-Single A
+Single A c
 単Ａ
 
 Water demon act?
 水魔法?
 
-All A
+All A c
 全Ａ
 
 Earth magic?
 大地魔法?
 
-Single A
+Single A c
 単Ａ
 
 Earth magic?
 大地魔法?
 
-All A
+All A c
 全Ａ
 
 Wind magic?
 風魔法?
 
-Single A
+Single A c
 単Ａ
 
 Wind magic?
 風魔法?
 
-All A
+All A c
 全Ａ
 
 Holy magic?
 神聖魔法?
 
-Single A
+Single A c
 単Ａ
 
 Holy magic?
 神聖魔法?
 
-All A
+All A c
 全Ａ
 
 Dark magic?
 暗黒魔法?
 
-Single A
+Single A c
 単Ａ
 
 Dark magic?
 暗黒魔法?
 
-All A
+All A c
 全Ａ
 
 Attributes magic?
 無属性魔法?
 
-Single A
+Single A c
 単Ａ
 
 Attributes magic?
 無属性魔法?
 
-All A
+All A c
 全Ａ
 
 --------------------
